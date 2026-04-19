@@ -1,0 +1,8 @@
+metric,value
+rows_total,1
+matched_province,1
+matched_municipality,1
+fuzzy_matches,0
+unmatched_municipality,0
+province_match_rate,1.0
+municipality_match_rate,1.0

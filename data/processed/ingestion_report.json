@@ -1,0 +1,17 @@
+{
+  "source_path": "data/raw/one/one_division_territorial.template.csv",
+  "source_type": ".csv",
+  "sheet_selected": null,
+  "sheet_profiles": [],
+  "columns_original": [
+    "provincia",
+    "municipio"
+  ],
+  "columns_mapped": {
+    "provincia": "province_name",
+    "municipio": "municipality_name"
+  },
+  "rows_input": 4,
+  "rows_used_unique_pairs": 4,
+  "rows_matched_municipality": 1
+}

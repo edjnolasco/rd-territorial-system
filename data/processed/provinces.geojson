@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distrito Nacional",
+        "id": "RD-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.98,
+              18.52
+            ],
+            [
+              -69.88,
+              18.52
+            ],
+            [
+              -69.88,
+              18.42
+            ],
+            [
+              -69.98,
+              18.42
+            ],
+            [
+              -69.98,
+              18.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Domingo",
+        "id": "RD-32"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.1,
+              18.6
+            ],
+            [
+              -69.7,
+              18.6
+            ],
+            [
+              -69.7,
+              18.25
+            ],
+            [
+              -70.1,
+              18.25
+            ],
+            [
+              -70.1,
+              18.6
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

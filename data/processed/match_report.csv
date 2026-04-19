@@ -1,0 +1,2 @@
+entity_type,province_name,municipality_name,matched,match_type,match_score
+municipality,Distrito Nacional,Santo Domingo de Guzmán,True,direct,100

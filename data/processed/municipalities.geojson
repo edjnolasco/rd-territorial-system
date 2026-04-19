@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santo Domingo de Guzmán",
+        "id": "RD-01-01",
+        "province_name": "Distrito Nacional"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.97,
+              18.51
+            ],
+            [
+              -69.89,
+              18.51
+            ],
+            [
+              -69.89,
+              18.43
+            ],
+            [
+              -69.97,
+              18.43
+            ],
+            [
+              -69.97,
+              18.51
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

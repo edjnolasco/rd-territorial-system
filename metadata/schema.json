@@ -1,0 +1,10 @@
+{
+  "title": "Territorial Entity",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "level",
+    "type_unit"
+  ]
+}
