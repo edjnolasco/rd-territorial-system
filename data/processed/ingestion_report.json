@@ -11,7 +11,10 @@
     "provincia": "province_name",
     "municipio": "municipality_name"
   },
-  "rows_input": 4,
-  "rows_used_unique_pairs": 4,
-  "rows_matched_municipality": 1
+  "rows_input": 3,
+  "rows_used_unique_pairs": 3,
+  "rows_matched_municipality": 1,
+  "rows_unmatched_municipality": 0,
+  "rows_low_confidence": 0,
+  "override_count": 0
 }

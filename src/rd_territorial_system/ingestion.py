@@ -13,12 +13,6 @@ from .normalization import normalize_text
 COLUMN_CANDIDATES = {
     "province_name": ["province_name", "provincia", "nombre_provincia", "prov_name"],
     "municipality_name": ["municipality_name", "municipio", "nombre_municipio", "mun_name"],
-    "district_municipal_name": [
-        "district_municipal_name",
-        "distrito_municipal",
-        "nombre_distrito_municipal",
-        "dm_name",
-    ],
 }
 
 
@@ -75,10 +69,10 @@ def profile_excel_sheets(path: Path) -> list[dict[str, Any]]:
 def select_best_excel_sheet(path: Path) -> str:
     profiles = profile_excel_sheets(path)
     best = None
-    best_score = -1
+    best_score = -1.0
 
     for profile in profiles:
-        score = 0
+        score = 0.0
         if profile["has_province_name"]:
             score += 10
         if profile["has_municipality_name"]:
@@ -90,7 +84,6 @@ def select_best_excel_sheet(path: Path) -> str:
 
     if best is None:
         raise ValueError(f"No fue posible seleccionar una hoja utilizable en {path}")
-
     return best["sheet_name"]
 
 
@@ -130,12 +123,3 @@ def load_one_hierarchy_auto(path: Path | None = None, sheet_name: str | None = N
         raise ValueError(f"Faltan columnas obligatorias en archivo ONE: {sorted(missing)}")
 
     return df, report
-
-
-def load_one_district_csv(path: Path) -> pd.DataFrame:
-    df, _ = load_one_table(path)
-    required = {"province_name", "municipality_name", "district_municipal_name"}
-    missing = required - set(df.columns)
-    if missing:
-        raise ValueError(f"Faltan columnas obligatorias en ONE district CSV/XLSX: {sorted(missing)}")
-    return df

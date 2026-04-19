@@ -5,23 +5,19 @@ import pandas as pd
 
 from .config import (
     COVERAGE_REPORT_OUTPUT,
-    DISTRICT_MUNICIPALS_OUTPUT,
     GADM_ADM1_ZIP,
     GADM_ADM2_ZIP,
     INGESTION_REPORT_OUTPUT,
+    LOW_CONFIDENCE_OUTPUT,
     MASTER_OUTPUT,
     MATCH_REPORT_OUTPUT,
     MUNICIPALITIES_OUTPUT,
-    ONE_DISTRICT_RAW_CSV,
     PROVINCES_OUTPUT,
+    UNMATCHED_MUNICIPALITIES_OUTPUT,
 )
-from .ingestion import load_geojson_from_zip, load_one_district_csv, load_one_hierarchy_auto
-from .normalization import (
-    canonical_district_municipal,
-    canonical_municipality,
-    canonical_province,
-    match_score,
-)
+from .ingestion import load_geojson_from_zip, load_one_hierarchy_auto
+from .normalization import canonical_municipality, canonical_province, match_score
+from .reconciliation import load_municipality_overrides
 from .reporting import build_coverage_report
 
 
@@ -51,8 +47,18 @@ def _build_municipality_lookup(features: list[dict]) -> dict[tuple[str, str], di
     return lookup
 
 
-def _best_municipality_match(province_key: str, municipality_name: str, municipality_lookup: dict[tuple[str, str], dict]):
+def _best_municipality_match(
+    province_key: str,
+    municipality_name: str,
+    municipality_lookup: dict[tuple[str, str], dict],
+    overrides: dict[tuple[str, str], str],
+):
     direct_key = (province_key, canonical_municipality(municipality_name))
+    if direct_key in overrides:
+        override_key = (province_key, overrides[direct_key])
+        if override_key in municipality_lookup:
+            return municipality_lookup[override_key], "override", 100
+
     if direct_key in municipality_lookup:
         return municipality_lookup[direct_key], "direct", 100
 
@@ -72,10 +78,11 @@ def _best_municipality_match(province_key: str, municipality_name: str, municipa
     return feature, "fuzzy", score
 
 
-def build_from_one_gadm(sheet_name: str | None = None) -> dict[str, int]:
+def build_from_one_gadm(sheet_name: str | None = None, low_confidence_threshold: int = 85) -> dict[str, int]:
     one_df, ingestion_report = load_one_hierarchy_auto(sheet_name=sheet_name)
     gadm_adm1 = load_geojson_from_zip(GADM_ADM1_ZIP)
     gadm_adm2 = load_geojson_from_zip(GADM_ADM2_ZIP)
+    overrides = load_municipality_overrides()
 
     province_lookup = _build_province_lookup(gadm_adm1["features"])
     municipality_lookup = _build_municipality_lookup(gadm_adm2["features"])
@@ -102,7 +109,7 @@ def build_from_one_gadm(sheet_name: str | None = None) -> dict[str, int]:
         pkey = canonical_province(province_name)
         province_feature = province_lookup.get(pkey)
         municipality_feature, match_type, score = _best_municipality_match(
-            pkey, municipality_name, municipality_lookup
+            pkey, municipality_name, municipality_lookup, overrides
         )
 
         if province_feature is not None and pkey not in used_provinces:
@@ -186,33 +193,33 @@ def build_from_one_gadm(sheet_name: str | None = None) -> dict[str, int]:
     )
 
     master_df = pd.DataFrame(master_rows)
+    match_df = pd.DataFrame(report_rows)
     master_df.to_csv(MASTER_OUTPUT, index=False)
-    pd.DataFrame(report_rows).to_csv(MATCH_REPORT_OUTPUT, index=False)
+    match_df.to_csv(MATCH_REPORT_OUTPUT, index=False)
     build_coverage_report(master_df).to_csv(COVERAGE_REPORT_OUTPUT, index=False)
+
+    unmatched = master_df[master_df["matched_municipality"] == False].copy()
+    low_confidence = master_df[
+        (master_df["matched_municipality"] == True)
+        & (master_df["match_score"] < low_confidence_threshold)
+        & (master_df["match_type"] != "override")
+    ].copy()
+
+    unmatched.to_csv(UNMATCHED_MUNICIPALITIES_OUTPUT, index=False)
+    low_confidence.to_csv(LOW_CONFIDENCE_OUTPUT, index=False)
 
     ingestion_report["rows_input"] = int(len(one_df))
     ingestion_report["rows_used_unique_pairs"] = int(len(one_pairs))
     ingestion_report["rows_matched_municipality"] = int(master_df["matched_municipality"].fillna(False).sum())
+    ingestion_report["rows_unmatched_municipality"] = int((master_df["matched_municipality"] == False).sum())
+    ingestion_report["rows_low_confidence"] = int(len(low_confidence))
+    ingestion_report["override_count"] = int((master_df["match_type"] == "override").sum())
     INGESTION_REPORT_OUTPUT.write_text(json.dumps(ingestion_report, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    district_rows = []
-    if ONE_DISTRICT_RAW_CSV.exists():
-        districts_df = load_one_district_csv(ONE_DISTRICT_RAW_CSV)
-        for _, row in districts_df.iterrows():
-            district_rows.append({
-                "province_name": str(row["province_name"]).strip(),
-                "municipality_name": str(row["municipality_name"]).strip(),
-                "district_municipal_name": str(row["district_municipal_name"]).strip(),
-                "province_key": canonical_province(row["province_name"]),
-                "municipality_key": canonical_municipality(row["municipality_name"]),
-                "district_key": canonical_district_municipal(row["district_municipal_name"]),
-            })
-        pd.DataFrame(district_rows).to_csv(DISTRICT_MUNICIPALS_OUTPUT, index=False)
 
     return {
         "provinces_output": len(provinces_out),
         "municipalities_output": len(municipalities_out),
         "master_rows": len(master_rows),
         "municipality_unmatched": int((master_df["matched_municipality"] == False).sum()),
-        "district_rows": len(district_rows),
+        "low_confidence_rows": int(len(low_confidence)),
     }
