@@ -8,16 +8,52 @@ version = "2.0.0"
 description = "Sistema territorial y geoespacial reutilizable para República Dominicana"
 readme = "README.md"
 requires-python = ">=3.10"
-authors = [{name = "Edwin José Nolasco"}]
+authors = [
+  { name = "Edwin José Nolasco" }
+]
+license = { text = "MIT" }
+keywords = [
+  "dominican republic",
+  "territorial system",
+  "geospatial",
+  "geojson",
+  "gis",
+  "dss",
+  "one",
+  "gadm"
+]
 dependencies = [
   "openpyxl>=3.1",
   "pandas>=2.0",
   "requests>=2.31",
   "shapely>=2.0"
 ]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: GIS",
+  "Topic :: Software Development :: Libraries :: Python Modules"
+]
+
+[project.urls]
+Homepage = "https://github.com/edjnolasco/rd-territorial-system"
+Repository = "https://github.com/edjnolasco/rd-territorial-system"
+Issues = "https://github.com/edjnolasco/rd-territorial-system/issues"
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.4",
+]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
+include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["src"]
