@@ -22,6 +22,8 @@ PROVINCE_ALIASES = {
     "el seybo": "el seibo",
     "elias pina": "elias pina",
     "elías piña": "elias pina",
+    "maria trinidad sanchez": "maria trinidad sanchez",
+    "maría trinidad sánchez": "maria trinidad sanchez",
     "monsenor nouel": "monsenor nouel",
     "monseñor nouel": "monsenor nouel",
     "samana": "samana",
@@ -36,18 +38,12 @@ PROVINCE_ALIASES = {
     "sánchez ramírez": "sanchez ramirez",
     "santiago rodriguez": "santiago rodriguez",
     "santiago rodríguez": "santiago rodriguez",
-    "maria trinidad sanchez": "maria trinidad sanchez",
-    "maría trinidad sánchez": "maria trinidad sanchez",
 }
 
 MUNICIPALITY_ALIASES = {
     "santo domingo de guzman": "santo domingo de guzman",
     "santo domingo de guzmán": "santo domingo de guzman",
     "sabana de la mar": "sabana de la mar",
-}
-
-DISTRICT_ALIASES = {
-    "la victoria": "la victoria",
 }
 
 
@@ -65,13 +61,6 @@ def canonical_municipality(name: Optional[str]) -> Optional[str]:
     return MUNICIPALITY_ALIASES.get(normalized, normalized)
 
 
-def canonical_district_municipal(name: Optional[str]) -> Optional[str]:
-    normalized = normalize_text(name)
-    if normalized is None:
-        return None
-    return DISTRICT_ALIASES.get(normalized, normalized)
-
-
 def match_score(left: Optional[str], right: Optional[str]) -> int:
     lnorm = normalize_text(left)
     rnorm = normalize_text(right)
@@ -80,10 +69,10 @@ def match_score(left: Optional[str], right: Optional[str]) -> int:
     if lnorm == rnorm:
         return 100
     if lnorm in rnorm or rnorm in lnorm:
-        return 80
+        return 85
     lset = set(lnorm.split())
     rset = set(rnorm.split())
     if lset and rset:
         overlap = len(lset & rset) / max(len(lset), len(rset))
-        return int(overlap * 60)
+        return int(overlap * 70)
     return 0

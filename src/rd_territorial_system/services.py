@@ -9,8 +9,10 @@ import pandas as pd
 from .config import (
     COVERAGE_REPORT_OUTPUT,
     INGESTION_REPORT_OUTPUT,
+    LOW_CONFIDENCE_OUTPUT,
     MATCH_REPORT_OUTPUT,
     PROCESSED_DATA_DIR,
+    UNMATCHED_MUNICIPALITIES_OUTPUT,
 )
 from .geometry import locate_point_in_features
 from .normalization import canonical_municipality, canonical_province
@@ -40,6 +42,14 @@ def load_coverage_report() -> pd.DataFrame:
 def load_ingestion_report() -> dict[str, Any]:
     with open(INGESTION_REPORT_OUTPUT, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def load_unmatched_municipalities() -> pd.DataFrame:
+    return pd.read_csv(UNMATCHED_MUNICIPALITIES_OUTPUT)
+
+
+def load_low_confidence_matches() -> pd.DataFrame:
+    return pd.read_csv(LOW_CONFIDENCE_OUTPUT)
 
 
 def get_province_names() -> list[str]:
