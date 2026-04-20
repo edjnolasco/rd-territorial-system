@@ -1,54 +1,76 @@
-from rd_territorial_system import (
-    find_province_by_name,
-    find_municipality_by_name,
-)
+from __future__ import annotations
 
-def resolve_real(text: str, strict: bool = False):
-    # 1. intentar municipio (más específico)
-    municipality = find_municipality_by_name(text)
+from typing import Any
 
-    if municipality:
-        props = municipality.get("properties", {})
+from rd_territorial_system import resolve_name
 
-        return {
-            "input": text,
-            "canonical_name": props.get("name"),
-            "entity_id": props.get("id"),
-            "entity_type": "municipality",
-            "confidence": 1.0,
-            "matched": True,
-            "match_strategy": "canonical",
-            "trace": ["matched municipality"]
-        }
 
-    # 2. intentar provincia
-    province = find_province_by_name(text)
+def _map_rules_version_to_catalog_version(rules_version: str | None) -> str | None:
+    """
+    Traduce el campo rules_version del API al versionado del catálogo.
 
-    if province:
-        props = province.get("properties", {})
+    Por ahora:
+    - "v1" -> None (usa el catálogo default definido en registry.json)
+    - "current" -> "current"
+    - cualquier otro valor se pasa tal cual, pensando en futuras versiones
+      como "2024.1", "2024.2", etc.
+    """
+    if not rules_version or rules_version == "v1":
+        return None
 
-        return {
-            "input": text,
-            "canonical_name": props.get("name"),
-            "entity_id": props.get("id"),
-            "entity_type": "province",
-            "confidence": 1.0,
-            "matched": True,
-            "match_strategy": "canonical",
-            "trace": ["matched province"]
-        }
+    if rules_version == "current":
+        return "current"
 
-    # 3. no encontrado
-    if strict:
-        raise ValueError("No match found")
+    return rules_version
+
+
+def _build_response_from_catalog_result(result: dict[str, Any], rules_version: str | None) -> dict[str, Any]:
+    entity = result.get("entity") or {}
+    candidates = result.get("candidates") or []
 
     return {
-        "input": text,
-        "canonical_name": None,
-        "entity_id": None,
-        "entity_type": None,
-        "confidence": 0.0,
-        "matched": False,
-        "match_strategy": "none",
-        "trace": ["no match"]
+        "input": result.get("input"),
+        "normalized_text": result.get("normalized_text"),
+        "canonical_name": entity.get("name"),
+        "entity_id": entity.get("composite_code"),
+        "entity_type": entity.get("level"),
+        "confidence": float(result.get("confidence", 0.0) or 0.0),
+        "matched": bool(result.get("matched", False)),
+        "status": result.get("status"),
+        "match_strategy": result.get("match_strategy"),
+        "rules_version": rules_version or "v1",
+        "entity": entity or None,
+        "candidates": candidates,
+        "trace": result.get("trace") or [],
     }
+
+
+def resolve_real(
+    text: str,
+    level: str | None = None,
+    rules_version: str | None = "v1",
+    strict: bool = False,
+    parent_code: str | None = None,
+) -> dict[str, Any]:
+    """
+    Resuelve una entidad territorial usando el catálogo maestro.
+
+    Parámetros:
+    - text: texto de entrada
+    - level: nivel administrativo esperado
+      (province, municipality, district_municipal, section, barrio_paraje, sub_barrio, toponym)
+    - rules_version: por ahora se usa como proxy del versionado del catálogo
+    - strict: si True, el motor puede lanzar excepción en not_found/ambiguous
+    - parent_code: ayuda a desambiguar dentro de una jerarquía concreta
+    """
+    catalog_version = _map_rules_version_to_catalog_version(rules_version)
+
+    result = resolve_name(
+        text=text,
+        level=level,
+        parent_code=parent_code,
+        strict=strict,
+        version=catalog_version,
+    )
+
+    return _build_response_from_catalog_result(result, rules_version)

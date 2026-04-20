@@ -24,7 +24,9 @@ keywords = [
 ]
 dependencies = [
   "openpyxl>=3.1",
-  "pandas>=2.0",
+  "pandas>=2.0,<3.0",
+  "pyyaml>=6.0,<7.0",
+  "pyarrow>=15.0,<20.0",
   "requests>=2.31",
   "shapely>=2.0"
 ]
@@ -47,9 +49,9 @@ Repository = "https://github.com/edjnolasco/rd-territorial-system"
 Issues = "https://github.com/edjnolasco/rd-territorial-system/issues"
 
 [project.optional-dependencies]
-dev = [
-  "pytest>=7.4",
-]
+core = []
+data = ["pandas", "pyarrow"]
+dev = ["pytest"]
 
 [tool.setuptools]
 package-dir = {"" = "src"}

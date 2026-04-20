@@ -13,9 +13,22 @@ from .services import (
     locate_point,
 )
 
-__version__ = "2.0.0"
+# 🔥 Nuevo motor (catalog-based)
+from .catalog import (
+    get_catalog,
+    get_default_catalog,
+    resolve_name,
+    resolve_code,
+    search_entities,
+    Catalog,
+    TerritorialEntity,
+    ResolveResult,
+)
+
+__version__ = "3.0.0"
 
 __all__ = [
+    # 🔹 API existente (compatibilidad)
     "load_provinces",
     "load_municipalities",
     "load_match_report",
@@ -28,5 +41,16 @@ __all__ = [
     "find_province_by_name",
     "find_municipality_by_name",
     "locate_point",
+
+    # 🔥 Nueva API (motor real)
+    "get_catalog",
+    "get_default_catalog",
+    "resolve_name",
+    "resolve_code",
+    "search_entities",
+    "Catalog",
+    "TerritorialEntity",
+    "ResolveResult",
+
     "__version__",
 ]
