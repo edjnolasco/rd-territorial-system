@@ -49,9 +49,16 @@ Repository = "https://github.com/edjnolasco/rd-territorial-system"
 Issues = "https://github.com/edjnolasco/rd-territorial-system/issues"
 
 [project.optional-dependencies]
+api = [
+  "fastapi>=0.110",
+  "uvicorn>=0.29",
+  "httpx>=0.27"
+]
 core = []
 data = ["pandas", "pyarrow"]
-dev = ["pytest"]
+dev = [
+  "pytest>=8.0"
+]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
