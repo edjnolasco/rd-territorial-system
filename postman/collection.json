@@ -1,0 +1,16 @@
+{
+  "info": { "name": "RTRE API" },
+  "item": [
+    {
+      "name": "Resolve",
+      "request": {
+        "method": "POST",
+        "url": "{{base_url}}/api/v1/resolve",
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"text\": \"Sto Dgo\" }"
+        }
+      }
+    }
+  ]
+}
