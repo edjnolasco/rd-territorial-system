@@ -1,0 +1,7 @@
+rules:
+  - name: override
+    priority: 100
+    params:
+      mapping:
+        "Sto Dgo": "Santo Domingo"
+        "DN": "Distrito Nacional"
