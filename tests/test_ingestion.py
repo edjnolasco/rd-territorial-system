@@ -1,10 +1,8 @@
 import zipfile
-from pathlib import Path
 
 import pytest
 
 from rd_territorial_system.ingestion import load_geojson_from_zip, load_one_table
-
 
 # 🔴 1. ZIP sin JSON → debe lanzar error
 
