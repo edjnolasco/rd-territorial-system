@@ -1,0 +1,13 @@
+coverage:
+  status:
+    project:
+      default:
+        target: 0.80
+        threshold: 0.02
+    patch:
+      default:
+        target: 0.80
+
+comment:
+  layout: "reach,diff,flags,tree"
+  behavior: default

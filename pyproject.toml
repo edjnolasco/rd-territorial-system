@@ -4,20 +4,66 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rd-territorial-system"
-version = "0.1.0"
+version = "2.0.0"
 description = "Sistema territorial y geoespacial reutilizable para República Dominicana"
 readme = "README.md"
 requires-python = ">=3.10"
-authors = [{name = "Edwin José Nolasco"}]
+authors = [
+  { name = "Edwin José Nolasco" }
+]
+license = { text = "MIT" }
+keywords = [
+  "dominican republic",
+  "territorial system",
+  "geospatial",
+  "geojson",
+  "gis",
+  "dss",
+  "one",
+  "gadm"
+]
 dependencies = [
-  "pandas>=2.0",
+  "openpyxl>=3.1",
+  "pandas>=2.0,<3.0",
+  "pyyaml>=6.0,<7.0",
+  "pyarrow>=15.0,<20.0",
   "requests>=2.31",
-  "shapely>=2.0",
-  "openpyxl>=3.1"
+  "shapely>=2.0"
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: GIS",
+  "Topic :: Software Development :: Libraries :: Python Modules"
+]
+
+[project.urls]
+Homepage = "https://github.com/edjnolasco/rd-territorial-system"
+Repository = "https://github.com/edjnolasco/rd-territorial-system"
+Issues = "https://github.com/edjnolasco/rd-territorial-system/issues"
+
+[project.optional-dependencies]
+api = [
+  "fastapi>=0.110",
+  "uvicorn>=0.29",
+  "httpx>=0.27"
+]
+core = []
+data = ["pandas", "pyarrow"]
+dev = [
+  "pytest>=8.0",
+  "pytest-cov>=5.0"
 ]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
+include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["src"]
