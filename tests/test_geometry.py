@@ -1,4 +1,4 @@
-from rd_territorial_system.geometry import point_in_feature, locate_point_in_features
+from rd_territorial_system.geometry import locate_point_in_features, point_in_feature
 
 
 def _square_feature():
@@ -7,19 +7,22 @@ def _square_feature():
         "type": "Feature",
         "geometry": {
             "type": "Polygon",
-            "coordinates": [[
-                (0.0, 0.0),
-                (1.0, 0.0),
-                (1.0, 1.0),
-                (0.0, 1.0),
-                (0.0, 0.0),
-            ]]
+            "coordinates": [
+                [
+                    (0.0, 0.0),
+                    (1.0, 0.0),
+                    (1.0, 1.0),
+                    (0.0, 1.0),
+                    (0.0, 0.0),
+                ]
+            ],
         },
-        "properties": {"name": "square"}
+        "properties": {"name": "square"},
     }
 
 
 # 🔴 point_in_feature
+
 
 def test_point_inside_polygon():
     feature = _square_feature()
@@ -50,21 +53,24 @@ def test_point_feature_without_geometry():
 
 # 🔴 locate_point_in_features
 
+
 def test_locate_point_returns_matching_feature():
     feature1 = _square_feature()
     feature2 = {
         "type": "Feature",
         "geometry": {
             "type": "Polygon",
-            "coordinates": [[
-                (2.0, 2.0),
-                (3.0, 2.0),
-                (3.0, 3.0),
-                (2.0, 3.0),
-                (2.0, 2.0),
-            ]]
+            "coordinates": [
+                [
+                    (2.0, 2.0),
+                    (3.0, 2.0),
+                    (3.0, 3.0),
+                    (2.0, 3.0),
+                    (2.0, 2.0),
+                ]
+            ],
         },
-        "properties": {"name": "other"}
+        "properties": {"name": "other"},
     }
 
     result = locate_point_in_features(0.5, 0.5, [feature2, feature1])

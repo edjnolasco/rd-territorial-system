@@ -14,7 +14,7 @@ on:
 
 jobs:
   test:
-    name: Tests, coverage and Codecov
+    name: Lint, Tests, Coverage and Codecov
     runs-on: ubuntu-latest
 
     steps:
@@ -37,6 +37,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements-dev.txt
+
+      # 🔴 Ruff (lint gate)
+      - name: Lint with Ruff
+        run: |
+          ruff check .
 
       # 🔹 Run tests with coverage
       - name: Run test suite with coverage
@@ -62,7 +67,7 @@ jobs:
           name: coverage-html
           path: htmlcov/
 
-      # 🔴 Codecov (clave)
+      # 🔴 Codecov
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v4
         with:

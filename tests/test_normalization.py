@@ -1,12 +1,12 @@
 from rd_territorial_system.normalization import (
-    normalize_text,
-    canonical_province,
     canonical_municipality,
+    canonical_province,
     match_score,
+    normalize_text,
 )
 
-
 # 🔴 normalize_text
+
 
 def test_normalize_basic():
     assert normalize_text("  Santo Domingo  ") == "santo domingo"
@@ -35,6 +35,7 @@ def test_normalize_empty():
 
 # 🔴 canonical_province
 
+
 def test_canonical_province_alias():
     assert canonical_province("DN") == "distrito nacional"
 
@@ -53,6 +54,7 @@ def test_canonical_province_none():
 
 # 🔴 canonical_municipality
 
+
 def test_canonical_municipality_alias():
     assert canonical_municipality("Zona Colonial") == "santo domingo de guzman"
 
@@ -70,6 +72,7 @@ def test_canonical_municipality_none():
 
 
 # 🔴 match_score
+
 
 def test_match_score_exact():
     assert match_score("Santo Domingo", "santo domingo") == 100
@@ -99,3 +102,40 @@ def test_match_score_none():
 
 def test_match_score_no_match():
     assert match_score("abc", "xyz") == 0
+    
+
+def test_match_score_token_overlap_branch():
+    score = match_score("san juan de la maguana", "san juan")
+    assert score > 0
+    
+
+def test_match_score_overlap_without_exact_or_alias():
+    score = match_score("villa maria norte", "villa maria sur")
+    assert score > 0
+    
+def test_canonical_province_accepts_dotted_dn_variants():
+    assert canonical_province("D.N.") == "distrito nacional"
+    assert canonical_province("D. N.") == "distrito nacional"
+
+
+def test_canonical_province_accepts_sto_dgo_dotted_variants():
+    assert canonical_province("Sto. Domingo") == "santo domingo"
+    assert canonical_province("Sto. Dgo.") == "santo domingo"
+
+
+def test_canonical_province_accepts_new_accented_variants():
+    assert canonical_province("Elías Piña") == "elias pina"
+    assert canonical_province("María Trinidad Sánchez") == "maria trinidad sanchez"
+    assert canonical_province("Baní") == "peravia"
+
+
+def test_canonical_province_accepts_new_short_variants():
+    assert canonical_province("Romana") == "la romana"
+    assert canonical_province("Monteplata") == "monte plata"
+
+
+def test_canonical_municipality_accepts_bani_accented_variant():
+    assert canonical_municipality("Baní") == "bani"
+
+def test_canonical_province_accepts_accented_sanchez_ramirez():
+    assert canonical_province("Sánchez Ramírez") == "sanchez ramirez"

@@ -8,7 +8,9 @@ from .config import MUNICIPALITY_OVERRIDES_CSV
 from .normalization import canonical_municipality, canonical_province
 
 
-def load_municipality_overrides(path: Path = MUNICIPALITY_OVERRIDES_CSV) -> dict[tuple[str, str], str]:
+def load_municipality_overrides(
+    path: Path = MUNICIPALITY_OVERRIDES_CSV,
+) -> dict[tuple[str, str], str]:
     if not path.exists():
         return {}
 

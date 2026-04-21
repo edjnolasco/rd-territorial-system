@@ -16,7 +16,6 @@ if str(SRC_ROOT) not in sys.path:
 
 from rd_territorial_system.normalization import normalize_text  # noqa: E402
 
-
 COLUMN_ALIASES = {
     "región": "region_code",
     "region": "region_code",
@@ -187,7 +186,9 @@ def build_parent_code(row: dict[str, Any], level: str) -> str:
     if level == "district_municipal":
         return f"{region_code}-{province_code}-{municipality_code}-00-00-000-00"
     if level == "section":
-        return f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-00-000-00"
+        return (
+            f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-00-000-00"
+        )
     if level == "barrio_paraje":
         return f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-{section_code}-000-00"
     if level == "sub_barrio":
@@ -503,8 +504,12 @@ def write_outputs(
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Build RD territorial master catalog from source structure.")
-    parser.add_argument("--input", required=True, help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt)")
+    parser = argparse.ArgumentParser(
+        description="Build RD territorial master catalog from source structure."
+    )
+    parser.add_argument(
+        "--input", required=True, help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt)"
+    )
     parser.add_argument("--sheet-name", default=None, help="Nombre de hoja si la entrada es Excel")
     parser.add_argument(
         "--output-csv",
@@ -522,7 +527,9 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--notes", default=None, help="Notas para las filas generadas")
     parser.add_argument("--skip-parquet", action="store_true", help="No generar Parquet")
     parser.add_argument("--metadata-path", default=None, help="Ruta opcional para metadata JSON")
-    parser.add_argument("--append", action="store_true", help="Fusiona contra el catálogo existente")
+    parser.add_argument(
+        "--append", action="store_true", help="Fusiona contra el catálogo existente"
+    )
     parser.add_argument(
         "--overwrite-existing",
         action="store_true",

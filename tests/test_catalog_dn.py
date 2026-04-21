@@ -18,7 +18,11 @@ def test_resolve_distrito_nacional_as_province():
     assert result["entity"]["level"] == "province"
     assert result["entity"]["name"] == "Distrito Nacional"
     assert result["entity"]["composite_code"] == "10-01-00-00-00-000-00"
-    assert result["canonical_name"] if "canonical_name" in result else result["entity"]["name"] == "Distrito Nacional"
+    assert (
+        result["canonical_name"]
+        if "canonical_name" in result
+        else result["entity"]["name"] == "Distrito Nacional"
+    )
 
 
 def test_resolve_dn_alias_as_province():

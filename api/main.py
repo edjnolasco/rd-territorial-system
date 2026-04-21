@@ -1,5 +1,6 @@
 from fastapi import FastAPI
-from api.routes import resolve, batch, explain, meta
+
+from api.routes import batch, explain, meta, resolve
 
 app = FastAPI(title="RTRE API", version="1.0.0")
 

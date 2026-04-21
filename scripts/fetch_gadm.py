@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from pathlib import Path
+
 import requests
+from rd_territorial_system.sources import GADM_DOM_ADM1_URL, GADM_DOM_ADM2_URL
 
 from rd_territorial_system.config import GADM_ADM1_ZIP, GADM_ADM2_ZIP
-from rd_territorial_system.sources import GADM_DOM_ADM1_URL, GADM_DOM_ADM2_URL
 
 
 def _download(url: str, target: Path) -> None:
