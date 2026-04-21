@@ -1,0 +1,70 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+      - "feature/**"
+      - "fix/**"
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  test:
+    name: Tests, coverage and Codecov
+    runs-on: ubuntu-latest
+
+    steps:
+      # 🔹 Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      # 🔹 Python setup
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # 🔹 Upgrade pip
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      # 🔹 Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install -r requirements-dev.txt
+
+      # 🔹 Run tests with coverage
+      - name: Run test suite with coverage
+        run: |
+          python -m pytest \
+            --cov=src/rd_territorial_system \
+            --cov-report=term-missing \
+            --cov-report=xml \
+            --cov-report=html \
+            -q
+
+      # 🔹 Upload coverage XML (artifact)
+      - name: Upload coverage XML
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-xml
+          path: coverage.xml
+
+      # 🔹 Upload coverage HTML (artifact)
+      - name: Upload coverage HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-html
+          path: htmlcov/
+
+      # 🔴 Codecov (clave)
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          file: coverage.xml
+          fail_ci_if_error: true
