@@ -102,3 +102,13 @@ def test_match_score_none():
 
 def test_match_score_no_match():
     assert match_score("abc", "xyz") == 0
+    
+
+def test_match_score_token_overlap_branch():
+    score = match_score("san juan de la maguana", "san juan")
+    assert score > 0
+    
+
+def test_match_score_overlap_without_exact_or_alias():
+    score = match_score("villa maria norte", "villa maria sur")
+    assert score > 0
