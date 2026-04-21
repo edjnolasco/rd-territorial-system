@@ -63,9 +63,7 @@ def discover_one_main_table(one_dir: Path | None = None) -> Path:
     )
 
     if not candidates:
-        raise FileNotFoundError(
-            f"No se encontró archivo CSV/XLSX principal en {target_dir}"
-        )
+        raise FileNotFoundError(f"No se encontró archivo CSV/XLSX principal en {target_dir}")
 
     return candidates[0]
 
@@ -85,8 +83,7 @@ def profile_excel_sheets(path: Path) -> list[dict[str, Any]]:
                     "columns_mapped": renames,
                     "rows": int(len(df)),
                     "has_province_name": "province_name" in set(renames.values()),
-                    "has_municipality_name": "municipality_name"
-                    in set(renames.values()),
+                    "has_municipality_name": "municipality_name" in set(renames.values()),
                     "readable": True,
                 }
             )
@@ -175,8 +172,6 @@ def load_one_hierarchy_auto(
     required = {"province_name", "municipality_name"}
     missing = required - set(df.columns)
     if missing:
-        raise ValueError(
-            f"Faltan columnas obligatorias en archivo ONE: {sorted(missing)}"
-        )
+        raise ValueError(f"Faltan columnas obligatorias en archivo ONE: {sorted(missing)}")
 
     return df, report

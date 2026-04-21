@@ -2,14 +2,14 @@ import pandas as pd
 
 from rd_territorial_system import services
 
-
 # 🔴 Helpers
+
 
 def _fake_province_feature():
     return {
         "type": "Feature",
         "properties": {"name": "Distrito Nacional", "id": "DN"},
-        "geometry": {"type": "Polygon", "coordinates": [[(0,0),(1,0),(1,1),(0,1),(0,0)]]}
+        "geometry": {"type": "Polygon", "coordinates": [[(0, 0), (1, 0), (1, 1), (0, 1), (0, 0)]]},
     }
 
 
@@ -19,13 +19,14 @@ def _fake_municipality_feature():
         "properties": {
             "name": "Santo Domingo de Guzmán",
             "id": "SDG",
-            "province_name": "Distrito Nacional"
+            "province_name": "Distrito Nacional",
         },
-        "geometry": {"type": "Polygon", "coordinates": [[(0,0),(1,0),(1,1),(0,1),(0,0)]]}
+        "geometry": {"type": "Polygon", "coordinates": [[(0, 0), (1, 0), (1, 1), (0, 1), (0, 0)]]},
     }
 
 
 # 🔴 load_* tests (mock directo)
+
 
 def test_load_provinces(monkeypatch):
     monkeypatch.setattr(services, "_load_geojson", lambda path: {"features": []})
@@ -41,11 +42,10 @@ def test_load_match_report(monkeypatch):
 
 # 🔴 get names
 
+
 def test_get_province_names(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_provinces",
-        lambda: {"features": [_fake_province_feature()]}
+        services, "load_provinces", lambda: {"features": [_fake_province_feature()]}
     )
 
     names = services.get_province_names()
@@ -54,9 +54,7 @@ def test_get_province_names(monkeypatch):
 
 def test_get_municipality_names(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_municipalities",
-        lambda: {"features": [_fake_municipality_feature()]}
+        services, "load_municipalities", lambda: {"features": [_fake_municipality_feature()]}
     )
 
     names = services.get_municipality_names()
@@ -65,11 +63,10 @@ def test_get_municipality_names(monkeypatch):
 
 # 🔴 find by name
 
+
 def test_find_province_by_name(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_provinces",
-        lambda: {"features": [_fake_province_feature()]}
+        services, "load_provinces", lambda: {"features": [_fake_province_feature()]}
     )
 
     result = services.find_province_by_name("Distrito Nacional")
@@ -77,11 +74,7 @@ def test_find_province_by_name(monkeypatch):
 
 
 def test_find_province_by_name_not_found(monkeypatch):
-    monkeypatch.setattr(
-        services,
-        "load_provinces",
-        lambda: {"features": []}
-    )
+    monkeypatch.setattr(services, "load_provinces", lambda: {"features": []})
 
     result = services.find_province_by_name("X")
     assert result is None
@@ -89,9 +82,7 @@ def test_find_province_by_name_not_found(monkeypatch):
 
 def test_find_municipality_by_name(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_municipalities",
-        lambda: {"features": [_fake_municipality_feature()]}
+        services, "load_municipalities", lambda: {"features": [_fake_municipality_feature()]}
     )
 
     result = services.find_municipality_by_name("Santo Domingo de Guzmán")
@@ -99,6 +90,7 @@ def test_find_municipality_by_name(monkeypatch):
 
 
 # 🔴 locate_point
+
 
 def test_locate_point_no_match(monkeypatch):
     monkeypatch.setattr(services, "load_provinces", lambda: {"features": []})
@@ -113,15 +105,9 @@ def test_locate_point_no_match(monkeypatch):
 
 def test_locate_point_province_only(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_provinces",
-        lambda: {"features": [_fake_province_feature()]}
+        services, "load_provinces", lambda: {"features": [_fake_province_feature()]}
     )
-    monkeypatch.setattr(
-        services,
-        "load_municipalities",
-        lambda: {"features": []}
-    )
+    monkeypatch.setattr(services, "load_municipalities", lambda: {"features": []})
 
     def fake_locate(lat, lon, features):
         return features[0] if features else None
@@ -137,14 +123,10 @@ def test_locate_point_province_only(monkeypatch):
 
 def test_locate_point_municipality_overrides(monkeypatch):
     monkeypatch.setattr(
-        services,
-        "load_provinces",
-        lambda: {"features": [_fake_province_feature()]}
+        services, "load_provinces", lambda: {"features": [_fake_province_feature()]}
     )
     monkeypatch.setattr(
-        services,
-        "load_municipalities",
-        lambda: {"features": [_fake_municipality_feature()]}
+        services, "load_municipalities", lambda: {"features": [_fake_municipality_feature()]}
     )
 
     def fake_locate(lat, lon, features):

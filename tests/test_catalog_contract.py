@@ -7,7 +7,6 @@ import pytest
 
 from rd_territorial_system.catalog import get_default_catalog
 
-
 EXPECTED_COLUMNS = {
     "region_code",
     "province_code",
@@ -132,7 +131,9 @@ def test_parent_composite_code_points_to_existing_entity(df: pd.DataFrame):
 def test_normalized_name_is_lowercase_trimmed(df: pd.DataFrame):
     normalized = df["normalized_name"].astype(str)
 
-    assert (normalized == normalized.str.strip()).all(), "normalized_name contiene espacios laterales"
+    assert (normalized == normalized.str.strip()).all(), (
+        "normalized_name contiene espacios laterales"
+    )
     assert (normalized == normalized.str.lower()).all(), "normalized_name no está en minúsculas"
 
 
@@ -183,7 +184,9 @@ def test_full_path_depth_is_consistent_with_level(df: pd.DataFrame):
         depth = _depth(row["full_path"])
         min_expected = expected_min_depth[row["level"]]
         if depth < min_expected:
-            invalid_rows.append((row["name"], row["level"], row["full_path"], row["composite_code"]))
+            invalid_rows.append(
+                (row["name"], row["level"], row["full_path"], row["composite_code"])
+            )
 
     assert not invalid_rows, (
         "Se encontraron filas con full_path más corto que lo esperado:\n"

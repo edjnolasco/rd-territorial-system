@@ -13,7 +13,9 @@ def test_load_csv_outputs(tmp_path, monkeypatch) -> None:
     low = tmp_path / "low_confidence_matches.csv"
 
     coverage.write_text("metric,value\nrows_total,2\n", encoding="utf-8")
-    unmatched.write_text("province_name,municipality_name\nSanto Domingo,Inexistente\n", encoding="utf-8")
+    unmatched.write_text(
+        "province_name,municipality_name\nSanto Domingo,Inexistente\n", encoding="utf-8"
+    )
     low.write_text("province_name,municipality_name\n", encoding="utf-8")
 
     monkeypatch.setattr("rd_territorial_system.services.COVERAGE_REPORT_OUTPUT", coverage)

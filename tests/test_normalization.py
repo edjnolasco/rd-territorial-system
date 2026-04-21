@@ -1,12 +1,12 @@
 from rd_territorial_system.normalization import (
-    normalize_text,
-    canonical_province,
     canonical_municipality,
+    canonical_province,
     match_score,
+    normalize_text,
 )
 
-
 # 🔴 normalize_text
+
 
 def test_normalize_basic():
     assert normalize_text("  Santo Domingo  ") == "santo domingo"
@@ -35,6 +35,7 @@ def test_normalize_empty():
 
 # 🔴 canonical_province
 
+
 def test_canonical_province_alias():
     assert canonical_province("DN") == "distrito nacional"
 
@@ -53,6 +54,7 @@ def test_canonical_province_none():
 
 # 🔴 canonical_municipality
 
+
 def test_canonical_municipality_alias():
     assert canonical_municipality("Zona Colonial") == "santo domingo de guzman"
 
@@ -70,6 +72,7 @@ def test_canonical_municipality_none():
 
 
 # 🔴 match_score
+
 
 def test_match_score_exact():
     assert match_score("Santo Domingo", "santo domingo") == 100

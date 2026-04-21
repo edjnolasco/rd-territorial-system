@@ -24,7 +24,9 @@ def _map_rules_version_to_catalog_version(rules_version: str | None) -> str | No
     return rules_version
 
 
-def _build_response_from_catalog_result(result: dict[str, Any], rules_version: str | None) -> dict[str, Any]:
+def _build_response_from_catalog_result(
+    result: dict[str, Any], rules_version: str | None
+) -> dict[str, Any]:
     entity = result.get("entity") or {}
     candidates = result.get("candidates") or []
 

@@ -13,7 +13,6 @@ from .config import (
     MASTER_OUTPUT,
     MATCH_REPORT_OUTPUT,
     MUNICIPALITIES_OUTPUT,
-    ONE_RAW_DIR,
     PROVINCES_OUTPUT,
     UNMATCHED_MUNICIPALITIES_OUTPUT,
 )
@@ -26,11 +25,6 @@ from .normalization import canonical_municipality, canonical_province, match_sco
 from .reconciliation import load_municipality_overrides
 from .reporting import build_coverage_report
 
-from .ingestion import (
-    discover_one_main_table,
-    load_geojson_from_zip,
-    load_one_hierarchy_auto,
-)
 
 def _feature_name(feature: dict, *keys: str) -> str:
     props = feature.get("properties", {})
@@ -98,8 +92,8 @@ def build_from_one_gadm(
     # Esto evita depender de defaults internos difíciles de monkeypatchear en tests.
     source_path = discover_one_main_table()
     one_df, ingestion_report = load_one_hierarchy_auto(
-            path=source_path,
-            sheet_name=sheet_name,
+        path=source_path,
+        sheet_name=sheet_name,
     )
 
     gadm_adm1 = load_geojson_from_zip(GADM_ADM1_ZIP)
@@ -169,11 +163,7 @@ def build_from_one_gadm(
         if matched_municipality:
             props = dict(municipality_feature.get("properties", {}))
             province_id = props.get("ID_1") or props.get("HASC_1") or pkey
-            municipality_id = (
-                props.get("ID_2")
-                or props.get("HASC_2")
-                or f"{pkey}:{mkey}"
-            )
+            municipality_id = props.get("ID_2") or props.get("HASC_2") or f"{pkey}:{mkey}"
             dedupe_key = str(municipality_id)
 
             if dedupe_key not in used_municipalities:
@@ -251,12 +241,13 @@ def build_from_one_gadm(
     match_df.to_csv(MATCH_REPORT_OUTPUT, index=False)
     build_coverage_report(master_df).to_csv(COVERAGE_REPORT_OUTPUT, index=False)
 
-    unmatched = master_df[master_df["matched_municipality"] == False].copy()
+    unmatched = master_df[~master_df["matched_municipality"]].copy()
+
     low_confidence = master_df[
-        (master_df["matched_municipality"] == True)
+        (master_df["matched_municipality"])
         & (master_df["match_score"] < low_confidence_threshold)
         & (master_df["match_type"] != "override")
-    ].copy()
+    ]
 
     unmatched.to_csv(UNMATCHED_MUNICIPALITIES_OUTPUT, index=False)
     low_confidence.to_csv(LOW_CONFIDENCE_OUTPUT, index=False)
@@ -267,12 +258,11 @@ def build_from_one_gadm(
         master_df["matched_municipality"].fillna(False).sum()
     )
     ingestion_report["rows_unmatched_municipality"] = int(
-        (master_df["matched_municipality"] == False).sum()
+        ((~master_df["matched_municipality"]).sum())
+        
     )
     ingestion_report["rows_low_confidence"] = int(len(low_confidence))
-    ingestion_report["override_count"] = int(
-        (master_df["match_type"] == "override").sum()
-    )
+    ingestion_report["override_count"] = int((master_df["match_type"] == "override").sum())
 
     INGESTION_REPORT_OUTPUT.write_text(
         json.dumps(ingestion_report, ensure_ascii=False, indent=2),
@@ -283,8 +273,6 @@ def build_from_one_gadm(
         "provinces_output": len(provinces_out),
         "municipalities_output": len(municipalities_out),
         "master_rows": len(master_rows),
-        "municipality_unmatched": int(
-            (master_df["matched_municipality"] == False).sum()
-        ),
+        "municipality_unmatched": int((~master_df["matched_municipality"]).sum()),
         "low_confidence_rows": int(len(low_confidence)),
     }

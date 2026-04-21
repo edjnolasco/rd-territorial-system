@@ -33,7 +33,9 @@ def _run_cli(args: list[str], monkeypatch: pytest.MonkeyPatch) -> None:
     main()
 
 
-def test_cli_build_replace_generates_csv_parquet_and_metadata(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+def test_cli_build_replace_generates_csv_parquet_and_metadata(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+):
     input_path = tmp_path / "dn.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
     output_parquet = tmp_path / "catalog" / "rd_territorial_master.parquet"
@@ -84,7 +86,9 @@ def test_cli_build_replace_generates_csv_parquet_and_metadata(tmp_path: Path, mo
     assert metadata["source_label"] == "ONE 2021"
 
 
-def test_cli_append_adds_new_rows_without_overwriting_existing(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+def test_cli_append_adds_new_rows_without_overwriting_existing(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+):
     base_input = tmp_path / "dn_base.txt"
     append_input = tmp_path / "dn_append.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
@@ -142,7 +146,9 @@ def test_cli_append_adds_new_rows_without_overwriting_existing(tmp_path: Path, m
     assert province_row["name"] == "Distrito Nacional"
 
 
-def test_cli_append_overwrite_existing_replaces_matching_composite_code(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+def test_cli_append_overwrite_existing_replaces_matching_composite_code(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+):
     base_input = tmp_path / "dn_base.txt"
     overwrite_input = tmp_path / "dn_overwrite.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
