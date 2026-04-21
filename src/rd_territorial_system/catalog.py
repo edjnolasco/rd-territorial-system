@@ -125,6 +125,8 @@ def _normalize_code(value: Any, width: int) -> str:
     text = str(value or "").strip()
     if text == "":
         return "0".zfill(width)
+    if text.endswith(".0"):
+        text = text[:-2]
     return text.zfill(width)
 
 
@@ -224,12 +226,22 @@ def resolve_catalog_version(
     registry_path: str | Path = REGISTRY_PATH,
 ) -> CatalogVersionInfo:
     registry = load_registry(registry_path)
-    active_version = version or registry["default"]
 
-    if active_version == CURRENT_CATALOG_DIRNAME:
-        base_dir = CATALOG_ROOT / CURRENT_CATALOG_DIRNAME
+    current_base_dir = CATALOG_ROOT / CURRENT_CATALOG_DIRNAME
+    current_csv_path = current_base_dir / CSV_FILENAME
+    current_parquet_path = current_base_dir / PARQUET_FILENAME
+
+    # En entorno de trabajo/test, si existe un catálogo "current",
+    # se prioriza por encima del default del registry.
+    if version is None and (current_csv_path.exists() or current_parquet_path.exists()):
+        active_version = CURRENT_CATALOG_DIRNAME
+        base_dir = current_base_dir
     else:
-        base_dir = CATALOG_ROOT / "versions" / active_version
+        active_version = version or registry["default"]
+        if active_version == CURRENT_CATALOG_DIRNAME:
+            base_dir = current_base_dir
+        else:
+            base_dir = CATALOG_ROOT / "versions" / active_version
 
     return CatalogVersionInfo(
         active_version=active_version,
@@ -292,33 +304,92 @@ def _entity_from_row(row: dict[str, Any]) -> TerritorialEntity:
         section_code=_normalize_code(row.get("section_code"), 2),
         barrio_paraje_code=_normalize_code(row.get("barrio_paraje_code"), 3),
         sub_barrio_code=_normalize_code(row.get("sub_barrio_code"), 2),
-        level=str(row.get("level") or infer_level(row)),
-        name=str(row.get("name") or ""),
-        official_name=str(row.get("official_name") or row.get("name") or ""),
+        level=str(row.get("level") or infer_level(row)).strip(),
+        name=str(row.get("name") or "").strip(),
+        official_name=str(row.get("official_name") or row.get("name") or "").strip(),
         normalized_name=normalized_name,
-        parent_composite_code=str(row.get("parent_composite_code") or ""),
-        composite_code=str(row.get("composite_code") or build_composite_code(row)),
-        full_path=str(row.get("full_path") or row.get("name") or ""),
+        parent_composite_code=str(row.get("parent_composite_code") or "").strip(),
+        composite_code=str(row.get("composite_code") or build_composite_code(row)).strip(),
+        full_path=str(row.get("full_path") or row.get("name") or "").strip(),
         is_official=_coerce_bool(row.get("is_official", True)),
-        source=str(row.get("source")) if row.get("source") not in (None, "") else None,
-        valid_from=str(row.get("valid_from")) if row.get("valid_from") not in (None, "") else None,
-        valid_to=str(row.get("valid_to")) if row.get("valid_to") not in (None, "") else None,
-        notes=str(row.get("notes")) if row.get("notes") not in (None, "") else None,
+        source=str(row.get("source")).strip() if row.get("source") not in (None, "") else None,
+        valid_from=str(row.get("valid_from")).strip() if row.get("valid_from") not in (None, "") else None,
+        valid_to=str(row.get("valid_to")).strip() if row.get("valid_to") not in (None, "") else None,
+        notes=str(row.get("notes")).strip() if row.get("notes") not in (None, "") else None,
+    )
+
+
+def _normalize_loaded_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    normalized_rows: list[dict[str, Any]] = []
+
+    for row in rows:
+        item = dict(row)
+
+        for key, value in list(item.items()):
+            if value is None:
+                item[key] = ""
+            elif isinstance(value, float) and pd.isna(value):
+                item[key] = ""
+            else:
+                item[key] = str(value).strip()
+
+        normalized_rows.append(item)
+
+    return normalized_rows
+
+
+def _get_catalog_file_candidates(version_info: CatalogVersionInfo) -> list[Path]:
+    candidates: list[Path] = []
+
+    if version_info.catalog_csv_path.exists():
+        candidates.append(version_info.catalog_csv_path)
+    if version_info.catalog_parquet_path.exists():
+        candidates.append(version_info.catalog_parquet_path)
+
+    return candidates
+
+
+def _select_catalog_path(version_info: CatalogVersionInfo) -> Path:
+    csv_exists = version_info.catalog_csv_path.exists()
+    parquet_exists = version_info.catalog_parquet_path.exists()
+
+    if not csv_exists and not parquet_exists:
+        raise FileNotFoundError(
+            "Catalog file not found. Expected one of: "
+            f"{version_info.catalog_parquet_path} or {version_info.catalog_csv_path}"
+        )
+
+    # Para current, se prioriza CSV porque suele ser el artefacto más reciente
+    # durante desarrollo/tests y evita desalineación con un Parquet viejo.
+    if version_info.active_version == CURRENT_CATALOG_DIRNAME and csv_exists:
+        return version_info.catalog_csv_path
+
+    if csv_exists and not parquet_exists:
+        return version_info.catalog_csv_path
+
+    if parquet_exists and not csv_exists:
+        return version_info.catalog_parquet_path
+
+    # Para versiones congeladas, si existen ambos, usa el más reciente.
+    return max(
+        [version_info.catalog_csv_path, version_info.catalog_parquet_path],
+        key=lambda path: path.stat().st_mtime_ns,
     )
 
 
 def load_catalog_rows(version_info: CatalogVersionInfo) -> list[dict[str, Any]]:
-    if version_info.catalog_parquet_path.exists():
-        df = pd.read_parquet(version_info.catalog_parquet_path)
-        return df.fillna("").to_dict(orient="records")
+    selected_path = _select_catalog_path(version_info)
 
-    if version_info.catalog_csv_path.exists():
-        return _open_csv_with_fallback(version_info.catalog_csv_path)
+    if selected_path.suffix.lower() == ".parquet":
+        df = pd.read_parquet(selected_path)
+        rows = df.fillna("").to_dict(orient="records")
+        return _normalize_loaded_rows(rows)
 
-    raise FileNotFoundError(
-        "Catalog file not found. Expected one of: "
-        f"{version_info.catalog_parquet_path} or {version_info.catalog_csv_path}"
-    )
+    if selected_path.suffix.lower() == ".csv":
+        rows = _open_csv_with_fallback(selected_path)
+        return _normalize_loaded_rows(rows)
+
+    raise ValueError(f"Unsupported catalog format: {selected_path.suffix}")
 
 
 def load_catalog(
@@ -405,6 +476,8 @@ class Catalog:
         key = self._resolve_search_key(text, level=level)
         if not key:
             return []
+
+        parent_code = str(parent_code).strip() if parent_code else None
 
         if level and parent_code:
             items = [
@@ -547,15 +620,41 @@ class Catalog:
         return ranking
 
 
-@lru_cache(maxsize=8)
-def get_catalog(version: str | None = None) -> Catalog:
-    return Catalog.from_version(version=version)
+def _catalog_cache_signature(version: str | None) -> tuple[str, int, int]:
+    version_info = resolve_catalog_version(version)
 
+    csv_mtime_ns = (
+        version_info.catalog_csv_path.stat().st_mtime_ns
+        if version_info.catalog_csv_path.exists()
+        else -1
+    )
+    parquet_mtime_ns = (
+        version_info.catalog_parquet_path.stat().st_mtime_ns
+        if version_info.catalog_parquet_path.exists()
+        else -1
+    )
+
+    return (version_info.active_version, csv_mtime_ns, parquet_mtime_ns)
+
+
+@lru_cache(maxsize=16)
+def _get_catalog_cached(
+    active_version: str,
+    csv_mtime_ns: int,
+    parquet_mtime_ns: int,
+) -> Catalog:
+    del csv_mtime_ns, parquet_mtime_ns
+    return Catalog.from_version(version=active_version)
+
+def clear_catalog_cache() -> None:
+    _get_catalog_cached.cache_clear()
+
+def get_catalog(version: str | None = None) -> Catalog:
+    active_version, csv_mtime_ns, parquet_mtime_ns = _catalog_cache_signature(version)
+    return _get_catalog_cached(active_version, csv_mtime_ns, parquet_mtime_ns)
 
 def get_default_catalog() -> Catalog:
-    registry = load_registry(REGISTRY_PATH)
-    default_version = registry.get("default") or CURRENT_CATALOG_DIRNAME
-    return get_catalog(default_version)
+    return get_catalog(None)
 
 
 def resolve_name(
