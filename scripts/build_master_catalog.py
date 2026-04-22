@@ -601,6 +601,122 @@ def ingest_azua_to_catalog(
 
     return destination
 
+def load_manifest(manifest_path: str | Path) -> dict[str, Any]:
+    path = Path(manifest_path)
+    if not path.exists():
+        raise FileNotFoundError(f"No se encontró el manifiesto: {path}")
+
+    with path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+
+    if "provinces" not in data or not isinstance(data["provinces"], list):
+        raise ValueError("El manifiesto debe contener una lista 'provinces'.")
+
+    return data
+
+
+def get_manifest_entry(
+    manifest: dict[str, Any],
+    *,
+    province_code: str | None = None,
+    province_name: str | None = None,
+) -> dict[str, Any]:
+    candidates = manifest.get("provinces", [])
+
+    if province_code:
+        matches = [
+            item for item in candidates
+            if str(item.get("province_code", "")).zfill(2) == str(province_code).zfill(2)
+        ]
+    elif province_name:
+        target = str(province_name).strip().casefold()
+        matches = [
+            item for item in candidates
+            if str(item.get("province_name", "")).strip().casefold() == target
+        ]
+    else:
+        raise ValueError("Debes indicar province_code o province_name.")
+
+    if not matches:
+        raise ValueError(
+            f"No se encontró una entrada en el manifiesto para province_code={province_code} "
+            f"province_name={province_name}"
+        )
+
+    if len(matches) > 1:
+        raise ValueError(
+            f"Se encontraron múltiples entradas en el manifiesto para province_code={province_code} "
+            f"province_name={province_name}"
+        )
+
+    entry = matches[0]
+    if not bool(entry.get("enabled", True)):
+        raise ValueError(
+            f"La provincia {entry.get('province_name')} ({entry.get('province_code')}) "
+            "está deshabilitada en el manifiesto."
+        )
+
+    return entry
+
+
+def ingest_province_from_manifest(
+    manifest_path: str | Path,
+    *,
+    province_code: str | None,
+    province_name: str | None,
+    master_catalog_path: str,
+    output_catalog_path: str | None = None,
+    overwrite_existing: bool = False,
+    valid_from: str | None = None,
+    valid_to: str | None = None,
+    notes: str | None = None,
+) -> Path:
+    manifest = load_manifest(manifest_path)
+    entry = get_manifest_entry(
+        manifest,
+        province_code=province_code,
+        province_name=province_name,
+    )
+
+    input_path = entry["input_path"]
+    source_label = entry.get("source_label", f'{entry["province_name"].upper()}_TXT')
+    manifest_notes = entry.get("notes")
+
+    final_notes = notes if notes is not None else manifest_notes
+
+    input_file = Path(input_path)
+    if not input_file.exists():
+        raise FileNotFoundError(
+            f"No se encontró la fuente declarada en el manifiesto: {input_file}"
+        )
+
+    df_source = _read_source(input_file)
+    unique_province_codes = sorted(
+        {
+            str(value).zfill(2)
+            for value in df_source["province_code"].dropna().astype(str).str.replace(".0", "", regex=False)
+        }
+    )
+
+    expected_code = str(entry["province_code"]).zfill(2)
+    if unique_province_codes != [expected_code]:
+        raise AssertionError(
+            "La fuente no corresponde exclusivamente a la provincia declarada en el manifiesto. "
+            f"Esperado={[expected_code]}, observado={unique_province_codes}"
+        )
+
+    destination = ingest_azua_to_catalog(
+        azua_txt_path=str(input_file),
+        master_catalog_path=master_catalog_path,
+        output_catalog_path=output_catalog_path,
+        source_label=source_label,
+        valid_from=valid_from,
+        valid_to=valid_to,
+        notes=final_notes,
+        overwrite_existing=overwrite_existing,
+    )
+
+    return destination
 
 def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
@@ -664,6 +780,26 @@ def build_arg_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="En modo append, si el composite_code ya existe, lo reemplaza",
     )
+    parser.add_argument(
+        "--ingest-province",
+        action="store_true",
+        help="Ejecuta la ingesta de una provincia usando el manifiesto.",
+    )
+    parser.add_argument(
+        "--manifest-path",
+        default="data/catalog/config/provinces_manifest.json",
+        help="Ruta del manifiesto de provincias.",
+    )
+    parser.add_argument(
+        "--province-code",
+        default=None,
+        help="Código de provincia a ingerir desde el manifiesto.",
+    )
+    parser.add_argument(
+        "--province-name",
+        default=None,
+        help="Nombre de provincia a ingerir desde el manifiesto.",
+    )
 
     return parser
 
@@ -672,6 +808,9 @@ def main() -> None:
     parser = build_arg_parser()
     args = parser.parse_args()
 
+    # --------------------------------------
+    # MODO 1: INGESTA AZUA (legacy específico)
+    # --------------------------------------
     if args.ingest_azua:
         destination = ingest_azua_to_catalog(
             azua_txt_path=args.azua_txt,
@@ -686,10 +825,38 @@ def main() -> None:
         print(f"Catálogo actualizado en: {destination}")
         return
 
+    # --------------------------------------
+    # MODO 2: INGESTA DESDE MANIFIESTO (NUEVO)
+    # --------------------------------------
+    if args.ingest_province:
+        if not args.province_code and not args.province_name:
+            raise SystemExit(
+                "Con --ingest-province debes indicar --province-code o --province-name."
+            )
+
+        destination = ingest_province_from_manifest(
+            manifest_path=args.manifest_path,
+            province_code=args.province_code,
+            province_name=args.province_name,
+            master_catalog_path=args.master_catalog,
+            output_catalog_path=args.output_catalog or None,
+            overwrite_existing=args.overwrite_existing,
+            valid_from=args.valid_from,
+            valid_to=args.valid_to,
+            notes=args.notes,
+        )
+        print(f"Catálogo actualizado desde manifiesto en: {destination}")
+        return
+
+    # --------------------------------------
+    # MODO 3: FLUJO GENÉRICO (EXISTENTE)
+    # --------------------------------------
     if not args.input:
         raise SystemExit(
-            "Debes indicar --input para el flujo genérico, o usar --ingest-azua."
+            "Debes indicar --input para el flujo genérico, o usar --ingest-azua / --ingest-province."
         )
+
+    # ... resto del código existente ...
 
     input_path = Path(args.input)
     output_csv = Path(args.output_csv)
@@ -747,6 +914,13 @@ def main() -> None:
     print(f"Mode: {mode}")
     print(f"Rows in final catalog: {len(df_final)}")
 
+def sync_current_csv_from_parquet(
+    parquet_path: str = "data/catalog/current/rd_territorial_master.parquet",
+    csv_path: str = "data/catalog/current/rd_territorial_master.csv",
+) -> None:
+    df = pd.read_parquet(parquet_path)
+    Path(csv_path).parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 
 if __name__ == "__main__":
     main()

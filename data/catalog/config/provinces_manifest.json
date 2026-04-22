@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "Manifest de ingestión provincial para el catálogo territorial RD",
+  "provinces": [
+    {
+      "province_code": "02",
+      "province_name": "Azua",
+      "input_path": "data/raw/azua/azua_completo.txt",
+      "source_label": "AZUA_TXT",
+      "enabled": true,
+      "notes": "Provincia piloto de expansión"
+    }
+  ]
+}
