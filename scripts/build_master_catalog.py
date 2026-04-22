@@ -9,6 +9,11 @@ from typing import Any
 
 import pandas as pd
 
+# Asegura que la raíz del repo esté en sys.path
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 SRC_ROOT = PROJECT_ROOT / "src"
 if str(SRC_ROOT) not in sys.path:
@@ -89,6 +94,24 @@ CODE_COLUMNS = [
     "parent_composite_code",
     "composite_code",
 ]
+
+TXT_DATA_LINE_RE = re.compile(
+    r"""
+    ^(?P<region>\d{2})\s+
+    (?P<province>\d{2})\s+
+    (?P<municipality>\d{2})\s+
+    (?P<district_municipal>\d{2})\s+
+    (?P<section>\d{2})\s+
+    (?P<barrio_paraje>\d{3})\s+
+    (?P<sub_barrio>\d{2})\s+
+    (?P<name>.+?)\s*$
+    """,
+    re.VERBOSE,
+)
+
+DEFAULT_AZUA_TXT = Path("data/raw/azua/azua_completo.txt")
+DEFAULT_MASTER_CATALOG = Path("data/catalog/current/rd_territorial_master.parquet")
+DEFAULT_OUTPUT_CATALOG = Path("data/catalog/current/rd_territorial_master_candidate.parquet")
 
 
 def _clean_header(text: str) -> str:
@@ -190,9 +213,15 @@ def build_parent_code(row: dict[str, Any], level: str) -> str:
             f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-00-000-00"
         )
     if level == "barrio_paraje":
-        return f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-{section_code}-000-00"
+        return (
+            f"{region_code}-{province_code}-{municipality_code}-"
+            f"{district_municipal_code}-{section_code}-000-00"
+        )
     if level == "sub_barrio":
-        return f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-{section_code}-{barrio_paraje_code}-00"
+        return (
+            f"{region_code}-{province_code}-{municipality_code}-"
+            f"{district_municipal_code}-{section_code}-{barrio_paraje_code}-00"
+        )
     return ""
 
 
@@ -208,13 +237,16 @@ def _read_csv_with_fallback(path: Path) -> pd.DataFrame:
 
 def _read_txt_with_fallback(path: Path) -> pd.DataFrame:
     last_error = None
+    raw = None
+
     for encoding in TEXT_ENCODINGS:
         try:
             raw = path.read_text(encoding=encoding)
             break
         except UnicodeDecodeError as exc:
             last_error = exc
-    else:
+
+    if raw is None:
         raise ValueError(f"No se pudo leer el TXT {path}. Último error: {last_error}")
 
     lines = [line.strip() for line in raw.splitlines() if line.strip()]
@@ -223,28 +255,30 @@ def _read_txt_with_fallback(path: Path) -> pd.DataFrame:
 
     records: list[dict[str, Any]] = []
 
-    # Se ignora la primera línea de encabezado.
-    # Formato esperado por línea:
-    # region province municipality district_municipal section barrio_paraje sub_barrio name...
-    for line in lines[1:]:
-        parts = line.split()
-        if len(parts) < 8:
+    for line in lines:
+        match = TXT_DATA_LINE_RE.match(line)
+        if not match:
             continue
 
-        record = {
-            "region_code": parts[0],
-            "province_code": parts[1],
-            "municipality_code": parts[2],
-            "district_municipal_code": parts[3],
-            "section_code": parts[4],
-            "barrio_paraje_code": parts[5],
-            "sub_barrio_code": parts[6],
-            "name": " ".join(parts[7:]).strip(),
-        }
-        records.append(record)
+        groups = match.groupdict()
+        records.append(
+            {
+                "region_code": groups["region"],
+                "province_code": groups["province"],
+                "municipality_code": groups["municipality"],
+                "district_municipal_code": groups["district_municipal"],
+                "section_code": groups["section"],
+                "barrio_paraje_code": groups["barrio_paraje"],
+                "sub_barrio_code": groups["sub_barrio"],
+                "name": _clean_name(groups["name"]),
+            }
+        )
 
     if not records:
-        raise ValueError(f"No se pudieron extraer registros válidos desde {path}")
+        raise ValueError(
+            f"No se pudieron extraer registros válidos desde {path}. "
+            "Verifica el formato del TXT."
+        )
 
     return pd.DataFrame(records)
 
@@ -326,7 +360,9 @@ def transform_source_to_catalog(
                 "region_code": _normalize_code(row.get("region_code"), 2),
                 "province_code": _normalize_code(row.get("province_code"), 2),
                 "municipality_code": _normalize_code(row.get("municipality_code"), 2),
-                "district_municipal_code": _normalize_code(row.get("district_municipal_code"), 2),
+                "district_municipal_code": _normalize_code(
+                    row.get("district_municipal_code"), 2
+                ),
                 "section_code": _normalize_code(row.get("section_code"), 2),
                 "barrio_paraje_code": _normalize_code(row.get("barrio_paraje_code"), 3),
                 "sub_barrio_code": _normalize_code(row.get("sub_barrio_code"), 2),
@@ -503,14 +539,105 @@ def write_outputs(
         )
 
 
+def ingest_azua_to_catalog(
+    azua_txt_path: str,
+    master_catalog_path: str,
+    output_catalog_path: str | None = None,
+    *,
+    source_label: str = "AZUA_TXT",
+    valid_from: str | None = None,
+    valid_to: str | None = None,
+    notes: str | None = "Ingesta de Azua desde TXT estructurado.",
+    overwrite_existing: bool = False,
+) -> Path:
+    azua_path = Path(azua_txt_path)
+    if not azua_path.exists():
+        raise FileNotFoundError(
+            f"No se encontró el archivo de Azua en: {azua_path}\n"
+            "Colócalo en data/raw/azua/azua_completo.txt "
+            "o usa --azua-txt con una ruta válida."
+        )
+
+    master_catalog = Path(master_catalog_path)
+    destination = Path(output_catalog_path) if output_catalog_path else master_catalog
+
+    df_source = _read_source(azua_path)
+    df_new = transform_source_to_catalog(
+        df_source,
+        source_label=source_label,
+        valid_from=valid_from,
+        valid_to=valid_to,
+        notes=notes,
+    )
+
+    if master_catalog.exists():
+        df_existing = load_existing_catalog(master_catalog)
+
+        if not overwrite_existing:
+            collisions = set(df_existing["composite_code"]).intersection(
+                set(df_new["composite_code"])
+            )
+            if collisions:
+                sample = sorted(collisions)[:20]
+                raise AssertionError(
+                    "Colisión de composite_code detectada contra el catálogo maestro. "
+                    f"Ejemplos: {sample}"
+                )
+
+        df_final = merge_catalogs(
+            df_existing,
+            df_new,
+            overwrite=overwrite_existing,
+        )
+    else:
+        df_final = df_new
+
+    destination.parent.mkdir(parents=True, exist_ok=True)
+
+    if destination.suffix.lower() == ".parquet":
+        df_final.to_parquet(destination, index=False)
+    else:
+        df_final.to_csv(destination, index=False, encoding="utf-8-sig")
+
+    return destination
+
+
 def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Build RD territorial master catalog from source structure."
     )
+
     parser.add_argument(
-        "--input", required=True, help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt)"
+        "--ingest-azua",
+        action="store_true",
+        help="Ejecuta el flujo de ingesta de Azua sobre el catálogo maestro existente.",
     )
-    parser.add_argument("--sheet-name", default=None, help="Nombre de hoja si la entrada es Excel")
+    parser.add_argument(
+        "--azua-txt",
+        default=str(DEFAULT_AZUA_TXT),
+        help="Ruta del TXT de Azua. Default: data/raw/azua/azua_completo.txt",
+    )
+    parser.add_argument(
+        "--master-catalog",
+        default=str(DEFAULT_MASTER_CATALOG),
+        help="Ruta del catálogo maestro base para la ingesta de Azua.",
+    )
+    parser.add_argument(
+        "--output-catalog",
+        default=str(DEFAULT_OUTPUT_CATALOG),
+        help="Ruta del catálogo de salida para la ingesta de Azua.",
+    )
+
+    parser.add_argument(
+        "--input",
+        required=False,
+        help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt) para el flujo genérico.",
+    )
+    parser.add_argument(
+        "--sheet-name",
+        default=None,
+        help="Nombre de hoja si la entrada es Excel",
+    )
     parser.add_argument(
         "--output-csv",
         default="data/catalog/current/rd_territorial_master.csv",
@@ -528,19 +655,41 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--skip-parquet", action="store_true", help="No generar Parquet")
     parser.add_argument("--metadata-path", default=None, help="Ruta opcional para metadata JSON")
     parser.add_argument(
-        "--append", action="store_true", help="Fusiona contra el catálogo existente"
+        "--append",
+        action="store_true",
+        help="Fusiona contra el catálogo existente en el flujo genérico",
     )
     parser.add_argument(
         "--overwrite-existing",
         action="store_true",
-        help="En modo --append, si el composite_code ya existe, lo reemplaza",
+        help="En modo append, si el composite_code ya existe, lo reemplaza",
     )
+
     return parser
 
 
 def main() -> None:
     parser = build_arg_parser()
     args = parser.parse_args()
+
+    if args.ingest_azua:
+        destination = ingest_azua_to_catalog(
+            azua_txt_path=args.azua_txt,
+            master_catalog_path=args.master_catalog,
+            output_catalog_path=args.output_catalog or None,
+            source_label=args.source_label if args.source_label != "ONE" else "AZUA_TXT",
+            valid_from=args.valid_from,
+            valid_to=args.valid_to,
+            notes=args.notes or "Ingesta de Azua desde TXT estructurado.",
+            overwrite_existing=args.overwrite_existing,
+        )
+        print(f"Catálogo actualizado en: {destination}")
+        return
+
+    if not args.input:
+        raise SystemExit(
+            "Debes indicar --input para el flujo genérico, o usar --ingest-azua."
+        )
 
     input_path = Path(args.input)
     output_csv = Path(args.output_csv)
