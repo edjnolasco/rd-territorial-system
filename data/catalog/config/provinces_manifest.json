@@ -3,12 +3,260 @@
   "description": "Manifest de ingestión provincial para el catálogo territorial RD",
   "provinces": [
     {
+      "province_code": "01",
+      "province_name": "Distrito Nacional",
+      "input_path": "data/raw/dn/dn_completo.txt",
+      "source_label": "DN_TXT",
+      "enabled": true,
+      "notes": "Baseline inicial del catálogo. No reingerir una vez existan provincias acumuladas."
+    },
+    {
       "province_code": "02",
       "province_name": "Azua",
       "input_path": "data/raw/azua/azua_completo.txt",
       "source_label": "AZUA_TXT",
       "enabled": true,
-      "notes": "Provincia piloto de expansión"
+      "notes": "Provincia Azua"
+    },
+    {
+      "province_code": "03",
+      "province_name": "Baoruco",
+      "input_path": "data/raw/baoruco/baoruco_completo.txt",
+      "source_label": "BAORUCO_TXT",
+      "enabled": true,
+      "notes": "Provincia Baoruco"
+    },
+    {
+      "province_code": "04",
+      "province_name": "Barahona",
+      "input_path": "data/raw/barahona/barahona_completo.txt",
+      "source_label": "BARAHONA_TXT",
+      "enabled": true,
+      "notes": "Provincia Barahona"
+    },
+    {
+      "province_code": "05",
+      "province_name": "Dajabón",
+      "input_path": "data/raw/dajabon/dajabon_completo.txt",
+      "source_label": "DAJABON_TXT",
+      "enabled": true,
+      "notes": "Provincia Dajabón"
+    },
+    {
+      "province_code": "06",
+      "province_name": "Duarte",
+      "input_path": "data/raw/duarte/duarte_completo.txt",
+      "source_label": "DUARTE_TXT",
+      "enabled": true,
+      "notes": "Provincia Duarte"
+    },
+    {
+      "province_code": "07",
+      "province_name": "Elías Piña",
+      "input_path": "data/raw/elias_pina/elias_pina_completo.txt",
+      "source_label": "ELIAS_PINA_TXT",
+      "enabled": true,
+      "notes": "Provincia Elías Piña"
+    },
+    {
+      "province_code": "08",
+      "province_name": "El Seibo",
+      "input_path": "data/raw/el_seibo/el_seibo_completo.txt",
+      "source_label": "EL_SEIBO_TXT",
+      "enabled": true,
+      "notes": "Provincia El Seibo"
+    },
+    {
+      "province_code": "09",
+      "province_name": "Espaillat",
+      "input_path": "data/raw/espaillat/espaillat_completo.txt",
+      "source_label": "ESPAILLAT_TXT",
+      "enabled": true,
+      "notes": "Provincia Espaillat"
+    },
+    {
+      "province_code": "10",
+      "province_name": "Independencia",
+      "input_path": "data/raw/independencia/independencia_completo.txt",
+      "source_label": "INDEPENDENCIA_TXT",
+      "enabled": true,
+      "notes": "Provincia Independencia"
+    },
+    {
+      "province_code": "11",
+      "province_name": "La Altagracia",
+      "input_path": "data/raw/la_altagracia/la_altagracia_completo.txt",
+      "source_label": "LA_ALTAGRACIA_TXT",
+      "enabled": true,
+      "notes": "Provincia La Altagracia"
+    },
+    {
+      "province_code": "12",
+      "province_name": "La Romana",
+      "input_path": "data/raw/la_romana/la_romana_completo.txt",
+      "source_label": "LA_ROMANA_TXT",
+      "enabled": true,
+      "notes": "Provincia La Romana"
+    },
+    {
+      "province_code": "13",
+      "province_name": "La Vega",
+      "input_path": "data/raw/la_vega/la_vega_completo.txt",
+      "source_label": "LA_VEGA_TXT",
+      "enabled": true,
+      "notes": "Provincia La Vega"
+    },
+    {
+      "province_code": "14",
+      "province_name": "María Trinidad Sánchez",
+      "input_path": "data/raw/maria_trinidad_sanchez/maria_trinidad_sanchez_completo.txt",
+      "source_label": "MARIA_TRINIDAD_SANCHEZ_TXT",
+      "enabled": true,
+      "notes": "Provincia María Trinidad Sánchez"
+    },
+    {
+      "province_code": "15",
+      "province_name": "Monte Cristi",
+      "input_path": "data/raw/monte_cristi/monte_cristi_completo.txt",
+      "source_label": "MONTE_CRISTI_TXT",
+      "enabled": true,
+      "notes": "Provincia Monte Cristi"
+    },
+    {
+      "province_code": "16",
+      "province_name": "Pedernales",
+      "input_path": "data/raw/pedernales/pedernales_completo.txt",
+      "source_label": "PEDERNALES_TXT",
+      "enabled": true,
+      "notes": "Provincia Pedernales"
+    },
+    {
+      "province_code": "17",
+      "province_name": "Peravia",
+      "input_path": "data/raw/peravia/peravia_completo.txt",
+      "source_label": "PERAVIA_TXT",
+      "enabled": true,
+      "notes": "Provincia Peravia"
+    },
+    {
+      "province_code": "18",
+      "province_name": "Puerto Plata",
+      "input_path": "data/raw/puerto_plata/puerto_plata_completo.txt",
+      "source_label": "PUERTO_PLATA_TXT",
+      "enabled": true,
+      "notes": "Provincia Puerto Plata"
+    },
+    {
+      "province_code": "19",
+      "province_name": "Hermanas Mirabal",
+      "input_path": "data/raw/hermanas_mirabal/hermanas_mirabal_completo.txt",
+      "source_label": "HERMANAS_MIRABAL_TXT",
+      "enabled": true,
+      "notes": "Provincia Hermanas Mirabal"
+    },
+    {
+      "province_code": "20",
+      "province_name": "Samaná",
+      "input_path": "data/raw/samana/samana_completo.txt",
+      "source_label": "SAMANA_TXT",
+      "enabled": true,
+      "notes": "Provincia Samaná"
+    },
+    {
+      "province_code": "21",
+      "province_name": "San Cristóbal",
+      "input_path": "data/raw/san_cristobal/san_cristobal_completo.txt",
+      "source_label": "SAN_CRISTOBAL_TXT",
+      "enabled": true,
+      "notes": "Provincia San Cristóbal"
+    },
+    {
+      "province_code": "22",
+      "province_name": "San Juan",
+      "input_path": "data/raw/san_juan/san_juan_completo.txt",
+      "source_label": "SAN_JUAN_TXT",
+      "enabled": true,
+      "notes": "Provincia San Juan"
+    },
+    {
+      "province_code": "23",
+      "province_name": "San Pedro de Macorís",
+      "input_path": "data/raw/san_pedro_de_macoris/san_pedro_de_macoris_completo.txt",
+      "source_label": "SAN_PEDRO_DE_MACORIS_TXT",
+      "enabled": true,
+      "notes": "Provincia San Pedro de Macorís"
+    },
+    {
+      "province_code": "24",
+      "province_name": "Sánchez Ramírez",
+      "input_path": "data/raw/sanchez_ramirez/sanchez_ramirez_completo.txt",
+      "source_label": "SANCHEZ_RAMIREZ_TXT",
+      "enabled": true,
+      "notes": "Provincia Sánchez Ramírez"
+    },
+    {
+      "province_code": "25",
+      "province_name": "Santiago",
+      "input_path": "data/raw/santiago/santiago_completo.txt",
+      "source_label": "SANTIAGO_TXT",
+      "enabled": true,
+      "notes": "Provincia Santiago"
+    },
+    {
+      "province_code": "26",
+      "province_name": "Santiago Rodríguez",
+      "input_path": "data/raw/santiago_rodriguez/santiago_rodriguez_completo.txt",
+      "source_label": "SANTIAGO_RODRIGUEZ_TXT",
+      "enabled": true,
+      "notes": "Provincia Santiago Rodríguez"
+    },
+    {
+      "province_code": "27",
+      "province_name": "Valverde",
+      "input_path": "data/raw/valverde/valverde_completo.txt",
+      "source_label": "VALVERDE_TXT",
+      "enabled": true,
+      "notes": "Provincia Valverde"
+    },
+    {
+      "province_code": "28",
+      "province_name": "Monseñor Nouel",
+      "input_path": "data/raw/monsenor_nouel/monsenor_nouel_completo.txt",
+      "source_label": "MONSENOR_NOUEL_TXT",
+      "enabled": true,
+      "notes": "Provincia Monseñor Nouel"
+    },
+    {
+      "province_code": "29",
+      "province_name": "Monte Plata",
+      "input_path": "data/raw/monte_plata/monte_plata_completo.txt",
+      "source_label": "MONTE_PLATA_TXT",
+      "enabled": true,
+      "notes": "Provincia Monte Plata"
+    },
+    {
+      "province_code": "30",
+      "province_name": "Hato Mayor",
+      "input_path": "data/raw/hato_mayor/hato_mayor_completo.txt",
+      "source_label": "HATO_MAYOR_TXT",
+      "enabled": true,
+      "notes": "Provincia Hato Mayor"
+    },
+    {
+      "province_code": "31",
+      "province_name": "San José de Ocoa",
+      "input_path": "data/raw/san_jose_de_ocoa/san_jose_de_ocoa_completo.txt",
+      "source_label": "SAN_JOSE_DE_OCOA_TXT",
+      "enabled": true,
+      "notes": "Provincia San José de Ocoa"
+    },
+    {
+      "province_code": "32",
+      "province_name": "Santo Domingo",
+      "input_path": "data/raw/santo_domingo/santo_domingo_completo.txt",
+      "source_label": "SANTO_DOMINGO_TXT",
+      "enabled": true,
+      "notes": "Provincia Santo Domingo"
     }
   ]
 }
