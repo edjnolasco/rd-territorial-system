@@ -5,10 +5,15 @@ from rd_territorial_system.api.schemas import (
     EntityLookupResponse,
     Level,
     ProvinceEntitiesResponse,
+    TerritorialEntity,
 )
 from rd_territorial_system.catalog import get_default_catalog
 
 router = APIRouter()
+
+
+def map_entity(entity):
+    return TerritorialEntity(**entity.to_dict())
 
 
 @router.get("/entities/{composite_code}", response_model=EntityLookupResponse)
@@ -19,24 +24,17 @@ def get_entity(composite_code: str):
     if entity is None:
         raise HTTPException(
             status_code=404,
-            detail={
-                "matched": False,
-                "status": "not_found",
-                "message": "No territorial entity found for composite_code.",
-            },
+            detail="No territorial entity found for composite_code.",
         )
 
     return {
         "matched": True,
         "status": "matched",
-        "entity": entity.to_dict(),
+        "entity": map_entity(entity),
     }
 
 
-@router.get(
-    "/entities/{composite_code}/children",
-    response_model=ChildrenResponse,
-)
+@router.get("/entities/{composite_code}/children", response_model=ChildrenResponse)
 def get_children(
     composite_code: str,
     level: Level | None = None,
@@ -45,30 +43,18 @@ def get_children(
     catalog = get_default_catalog()
 
     if catalog.resolve_code(composite_code) is None:
-        raise HTTPException(
-            status_code=404,
-            detail=f"No territorial entity found for composite_code: {composite_code}",
-        )
+        raise HTTPException(status_code=404)
 
-    children = catalog.get_children(
-        composite_code,
-        level=level,
-        limit=limit,
-    )
-
-    items = [item.to_dict() for item in children]
+    children = catalog.get_children(composite_code, level=level, limit=limit)
 
     return {
         "parent_code": composite_code,
-        "count": len(items),
-        "items": items,
+        "count": len(children),
+        "items": [map_entity(c) for c in children],
     }
 
 
-@router.get(
-    "/provinces/{province_code}/entities",
-    response_model=ProvinceEntitiesResponse,
-)
+@router.get("/provinces/{province_code}/entities", response_model=ProvinceEntitiesResponse)
 def get_province_entities(
     province_code: str,
     level: Level | None = None,
@@ -76,16 +62,10 @@ def get_province_entities(
 ):
     catalog = get_default_catalog()
 
-    items = catalog.get_by_province(
-        province_code,
-        level=level,
-        limit=limit,
-    )
-
-    payload = [item.to_dict() for item in items]
+    items = catalog.get_by_province(province_code, level=level, limit=limit)
 
     return {
-        "province_code": str(province_code).strip().zfill(2),
-        "count": len(payload),
-        "items": payload,
+        "province_code": province_code.zfill(2),
+        "count": len(items),
+        "items": [map_entity(i) for i in items],
     }

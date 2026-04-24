@@ -228,7 +228,7 @@ def test_resolve_villa_maria_disambiguated_by_parent_code():
     assert payload["entity"]["parent_composite_code"] == "10-01-01-01-01-002-00"
 
 
-def test_resolve_strict_not_found_returns_400():
+def test_resolve_strict_not_found_returns_404():
     response = client.post(
         "/api/v1/resolve",
         json={
@@ -240,12 +240,12 @@ def test_resolve_strict_not_found_returns_400():
         },
     )
 
-    assert response.status_code == 400
+    assert response.status_code == 404
     payload = response.json()
     assert "detail" in payload
 
 
-def test_resolve_strict_ambiguous_returns_400():
+def test_resolve_strict_ambiguous_returns_409():
     response = client.post(
         "/api/v1/resolve",
         json={
@@ -257,7 +257,7 @@ def test_resolve_strict_ambiguous_returns_400():
         },
     )
 
-    assert response.status_code == 400
+    assert response.status_code == 409
     payload = response.json()
     assert "detail" in payload
 

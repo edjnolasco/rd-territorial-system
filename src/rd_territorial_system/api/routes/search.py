@@ -1,10 +1,14 @@
 from fastapi import APIRouter
 
-from rd_territorial_system.api.schemas import SearchRequest, SearchResponse
+from rd_territorial_system.api.schemas import SearchRequest, SearchResponse, TerritorialEntity
 from rd_territorial_system.catalog import get_default_catalog
 from rd_territorial_system.normalization import normalize_text
 
 router = APIRouter()
+
+
+def map_entity(entity):
+    return TerritorialEntity(**entity.to_dict())
 
 
 @router.post("/search", response_model=SearchResponse)
@@ -22,5 +26,5 @@ def search(payload: SearchRequest):
         "input": payload.text,
         "normalized_text": normalize_text(payload.text),
         "count": len(items),
-        "items": [item.to_dict() for item in items],
+        "items": [map_entity(i) for i in items],
     }
