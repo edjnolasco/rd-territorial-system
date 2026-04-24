@@ -310,9 +310,10 @@
       "input_path": "data/raw/santiagorodriguez/santiago_rodriguez_completo.txt",
       "source_label": "ONE_SANTIAGO_RODRIGUEZ_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "27",
@@ -321,9 +322,10 @@
       "input_path": "data/raw/valverde/valverde_completo.txt",
       "source_label": "ONE_VALVERDE_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "28",
@@ -332,9 +334,10 @@
       "input_path": "data/raw/monsenornouel/monsenor_nouel_completo.txt",
       "source_label": "ONE_MONSENOR_NOUEL_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "29",
@@ -343,9 +346,10 @@
       "input_path": "data/raw/monteplata/monte_plata_completo.txt",
       "source_label": "ONE_MONTE_PLATA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "30",
@@ -354,9 +358,10 @@
       "input_path": "data/raw/hatomayor/hato_mayor_completo.txt",
       "source_label": "ONE_HATO_MAYOR_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "31",
