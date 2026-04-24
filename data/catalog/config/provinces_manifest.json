@@ -251,9 +251,10 @@
       "input_path": "data/raw/sancristobal/san_cristobal_completo.txt",
       "source_label": "ONE_SAN_CRISTOBAL_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "22",
