@@ -8,8 +8,6 @@ import pytest
 
 
 CATALOG_CANDIDATES = [
-    Path("data/catalog/current/rd_territorial_master_candidate.parquet"),
-    Path("data/catalog/current/rd_territorial_master.parquet"),
     Path("data/catalog/current/rd_territorial_master_candidate.csv"),
     Path("data/catalog/current/rd_territorial_master.csv"),
 ]
@@ -47,7 +45,7 @@ def _find_catalog_path() -> Path:
             return path
 
     raise FileNotFoundError(
-        "No se encontró el catálogo maestro/candidato en ninguna de las rutas esperadas: "
+        "No se encontró el catálogo CSV en ninguna de las rutas esperadas: "
         f"{[str(p) for p in CATALOG_CANDIDATES]}"
     )
 
@@ -55,10 +53,8 @@ def _find_catalog_path() -> Path:
 def _load_catalog() -> pd.DataFrame:
     path = _find_catalog_path()
 
-    if path.suffix.lower() == ".parquet":
-        df = pd.read_parquet(path)
-    else:
-        df = pd.read_csv(path, dtype=str)
+    # 🔥 CSV ONLY
+    df = pd.read_csv(path, dtype=str, encoding="utf-8-sig").fillna("")
 
     missing = REQUIRED_COLUMNS - set(df.columns)
     if missing:

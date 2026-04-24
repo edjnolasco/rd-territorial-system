@@ -1,21 +1,50 @@
-import sys
 import argparse
+import os
+import sys
+
 import pandas as pd
 
 
-def run(candidate_path: str, province_code: str) -> None:
-    df = pd.read_parquet(candidate_path)
+def normalize_series_as_str(series: pd.Series) -> pd.Series:
+    return series.astype(str).str.strip()
 
-    province_rows = len(df[df["province_code"] == province_code])
+
+def run(candidate_path: str, province_code: str) -> None:
+    if not os.path.exists(candidate_path):
+        print(f"ERROR: No existe el archivo candidate: {candidate_path}")
+        sys.exit(1)
+
+    df = pd.read_csv(candidate_path, dtype=str, encoding="utf-8-sig").fillna("")
+
+    required_columns = {
+        "province_code",
+        "composite_code",
+        "parent_composite_code",
+    }
+    missing_columns = required_columns - set(df.columns)
+    if missing_columns:
+        print(
+            "ERROR: Faltan columnas requeridas en candidate: "
+            f"{sorted(missing_columns)}"
+        )
+        sys.exit(1)
+
+    province_code = str(province_code).zfill(2)
+    province_rows = len(
+        df[normalize_series_as_str(df["province_code"]).str.zfill(2) == province_code]
+    )
     dupes = int(df["composite_code"].duplicated().sum())
 
+    parent_series = normalize_series_as_str(df["parent_composite_code"])
+    composite_series = normalize_series_as_str(df["composite_code"])
+
     parents_missing = df[
-        df["parent_composite_code"].notna()
-        & (df["parent_composite_code"].astype(str).str.strip() != "")
-        & ~df["parent_composite_code"].isin(df["composite_code"])
+        (parent_series != "")
+        & ~parent_series.isin(composite_series)
     ]
     missing_parent_count = len(parents_missing)
 
+    print("candidate:", candidate_path)
     print("province_code:", province_code)
     print("rows:", province_rows)
     print("duplicated composite_code:", dupes)
@@ -41,12 +70,12 @@ if __name__ == "__main__":
     parser.add_argument(
         "--candidate",
         required=True,
-        help="Ruta al parquet candidate"
+        help="Ruta al CSV candidate",
     )
     parser.add_argument(
         "--province-code",
         required=True,
-        help="Código de provincia (ej: 03)"
+        help="Código de provincia, por ejemplo: 04",
     )
 
     args = parser.parse_args()

@@ -60,27 +60,33 @@ def validate_azua_batch(df: pd.DataFrame) -> None:
     if set(df["province_code"]) != {"02"}:
         raise AssertionError("El archivo de Azua contiene province_code distinto de 02")
 
-    valid_levels = {"province", "municipality", "district_municipal", "section", "barrio_paraje", "sub_barrio"}
+    valid_levels = {
+        "province",
+        "municipality",
+        "district_municipal",
+        "section",
+        "barrio_paraje",
+        "sub_barrio",
+    }
     if not df["level_name"].isin(valid_levels).all():
-        invalid = sorted(df.loc[~df["level_name"].isin(valid_levels), "level_name"].unique())
+        invalid = sorted(
+            df.loc[~df["level_name"].isin(valid_levels), "level_name"].unique()
+        )
         raise AssertionError(f"Niveles inválidos detectados: {invalid}")
 
-    # todo padre debe existir dentro del mismo batch, salvo el nivel raíz provincial
+    # todo padre debe existir dentro del mismo batch
     missing_parents = df.loc[
         df["parent_composite_code"].notna()
         & ~df["parent_composite_code"].isin(df["composite_code"])
     ]
     if not missing_parents.empty:
-        sample = missing_parents[["raw_code", "composite_code", "parent_composite_code"]].head(10)
-        raise AssertionError(f"Padres inexistentes detectados:\n{sample.to_string(index=False)}")
+        sample = missing_parents[
+            ["raw_code", "composite_code", "parent_composite_code"]
+        ].head(10)
+        raise AssertionError(
+            f"Padres inexistentes detectados:\n{sample.to_string(index=False)}"
+        )
 
-    # preservar nombres repetidos válidos: pueden existir, pero nunca colisionar por identidad
-    if (
-        df.groupby("display_name")["composite_code"].nunique().max() < 1
-    ):
-        raise AssertionError("Validación inconsistente de nombres repetidos")
-
-    # sanity checks mínimos del archivo real
     expected_counts = {
         "province": 1,
         "municipality": 10,
@@ -93,13 +99,20 @@ def validate_azua_batch(df: pd.DataFrame) -> None:
             )
 
 
-def append_catalog_batch(master_catalog_path: str | Path, batch_df: pd.DataFrame) -> pd.DataFrame:
+# ----------------------------------------------------------------------
+# 🔥 CSV-ONLY APPEND
+# ----------------------------------------------------------------------
+def append_catalog_batch(
+    master_catalog_path: str | Path,
+    batch_df: pd.DataFrame,
+) -> pd.DataFrame:
     master_path = Path(master_catalog_path)
 
-    if master_path.suffix.lower() == ".parquet":
-        master_df = pd.read_parquet(master_path)
-    else:
-        master_df = pd.read_csv(master_path, dtype=str)
+    if not master_path.exists():
+        raise AssertionError(f"No existe el catálogo maestro: {master_path}")
+
+    # 🔥 SOLO CSV
+    master_df = pd.read_csv(master_path, dtype=str, encoding="utf-8-sig").fillna("")
 
     required_master_columns = {
         "composite_code",
@@ -113,15 +126,23 @@ def append_catalog_batch(master_catalog_path: str | Path, batch_df: pd.DataFrame
             f"El catálogo maestro no contiene columnas requeridas para append: {sorted(missing_master)}"
         )
 
-    collisions = set(master_df["composite_code"]).intersection(set(batch_df["composite_code"]))
+    collisions = set(master_df["composite_code"]).intersection(
+        set(batch_df["composite_code"])
+    )
     if collisions:
         sample = sorted(collisions)[:20]
-        raise AssertionError(f"Colisión de composite_code contra catálogo maestro: {sample}")
+        raise AssertionError(
+            f"Colisión de composite_code contra catálogo maestro: {sample}"
+        )
 
     combined = pd.concat([master_df, batch_df], ignore_index=True, sort=False)
 
     if combined["composite_code"].duplicated().any():
-        dupes = combined.loc[combined["composite_code"].duplicated(), "composite_code"].tolist()
-        raise AssertionError(f"El append produjo composite_code duplicados: {dupes[:20]}")
+        dupes = combined.loc[
+            combined["composite_code"].duplicated(), "composite_code"
+        ].tolist()
+        raise AssertionError(
+            f"El append produjo composite_code duplicados: {dupes[:20]}"
+        )
 
     return combined

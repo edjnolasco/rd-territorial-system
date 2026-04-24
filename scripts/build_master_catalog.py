@@ -21,6 +21,7 @@ if str(SRC_ROOT) not in sys.path:
 
 from rd_territorial_system.normalization import normalize_text  # noqa: E402
 
+
 COLUMN_ALIASES = {
     "región": "region_code",
     "region": "region_code",
@@ -110,8 +111,8 @@ TXT_DATA_LINE_RE = re.compile(
 )
 
 DEFAULT_AZUA_TXT = Path("data/raw/azua/azua_completo.txt")
-DEFAULT_MASTER_CATALOG = Path("data/catalog/current/rd_territorial_master.parquet")
-DEFAULT_OUTPUT_CATALOG = Path("data/catalog/current/rd_territorial_master_candidate.parquet")
+DEFAULT_MASTER_CATALOG = Path("data/catalog/current/rd_territorial_master.csv")
+DEFAULT_OUTPUT_CATALOG = Path("data/catalog/current/rd_territorial_master_candidate.csv")
 
 
 def _clean_header(text: str) -> str:
@@ -155,6 +156,36 @@ def _cast_code_columns_for_merge(df: pd.DataFrame) -> pd.DataFrame:
             df[col] = df[col].fillna("").astype("string")
 
     return df
+
+
+def _catalog_province_codes(df: pd.DataFrame) -> list[str]:
+    if df.empty or "province_code" not in df.columns:
+        return []
+
+    return sorted(
+        {
+            str(value).replace(".0", "").strip().zfill(2)
+            for value in df["province_code"].dropna().astype(str)
+            if str(value).strip() != ""
+        }
+    )
+
+
+def _validate_candidate_accumulated(
+    *,
+    existing_df: pd.DataFrame,
+    final_df: pd.DataFrame,
+    expected_new_code: str,
+) -> None:
+    master_codes = _catalog_province_codes(existing_df)
+    actual_codes = _catalog_province_codes(final_df)
+    expected_codes = sorted(set(master_codes + [str(expected_new_code).zfill(2)]))
+
+    if actual_codes != expected_codes:
+        raise AssertionError(
+            "El candidate no preserva el acumulado esperado. "
+            f"Esperado={expected_codes}, observado={actual_codes}"
+        )
 
 
 def build_composite_code(row: dict[str, Any]) -> str:
@@ -210,7 +241,8 @@ def build_parent_code(row: dict[str, Any], level: str) -> str:
         return f"{region_code}-{province_code}-{municipality_code}-00-00-000-00"
     if level == "section":
         return (
-            f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-00-000-00"
+            f"{region_code}-{province_code}-{municipality_code}-"
+            f"{district_municipal_code}-00-000-00"
         )
     if level == "barrio_paraje":
         return (
@@ -227,11 +259,13 @@ def build_parent_code(row: dict[str, Any], level: str) -> str:
 
 def _read_csv_with_fallback(path: Path) -> pd.DataFrame:
     last_error = None
+
     for encoding in TEXT_ENCODINGS:
         try:
-            return pd.read_csv(path, encoding=encoding)
+            return pd.read_csv(path, encoding=encoding, dtype=str).fillna("")
         except UnicodeDecodeError as exc:
             last_error = exc
+
     raise ValueError(f"No se pudo leer el CSV {path}. Último error: {last_error}")
 
 
@@ -289,7 +323,7 @@ def _read_source(path: Path, sheet_name: str | None = None) -> pd.DataFrame:
     if suffix == ".csv":
         return _read_csv_with_fallback(path)
     if suffix in {".xlsx", ".xls"}:
-        return pd.read_excel(path, sheet_name=sheet_name)
+        return pd.read_excel(path, sheet_name=sheet_name, dtype=str).fillna("")
     if suffix == ".txt":
         return _read_txt_with_fallback(path)
 
@@ -345,7 +379,12 @@ def transform_source_to_catalog(
         if col == "name":
             df[col] = df[col].map(_clean_name)
         else:
-            df[col] = df[col].astype(str).str.replace(".0", "", regex=False).str.strip()
+            df[col] = (
+                df[col]
+                .astype(str)
+                .str.replace(".0", "", regex=False)
+                .str.strip()
+            )
 
     records: list[dict[str, Any]] = []
 
@@ -364,7 +403,9 @@ def transform_source_to_catalog(
                     row.get("district_municipal_code"), 2
                 ),
                 "section_code": _normalize_code(row.get("section_code"), 2),
-                "barrio_paraje_code": _normalize_code(row.get("barrio_paraje_code"), 3),
+                "barrio_paraje_code": _normalize_code(
+                    row.get("barrio_paraje_code"), 3
+                ),
                 "sub_barrio_code": _normalize_code(row.get("sub_barrio_code"), 2),
                 "level": level,
                 "name": name,
@@ -384,7 +425,10 @@ def transform_source_to_catalog(
     _build_full_paths(records)
 
     out = pd.DataFrame(records, columns=CATALOG_COLUMNS)
-    out = out.drop_duplicates(subset=["composite_code"], keep="first").reset_index(drop=True)
+    out = out.drop_duplicates(
+        subset=["composite_code"],
+        keep="first",
+    ).reset_index(drop=True)
 
     level_rank = {name: idx for idx, name in enumerate(LEVEL_ORDER)}
     out["__level_rank"] = out["level"].map(level_rank)
@@ -407,25 +451,23 @@ def transform_source_to_catalog(
         .reset_index(drop=True)
     )
 
-    return out
+    return normalize_catalog_dtypes(out)
 
 
 def load_existing_catalog(path: Path) -> pd.DataFrame:
     if not path.exists():
         return pd.DataFrame(columns=CATALOG_COLUMNS)
 
-    if path.suffix.lower() == ".parquet":
-        df = pd.read_parquet(path)
-    else:
-        df = _read_csv_with_fallback(path)
+    df = _read_csv_with_fallback(path)
 
     missing = [col for col in CATALOG_COLUMNS if col not in df.columns]
     if missing:
         raise ValueError(
-            f"El catálogo existente {path} no tiene las columnas esperadas. Faltan: {missing}"
+            f"El catálogo existente {path} no tiene las columnas esperadas. "
+            f"Faltan: {missing}"
         )
 
-    return df[CATALOG_COLUMNS].copy()
+    return normalize_catalog_dtypes(df[CATALOG_COLUMNS].copy())
 
 
 def merge_catalogs(
@@ -434,6 +476,9 @@ def merge_catalogs(
     *,
     overwrite: bool = True,
 ) -> pd.DataFrame:
+    existing_df = normalize_catalog_dtypes(existing_df)
+    new_df = normalize_catalog_dtypes(new_df)
+
     if existing_df.empty:
         merged = new_df.copy()
     else:
@@ -505,8 +550,8 @@ def normalize_catalog_dtypes(df: pd.DataFrame) -> pd.DataFrame:
 
     for col in string_columns:
         if col in df.columns:
-            df[col] = df[col].where(df[col].notna(), None)
-            df[col] = df[col].map(lambda x: str(x).strip() if x is not None else None)
+            df[col] = df[col].where(df[col].notna(), "")
+            df[col] = df[col].map(lambda x: str(x).strip())
 
     if "is_official" in df.columns:
         df["is_official"] = df["is_official"].fillna(False).astype(bool)
@@ -514,11 +559,10 @@ def normalize_catalog_dtypes(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def write_outputs(
+def write_catalog_csv(
     df: pd.DataFrame,
     *,
     output_csv: Path,
-    output_parquet: Path | None = None,
     output_metadata: Path | None = None,
     metadata: dict[str, Any] | None = None,
 ) -> None:
@@ -526,10 +570,6 @@ def write_outputs(
 
     output_csv.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(output_csv, index=False, encoding="utf-8-sig")
-
-    if output_parquet:
-        output_parquet.parent.mkdir(parents=True, exist_ok=True)
-        df.to_parquet(output_parquet, index=False)
 
     if output_metadata and metadata is not None:
         output_metadata.parent.mkdir(parents=True, exist_ok=True)
@@ -558,8 +598,8 @@ def ingest_azua_to_catalog(
             "o usa --azua-txt con una ruta válida."
         )
 
-    master_catalog = Path(master_catalog_path)
-    destination = Path(output_catalog_path) if output_catalog_path else master_catalog
+    master_path = Path(master_catalog_path)
+    destination = Path(output_catalog_path) if output_catalog_path else master_path
 
     df_source = _read_source(azua_path)
     df_new = transform_source_to_catalog(
@@ -570,36 +610,38 @@ def ingest_azua_to_catalog(
         notes=notes,
     )
 
-    if master_catalog.exists():
-        df_existing = load_existing_catalog(master_catalog)
+    df_existing = load_existing_catalog(master_path)
 
-        if not overwrite_existing:
-            collisions = set(df_existing["composite_code"]).intersection(
-                set(df_new["composite_code"])
-            )
-            if collisions:
-                sample = sorted(collisions)[:20]
-                raise AssertionError(
-                    "Colisión de composite_code detectada contra el catálogo maestro. "
-                    f"Ejemplos: {sample}"
-                )
-
-        df_final = merge_catalogs(
-            df_existing,
-            df_new,
-            overwrite=overwrite_existing,
+    if not overwrite_existing:
+        collisions = set(df_existing["composite_code"]).intersection(
+            set(df_new["composite_code"])
         )
-    else:
-        df_final = df_new
+        if collisions:
+            sample = sorted(collisions)[:20]
+            raise AssertionError(
+                "Colisión de composite_code detectada contra el catálogo maestro. "
+                f"Ejemplos: {sample}"
+            )
 
-    destination.parent.mkdir(parents=True, exist_ok=True)
+    df_final = merge_catalogs(
+        df_existing,
+        df_new,
+        overwrite=overwrite_existing,
+    )
 
-    if destination.suffix.lower() == ".parquet":
-        df_final.to_parquet(destination, index=False)
-    else:
-        df_final.to_csv(destination, index=False, encoding="utf-8-sig")
+    _validate_candidate_accumulated(
+        existing_df=df_existing,
+        final_df=df_final,
+        expected_new_code="02",
+    )
+
+    write_catalog_csv(
+        df_final,
+        output_csv=destination,
+    )
 
     return destination
+
 
 def load_manifest(manifest_path: str | Path) -> dict[str, Any]:
     path = Path(manifest_path)
@@ -625,13 +667,16 @@ def get_manifest_entry(
 
     if province_code:
         matches = [
-            item for item in candidates
-            if str(item.get("province_code", "")).zfill(2) == str(province_code).zfill(2)
+            item
+            for item in candidates
+            if str(item.get("province_code", "")).zfill(2)
+            == str(province_code).zfill(2)
         ]
     elif province_name:
         target = str(province_name).strip().casefold()
         matches = [
-            item for item in candidates
+            item
+            for item in candidates
             if str(item.get("province_name", "")).strip().casefold() == target
         ]
     else:
@@ -639,21 +684,21 @@ def get_manifest_entry(
 
     if not matches:
         raise ValueError(
-            f"No se encontró una entrada en el manifiesto para province_code={province_code} "
-            f"province_name={province_name}"
+            "No se encontró una entrada en el manifiesto para "
+            f"province_code={province_code} province_name={province_name}"
         )
 
     if len(matches) > 1:
         raise ValueError(
-            f"Se encontraron múltiples entradas en el manifiesto para province_code={province_code} "
-            f"province_name={province_name}"
+            "Se encontraron múltiples entradas en el manifiesto para "
+            f"province_code={province_code} province_name={province_name}"
         )
 
     entry = matches[0]
     if not bool(entry.get("enabled", True)):
         raise ValueError(
-            f"La provincia {entry.get('province_name')} ({entry.get('province_code')}) "
-            "está deshabilitada en el manifiesto."
+            f"La provincia {entry.get('province_name')} "
+            f"({entry.get('province_code')}) está deshabilitada en el manifiesto."
         )
 
     return entry
@@ -678,45 +723,115 @@ def ingest_province_from_manifest(
         province_name=province_name,
     )
 
-    input_path = entry["input_path"]
-    source_label = entry.get("source_label", f'{entry["province_name"].upper()}_TXT')
-    manifest_notes = entry.get("notes")
-
-    final_notes = notes if notes is not None else manifest_notes
-
-    input_file = Path(input_path)
+    input_file = Path(entry["input_path"])
     if not input_file.exists():
         raise FileNotFoundError(
             f"No se encontró la fuente declarada en el manifiesto: {input_file}"
         )
 
+    source_label = entry.get("source_label", f'{entry["province_name"].upper()}_TXT')
+    manifest_notes = entry.get("notes")
+    final_notes = notes if notes is not None else manifest_notes
+    expected_code = str(entry["province_code"]).zfill(2)
+
     df_source = _read_source(input_file)
+    df_source.columns = _standardize_columns(list(df_source.columns))
+
+    if "province_code" not in df_source.columns:
+        raise ValueError(
+            "La fuente no contiene la columna province_code después de normalizar "
+            "encabezados."
+        )
+
     unique_province_codes = sorted(
         {
-            str(value).zfill(2)
-            for value in df_source["province_code"].dropna().astype(str).str.replace(".0", "", regex=False)
+            str(value).replace(".0", "").strip().zfill(2)
+            for value in df_source["province_code"].dropna().astype(str)
+            if str(value).strip() != ""
         }
     )
 
-    expected_code = str(entry["province_code"]).zfill(2)
     if unique_province_codes != [expected_code]:
         raise AssertionError(
-            "La fuente no corresponde exclusivamente a la provincia declarada en el manifiesto. "
+            "La fuente no corresponde exclusivamente a la provincia declarada "
+            "en el manifiesto. "
             f"Esperado={[expected_code]}, observado={unique_province_codes}"
         )
 
-    destination = ingest_azua_to_catalog(
-        azua_txt_path=str(input_file),
-        master_catalog_path=master_catalog_path,
-        output_catalog_path=output_catalog_path,
+    df_new = transform_source_to_catalog(
+        df_source,
         source_label=source_label,
         valid_from=valid_from,
         valid_to=valid_to,
         notes=final_notes,
-        overwrite_existing=overwrite_existing,
+    )
+
+    master_path = Path(master_catalog_path)
+    df_existing = load_existing_catalog(master_path)
+
+    if not overwrite_existing:
+        collisions = set(df_existing["composite_code"]).intersection(
+            set(df_new["composite_code"])
+        )
+        if collisions:
+            sample = sorted(collisions)[:20]
+            raise AssertionError(
+                "Colisión de composite_code detectada contra el catálogo maestro. "
+                f"Ejemplos: {sample}"
+            )
+
+    df_final = merge_catalogs(
+        df_existing,
+        df_new,
+        overwrite=overwrite_existing,
+    )
+
+    _validate_candidate_accumulated(
+        existing_df=df_existing,
+        final_df=df_final,
+        expected_new_code=expected_code,
+    )
+
+    destination = Path(output_catalog_path) if output_catalog_path else master_path
+
+    write_catalog_csv(
+        df_final,
+        output_csv=destination,
     )
 
     return destination
+
+
+def validate_catalog_csv(csv_path: str) -> None:
+    path = Path(csv_path)
+
+    if not path.exists():
+        raise FileNotFoundError(f"No existe el catálogo CSV: {path}")
+
+    df = _read_csv_with_fallback(path)
+
+    missing = [col for col in CATALOG_COLUMNS if col not in df.columns]
+    if missing:
+        raise AssertionError(
+            f"El catálogo CSV no tiene las columnas esperadas. Faltan: {missing}"
+        )
+
+    duplicated_codes = df[df["composite_code"].duplicated(keep=False)]
+    if not duplicated_codes.empty:
+        sample = duplicated_codes["composite_code"].dropna().astype(str).unique()[:20]
+        raise AssertionError(
+            "El catálogo contiene composite_code duplicados. "
+            f"Ejemplos: {list(sample)}"
+        )
+
+    province_codes = _catalog_province_codes(df)
+    if not province_codes:
+        raise AssertionError("El catálogo no contiene province_code válidos.")
+
+    print(f"Catálogo válido: {path}")
+    print(f"Filas: {len(df)}")
+    print(f"Provincias: {province_codes}")
+
 
 def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
@@ -736,14 +851,16 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--master-catalog",
         default=str(DEFAULT_MASTER_CATALOG),
-        help="Ruta del catálogo maestro base para la ingesta de Azua.",
+        help="Ruta del catálogo maestro CSV base.",
     )
     parser.add_argument(
         "--output-catalog",
         default=str(DEFAULT_OUTPUT_CATALOG),
-        help="Ruta del catálogo de salida para la ingesta de Azua.",
+        help=(
+            "Ruta del catálogo CSV de salida para ingesta incremental. "
+            "Default: data/catalog/current/rd_territorial_master_candidate.csv"
+        ),
     )
-
     parser.add_argument(
         "--input",
         required=False,
@@ -752,33 +869,31 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--sheet-name",
         default=None,
-        help="Nombre de hoja si la entrada es Excel",
+        help="Nombre de hoja si la entrada es Excel.",
     )
     parser.add_argument(
         "--output-csv",
-        default="data/catalog/current/rd_territorial_master.csv",
-        help="Ruta del catálogo maestro CSV",
+        default=str(DEFAULT_MASTER_CATALOG),
+        help="Ruta del catálogo CSV de salida para el flujo genérico.",
     )
+    parser.add_argument("--source-label", default="ONE", help="Etiqueta de fuente.")
+    parser.add_argument("--valid-from", default=None, help="Fecha de vigencia inicial.")
+    parser.add_argument("--valid-to", default=None, help="Fecha de vigencia final.")
+    parser.add_argument("--notes", default=None, help="Notas para las filas generadas.")
     parser.add_argument(
-        "--output-parquet",
-        default="data/catalog/current/rd_territorial_master.parquet",
-        help="Ruta del catálogo maestro Parquet",
+        "--metadata-path",
+        default=None,
+        help="Ruta opcional para metadata JSON.",
     )
-    parser.add_argument("--source-label", default="ONE", help="Etiqueta de fuente")
-    parser.add_argument("--valid-from", default=None, help="Fecha de vigencia inicial")
-    parser.add_argument("--valid-to", default=None, help="Fecha de vigencia final")
-    parser.add_argument("--notes", default=None, help="Notas para las filas generadas")
-    parser.add_argument("--skip-parquet", action="store_true", help="No generar Parquet")
-    parser.add_argument("--metadata-path", default=None, help="Ruta opcional para metadata JSON")
     parser.add_argument(
         "--append",
         action="store_true",
-        help="Fusiona contra el catálogo existente en el flujo genérico",
+        help="Fusiona contra el catálogo CSV existente en el flujo genérico.",
     )
     parser.add_argument(
         "--overwrite-existing",
         action="store_true",
-        help="En modo append, si el composite_code ya existe, lo reemplaza",
+        help="En modo append, si el composite_code ya existe, lo reemplaza.",
     )
     parser.add_argument(
         "--ingest-province",
@@ -800,6 +915,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
         default=None,
         help="Nombre de provincia a ingerir desde el manifiesto.",
     )
+    parser.add_argument(
+        "--validate-catalog",
+        action="store_true",
+        help="Valida el catálogo CSV indicado por --master-catalog.",
+    )
 
     return parser
 
@@ -809,24 +929,33 @@ def main() -> None:
     args = parser.parse_args()
 
     # --------------------------------------
-    # MODO 1: INGESTA AZUA (legacy específico)
+    # MODO 0: VALIDACIÓN CSV
+    # --------------------------------------
+    if args.validate_catalog:
+        validate_catalog_csv(args.master_catalog)
+        return
+
+    # --------------------------------------
+    # MODO 1: INGESTA AZUA
     # --------------------------------------
     if args.ingest_azua:
         destination = ingest_azua_to_catalog(
             azua_txt_path=args.azua_txt,
             master_catalog_path=args.master_catalog,
             output_catalog_path=args.output_catalog or None,
-            source_label=args.source_label if args.source_label != "ONE" else "AZUA_TXT",
+            source_label=(
+                args.source_label if args.source_label != "ONE" else "AZUA_TXT"
+            ),
             valid_from=args.valid_from,
             valid_to=args.valid_to,
             notes=args.notes or "Ingesta de Azua desde TXT estructurado.",
             overwrite_existing=args.overwrite_existing,
         )
-        print(f"Catálogo actualizado en: {destination}")
+        print(f"Catálogo CSV actualizado en: {destination}")
         return
 
     # --------------------------------------
-    # MODO 2: INGESTA DESDE MANIFIESTO (NUEVO)
+    # MODO 2: INGESTA DESDE MANIFIESTO
     # --------------------------------------
     if args.ingest_province:
         if not args.province_code and not args.province_name:
@@ -845,22 +974,20 @@ def main() -> None:
             valid_to=args.valid_to,
             notes=args.notes,
         )
-        print(f"Catálogo actualizado desde manifiesto en: {destination}")
+        print(f"Catálogo CSV actualizado desde manifiesto en: {destination}")
         return
 
     # --------------------------------------
-    # MODO 3: FLUJO GENÉRICO (EXISTENTE)
+    # MODO 3: FLUJO GENÉRICO
     # --------------------------------------
     if not args.input:
         raise SystemExit(
-            "Debes indicar --input para el flujo genérico, o usar --ingest-azua / --ingest-province."
+            "Debes indicar --input para el flujo genérico, "
+            "o usar --ingest-azua / --ingest-province / --validate-catalog."
         )
-
-    # ... resto del código existente ...
 
     input_path = Path(args.input)
     output_csv = Path(args.output_csv)
-    output_parquet = None if args.skip_parquet else Path(args.output_parquet)
     metadata_path = Path(args.metadata_path) if args.metadata_path else None
 
     df_source = _read_source(input_path, sheet_name=args.sheet_name)
@@ -888,7 +1015,6 @@ def main() -> None:
         "mode": mode,
         "input": str(input_path),
         "output_csv": str(output_csv),
-        "output_parquet": str(output_parquet) if output_parquet else None,
         "input_rows": int(len(df_source)),
         "new_rows_transformed": int(len(df_new)),
         "final_rows": int(len(df_final)),
@@ -900,27 +1026,17 @@ def main() -> None:
         "overwrite_existing": bool(args.overwrite_existing),
     }
 
-    write_outputs(
+    write_catalog_csv(
         df_final,
         output_csv=output_csv,
-        output_parquet=output_parquet,
         output_metadata=metadata_path,
         metadata=metadata,
     )
 
-    print(f"Catalog generated: {output_csv}")
-    if output_parquet:
-        print(f"Parquet generated: {output_parquet}")
+    print(f"Catalog CSV generated: {output_csv}")
     print(f"Mode: {mode}")
     print(f"Rows in final catalog: {len(df_final)}")
 
-def sync_current_csv_from_parquet(
-    parquet_path: str = "data/catalog/current/rd_territorial_master.parquet",
-    csv_path: str = "data/catalog/current/rd_territorial_master.csv",
-) -> None:
-    df = pd.read_parquet(parquet_path)
-    Path(csv_path).parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 
 if __name__ == "__main__":
     main()

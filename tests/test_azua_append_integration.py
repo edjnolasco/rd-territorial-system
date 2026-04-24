@@ -15,9 +15,21 @@ from scripts.build_master_catalog import (
 FIXTURE = Path("tests/fixtures/azua_sample.txt")
 
 
+def _write_csv(path: Path, df: pd.DataFrame) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(path, index=False, encoding="utf-8-sig")
+
+
+def _read_csv(path: Path) -> pd.DataFrame:
+    return pd.read_csv(path, dtype=str, encoding="utf-8-sig").fillna("")
+
+
+# ----------------------------------------------------------------------
+# TEST 1: append no altera filas existentes
+# ----------------------------------------------------------------------
 def test_append_azua_does_not_touch_existing_rows(tmp_path: Path) -> None:
-    master_path = tmp_path / "rd_territorial_master.parquet"
-    output_path = tmp_path / "rd_territorial_master_candidate.parquet"
+    master_path = tmp_path / "rd_territorial_master.csv"
+    output_path = tmp_path / "rd_territorial_master_candidate.csv"
 
     master_df = pd.DataFrame(
         [
@@ -65,7 +77,8 @@ def test_append_azua_does_not_touch_existing_rows(tmp_path: Path) -> None:
             },
         ]
     )
-    master_df.to_parquet(master_path, index=False)
+
+    _write_csv(master_path, master_df)
 
     destination = ingest_azua_to_catalog(
         azua_txt_path=str(FIXTURE),
@@ -75,21 +88,26 @@ def test_append_azua_does_not_touch_existing_rows(tmp_path: Path) -> None:
         overwrite_existing=False,
     )
 
-    combined = pd.read_parquet(destination)
+    combined = _read_csv(destination)
 
-    original_dn = combined[combined["composite_code"].isin(master_df["composite_code"])]
+    original_dn = combined[
+        combined["composite_code"].isin(master_df["composite_code"])
+    ]
+
     assert len(original_dn) == len(master_df)
     assert set(original_dn["name"]) == {"Distrito Nacional"}
 
 
+# ----------------------------------------------------------------------
+# TEST 2: detección de colisiones
+# ----------------------------------------------------------------------
 def test_append_azua_rejects_collisions(tmp_path: Path) -> None:
-    master_path = tmp_path / "rd_territorial_master.parquet"
-    output_path = tmp_path / "rd_territorial_master_candidate.parquet"
+    master_path = tmp_path / "rd_territorial_master.csv"
+    output_path = tmp_path / "rd_territorial_master_candidate.csv"
 
     df_source = _read_txt_with_fallback(FIXTURE)
     azua_df = transform_source_to_catalog(df_source, source_label="AZUA_TEST")
 
-    # Metemos una colisión real con el primer composite_code del fixture
     colliding_code = azua_df.iloc[0]["composite_code"]
 
     master_df = pd.DataFrame(
@@ -117,7 +135,8 @@ def test_append_azua_rejects_collisions(tmp_path: Path) -> None:
             }
         ]
     )
-    master_df.to_parquet(master_path, index=False)
+
+    _write_csv(master_path, master_df)
 
     with pytest.raises(AssertionError, match="Colisión de composite_code"):
         ingest_azua_to_catalog(

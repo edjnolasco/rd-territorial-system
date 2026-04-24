@@ -57,16 +57,32 @@ def test_resolve_los_peralejos_as_barrio_paraje():
     assert result["entity"]["parent_composite_code"] == "10-01-01-01-01-000-00"
 
 
-def test_resolve_brisas_del_norte_as_sub_barrio():
-    result = resolve_name("Brisas del Norte", level="sub_barrio")
+def test_brisas_del_norte_is_ambiguous_without_parent():
+    result = resolve_name("Brisas del Norte", level="sub_barrio", strict=False)
+
+    assert result["matched"] is False
+    assert result["status"] == "ambiguous"
+    assert len(result["candidates"]) >= 2
+
+
+def test_parent_code_disambiguates_brisas_del_norte_in_dn():
+    """
+    Brisas del Norte bajo Los Peralejos:
+    parent_code = 10-01-01-01-01-001-00
+    """
+    result = resolve_name(
+        "Brisas del Norte",
+        level="sub_barrio",
+        parent_code="10-01-01-01-01-001-00",
+        strict=False,
+    )
 
     assert result["matched"] is True
     assert result["status"] == "matched"
-    assert result["entity"]["level"] == "sub_barrio"
     assert result["entity"]["name"] == "Brisas del Norte"
+    assert result["entity"]["level"] == "sub_barrio"
     assert result["entity"]["composite_code"] == "10-01-01-01-01-001-03"
     assert result["entity"]["parent_composite_code"] == "10-01-01-01-01-001-00"
-
 
 def test_resolve_code_returns_expected_entity():
     entity = resolve_code("10-01-01-01-01-001-03")
