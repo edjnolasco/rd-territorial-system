@@ -20,7 +20,7 @@ def test_load_geojson_from_zip_without_json(tmp_path):
 
 def test_load_one_table_unsupported_format(tmp_path):
     fake_file = tmp_path / "data.txt"
-    fake_file.write_text("invalid", encoding="utf-8")
+    fake_file.write_text("invalid")
 
     with pytest.raises(ValueError):
         load_one_table(fake_file)

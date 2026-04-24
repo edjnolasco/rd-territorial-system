@@ -33,10 +33,7 @@ def _run_cli(args: list[str], monkeypatch: pytest.MonkeyPatch) -> None:
     main()
 
 
-# ----------------------------------------------------------------------
-# TEST 1: build replace (CSV + metadata)
-# ----------------------------------------------------------------------
-def test_cli_build_replace_generates_csv_and_metadata(
+def test_cli_build_replace_generates_csv_parquet_and_metadata(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ):
     input_path = tmp_path / "dn.txt"
@@ -85,9 +82,6 @@ def test_cli_build_replace_generates_csv_and_metadata(
     assert metadata["source_label"] == "ONE 2021"
 
 
-# ----------------------------------------------------------------------
-# TEST 2: append sin overwrite
-# ----------------------------------------------------------------------
 def test_cli_append_adds_new_rows_without_overwriting_existing(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ):
@@ -143,9 +137,6 @@ def test_cli_append_adds_new_rows_without_overwriting_existing(
     assert province_row["name"] == "Distrito Nacional"
 
 
-# ----------------------------------------------------------------------
-# TEST 3: append con overwrite
-# ----------------------------------------------------------------------
 def test_cli_append_overwrite_existing_replaces_matching_composite_code(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ):

@@ -305,18 +305,14 @@ def _entity_from_row(row: dict[str, Any]) -> TerritorialEntity:
         composite_code=str(row.get("composite_code") or build_composite_code(row)).strip(),
         full_path=str(row.get("full_path") or row.get("name") or "").strip(),
         is_official=_coerce_bool(row.get("is_official", True)),
-        source=str(row.get("source")).strip()
-        if row.get("source") not in (None, "")
-        else None,
+        source=str(row.get("source")).strip() if row.get("source") not in (None, "") else None,
         valid_from=str(row.get("valid_from")).strip()
         if row.get("valid_from") not in (None, "")
         else None,
         valid_to=str(row.get("valid_to")).strip()
         if row.get("valid_to") not in (None, "")
         else None,
-        notes=str(row.get("notes")).strip()
-        if row.get("notes") not in (None, "")
-        else None,
+        notes=str(row.get("notes")).strip() if row.get("notes") not in (None, "") else None,
     )
 
 
@@ -386,9 +382,9 @@ class Catalog:
             self.by_name[entity.normalized_name].append(entity)
             self.by_name_level[(entity.normalized_name, entity.level)].append(entity)
             if entity.parent_composite_code:
-                self.by_name_parent[
-                    (entity.normalized_name, entity.parent_composite_code)
-                ].append(entity)
+                self.by_name_parent[(entity.normalized_name, entity.parent_composite_code)].append(
+                    entity
+                )
 
     @classmethod
     def from_version(
@@ -612,6 +608,7 @@ def clear_catalog_cache() -> None:
 def get_catalog(version: str | None = None) -> Catalog:
     active_version, csv_mtime_ns = _catalog_cache_signature(version)
     return _get_catalog_cached(active_version, csv_mtime_ns)
+
 
 
 def get_default_catalog() -> Catalog:

@@ -21,7 +21,6 @@ if str(SRC_ROOT) not in sys.path:
 
 from rd_territorial_system.normalization import normalize_text  # noqa: E402
 
-
 COLUMN_ALIASES = {
     "región": "region_code",
     "region": "region_code",
@@ -241,8 +240,7 @@ def build_parent_code(row: dict[str, Any], level: str) -> str:
         return f"{region_code}-{province_code}-{municipality_code}-00-00-000-00"
     if level == "section":
         return (
-            f"{region_code}-{province_code}-{municipality_code}-"
-            f"{district_municipal_code}-00-000-00"
+            f"{region_code}-{province_code}-{municipality_code}-{district_municipal_code}-00-000-00"
         )
     if level == "barrio_paraje":
         return (
@@ -837,40 +835,10 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Build RD territorial master catalog from source structure."
     )
-
     parser.add_argument(
-        "--ingest-azua",
-        action="store_true",
-        help="Ejecuta el flujo de ingesta de Azua sobre el catálogo maestro existente.",
+        "--input", required=True, help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt)"
     )
-    parser.add_argument(
-        "--azua-txt",
-        default=str(DEFAULT_AZUA_TXT),
-        help="Ruta del TXT de Azua. Default: data/raw/azua/azua_completo.txt",
-    )
-    parser.add_argument(
-        "--master-catalog",
-        default=str(DEFAULT_MASTER_CATALOG),
-        help="Ruta del catálogo maestro CSV base.",
-    )
-    parser.add_argument(
-        "--output-catalog",
-        default=str(DEFAULT_OUTPUT_CATALOG),
-        help=(
-            "Ruta del catálogo CSV de salida para ingesta incremental. "
-            "Default: data/catalog/current/rd_territorial_master_candidate.csv"
-        ),
-    )
-    parser.add_argument(
-        "--input",
-        required=False,
-        help="Ruta del archivo fuente (.csv, .xlsx, .xls o .txt) para el flujo genérico.",
-    )
-    parser.add_argument(
-        "--sheet-name",
-        default=None,
-        help="Nombre de hoja si la entrada es Excel.",
-    )
+    parser.add_argument("--sheet-name", default=None, help="Nombre de hoja si la entrada es Excel")
     parser.add_argument(
         "--output-csv",
         default=str(DEFAULT_MASTER_CATALOG),
@@ -881,14 +849,18 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--valid-to", default=None, help="Fecha de vigencia final.")
     parser.add_argument("--notes", default=None, help="Notas para las filas generadas.")
     parser.add_argument(
-        "--metadata-path",
-        default=None,
-        help="Ruta opcional para metadata JSON.",
+        "--output-parquet",
+        default="data/catalog/current/rd_territorial_master.parquet",
+        help="Ruta del catálogo maestro Parquet",
     )
+    parser.add_argument("--source-label", default="ONE", help="Etiqueta de fuente")
+    parser.add_argument("--valid-from", default=None, help="Fecha de vigencia inicial")
+    parser.add_argument("--valid-to", default=None, help="Fecha de vigencia final")
+    parser.add_argument("--notes", default=None, help="Notas para las filas generadas")
+    parser.add_argument("--skip-parquet", action="store_true", help="No generar Parquet")
+    parser.add_argument("--metadata-path", default=None, help="Ruta opcional para metadata JSON")
     parser.add_argument(
-        "--append",
-        action="store_true",
-        help="Fusiona contra el catálogo CSV existente en el flujo genérico.",
+        "--append", action="store_true", help="Fusiona contra el catálogo existente"
     )
     parser.add_argument(
         "--overwrite-existing",
