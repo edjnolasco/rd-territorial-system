@@ -41,6 +41,13 @@ class BatchResolveRequest(BaseModel):
     rules_version: str = "v1"
 
 
+class SearchRequest(BaseModel):
+    text: str = Field(..., min_length=1)
+    level: Level | None = None
+    parent_code: str | None = None
+    limit: int = Field(default=20, ge=1, le=100)
+
+
 class ResolveResponse(BaseModel):
     input: str
     normalized_text: str | None
@@ -55,3 +62,46 @@ class ResolveResponse(BaseModel):
     candidates: list[dict[str, Any]] = []
     trace: list[str] = []
     rules_version: str = "v1"
+
+
+class EntityLookupResponse(BaseModel):
+    matched: bool
+    status: Status
+    entity: dict[str, Any] | None = None
+    message: str | None = None
+
+
+class SearchResponse(BaseModel):
+    input: str
+    normalized_text: str | None
+    count: int
+    items: list[dict[str, Any]]
+
+
+class ChildrenResponse(BaseModel):
+    parent_code: str
+    count: int
+    items: list[dict[str, Any]]
+
+
+class ProvinceEntitiesResponse(BaseModel):
+    province_code: str
+    count: int
+    items: list[dict[str, Any]]
+
+
+class CatalogStatsResponse(BaseModel):
+    catalog_version: str
+    country: str
+    province_count: int
+    entity_count: int
+    levels: dict[str, int]
+    source_of_truth: str
+
+
+class HealthResponse(BaseModel):
+    status: str
+    service: str
+    api_version: str
+    catalog_format: str
+    catalog_loaded: bool
