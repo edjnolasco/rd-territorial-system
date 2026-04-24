@@ -4,7 +4,6 @@ from pathlib import Path
 
 from scripts.build_master_catalog import _read_txt_with_fallback, transform_source_to_catalog
 
-
 FIXTURE = Path("tests/fixtures/azua_sample.txt")
 
 

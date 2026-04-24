@@ -2,11 +2,9 @@ from __future__ import annotations
 
 from pathlib import Path
 
-import pandas as pd
 import pytest
 
 from rd_territorial_system.catalog import get_catalog, resolve_name
-
 
 CATALOG_PATH = Path("data/catalog/current/rd_territorial_master.parquet")
 

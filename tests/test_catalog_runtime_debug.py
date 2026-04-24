@@ -5,7 +5,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 MASTER_CSV = Path("data/catalog/current/rd_territorial_master.csv")
 MANIFEST_PATH = Path("data/catalog/config/provinces_manifest.json")
 

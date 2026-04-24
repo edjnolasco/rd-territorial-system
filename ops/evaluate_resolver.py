@@ -4,7 +4,6 @@ from collections import Counter
 
 from rd_territorial_system.catalog import resolve_name
 
-
 SAMPLES = [
     "San José",
     "Villa María",

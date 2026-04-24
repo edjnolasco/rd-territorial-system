@@ -11,7 +11,6 @@ from scripts.build_master_catalog import (
     transform_source_to_catalog,
 )
 
-
 FIXTURE = Path("tests/fixtures/azua_sample.txt")
 
 

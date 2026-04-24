@@ -6,7 +6,6 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-
 CATALOG_CANDIDATES = [
     Path("data/catalog/current/rd_territorial_master_candidate.csv"),
     Path("data/catalog/current/rd_territorial_master.csv"),

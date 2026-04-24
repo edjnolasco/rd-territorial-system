@@ -1,12 +1,11 @@
 import argparse
+import json
 import shutil
 import subprocess
 import sys
-import json
 from pathlib import Path
 
 import pandas as pd
-
 
 MASTER_CSV = Path("data/catalog/current/rd_territorial_master.csv")
 CANDIDATE_CSV = Path("data/catalog/current/rd_territorial_master_candidate.csv")

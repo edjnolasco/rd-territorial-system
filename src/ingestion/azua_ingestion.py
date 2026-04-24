@@ -6,7 +6,6 @@ import pandas as pd
 
 from .territorial_txt import read_territorial_txt, territorial_rows_to_dataframe
 
-
 AZUA_REQUIRED_COLUMNS = {
     "region_code",
     "province_code",

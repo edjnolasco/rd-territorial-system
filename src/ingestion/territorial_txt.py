@@ -1,12 +1,11 @@
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 from pathlib import Path
-import re
 from typing import Iterable
 
 import pandas as pd
-
 
 DATA_LINE_RE = re.compile(
     r"""
