@@ -143,9 +143,10 @@
       "input_path": "data/raw/laromana/la_romana_completo.txt",
       "source_label": "ONE_LA_ROMANA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "13",
@@ -154,9 +155,10 @@
       "input_path": "data/raw/lavega/la_vega_completo.txt",
       "source_label": "ONE_LA_VEGA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "14",
@@ -165,9 +167,10 @@
       "input_path": "data/raw/mariatrinidadsanchez/maria_trinidad_sanchez_completo.txt",
       "source_label": "ONE_MARIA_TRINIDAD_SANCHEZ_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "15",
@@ -176,9 +179,10 @@
       "input_path": "data/raw/montecristi/monte_cristi_completo.txt",
       "source_label": "ONE_MONTE_CRISTI_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "16",
