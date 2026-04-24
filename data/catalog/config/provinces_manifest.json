@@ -263,9 +263,10 @@
       "input_path": "data/raw/sanjuan/san_juan_completo.txt",
       "source_label": "ONE_SAN_JUAN_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "23",
@@ -274,9 +275,10 @@
       "input_path": "data/raw/sanpedrodemacoris/san_pedro_de_macoris_completo.txt",
       "source_label": "ONE_SAN_PEDRO_DE_MACORIS_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "24",
