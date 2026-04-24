@@ -21,6 +21,7 @@ SAMPLES = [
 
 def evaluate(samples: list[str]) -> None:
     stats = Counter()
+    alias_hits = 0
 
     print("\n=== Resolver Evaluation ===\n")
 
@@ -28,14 +29,21 @@ def evaluate(samples: list[str]) -> None:
         result = resolve_name(text)
 
         status = result["status"]
+        trace = " ".join(result.get("trace", [])).lower()
+        alias_applied = "alias" in trace
+
         stats[status] += 1
 
-        # 👇 AQUÍ VA la validación
-        if text == "Santo Domingo" and status == "not_found":
-            print(f"{text:20} -> {status} ⚠ esperado (provincia 32 no integrada)")
+        if alias_applied:
+            alias_hits += 1
 
-        else:
-            print(f"{text:20} -> {status}")
+        note = ""
+        if text == "Santo Domingo" and status == "not_found":
+            note = " ⚠ esperado (provincia 32 no integrada)"
+        elif alias_applied:
+            note = " ↳ alias"
+
+        print(f"{text:20} -> {status}{note}")
 
     print("\n=== Summary ===\n")
     total = sum(stats.values())
@@ -44,6 +52,9 @@ def evaluate(samples: list[str]) -> None:
         count = stats.get(key, 0)
         pct = (count / total * 100) if total else 0
         print(f"{key:10}: {count:3} ({pct:.1f}%)")
+
+    alias_pct = (alias_hits / total * 100) if total else 0
+    print(f"{'alias_hit':10}: {alias_hits:3} ({alias_pct:.1f}%)")
 
 
 if __name__ == "__main__":

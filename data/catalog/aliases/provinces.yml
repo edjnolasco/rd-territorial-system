@@ -1,0 +1,22 @@
+aliases:
+  # Abreviaciones reales
+  "dn": "distrito nacional"
+  "d n": "distrito nacional"
+  "sd": "santo domingo"
+  "prov santo domingo": "santo domingo"
+
+  # Variantes sin tilde
+  "san cristobal": "san cristóbal"
+  "san pedro de macoris": "san pedro de macorís"
+  "elias pina": "elías piña"
+  "maria trinidad sanchez": "maría trinidad sánchez"
+  "sanchez ramirez": "sánchez ramírez"
+  "monsenor nouel": "monseñor nouel"
+  "samana": "samaná"
+
+  # Nombres históricos / alternos
+  "salcedo": "hermanas mirabal"
+
+  # Errores comunes
+  "el seibo": "el seibo"
+  "hato mayor del rey": "hato mayor"
