@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from fastapi.testclient import TestClient
 
-from api.main import app
+from rd_territorial_system.api.main import app
 
 client = TestClient(app)
 
