@@ -191,9 +191,10 @@
       "input_path": "data/raw/pedernales/pedernales_completo.txt",
       "source_label": "ONE_PEDERNALES_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "17",
@@ -202,9 +203,10 @@
       "input_path": "data/raw/peravia/peravia_completo.txt",
       "source_label": "ONE_PERAVIA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "18",
@@ -213,9 +215,10 @@
       "input_path": "data/raw/puertoplata/puerto_plata_completo.txt",
       "source_label": "ONE_PUERTO_PLATA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "19",
@@ -224,9 +227,10 @@
       "input_path": "data/raw/hermanasmirabal/hermanas_mirabal_completo.txt",
       "source_label": "ONE_HERMANAS_MIRABAL_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "20",
@@ -235,9 +239,10 @@
       "input_path": "data/raw/samana/samana_completo.txt",
       "source_label": "ONE_SAMANA_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "21",
