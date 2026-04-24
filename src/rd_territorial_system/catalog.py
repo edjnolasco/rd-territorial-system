@@ -39,7 +39,6 @@ CATALOG_ROOT = DATA_ROOT / "catalog"
 REGISTRY_PATH = CATALOG_ROOT / "registry.json"
 
 CURRENT_CATALOG_DIRNAME = "current"
-PARQUET_FILENAME = "rd_territorial_master.parquet"
 CSV_FILENAME = "rd_territorial_master.csv"
 ALIASES_DIRNAME = "aliases"
 
@@ -107,7 +106,6 @@ class CatalogVersionInfo:
     active_version: str
     available_versions: tuple[str, ...]
     base_dir: Path
-    catalog_parquet_path: Path
     catalog_csv_path: Path
     aliases_dir: Path
 
@@ -228,11 +226,8 @@ def resolve_catalog_version(
 
     current_base_dir = CATALOG_ROOT / CURRENT_CATALOG_DIRNAME
     current_csv_path = current_base_dir / CSV_FILENAME
-    current_parquet_path = current_base_dir / PARQUET_FILENAME
 
-    # En entorno de trabajo/test, si existe un catálogo "current",
-    # se prioriza por encima del default del registry.
-    if version is None and (current_csv_path.exists() or current_parquet_path.exists()):
+    if version is None and current_csv_path.exists():
         active_version = CURRENT_CATALOG_DIRNAME
         base_dir = current_base_dir
     else:
@@ -246,7 +241,6 @@ def resolve_catalog_version(
         active_version=active_version,
         available_versions=tuple(registry["available"]),
         base_dir=base_dir,
-        catalog_parquet_path=base_dir / PARQUET_FILENAME,
         catalog_csv_path=base_dir / CSV_FILENAME,
         aliases_dir=base_dir / ALIASES_DIRNAME,
     )
@@ -341,58 +335,19 @@ def _normalize_loaded_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return normalized_rows
 
 
-def _get_catalog_file_candidates(version_info: CatalogVersionInfo) -> list[Path]:
-    candidates: list[Path] = []
-
-    if version_info.catalog_csv_path.exists():
-        candidates.append(version_info.catalog_csv_path)
-    if version_info.catalog_parquet_path.exists():
-        candidates.append(version_info.catalog_parquet_path)
-
-    return candidates
-
-
 def _select_catalog_path(version_info: CatalogVersionInfo) -> Path:
-    csv_exists = version_info.catalog_csv_path.exists()
-    parquet_exists = version_info.catalog_parquet_path.exists()
-
-    if not csv_exists and not parquet_exists:
+    if not version_info.catalog_csv_path.exists():
         raise FileNotFoundError(
-            "Catalog file not found. Expected one of: "
-            f"{version_info.catalog_parquet_path} or {version_info.catalog_csv_path}"
+            f"Catalog CSV not found: {version_info.catalog_csv_path}"
         )
 
-    # Para current, se prioriza CSV porque suele ser el artefacto más reciente
-    # durante desarrollo/tests y evita desalineación con un Parquet viejo.
-    if version_info.active_version == CURRENT_CATALOG_DIRNAME and csv_exists:
-        return version_info.catalog_csv_path
-
-    if csv_exists and not parquet_exists:
-        return version_info.catalog_csv_path
-
-    if parquet_exists and not csv_exists:
-        return version_info.catalog_parquet_path
-
-    # Para versiones congeladas, si existen ambos, usa el más reciente.
-    return max(
-        [version_info.catalog_csv_path, version_info.catalog_parquet_path],
-        key=lambda path: path.stat().st_mtime_ns,
-    )
+    return version_info.catalog_csv_path
 
 
 def load_catalog_rows(version_info: CatalogVersionInfo) -> list[dict[str, Any]]:
     selected_path = _select_catalog_path(version_info)
-
-    if selected_path.suffix.lower() == ".parquet":
-        df = pd.read_parquet(selected_path)
-        rows = df.fillna("").to_dict(orient="records")
-        return _normalize_loaded_rows(rows)
-
-    if selected_path.suffix.lower() == ".csv":
-        rows = _open_csv_with_fallback(selected_path)
-        return _normalize_loaded_rows(rows)
-
-    raise ValueError(f"Unsupported catalog format: {selected_path.suffix}")
+    rows = _open_csv_with_fallback(selected_path)
+    return _normalize_loaded_rows(rows)
 
 
 def load_catalog(
@@ -625,7 +580,7 @@ class Catalog:
         return ranking
 
 
-def _catalog_cache_signature(version: str | None) -> tuple[str, int, int]:
+def _catalog_cache_signature(version: str | None) -> tuple[str, int]:
     version_info = resolve_catalog_version(version)
 
     csv_mtime_ns = (
@@ -633,22 +588,16 @@ def _catalog_cache_signature(version: str | None) -> tuple[str, int, int]:
         if version_info.catalog_csv_path.exists()
         else -1
     )
-    parquet_mtime_ns = (
-        version_info.catalog_parquet_path.stat().st_mtime_ns
-        if version_info.catalog_parquet_path.exists()
-        else -1
-    )
 
-    return (version_info.active_version, csv_mtime_ns, parquet_mtime_ns)
+    return (version_info.active_version, csv_mtime_ns)
 
 
 @lru_cache(maxsize=16)
 def _get_catalog_cached(
     active_version: str,
     csv_mtime_ns: int,
-    parquet_mtime_ns: int,
 ) -> Catalog:
-    del csv_mtime_ns, parquet_mtime_ns
+    del csv_mtime_ns
     return Catalog.from_version(version=active_version)
 
 
@@ -657,8 +606,9 @@ def clear_catalog_cache() -> None:
 
 
 def get_catalog(version: str | None = None) -> Catalog:
-    active_version, csv_mtime_ns, parquet_mtime_ns = _catalog_cache_signature(version)
-    return _get_catalog_cached(active_version, csv_mtime_ns, parquet_mtime_ns)
+    active_version, csv_mtime_ns = _catalog_cache_signature(version)
+    return _get_catalog_cached(active_version, csv_mtime_ns)
+
 
 
 def get_default_catalog() -> Catalog:

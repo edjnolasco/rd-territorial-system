@@ -1,0 +1,23 @@
+aliases:
+  # Capital / DN
+  "santo domingo capital": "santo domingo de guzmán"
+  "sd capital": "santo domingo de guzmán"
+
+  # Variantes comunes
+  "san pedro": "san pedro de macorís"
+  "san fco macoris": "san francisco de macorís"
+  "san francisco": "san francisco de macorís"
+
+  # Santiago
+  "stgo": "santiago"
+  "santiago de los caballeros": "santiago"
+
+  # La Vega
+  "concepcion de la vega": "la vega"
+
+  # Puerto Plata
+  "puerto plata city": "puerto plata"
+
+  # Errores comunes
+  "bani": "baní"
+  "higuey": "salvaleón de higüey"

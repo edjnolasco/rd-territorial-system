@@ -1,0 +1,7 @@
+aliases:
+  # Genéricos que aparecen en datos reales
+  "centro": "el centro"
+  "barrio": "el barrio"
+
+  # Normalización
+  "paraje": "barrio paraje"

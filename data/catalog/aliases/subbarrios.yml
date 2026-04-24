@@ -1,0 +1,11 @@
+aliases:
+  # Variantes sin tilde
+  "san jose": "san josé"
+  "la ceiba": "la ceiba"
+
+  # Casos reales repetidos
+  "el centro": "el centro"
+  "el barrio": "el barrio"
+
+  # Casos DN
+  "brisas del norte": "brisas del norte"

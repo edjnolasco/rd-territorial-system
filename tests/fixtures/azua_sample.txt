@@ -1,0 +1,18 @@
+Región Provincia Municipio Distrito
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+05 02 00 00 00 000 00 Azua
+05 02 01 00 00 000 00 Azua
+05 02 01 01 00 000 00 Azua
+05 02 01 01 01 000 00 Azua de Compostela (Zona urbana)
+05 02 01 01 01 001 00 Los cartones
+05 02 01 01 01 001 01 Los Cartones
+05 02 01 03 00 000 00 Las Barías-La Estancia (DM)
+05 02 01 03 01 000 00 Las Barías-La Estancia (Zona urbana)
+05 02 01 03 01 001 00 Las Barías
+05 02 01 03 01 001 01 Las Barías
+05 02 10 00 00 000 00 Estebanía
+05 02 10 01 00 000 00 Estebanía
+05 02 10 01 01 000 00 Estebanía (Zona urbana)
+05 02 10 01 01 010 00 Alto de Filomena (Altos de Chavón)
+05 02 10 01 01 010 03 Alto de Filomena (Altos de Chavón)

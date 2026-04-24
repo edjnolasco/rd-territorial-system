@@ -38,7 +38,6 @@ def test_cli_build_replace_generates_csv_parquet_and_metadata(
 ):
     input_path = tmp_path / "dn.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
-    output_parquet = tmp_path / "catalog" / "rd_territorial_master.parquet"
     metadata_path = tmp_path / "catalog" / "build_metadata.json"
 
     content = """Región Provincia Municipio Distrito municipal Sección Barrio/paraje Sub-barrio Toponimia o Nombre
@@ -54,8 +53,6 @@ def test_cli_build_replace_generates_csv_parquet_and_metadata(
             str(input_path),
             "--output-csv",
             str(output_csv),
-            "--output-parquet",
-            str(output_parquet),
             "--metadata-path",
             str(metadata_path),
             "--source-label",
@@ -67,7 +64,6 @@ def test_cli_build_replace_generates_csv_parquet_and_metadata(
     )
 
     assert output_csv.exists()
-    assert output_parquet.exists()
     assert metadata_path.exists()
 
     df = _read_csv(output_csv)
@@ -92,7 +88,6 @@ def test_cli_append_adds_new_rows_without_overwriting_existing(
     base_input = tmp_path / "dn_base.txt"
     append_input = tmp_path / "dn_append.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
-    output_parquet = tmp_path / "catalog" / "rd_territorial_master.parquet"
 
     base_content = """Región Provincia Municipio Distrito municipal Sección Barrio/paraje Sub-barrio Toponimia o Nombre
 10 01 00 00 00 000 00 Distrito Nacional
@@ -111,8 +106,6 @@ def test_cli_append_adds_new_rows_without_overwriting_existing(
             str(base_input),
             "--output-csv",
             str(output_csv),
-            "--output-parquet",
-            str(output_parquet),
             "--source-label",
             "ONE 2021",
         ],
@@ -125,8 +118,6 @@ def test_cli_append_adds_new_rows_without_overwriting_existing(
             str(append_input),
             "--output-csv",
             str(output_csv),
-            "--output-parquet",
-            str(output_parquet),
             "--source-label",
             "ONE 2021",
             "--append",
@@ -189,7 +180,6 @@ def test_cli_append_overwrite_existing_replaces_matching_composite_code(
             "overwrite row",
             "--append",
             "--overwrite-existing",
-            "--skip-parquet",
         ],
         monkeypatch,
     )
@@ -204,35 +194,9 @@ def test_cli_append_overwrite_existing_replaces_matching_composite_code(
     assert row["notes"] == "overwrite row"
 
 
-def test_cli_skip_parquet_only_writes_csv(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-    input_path = tmp_path / "dn.txt"
-    output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
-    output_parquet = tmp_path / "catalog" / "rd_territorial_master.parquet"
-
-    content = """Región Provincia Municipio Distrito municipal Sección Barrio/paraje Sub-barrio Toponimia o Nombre
-10 01 00 00 00 000 00 Distrito Nacional
-"""
-    _write_text(input_path, content)
-
-    _run_cli(
-        [
-            "--input",
-            str(input_path),
-            "--output-csv",
-            str(output_csv),
-            "--output-parquet",
-            str(output_parquet),
-            "--source-label",
-            "ONE 2021",
-            "--skip-parquet",
-        ],
-        monkeypatch,
-    )
-
-    assert output_csv.exists()
-    assert not output_parquet.exists()
-
-
+# ----------------------------------------------------------------------
+# TEST 4: encoding UTF-8 BOM
+# ----------------------------------------------------------------------
 def test_cli_output_csv_is_utf8_sig(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
     input_path = tmp_path / "dn.txt"
     output_csv = tmp_path / "catalog" / "rd_territorial_master.csv"
@@ -251,13 +215,11 @@ def test_cli_output_csv_is_utf8_sig(tmp_path: Path, monkeypatch: pytest.MonkeyPa
             str(output_csv),
             "--source-label",
             "ONE 2021",
-            "--skip-parquet",
         ],
         monkeypatch,
     )
 
     raw = output_csv.read_bytes()
-    # UTF-8 BOM
     assert raw.startswith(b"\xef\xbb\xbf")
 
     df = pd.read_csv(output_csv, encoding="utf-8-sig")

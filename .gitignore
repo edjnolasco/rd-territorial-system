@@ -221,3 +221,10 @@ venv/
 
 # Data (opcional según repo)
 *.parquet
+
+# ---------------------------
+# RAW DATA (no versionar fuentes)
+# ---------------------------
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/**/.gitkeep
