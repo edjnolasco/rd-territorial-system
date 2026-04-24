@@ -2,6 +2,7 @@ import argparse
 import shutil
 import subprocess
 import sys
+import json
 from pathlib import Path
 
 import pandas as pd
@@ -107,9 +108,36 @@ def main() -> None:
     # 6. Ejecutar tests
     # -------------------------------
     run(["python", "-m", "pytest", "-q"])
+    
+    mark_manifest_integrated(province_code)
 
-    print("\nOK: provincia integrada y fijada en master (CSV).")
+    print("\nOK: provincia integrada, fijada en master y marcada en manifest.")
 
+def mark_manifest_integrated(province_code: str) -> None:
+    if not MANIFEST.exists():
+        raise FileNotFoundError(f"No existe el manifest: {MANIFEST}")
+
+    data = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    target = str(province_code).zfill(2)
+
+    updated = False
+
+    for item in data.get("provinces", []):
+        if str(item.get("province_code", "")).zfill(2) == target:
+            item["enabled"] = True
+            item["integrated"] = True
+            item["loaded"] = True
+            item["status"] = "integrated"
+            updated = True
+            break
+
+    if not updated:
+        raise SystemExit(f"ERROR: provincia {target} no existe en el manifest.")
+
+    MANIFEST.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 if __name__ == "__main__":
     main()
