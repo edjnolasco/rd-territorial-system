@@ -1,262 +1,364 @@
 {
-  "version": "1.0",
-  "description": "Manifest de ingestión provincial para el catálogo territorial RD",
+  "schema_version": "1.0",
+  "country": "República Dominicana",
+  "catalog_format": "csv",
+  "catalog_policy": {
+    "single_source_of_truth": "data/catalog/current/rd_territorial_master.csv",
+    "candidate_output": "data/catalog/current/rd_territorial_master_candidate.csv",
+    "parquet_enabled": false
+  },
   "provinces": [
     {
       "province_code": "01",
       "province_name": "Distrito Nacional",
+      "slug": "dn",
       "input_path": "data/raw/dn/dn_completo.txt",
-      "source_label": "DN_TXT",
+      "source_label": "ONE_DN_TXT",
       "enabled": true,
-      "notes": "Baseline inicial del catálogo. No reingerir una vez existan provincias acumuladas."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Restaurado como base inicial del catálogo."
     },
     {
       "province_code": "02",
       "province_name": "Azua",
+      "slug": "azua",
       "input_path": "data/raw/azua/azua_completo.txt",
-      "source_label": "AZUA_TXT",
+      "source_label": "ONE_AZUA_TXT",
       "enabled": true,
-      "notes": "Provincia Azua"
+      "integrated": true,
+      "loaded": true,
+      "notes": "Provincia integrada y promovida al master."
     },
     {
       "province_code": "03",
       "province_name": "Baoruco",
+      "slug": "baoruco",
       "input_path": "data/raw/baoruco/baoruco_completo.txt",
-      "source_label": "BAORUCO_TXT",
+      "source_label": "ONE_BAORUCO_TXT",
       "enabled": true,
-      "notes": "Provincia Baoruco"
+      "integrated": true,
+      "loaded": true,
+      "notes": "Provincia integrada y promovida al master."
     },
     {
       "province_code": "04",
       "province_name": "Barahona",
+      "slug": "barahona",
       "input_path": "data/raw/barahona/barahona_completo.txt",
-      "source_label": "BARAHONA_TXT",
+      "source_label": "ONE_BARAHONA_TXT",
       "enabled": true,
-      "notes": "Provincia Barahona"
+      "integrated": true,
+      "loaded": true,
+      "notes": "Provincia integrada y promovida al master."
     },
     {
       "province_code": "05",
       "province_name": "Dajabón",
+      "slug": "dajabon",
       "input_path": "data/raw/dajabon/dajabon_completo.txt",
-      "source_label": "DAJABON_TXT",
+      "source_label": "ONE_DAJABON_TXT",
       "enabled": true,
-      "notes": "Provincia Dajabón"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "06",
       "province_name": "Duarte",
+      "slug": "duarte",
       "input_path": "data/raw/duarte/duarte_completo.txt",
-      "source_label": "DUARTE_TXT",
+      "source_label": "ONE_DUARTE_TXT",
       "enabled": true,
-      "notes": "Provincia Duarte"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "07",
       "province_name": "Elías Piña",
+      "slug": "elias_pina",
       "input_path": "data/raw/eliaspina/elias_pina_completo.txt",
-      "source_label": "ELIAS_PINA_TXT",
+      "source_label": "ONE_ELIAS_PINA_TXT",
       "enabled": true,
-      "notes": "Provincia Elías Piña"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "08",
       "province_name": "El Seibo",
+      "slug": "el_seibo",
       "input_path": "data/raw/elseibo/el_seibo_completo.txt",
-      "source_label": "EL_SEIBO_TXT",
+      "source_label": "ONE_EL_SEIBO_TXT",
       "enabled": true,
-      "notes": "Provincia El Seibo"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "09",
       "province_name": "Espaillat",
+      "slug": "espaillat",
       "input_path": "data/raw/espaillat/espaillat_completo.txt",
-      "source_label": "ESPAILLAT_TXT",
+      "source_label": "ONE_ESPAILLAT_TXT",
       "enabled": true,
-      "notes": "Provincia Espaillat"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "10",
       "province_name": "Independencia",
+      "slug": "independencia",
       "input_path": "data/raw/independencia/independencia_completo.txt",
-      "source_label": "INDEPENDENCIA_TXT",
+      "source_label": "ONE_INDEPENDENCIA_TXT",
       "enabled": true,
-      "notes": "Provincia Independencia"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "11",
       "province_name": "La Altagracia",
+      "slug": "la_altagracia",
       "input_path": "data/raw/laaltagracia/la_altagracia_completo.txt",
-      "source_label": "LA_ALTAGRACIA_TXT",
+      "source_label": "ONE_LA_ALTAGRACIA_TXT",
       "enabled": true,
-      "notes": "Provincia La Altagracia"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "12",
       "province_name": "La Romana",
+      "slug": "la_romana",
       "input_path": "data/raw/laromana/la_romana_completo.txt",
-      "source_label": "LA_ROMANA_TXT",
+      "source_label": "ONE_LA_ROMANA_TXT",
       "enabled": true,
-      "notes": "Provincia La Romana"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "13",
       "province_name": "La Vega",
+      "slug": "la_vega",
       "input_path": "data/raw/lavega/la_vega_completo.txt",
-      "source_label": "LA_VEGA_TXT",
+      "source_label": "ONE_LA_VEGA_TXT",
       "enabled": true,
-      "notes": "Provincia La Vega"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "14",
       "province_name": "María Trinidad Sánchez",
+      "slug": "maria_trinidad_sanchez",
       "input_path": "data/raw/mariatrinidadsanchez/maria_trinidad_sanchez_completo.txt",
-      "source_label": "MARIA_TRINIDAD_SANCHEZ_TXT",
+      "source_label": "ONE_MARIA_TRINIDAD_SANCHEZ_TXT",
       "enabled": true,
-      "notes": "Provincia María Trinidad Sánchez"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "15",
       "province_name": "Monte Cristi",
+      "slug": "monte_cristi",
       "input_path": "data/raw/montecristi/monte_cristi_completo.txt",
-      "source_label": "MONTE_CRISTI_TXT",
+      "source_label": "ONE_MONTE_CRISTI_TXT",
       "enabled": true,
-      "notes": "Provincia Monte Cristi"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "16",
       "province_name": "Pedernales",
+      "slug": "pedernales",
       "input_path": "data/raw/pedernales/pedernales_completo.txt",
-      "source_label": "PEDERNALES_TXT",
+      "source_label": "ONE_PEDERNALES_TXT",
       "enabled": true,
-      "notes": "Provincia Pedernales"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "17",
       "province_name": "Peravia",
+      "slug": "peravia",
       "input_path": "data/raw/peravia/peravia_completo.txt",
-      "source_label": "PERAVIA_TXT",
+      "source_label": "ONE_PERAVIA_TXT",
       "enabled": true,
-      "notes": "Provincia Peravia"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "18",
       "province_name": "Puerto Plata",
+      "slug": "puerto_plata",
       "input_path": "data/raw/puertoplata/puerto_plata_completo.txt",
-      "source_label": "PUERTO_PLATA_TXT",
+      "source_label": "ONE_PUERTO_PLATA_TXT",
       "enabled": true,
-      "notes": "Provincia Puerto Plata"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "19",
       "province_name": "Hermanas Mirabal",
+      "slug": "hermanas_mirabal",
       "input_path": "data/raw/hermanasmirabal/hermanas_mirabal_completo.txt",
-      "source_label": "HERMANAS_MIRABAL_TXT",
+      "source_label": "ONE_HERMANAS_MIRABAL_TXT",
       "enabled": true,
-      "notes": "Provincia Hermanas Mirabal"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "20",
       "province_name": "Samaná",
+      "slug": "samana",
       "input_path": "data/raw/samana/samana_completo.txt",
-      "source_label": "SAMANA_TXT",
+      "source_label": "ONE_SAMANA_TXT",
       "enabled": true,
-      "notes": "Provincia Samaná"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "21",
       "province_name": "San Cristóbal",
+      "slug": "san_cristobal",
       "input_path": "data/raw/sancristobal/san_cristobal_completo.txt",
-      "source_label": "SAN_CRISTOBAL_TXT",
+      "source_label": "ONE_SAN_CRISTOBAL_TXT",
       "enabled": true,
-      "notes": "Provincia San Cristóbal"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "22",
       "province_name": "San Juan",
+      "slug": "san_juan",
       "input_path": "data/raw/sanjuan/san_juan_completo.txt",
-      "source_label": "SAN_JUAN_TXT",
+      "source_label": "ONE_SAN_JUAN_TXT",
       "enabled": true,
-      "notes": "Provincia San Juan"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "23",
       "province_name": "San Pedro de Macorís",
+      "slug": "san_pedro_de_macoris",
       "input_path": "data/raw/sanpedrodemacoris/san_pedro_de_macoris_completo.txt",
-      "source_label": "SAN_PEDRO_DE_MACORIS_TXT",
+      "source_label": "ONE_SAN_PEDRO_DE_MACORIS_TXT",
       "enabled": true,
-      "notes": "Provincia San Pedro de Macorís"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "24",
       "province_name": "Sánchez Ramírez",
+      "slug": "sanchez_ramirez",
       "input_path": "data/raw/sanchezramirez/sanchez_ramirez_completo.txt",
-      "source_label": "SANCHEZ_RAMIREZ_TXT",
+      "source_label": "ONE_SANCHEZ_RAMIREZ_TXT",
       "enabled": true,
-      "notes": "Provincia Sánchez Ramírez"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "25",
       "province_name": "Santiago",
+      "slug": "santiago",
       "input_path": "data/raw/santiago/santiago_completo.txt",
-      "source_label": "SANTIAGO_TXT",
+      "source_label": "ONE_SANTIAGO_TXT",
       "enabled": true,
-      "notes": "Provincia Santiago"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "26",
       "province_name": "Santiago Rodríguez",
+      "slug": "santiago_rodriguez",
       "input_path": "data/raw/santiagorodriguez/santiago_rodriguez_completo.txt",
-      "source_label": "SANTIAGO_RODRIGUEZ_TXT",
+      "source_label": "ONE_SANTIAGO_RODRIGUEZ_TXT",
       "enabled": true,
-      "notes": "Provincia Santiago Rodríguez"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "27",
       "province_name": "Valverde",
+      "slug": "valverde",
       "input_path": "data/raw/valverde/valverde_completo.txt",
-      "source_label": "VALVERDE_TXT",
+      "source_label": "ONE_VALVERDE_TXT",
       "enabled": true,
-      "notes": "Provincia Valverde"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "28",
       "province_name": "Monseñor Nouel",
+      "slug": "monsenor_nouel",
       "input_path": "data/raw/monsenornouel/monsenor_nouel_completo.txt",
-      "source_label": "MONSENOR_NOUEL_TXT",
+      "source_label": "ONE_MONSENOR_NOUEL_TXT",
       "enabled": true,
-      "notes": "Provincia Monseñor Nouel"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "29",
       "province_name": "Monte Plata",
+      "slug": "monte_plata",
       "input_path": "data/raw/monteplata/monte_plata_completo.txt",
-      "source_label": "MONTE_PLATA_TXT",
+      "source_label": "ONE_MONTE_PLATA_TXT",
       "enabled": true,
-      "notes": "Provincia Monte Plata"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "30",
       "province_name": "Hato Mayor",
+      "slug": "hato_mayor",
       "input_path": "data/raw/hatomayor/hato_mayor_completo.txt",
-      "source_label": "HATO_MAYOR_TXT",
+      "source_label": "ONE_HATO_MAYOR_TXT",
       "enabled": true,
-      "notes": "Provincia Hato Mayor"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "31",
       "province_name": "San José de Ocoa",
+      "slug": "san_jose_de_ocoa",
       "input_path": "data/raw/sanjosedeocoa/san_jose_de_ocoa_completo.txt",
-      "source_label": "SAN_JOSE_DE_OCOA_TXT",
+      "source_label": "ONE_SAN_JOSE_DE_OCOA_TXT",
       "enabled": true,
-      "notes": "Provincia San José de Ocoa"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     },
     {
       "province_code": "32",
       "province_name": "Santo Domingo",
+      "slug": "santo_domingo",
       "input_path": "data/raw/santodomingo/santo_domingo_completo.txt",
-      "source_label": "SANTO_DOMINGO_TXT",
+      "source_label": "ONE_SANTO_DOMINGO_TXT",
       "enabled": true,
-      "notes": "Provincia Santo Domingo"
+      "integrated": false,
+      "loaded": false,
+      "notes": "Pendiente de integración."
     }
   ]
 }
