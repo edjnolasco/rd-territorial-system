@@ -71,9 +71,10 @@
       "input_path": "data/raw/duarte/duarte_completo.txt",
       "source_label": "ONE_DUARTE_TXT",
       "enabled": true,
-      "integrated": false,
-      "loaded": false,
-      "notes": "Pendiente de integración."
+      "integrated": true,
+      "loaded": true,
+      "notes": "Pendiente de integración.",
+      "status": "integrated"
     },
     {
       "province_code": "07",
