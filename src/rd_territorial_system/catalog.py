@@ -305,14 +305,18 @@ def _entity_from_row(row: dict[str, Any]) -> TerritorialEntity:
         composite_code=str(row.get("composite_code") or build_composite_code(row)).strip(),
         full_path=str(row.get("full_path") or row.get("name") or "").strip(),
         is_official=_coerce_bool(row.get("is_official", True)),
-        source=str(row.get("source")).strip() if row.get("source") not in (None, "") else None,
+        source=str(row.get("source")).strip()
+        if row.get("source") not in (None, "")
+        else None,
         valid_from=str(row.get("valid_from")).strip()
         if row.get("valid_from") not in (None, "")
         else None,
         valid_to=str(row.get("valid_to")).strip()
         if row.get("valid_to") not in (None, "")
         else None,
-        notes=str(row.get("notes")).strip() if row.get("notes") not in (None, "") else None,
+        notes=str(row.get("notes")).strip()
+        if row.get("notes") not in (None, "")
+        else None,
     )
 
 
@@ -376,15 +380,36 @@ class Catalog:
         self.by_name: dict[str, list[TerritorialEntity]] = defaultdict(list)
         self.by_name_level: dict[tuple[str, str], list[TerritorialEntity]] = defaultdict(list)
         self.by_name_parent: dict[tuple[str, str], list[TerritorialEntity]] = defaultdict(list)
+        self.by_name_level_parent: dict[
+            tuple[str, str, str],
+            list[TerritorialEntity],
+        ] = defaultdict(list)
+        self.children_by_parent: dict[str, list[TerritorialEntity]] = defaultdict(list)
+        self.by_province: dict[str, list[TerritorialEntity]] = defaultdict(list)
 
+        self._build_indexes()
+
+    def _build_indexes(self) -> None:
         for entity in self.entities:
             self.by_code[entity.composite_code] = entity
             self.by_name[entity.normalized_name].append(entity)
             self.by_name_level[(entity.normalized_name, entity.level)].append(entity)
+            self.by_province[entity.province_code].append(entity)
+
             if entity.parent_composite_code:
-                self.by_name_parent[(entity.normalized_name, entity.parent_composite_code)].append(
-                    entity
-                )
+                self.by_name_parent[
+                    (entity.normalized_name, entity.parent_composite_code)
+                ].append(entity)
+
+                self.by_name_level_parent[
+                    (
+                        entity.normalized_name,
+                        entity.level,
+                        entity.parent_composite_code,
+                    )
+                ].append(entity)
+
+                self.children_by_parent[entity.parent_composite_code].append(entity)
 
     @classmethod
     def from_version(
@@ -440,12 +465,7 @@ class Catalog:
         parent_code = str(parent_code).strip() if parent_code else None
 
         if level and parent_code:
-            items = [
-                entity
-                for entity in self.by_name_level.get((key, level), [])
-                if entity.parent_composite_code == parent_code
-            ]
-            return items[:limit]
+            return self.by_name_level_parent.get((key, level, parent_code), [])[:limit]
 
         if level:
             return self.by_name_level.get((key, level), [])[:limit]
@@ -454,6 +474,40 @@ class Catalog:
             return self.by_name_parent.get((key, parent_code), [])[:limit]
 
         return self.by_name.get(key, [])[:limit]
+
+    def get_children(
+        self,
+        parent_code: str,
+        *,
+        level: str | None = None,
+        limit: int = 100,
+    ) -> list[TerritorialEntity]:
+        parent_code = str(parent_code).strip()
+        children = self.children_by_parent.get(parent_code, [])
+
+        if level:
+            if level not in SUPPORTED_LEVELS:
+                raise ValueError(f"Unsupported level: {level}")
+            children = [item for item in children if item.level == level]
+
+        return children[:limit]
+
+    def get_by_province(
+        self,
+        province_code: str,
+        *,
+        level: str | None = None,
+        limit: int = 1000,
+    ) -> list[TerritorialEntity]:
+        code = str(province_code).strip().zfill(2)
+        items = self.by_province.get(code, [])
+
+        if level:
+            if level not in SUPPORTED_LEVELS:
+                raise ValueError(f"Unsupported level: {level}")
+            items = [item for item in items if item.level == level]
+
+        return items[:limit]
 
     def resolve_name(
         self,
@@ -608,7 +662,6 @@ def clear_catalog_cache() -> None:
 def get_catalog(version: str | None = None) -> Catalog:
     active_version, csv_mtime_ns = _catalog_cache_signature(version)
     return _get_catalog_cached(active_version, csv_mtime_ns)
-
 
 
 def get_default_catalog() -> Catalog:

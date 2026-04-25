@@ -1,0 +1,8 @@
+{
+  "catalog_version": "v1.0.0",
+  "generated_at": "2026-04-24T20:30:00Z",
+  "entity_count": 20773,
+  "province_count": 32,
+  "source_of_truth": "csv",
+  "notes": "Catálogo nacional completo construido desde ingestión oficial por provincias. Normalización de nombres aplicada."
+}
