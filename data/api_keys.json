@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "client_id": "dev-client",
+      "client_name": "Development Client",
+      "api_key": "test-key",
+      "status": "active",
+      "scopes": ["resolve:read", "search:read", "entities:read", "batch:write", "meta:read"],
+      "rate_limit_requests": 120,
+      "rate_limit_window_seconds": 60,
+      "created_at": "2026-04-24T00:00:00Z"
+    }
+  ]
+}

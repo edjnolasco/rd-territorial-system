@@ -29,6 +29,8 @@ class ApiSettings:
     rate_limit_enabled: bool
     rate_limit_requests: int
     rate_limit_window_seconds: int
+    security_mode: str
+    api_keys: list[str]
 
 
 @lru_cache
@@ -50,4 +52,10 @@ def get_settings() -> ApiSettings:
         rate_limit_window_seconds=int(
             os.getenv("RDTS_RATE_LIMIT_WINDOW_SECONDS", "60")
         ),
+        security_mode=os.getenv("RDTS_SECURITY_MODE", "public"),
+        api_keys=[
+            key.strip()
+            for key in os.getenv("RDTS_API_KEYS", "").split(",")
+            if key.strip()
+        ],
     )
