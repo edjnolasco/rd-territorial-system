@@ -5,6 +5,9 @@ from typing import Any
 from fastapi import APIRouter
 
 from rd_territorial_system.api.errors import raise_for_strict_result
+from rd_territorial_system.api.openapi_responses import (
+    STRICT_RESOLVE_ERROR_RESPONSES,
+)
 from rd_territorial_system.api.schemas import (
     ResolveRequest,
     ResolveResponse,
@@ -12,7 +15,7 @@ from rd_territorial_system.api.schemas import (
 )
 from rd_territorial_system.catalog import resolve_name
 
-router = APIRouter()
+router = APIRouter(tags=["resolve"])
 
 
 def map_entity(entity_dict: dict[str, Any] | None) -> TerritorialEntity | None:
@@ -44,8 +47,19 @@ def enrich_resolve_payload(
     return payload
 
 
-@router.post("/resolve", response_model=ResolveResponse)
-def resolve(payload: ResolveRequest):
+@router.post(
+    "/resolve",
+    response_model=ResolveResponse,
+    summary="Resolve a territorial entity",
+    description=(
+        "Resolves a user-provided territorial name into a structured entity "
+        "from the national catalog. Supports optional level filtering and "
+        "parent disambiguation."
+    ),
+    response_description="Resolved entity or candidate list",
+    responses=STRICT_RESOLVE_ERROR_RESPONSES,
+)
+def resolve(payload: ResolveRequest) -> ResolveResponse:
     result = resolve_name(
         payload.text,
         level=payload.level,

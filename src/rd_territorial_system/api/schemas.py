@@ -15,6 +15,30 @@ Level = Literal[
 Status = Literal["matched", "ambiguous", "not_found", "invalid_input"]
 
 
+# -------------------------
+# CORE ENTITY MODEL
+# -------------------------
+class TerritorialEntity(BaseModel):
+    composite_code: str
+    parent_composite_code: str | None = None
+    name: str
+    official_name: str | None = None
+    normalized_name: str | None = None
+    level: Level
+    region_code: str
+    province_code: str
+    municipality_code: str
+    district_municipal_code: str
+    section_code: str
+    barrio_paraje_code: str
+    sub_barrio_code: str
+    full_path: str
+    parent_path: list[str] = []
+
+
+# -------------------------
+# REQUEST MODELS
+# -------------------------
 class ResolveRequest(BaseModel):
     text: str = Field(
         ...,
@@ -48,6 +72,9 @@ class SearchRequest(BaseModel):
     limit: int = Field(default=20, ge=1, le=100)
 
 
+# -------------------------
+# RESPONSE MODELS
+# -------------------------
 class ResolveResponse(BaseModel):
     input: str
     normalized_text: str | None
@@ -55,11 +82,14 @@ class ResolveResponse(BaseModel):
     status: Status
     confidence: float
     match_strategy: str
+
     canonical_name: str | None = None
     entity_id: str | None = None
-    entity_type: str | None = None
-    entity: dict[str, Any] | None = None
-    candidates: list[dict[str, Any]] = []
+    entity_type: Level | None = None
+
+    entity: TerritorialEntity | None = None
+    candidates: list[TerritorialEntity] = []
+
     trace: list[str] = []
     rules_version: str = "v1"
 
@@ -67,7 +97,7 @@ class ResolveResponse(BaseModel):
 class EntityLookupResponse(BaseModel):
     matched: bool
     status: Status
-    entity: dict[str, Any] | None = None
+    entity: TerritorialEntity | None = None
     message: str | None = None
 
 
@@ -75,19 +105,19 @@ class SearchResponse(BaseModel):
     input: str
     normalized_text: str | None
     count: int
-    items: list[dict[str, Any]]
+    items: list[TerritorialEntity]
 
 
 class ChildrenResponse(BaseModel):
     parent_code: str
     count: int
-    items: list[dict[str, Any]]
+    items: list[TerritorialEntity]
 
 
 class ProvinceEntitiesResponse(BaseModel):
     province_code: str
     count: int
-    items: list[dict[str, Any]]
+    items: list[TerritorialEntity]
 
 
 class CatalogStatsResponse(BaseModel):
@@ -105,3 +135,18 @@ class HealthResponse(BaseModel):
     api_version: str
     catalog_format: str
     catalog_loaded: bool
+    
+class ApiErrorDetail(BaseModel):
+    error: str = Field(..., description="Machine-readable error code")
+    message: str = Field(..., description="Human-readable error message")
+
+
+class ApiErrorResponse(BaseModel):
+    detail: ApiErrorDetail | str | list[dict[str, Any]] = Field(
+        ...,
+        description="Error detail payload (can be structured, string, or validation errors)",
+    )
+    request_id: str | None = Field(
+        default=None,
+        description="Request correlation ID for tracing",
+    )    

@@ -3,15 +3,28 @@ from __future__ import annotations
 from fastapi import APIRouter
 
 from rd_territorial_system.api.errors import raise_for_strict_result
+from rd_territorial_system.api.openapi_responses import (
+    STRICT_RESOLVE_ERROR_RESPONSES,
+)
 from rd_territorial_system.api.routes.resolve import enrich_resolve_payload
 from rd_territorial_system.api.schemas import ResolveRequest, ResolveResponse
 from rd_territorial_system.catalog import resolve_name
 
-router = APIRouter()
+router = APIRouter(tags=["explain"])
 
 
-@router.post("/explain", response_model=ResolveResponse)
-def explain(payload: ResolveRequest):
+@router.post(
+    "/explain",
+    response_model=ResolveResponse,
+    summary="Explain territorial resolution",
+    description=(
+        "Resolves a territorial name and returns the decision trace generated "
+        "by the resolver, including normalization, matching and ambiguity details."
+    ),
+    response_description="Resolution result with explanation trace",
+    responses=STRICT_RESOLVE_ERROR_RESPONSES,
+)
+def explain(payload: ResolveRequest) -> ResolveResponse:
     result = resolve_name(
         payload.text,
         level=payload.level,
