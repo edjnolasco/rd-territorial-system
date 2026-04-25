@@ -1,7 +1,6 @@
 import importlib
 import logging
 import pkgutil
-import time
 import uuid
 
 from fastapi import FastAPI, Request
@@ -30,6 +29,9 @@ from rd_territorial_system.api.security import (
     is_public_path,
 )
 from rd_territorial_system.api.settings import get_settings
+from rd_territorial_system.metrics.metrics_collector import MetricsCollector
+from rd_territorial_system.metrics.metrics_schema import RequestMetrics
+from rd_territorial_system.metrics.metrics_store import MetricsStore
 
 # ------------------------------------------------------------------------------
 # Settings
@@ -43,6 +45,8 @@ settings = get_settings()
 
 configure_logging(level=getattr(logging, settings.log_level.upper(), logging.INFO))
 logger = logging.getLogger("rd_territorial_system.api")
+
+metrics = MetricsCollector(MetricsStore())
 
 # ------------------------------------------------------------------------------
 # App
@@ -78,8 +82,9 @@ app.add_middleware(
 )
 
 # ------------------------------------------------------------------------------
-# Middleware: security + rate limiting + logging + headers
+# Middleware: security + rate limiting + logging + headers + metrics
 # ------------------------------------------------------------------------------
+
 
 @app.middleware("http")
 async def log_requests(request: Request, call_next):
@@ -96,8 +101,25 @@ async def log_requests(request: Request, call_next):
 
     request.state.client_id = client_id
     request.state.api_client = api_client
+    request.state.api_key_hash = api_key_hash
 
-    start_time = time.perf_counter()
+    start_time = metrics.start()
+
+    def record_request_metrics(status_code: int) -> float:
+        latency_ms = round(metrics.stop(start_time), 2)
+
+        metrics.record(
+            RequestMetrics(
+                request_id=request_id,
+                client_id=client_id,
+                endpoint=request.url.path,
+                status_code=status_code,
+                latency_ms=latency_ms,
+                api_key_hash=api_key_hash,
+            )
+        )
+
+        return latency_ms
 
     # --------------------------------------------------
     # SECURITY LAYER
@@ -108,14 +130,16 @@ async def log_requests(request: Request, call_next):
         if error_response:
             error_response.headers["X-Request-ID"] = request_id
             error_response.headers["X-Client-ID"] = client_id
+            record_request_metrics(error_response.status_code)
             return error_response
-            
+
         scope_response = check_scope(request, request_id)
 
         if scope_response:
             scope_response.headers["X-Request-ID"] = request_id
             scope_response.headers["X-Client-ID"] = client_id
-            return scope_response    
+            record_request_metrics(scope_response.status_code)
+            return scope_response
 
     # --------------------------------------------------
     # RATE LIMIT (por cliente)
@@ -162,6 +186,8 @@ async def log_requests(request: Request, call_next):
             response.headers["X-Client-ID"] = client_id
             response.headers["X-RateLimit-Limit"] = str(max_requests)
             response.headers["X-RateLimit-Remaining"] = "0"
+
+            record_request_metrics(429)
             return response
 
     # --------------------------------------------------
@@ -169,7 +195,7 @@ async def log_requests(request: Request, call_next):
     # --------------------------------------------------
     response = await call_next(request)
 
-    latency_ms = round((time.perf_counter() - start_time) * 1000, 2)
+    latency_ms = record_request_metrics(response.status_code)
 
     # --------------------------------------------------
     # HEADERS
@@ -181,9 +207,7 @@ async def log_requests(request: Request, call_next):
     response.headers["Referrer-Policy"] = "no-referrer"
 
     if settings.rate_limit_enabled:
-        response.headers["X-RateLimit-Limit"] = str(
-            max_requests if settings.rate_limit_enabled else 0
-        )
+        response.headers["X-RateLimit-Limit"] = str(max_requests)
         response.headers["X-RateLimit-Remaining"] = str(
             remaining if remaining is not None else 0
         )
@@ -207,6 +231,7 @@ async def log_requests(request: Request, call_next):
     )
 
     return response
+
 
 # ------------------------------------------------------------------------------
 # Routers
