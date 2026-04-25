@@ -5,7 +5,7 @@ from typing import Any
 from fastapi import APIRouter, Request
 
 from rd_territorial_system.api.errors import raise_for_strict_result
-from rd_territorial_system.api.main import metrics
+from rd_territorial_system.metrics.runtime import metrics
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
 )
