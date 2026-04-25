@@ -2,9 +2,10 @@ from __future__ import annotations
 
 from typing import Any
 
-from fastapi import APIRouter
+from fastapi import APIRouter, Request
 
 from rd_territorial_system.api.errors import raise_for_strict_result
+from rd_territorial_system.api.main import metrics
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
 )
@@ -14,6 +15,7 @@ from rd_territorial_system.api.schemas import (
     TerritorialEntity,
 )
 from rd_territorial_system.catalog import resolve_name
+from rd_territorial_system.metrics.metrics_schema import RequestMetrics
 
 router = APIRouter(tags=["resolve"])
 
@@ -47,6 +49,20 @@ def enrich_resolve_payload(
     return payload
 
 
+# 🔥 NUEVO: inferir tipo de resultado
+def infer_result_type(payload: dict[str, Any]) -> str:
+    entity = payload.get("entity")
+    candidates = payload.get("candidates", [])
+
+    if entity is not None:
+        return "matched"
+
+    if candidates:
+        return "ambiguous"
+
+    return "no_match"
+
+
 @router.post(
     "/resolve",
     response_model=ResolveResponse,
@@ -59,7 +75,7 @@ def enrich_resolve_payload(
     response_description="Resolved entity or candidate list",
     responses=STRICT_RESOLVE_ERROR_RESPONSES,
 )
-def resolve(payload: ResolveRequest) -> ResolveResponse:
+def resolve(payload: ResolveRequest, request: Request) -> ResolveResponse:
     result = resolve_name(
         payload.text,
         level=payload.level,
@@ -68,6 +84,28 @@ def resolve(payload: ResolveRequest) -> ResolveResponse:
     )
 
     result = enrich_resolve_payload(result, payload.rules_version)
+
+    # 🔥 MÉTRICAS NIVEL 2
+    try:
+        result_type = infer_result_type(result)
+
+        metrics.record(
+            RequestMetrics(
+                request_id=getattr(request.state, "request_id", ""),
+                client_id=getattr(request.state, "client_id", "unknown"),
+                endpoint="/api/v1/resolve",
+                status_code=200,
+                latency_ms=0.0,  # ya medido en middleware
+                query=payload.text,
+                level_requested=payload.level,
+                level_resolved=result.get("entity_type"),
+                result_type=result_type,
+                api_key_hash=getattr(request.state, "api_key_hash", None),
+            )
+        )
+    except Exception:
+        # 🔒 nunca romper endpoint por métricas
+        pass
 
     if payload.strict:
         raise_for_strict_result(result)
