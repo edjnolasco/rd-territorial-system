@@ -135,11 +135,14 @@ async def log_requests(request: Request, call_next):
             else settings.rate_limit_window_seconds
         )
 
-        allowed, remaining = rate_limiter.is_allowed(
+        decision = rate_limiter.is_allowed(
             key=client_id,
             max_requests=max_requests,
             window_seconds=window_seconds,
         )
+
+        allowed = decision.allowed
+        remaining = decision.remaining
 
         if not allowed:
             logger.warning(

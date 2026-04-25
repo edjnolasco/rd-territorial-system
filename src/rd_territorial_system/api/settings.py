@@ -26,24 +26,36 @@ class ApiSettings:
     log_level: str
     allowed_origins: list[str]
     metadata_path: Path
+
+    security_mode: str
+    api_keys: list[str]
+
     rate_limit_enabled: bool
     rate_limit_requests: int
     rate_limit_window_seconds: int
-    security_mode: str
-    api_keys: list[str]
+    rate_limit_backend: str
+    rate_limit_fail_open: bool
+
+    redis_url: str
 
 
 @lru_cache
 def get_settings() -> ApiSettings:
     return ApiSettings(
         app_name=os.getenv("RDTS_APP_NAME", "RD Territorial System API"),
-        app_version=os.getenv("RDTS_APP_VERSION", "1.0.0"),
+        app_version=os.getenv("RDTS_APP_VERSION", "1.1.0"),
         api_prefix=os.getenv("RDTS_API_PREFIX", "/api/v1"),
         log_level=os.getenv("RDTS_LOG_LEVEL", "INFO"),
         allowed_origins=_parse_origins(os.getenv("RDTS_ALLOWED_ORIGINS")),
         metadata_path=Path(
             os.getenv("RDTS_METADATA_PATH", "metadata/catalog_metadata.json")
         ),
+        security_mode=os.getenv("RDTS_SECURITY_MODE", "public"),
+        api_keys=[
+            key.strip()
+            for key in os.getenv("RDTS_API_KEYS", "").split(",")
+            if key.strip()
+        ],
         rate_limit_enabled=_parse_bool(
             os.getenv("RDTS_RATE_LIMIT_ENABLED"),
             default=True,
@@ -52,10 +64,10 @@ def get_settings() -> ApiSettings:
         rate_limit_window_seconds=int(
             os.getenv("RDTS_RATE_LIMIT_WINDOW_SECONDS", "60")
         ),
-        security_mode=os.getenv("RDTS_SECURITY_MODE", "public"),
-        api_keys=[
-            key.strip()
-            for key in os.getenv("RDTS_API_KEYS", "").split(",")
-            if key.strip()
-        ],
+        rate_limit_backend=os.getenv("RDTS_RATE_LIMIT_BACKEND", "memory"),
+        rate_limit_fail_open=_parse_bool(
+            os.getenv("RDTS_RATE_LIMIT_FAIL_OPEN"),
+            default=True,
+        ),
+        redis_url=os.getenv("RDTS_REDIS_URL", "redis://localhost:6379/0"),
     )

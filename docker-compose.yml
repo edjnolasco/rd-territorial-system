@@ -1,7 +1,15 @@
-version: "3.9"
-
 services:
   api:
     build: .
     ports:
-      - "8000:8000"
+      - "8001:8001"
+    env_file:
+      - .env
+    environment:
+      RDTS_RATE_LIMIT_BACKEND: redis
+      RDTS_REDIS_URL: redis://redis:6379/0
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
