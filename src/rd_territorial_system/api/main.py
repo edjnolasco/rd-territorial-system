@@ -17,9 +17,17 @@ from rd_territorial_system.api.exception_handlers import (
 )
 from rd_territorial_system.api.logging_config import configure_logging
 from rd_territorial_system.api.rate_limit import (
-    get_client_key,
     rate_limit_response,
     rate_limiter,
+)
+from rd_territorial_system.api.security import (
+    check_api_key,
+    check_scope,
+    get_api_key,
+    get_client_from_request,
+    get_client_id,
+    hash_api_key,
+    is_public_path,
 )
 from rd_territorial_system.api.settings import get_settings
 
@@ -29,14 +37,12 @@ from rd_territorial_system.api.settings import get_settings
 
 settings = get_settings()
 
-
 # ------------------------------------------------------------------------------
 # Logging config
 # ------------------------------------------------------------------------------
 
 configure_logging(level=getattr(logging, settings.log_level.upper(), logging.INFO))
 logger = logging.getLogger("rd_territorial_system.api")
-
 
 # ------------------------------------------------------------------------------
 # App
@@ -46,37 +52,18 @@ app = FastAPI(
     title=settings.app_name,
     version=settings.app_version,
     openapi_tags=[
-        {
-            "name": "meta",
-            "description": "Health checks and catalog metadata.",
-        },
-        {
-            "name": "resolve",
-            "description": "Territorial name resolution.",
-        },
-        {
-            "name": "batch",
-            "description": "Batch territorial resolution.",
-        },
-        {
-            "name": "explain",
-            "description": "Explain resolver decisions.",
-        },
-        {
-            "name": "search",
-            "description": "Territorial entity search.",
-        },
-        {
-            "name": "entities",
-            "description": "Territorial entity lookup.",
-        },
+        {"name": "meta", "description": "Health checks and catalog metadata."},
+        {"name": "resolve", "description": "Territorial name resolution."},
+        {"name": "batch", "description": "Batch territorial resolution."},
+        {"name": "explain", "description": "Explain resolver decisions."},
+        {"name": "search", "description": "Territorial entity search."},
+        {"name": "entities", "description": "Territorial entity lookup."},
     ],
 )
 
 app.add_exception_handler(StarletteHTTPException, http_exception_handler)
 app.add_exception_handler(RequestValidationError, validation_exception_handler)
 app.add_exception_handler(Exception, unhandled_exception_handler)
-
 
 # ------------------------------------------------------------------------------
 # CORS
@@ -90,9 +77,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 # ------------------------------------------------------------------------------
-# Middleware: logging + rate limiting + headers
+# Middleware: security + rate limiting + logging + headers
 # ------------------------------------------------------------------------------
 
 @app.middleware("http")
@@ -100,20 +86,59 @@ async def log_requests(request: Request, call_next):
     request_id = request.headers.get("X-Request-ID", str(uuid.uuid4()))
     request.state.request_id = request_id
 
+    # --------------------------------------------------
+    # CLIENT CONTEXT
+    # --------------------------------------------------
+    api_key = get_api_key(request)
+    api_key_hash = hash_api_key(api_key)
+    client_id = get_client_id(request)
+    api_client = get_client_from_request(request)
+
+    request.state.client_id = client_id
+    request.state.api_client = api_client
+
     start_time = time.perf_counter()
 
     # --------------------------------------------------
-    # RATE LIMIT (antes de procesar request)
+    # SECURITY LAYER
+    # --------------------------------------------------
+    if settings.security_mode != "public" and not is_public_path(request.url.path):
+        error_response = check_api_key(request, request_id)
+
+        if error_response:
+            error_response.headers["X-Request-ID"] = request_id
+            error_response.headers["X-Client-ID"] = client_id
+            return error_response
+            
+        scope_response = check_scope(request, request_id)
+
+        if scope_response:
+            scope_response.headers["X-Request-ID"] = request_id
+            scope_response.headers["X-Client-ID"] = client_id
+            return scope_response    
+
+    # --------------------------------------------------
+    # RATE LIMIT (por cliente)
     # --------------------------------------------------
     remaining = None
 
     if settings.rate_limit_enabled:
-        client_key = get_client_key(request)
+        max_requests = (
+            api_client.rate_limit_requests
+            if api_client and api_client.rate_limit_requests is not None
+            else settings.rate_limit_requests
+        )
+
+        window_seconds = (
+            api_client.rate_limit_window_seconds
+            if api_client and api_client.rate_limit_window_seconds is not None
+            else settings.rate_limit_window_seconds
+        )
 
         allowed, remaining = rate_limiter.is_allowed(
-            key=client_key,
-            max_requests=settings.rate_limit_requests,
-            window_seconds=settings.rate_limit_window_seconds,
+            key=client_id,
+            max_requests=max_requests,
+            window_seconds=window_seconds,
         )
 
         if not allowed:
@@ -122,7 +147,8 @@ async def log_requests(request: Request, call_next):
                 extra={
                     "extra_fields": {
                         "request_id": request_id,
-                        "client_key": client_key,
+                        "client_id": client_id,
+                        "api_key_hash": api_key_hash,
                         "path": request.url.path,
                     }
                 },
@@ -130,12 +156,13 @@ async def log_requests(request: Request, call_next):
 
             response = rate_limit_response(request_id)
             response.headers["X-Request-ID"] = request_id
-            response.headers["X-RateLimit-Limit"] = str(settings.rate_limit_requests)
+            response.headers["X-Client-ID"] = client_id
+            response.headers["X-RateLimit-Limit"] = str(max_requests)
             response.headers["X-RateLimit-Remaining"] = "0"
             return response
 
     # --------------------------------------------------
-    # PROCESAR REQUEST
+    # PROCESS REQUEST
     # --------------------------------------------------
     response = await call_next(request)
 
@@ -145,12 +172,15 @@ async def log_requests(request: Request, call_next):
     # HEADERS
     # --------------------------------------------------
     response.headers["X-Request-ID"] = request_id
+    response.headers["X-Client-ID"] = client_id
     response.headers["X-Content-Type-Options"] = "nosniff"
     response.headers["X-Frame-Options"] = "DENY"
     response.headers["Referrer-Policy"] = "no-referrer"
 
     if settings.rate_limit_enabled:
-        response.headers["X-RateLimit-Limit"] = str(settings.rate_limit_requests)
+        response.headers["X-RateLimit-Limit"] = str(
+            max_requests if settings.rate_limit_enabled else 0
+        )
         response.headers["X-RateLimit-Remaining"] = str(
             remaining if remaining is not None else 0
         )
@@ -163,6 +193,8 @@ async def log_requests(request: Request, call_next):
         extra={
             "extra_fields": {
                 "request_id": request_id,
+                "client_id": client_id,
+                "api_key_hash": api_key_hash,
                 "method": request.method,
                 "path": request.url.path,
                 "status_code": response.status_code,
@@ -172,7 +204,6 @@ async def log_requests(request: Request, call_next):
     )
 
     return response
-
 
 # ------------------------------------------------------------------------------
 # Routers
