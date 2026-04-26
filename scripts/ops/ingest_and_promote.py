@@ -64,7 +64,8 @@ def main() -> None:
         run([
             "python", "scripts/build_master_catalog.py",
             "--ingest-azua",
-            "--azua-txt", "data/raw/azua/azua_completo.txt",
+            # 🔥 CAMBIO: data/raw → data_pipeline/raw
+            "--azua-txt", "data_pipeline/raw/azua/azua_completo.txt",
             "--master-catalog", str(MASTER_CSV),
             "--output-catalog", str(CANDIDATE_CSV),
         ])
@@ -82,13 +83,13 @@ def main() -> None:
     # 3. Validaciones (CSV-only)
     # -------------------------------
     run([
-        "python", "ops/check_candidate.py",
+        "python", "scripts/ops/check_candidate.py",  # 🔥 CAMBIO
         "--candidate", str(CANDIDATE_CSV),
         "--province-code", province_code,
     ])
 
     run([
-        "python", "ops/check_expected_provinces.py",
+        "python", "scripts/ops/check_expected_provinces.py",  # 🔥 CAMBIO
         "--candidate", str(CANDIDATE_CSV),
         "--expected", *args.expected_after,
     ])
@@ -107,10 +108,11 @@ def main() -> None:
     # 6. Ejecutar tests
     # -------------------------------
     run(["python", "-m", "pytest", "-q"])
-    
+
     mark_manifest_integrated(province_code)
 
     print("\nOK: provincia integrada, fijada en master y marcada en manifest.")
+
 
 def mark_manifest_integrated(province_code: str) -> None:
     if not MANIFEST.exists():
@@ -137,6 +139,7 @@ def mark_manifest_integrated(province_code: str) -> None:
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
 
 if __name__ == "__main__":
     main()

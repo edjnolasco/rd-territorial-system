@@ -1,4 +1,4 @@
-from src.ingestion.territorial_txt import parse_territorial_line
+from rd_territorial_system.parsers.territorial_txt import parse_territorial_line
 
 
 def test_parse_province_line():

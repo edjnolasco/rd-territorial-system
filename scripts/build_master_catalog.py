@@ -109,7 +109,7 @@ TXT_DATA_LINE_RE = re.compile(
     re.VERBOSE,
 )
 
-DEFAULT_AZUA_TXT = Path("data/raw/azua/azua_completo.txt")
+DEFAULT_AZUA_TXT = Path("data_pipeline/raw/azua/azua_completo.txt")
 DEFAULT_MASTER_CATALOG = Path("data/catalog/current/rd_territorial_master.csv")
 DEFAULT_OUTPUT_CATALOG = Path("data/catalog/current/rd_territorial_master_candidate.csv")
 
@@ -592,7 +592,7 @@ def ingest_azua_to_catalog(
     if not azua_path.exists():
         raise FileNotFoundError(
             f"No se encontró el archivo de Azua en: {azua_path}\n"
-            "Colócalo en data/raw/azua/azua_completo.txt "
+            "Colócalo en data_pipeline/raw/azua/azua_completo.txt "
             "o usa --azua-txt con una ruta válida."
         )
 
