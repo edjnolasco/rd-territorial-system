@@ -5,7 +5,6 @@ import json
 from pathlib import Path
 from typing import Any
 
-
 METRICS_FIELDS = [
     "timestamp",
     "request_id",

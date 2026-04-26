@@ -31,6 +31,7 @@ from rd_territorial_system.api.security import (
 from rd_territorial_system.api.settings import get_settings
 from rd_territorial_system.metrics.metrics_schema import RequestMetrics
 from rd_territorial_system.metrics.runtime import metrics
+
 # ------------------------------------------------------------------------------
 # Settings
 # ------------------------------------------------------------------------------

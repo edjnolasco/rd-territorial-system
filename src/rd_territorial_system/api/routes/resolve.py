@@ -5,7 +5,6 @@ from typing import Any
 from fastapi import APIRouter, Request
 
 from rd_territorial_system.api.errors import raise_for_strict_result
-from rd_territorial_system.metrics.runtime import metrics
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
 )
@@ -16,6 +15,7 @@ from rd_territorial_system.api.schemas import (
 )
 from rd_territorial_system.catalog import resolve_name
 from rd_territorial_system.metrics.metrics_schema import RequestMetrics
+from rd_territorial_system.metrics.runtime import metrics
 
 router = APIRouter(tags=["resolve"])
 
