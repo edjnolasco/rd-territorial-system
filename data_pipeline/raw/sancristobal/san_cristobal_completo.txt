@@ -1,0 +1,1016 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+05 21 00 00 00 000 00 San Cristóbal
+05 21 01 00 00 000 00 San Cristóbal
+05 21 01 01 00 000 00 San Cristóbal
+05 21 01 01 01 000 00 San Cristóbal (Zona urbana)
+05 21 01 01 01 001 00 Lavapié
+05 21 01 01 01 001 01 Lavapié
+05 21 01 01 01 001 02 San Antonio
+05 21 01 01 01 001 03 Villa Caro
+05 21 01 01 01 002 00 Pueblo Nuevo
+05 21 01 01 01 002 01 Pueblo Nuevo
+05 21 01 01 01 002 02 Simón Bolívar
+05 21 01 01 01 002 03 Los Berigüete
+05 21 01 01 01 003 00 San Isidro
+05 21 01 01 01 003 01 San Isidro
+05 21 01 01 01 003 02 Nueva Esperanza
+05 21 01 01 01 003 03 Conani
+05 21 01 01 01 003 04 El Kilómetro 2
+05 21 01 01 01 003 05 San Lázaro
+05 21 01 01 01 003 06 Ana Ramírez
+05 21 01 01 01 004 00 5 de Abril
+05 21 01 01 01 004 01 5 de Abril
+05 21 01 01 01 004 02 La Factoría
+05 21 01 01 01 004 03 La Grancera
+05 21 01 01 01 005 00 Zona Verde
+05 21 01 01 01 005 01 Zona Verde
+05 21 01 01 01 006 00 Jeringa
+05 21 01 01 01 006 01 Jeringa
+05 21 01 01 01 007 00 Las Flores
+05 21 01 01 01 007 01 Las Flores
+05 21 01 01 01 007 02 Quema Creta (6 de Noviembre)
+05 21 01 01 01 008 00 Madre Vieja del Norte
+05 21 01 01 01 008 01 Madre Vieja del Norte
+05 21 01 01 01 008 02 Nuevo Concentración
+05 21 01 01 01 008 03 La Piña
+05 21 01 01 01 008 04 David
+05 21 01 01 01 008 05 La Arena (El Play)
+05 21 01 01 01 008 06 Villa Abelardo
+05 21 01 01 01 008 07 Los Jardines de Madre Vieja
+05 21 01 01 01 008 08 Urbanización García
+05 21 01 01 01 008 09 Altos de Chavón
+05 21 01 01 01 009 00 Madre Vieja del Sur o San Ignacio de Loyola
+05 21 01 01 01 009 01 Madre Vieja del Sur o San Ignacio de Loyola
+05 21 01 01 01 009 02 Urbanización Las Arescas
+05 21 01 01 01 009 03 Los Jabillones
+05 21 01 01 01 009 04 Villa Mercedes
+05 21 01 01 01 009 05 Favidrio
+05 21 01 01 01 009 06 Ensanche Olímpico
+05 21 01 01 01 009 07 Urbanización Camino del Sol 
+05 21 01 01 01 009 08 Urbanización Zantel I Y II
+05 21 01 01 01 009 09 Urbanización Zantel III
+05 21 01 01 01 009 10 Textil
+05 21 01 01 01 009 11 Los Americanos
+05 21 01 01 01 009 12 Constitución
+05 21 01 01 01 009 13 Bobo o Madre Vieja Abajo
+05 21 01 01 01 009 14 Urbanización Los Japoneses
+05 21 01 01 01 009 15 La Loma
+05 21 01 01 01 009 16 Residencial San Late I
+05 21 01 01 01 009 17 Residencial San Late IV
+05 21 01 01 01 009 18 Urbanización Zantel III
+05 21 01 01 01 009 19 Ensanche Juan Pablo Duarte
+05 21 01 01 01 009 20 Urbanización Génesis
+05 21 01 01 01 009 21 Urbanización El Rosal 
+05 21 01 01 01 009 22 Urbanización Sigfrido Domínguez
+05 21 01 01 01 009 23 Urbanización Las Américas
+05 21 01 01 01 009 24 Urbanización Leonela
+05 21 01 01 01 009 25 Urbanización María
+05 21 01 01 01 009 26 Urbanización San Sebastián 
+05 21 01 01 01 009 27 Residencial Doña Chea
+05 21 01 01 01 009 28 Urbanización Francisco del Rosario Sánchez
+05 21 01 01 01 009 29 Residencial Idalia
+05 21 01 01 01 009 30 Residencial Shalom II
+05 21 01 01 01 009 31 Residencial Shalom III (En Construcción)
+05 21 01 01 01 009 32 Residencial Palmera (En Proyecto)
+05 21 01 01 01 009 33 Urbanización Shalom V
+05 21 01 01 01 009 34 Residencial Jonathan
+05 21 01 01 01 010 00 Centro de la Ciudad
+05 21 01 01 01 010 01 Centro de la Ciudad
+05 21 01 01 01 011 00 Los Nova
+05 21 01 01 01 011 01 Los Nova
+05 21 01 01 01 011 02 Villa Verde
+05 21 01 01 01 011 03 Antonio Duvergé
+05 21 01 01 01 011 04 Urbanización Colina Hermosa
+05 21 01 01 01 011 05 El Parquesito
+05 21 01 01 01 011 06 Urbanización Vista Alta
+05 21 01 01 01 012 00 Agricultura o Los Barrancones
+05 21 01 01 01 012 01 Agricultura o Los Barrancones
+05 21 01 01 01 012 02 Villa Liberación
+05 21 01 01 01 012 03 El Hoyo
+05 21 01 01 01 012 04 Refugio Alpha 6
+05 21 01 01 01 012 05 Villa Progreso I
+05 21 01 01 01 013 00 Puerto Rico
+05 21 01 01 01 013 01 Puerto Rico
+05 21 01 01 01 013 02 El Hoyo
+05 21 01 01 01 013 03 Los Multi
+05 21 01 01 01 013 04 El Manguito
+05 21 01 01 01 014 00 Canastica o Paraíso
+05 21 01 01 01 014 01 Canastica o Paraíso
+05 21 01 01 01 014 02 Mendoza
+05 21 01 01 01 014 03 Los Barrancones
+05 21 01 01 01 014 04 Urbanización Las Colinas
+05 21 01 01 01 014 05 Cañada de los Vallejo (Richi)
+05 21 01 01 01 014 06 Urbanización Don Richi (Villa Bendición)
+05 21 01 01 01 014 07 Urbanización Vista Hermosa
+05 21 01 01 01 014 08 Los Ninjas
+05 21 01 01 01 014 09 El Bronx
+05 21 01 01 01 014 10 Don Juan I
+05 21 01 01 01 014 11 Don Juan II
+05 21 01 01 01 014 12 Los Trinitarios
+05 21 01 01 01 014 13 Urbanización Yamile
+05 21 01 01 01 015 00 Doña Chucha
+05 21 01 01 01 015 01 Doña Chucha
+05 21 01 01 01 015 02 Urbanización Primaveral
+05 21 01 01 01 015 03 Urbanización El Frutal
+05 21 01 01 01 016 00 El Cerro
+05 21 01 01 01 016 01 El Cerro
+05 21 01 01 01 016 02 El Play
+05 21 01 01 01 016 03 Sarito
+05 21 01 01 01 016 04 Bella Vista
+05 21 01 01 01 016 05 Cañada Honda
+05 21 01 01 01 017 00 Moscú
+05 21 01 01 01 017 01 Moscú
+05 21 01 01 01 017 02 Los Coquitos
+05 21 01 01 01 017 03 María Trinidad Sánchez
+05 21 01 01 01 017 04 Proyecto José Francisco Peña Gómez II
+05 21 01 01 01 017 05 Villa Progreso
+05 21 01 01 01 017 06 Villa Progreso II (Proyecto Virgilio)
+05 21 01 01 01 017 07 Los Agrónomos
+05 21 01 01 01 017 08 Residencial Doña Gloria
+05 21 01 01 01 017 09 Residencial Villa Hermosa
+05 21 01 01 01 017 10 Urbanización Los Montero
+05 21 01 01 01 017 11 Lupa
+05 21 01 01 01 018 00 Villa Fundación
+05 21 01 01 01 018 01 Villa Fundación
+05 21 01 01 01 018 02 Urbanización El Gran Jinete
+05 21 01 01 01 018 03 Urbanización Esmeralda o Vidaliana
+05 21 01 01 01 018 04 Proyecto José Francisco Peña Gómez
+05 21 01 01 01 018 05 Urbanización Vidaliana
+05 21 01 01 01 018 06 Urbanización Sfaron I
+05 21 01 01 01 018 07 El Refugio Alpha 4
+05 21 01 01 01 019 00 Cañada Honda
+05 21 01 01 01 019 01 Cañada Honda
+05 21 01 01 01 019 02 Proyecto Pradera Verde
+05 21 01 01 01 020 00 Los Molina
+05 21 01 01 01 020 01 Los Molina
+05 21 01 01 01 020 02 La Constitución
+05 21 01 01 01 020 03 Los Coquitos
+05 21 01 01 01 021 00 El Buen Pastor
+05 21 01 01 01 021 01 El Buen Pastor
+05 21 01 01 01 021 02 Urbanización Don Félix
+05 21 01 01 01 021 03 Urbanización 6 de Noviembre
+05 21 01 01 01 022 00 La Suiza
+05 21 01 01 01 022 01 La Suiza
+05 21 01 01 01 022 02 Las Mercedes
+05 21 01 01 01 023 00 Sabana Toro
+05 21 01 01 01 023 01 Proyecto José Francisco Peña Gómez I
+05 21 01 01 01 023 02 Urbanización Cerros de San Cristóbal
+05 21 01 01 01 023 03 Urbanización Jardines del Sur
+05 21 01 01 01 023 04 Residencial Doña Oliva
+05 21 01 01 01 023 05 Urbanización Loma Real
+05 21 01 01 01 024 00 La Guandulera
+05 21 01 01 01 024 01 La Guandulera
+05 21 01 01 01 024 02 Urbanización Vista Fundación
+05 21 01 01 01 025 00 La Coquera
+05 21 01 01 01 025 01 La Coquera
+05 21 01 01 01 025 02 Urbanización Adonis
+05 21 01 01 01 025 03 Urbanización Sánchez
+05 21 01 01 01 026 00 Los Trinitarios
+05 21 01 01 01 026 01 El Peña
+05 21 01 01 01 026 02 Km 3
+05 21 01 01 01 026 03 Loma de Felito
+05 21 01 01 01 027 00 Kilómetro 3 ½
+05 21 01 01 01 027 01 Kilómetro 3 ½
+05 21 01 01 01 027 02 Proyecto Nuevo
+05 21 01 01 01 027 03 Buen Amanecer
+05 21 01 01 01 027 04 Proyecto Perla Dorada
+05 21 01 01 01 027 05 Urbanización Brisas del Edén
+05 21 01 01 02 000 00 Borbón
+05 21 01 01 02 001 00 La Toma
+05 21 01 01 02 002 00 Establo
+05 21 01 01 02 003 00 Los Corozos
+05 21 01 01 02 004 00 Manuel
+05 21 01 01 02 005 00 Naranjo Dulce
+05 21 01 01 02 006 00 Villegas
+05 21 01 01 02 007 00 Gallinero
+05 21 01 01 02 008 00 Los Cacaítos
+05 21 01 01 02 009 00 El Pomier
+05 21 01 01 04 000 00 Ingenio Nuevo
+05 21 01 01 04 001 00 Doña Ana
+05 21 01 01 04 002 00 San Isidro
+05 21 01 01 04 003 00 Hoyo del Barro
+05 21 01 01 04 004 00 Santana
+05 21 01 01 04 005 00 Don López
+05 21 01 01 04 006 00 Niza Arriba
+05 21 01 01 04 007 00 Niza Abajo
+05 21 01 01 04 008 00 Rancho al Medio
+05 21 01 01 04 009 00 Los Hoyos
+05 21 01 01 04 010 00 Miracielo
+05 21 01 01 04 011 00 Sabana al Medio
+05 21 01 01 04 012 00 Los Bajos
+05 21 01 01 04 013 00 Ingenio Nuevo
+05 21 01 01 04 014 00 La Palmita
+05 21 01 01 04 015 00 Caño Andrés
+05 21 01 01 05 000 00 Najayo Arriba
+05 21 01 01 05 001 00 Fuerte Resolí
+05 21 01 01 05 002 00 Pozo Prieto
+05 21 01 01 05 003 00 Najayo Arriba
+05 21 01 01 05 004 00 Loma Verde - Maricao
+05 21 01 01 05 005 00 Santa Lucía de Camba
+05 21 01 01 05 006 00 Canasta
+05 21 01 01 05 007 00 Zorra Buena
+05 21 01 01 05 008 00 La Conga
+05 21 01 01 05 009 00 Najayo
+05 21 01 01 06 000 00 Sainaguá
+05 21 01 01 06 001 00 Los Arroyos (Arroyo Bueno)
+05 21 01 01 06 002 00 La Plena
+05 21 01 01 06 003 00 Los Botaos
+05 21 01 01 06 004 00 Sainaguá
+05 21 01 01 06 005 00 Los Asicis
+05 21 01 01 06 006 00 Montaño
+05 21 01 01 07 000 00 Santa María
+05 21 01 01 07 001 00 Mingo Bartolo o La Privada
+05 21 01 01 07 002 00 La Placeta (El Palmar)
+05 21 01 01 07 003 00 Yerba Buena o Pica Pica
+05 21 01 01 07 004 00 Mandinga
+05 21 01 01 07 005 00 La Palma
+05 21 01 01 08 000 00 Cambita Sterling
+05 21 01 01 08 001 00 Cambita Sterling
+05 21 01 01 08 002 00 Cambita Uribe
+05 21 01 01 08 003 00 La Rosa
+05 21 01 01 08 004 00 Fundación
+05 21 01 01 08 005 00 El Fundo
+05 21 01 01 08 006 00 Kilómetro 4
+05 21 01 01 08 007 00 Sabana Toro
+05 21 01 01 08 008 00 El Cinco
+05 21 01 01 08 009 00 Junda Junda
+05 21 01 02 00 000 00 Hato Damas (DM)
+05 21 01 02 01 000 00 Hato Damas (Zona urbana)
+05 21 01 02 01 001 00 Hato Damas
+05 21 01 02 01 001 01 Hato Damas
+05 21 01 02 02 000 00 Los Montones
+05 21 01 02 02 001 00 Los Montones Arriba
+05 21 01 02 02 002 00 Los Montones Abajo
+05 21 01 02 02 003 00 Los Gervacio
+05 21 01 02 02 004 00 La Lechuza o El Cuayo
+05 21 01 02 02 005 00 Ingenge
+05 21 01 02 02 006 00 El Cobre
+05 21 01 02 02 007 00 Parra
+05 21 01 02 03 000 00 Dasa
+05 21 01 02 03 001 00 Dasa I
+05 21 01 02 03 002 00 Dasa II
+05 21 01 02 03 003 00 Pedro Caballero
+05 21 01 02 03 004 00 Limón Dulce
+05 21 01 02 03 005 00 Boca de Gamboa
+05 21 01 02 03 006 00 Nuevos Horizontes
+05 21 01 02 03 007 00 La Cabuya
+05 21 01 02 04 000 00 San Francisco
+05 21 01 02 04 001 00 Los Hoyos o El Guano
+05 21 01 02 04 002 00 Rincón Largo
+05 21 01 02 04 003 00 San Francisco
+05 21 01 02 04 004 00 La Lica
+05 21 01 02 04 005 00 Boruga
+05 21 01 02 04 006 00 Mano Matuey
+05 21 01 02 04 007 00 Carvajal
+05 21 01 02 04 008 00 El Ramón
+05 21 01 02 04 009 00 Los Calimetes
+05 21 01 02 05 000 00 Jamey
+05 21 01 02 05 001 00 Venturoso
+05 21 01 02 05 002 00 Boca de los dos Ríos
+05 21 01 02 05 003 00 Arroyo Claro
+05 21 01 02 05 004 00 Arroyo Mingo
+05 21 01 02 05 005 00 Jamey
+05 21 01 02 05 006 00 La Jainera (Hainera)
+05 21 01 02 05 007 00 Maluco
+05 21 01 02 05 008 00 Los Arroyones
+05 21 01 03 00 000 00 Hatillo (DM)
+05 21 01 03 01 000 00 Hatillo (Zona Urbana)
+05 21 01 03 01 001 00 Hatillo 
+05 21 01 03 01 001 01 Hatillo 
+05 21 01 03 02 000 00 La Sabana
+05 21 01 03 02 001 00 San Miguel
+05 21 01 03 02 002 00 Los Cantines o Los Algarrobos
+05 21 01 03 02 003 00 Coco
+05 21 01 03 02 004 00 La Cruz de Santiago 
+05 21 01 03 02 005 00 El Zumbón
+05 21 01 03 02 006 00 Calle Bonita
+05 21 01 03 02 007 00 La Florida 
+05 21 01 03 02 008 00 La Sabana
+05 21 01 03 03 000 00 Hojas Anchas
+05 21 01 03 03 001 00 Hojas Anchas
+05 21 01 03 03 002 00 Los Cantines (S.D.)
+05 21 01 03 03 003 00 Curva del Turco
+05 21 01 03 03 004 00 San Rafael
+05 21 01 03 03 005 00 Estebanía
+05 21 01 03 03 006 00 Los Platanos (S.D.)
+05 21 01 03 04 000 00 Mata Naranjo
+05 21 01 03 04 001 00 Vendaño
+05 21 01 03 04 002 00 Villa Encanto (S.D.)
+05 21 01 03 04 003 00 Los Mameyes
+05 21 01 03 04 004 00 El Corte
+05 21 01 03 04 005 00 Mata Paloma
+05 21 01 03 04 006 00 Los Chivos
+05 21 01 03 04 007 00 Mata Naranjo
+05 21 01 03 04 008 00 Boca de Burro
+05 21 01 03 04 009 00 Loma de Porquero
+05 21 01 03 04 010 00 Limón Dulce
+05 21 02 00 00 000 00 Sabana Grande de Palenque
+05 21 02 01 00 000 00 Sabana Grande de Palenque
+05 21 02 01 01 000 00 Sabana Crande de Palenque (Zona urbana)
+05 21 02 01 01 001 00 Centro del Pueblo
+05 21 02 01 01 001 01 Centro del Pueblo
+05 21 02 01 01 001 02 Camagüey
+05 21 02 01 01 001 03 Calcuta
+05 21 02 01 01 001 04 La Feria
+05 21 02 01 01 002 00 Sal si Puedes
+05 21 02 01 01 002 01 24 de Abril
+05 21 02 01 01 002 02 27 de Febrero
+05 21 02 01 01 003 00 La Curva
+05 21 02 01 01 003 01 Rincón Bellaco
+05 21 02 01 01 003 02 La Cañita
+05 21 02 01 02 000 00 Juan Barón
+05 21 02 01 02 001 00 Juan Barón
+05 21 02 01 02 002 00 La Agüita
+05 21 02 01 02 003 00 Fallete
+05 21 02 01 02 004 00 La Guama
+05 21 02 01 03 000 00 Sabana Palenque
+05 21 02 01 03 001 00 La Sabanita
+05 21 02 01 03 002 00 Puerto Palenque
+05 21 02 01 03 003 00 Sabana Palito
+05 21 02 01 03 004 00 Sabana Grande de Palenque Rural
+05 21 03 00 00 000 00 Bajos de Haina
+05 21 03 01 00 000 00 Bajos de Haina
+05 21 03 01 01 000 00 Bajos de Haina (Zona urbana)
+05 21 03 01 01 001 00 Miramar u Hoyo Frío
+05 21 03 01 01 001 01 Miramar u Hoyo Frío
+05 21 03 01 01 001 02 El Libertador
+05 21 03 01 01 001 03 Colina Fesca (antigua Wendy Gil)
+05 21 03 01 01 001 04 Libertad
+05 21 03 01 01 001 05 Los Reyes
+05 21 03 01 01 002 00 Piedra Blanca
+05 21 03 01 01 002 01 Piedra Blanca
+05 21 03 01 01 002 02 Calle en Medio
+05 21 03 01 01 002 03 San José
+05 21 03 01 01 002 04 Framboyán
+05 21 03 01 01 002 05 20-30
+05 21 03 01 01 002 06 Broklin
+05 21 03 01 01 002 07 Nuevo (N)
+05 21 03 01 01 002 08 Los Palmares
+05 21 03 01 01 003 00 Villa Penca
+05 21 03 01 01 003 01 Villa Penca
+05 21 03 01 01 004 00 Bella Vista
+05 21 03 01 01 004 01 Bella Vista
+05 21 03 01 01 005 00 Zona Industrial
+05 21 03 01 01 005 01 Zona Industrial
+05 21 03 01 01 005 02 Urbanización Guelo
+05 21 03 01 01 005 03 La Unión 
+05 21 03 01 01 005 04 Los Barrancones
+05 21 03 01 01 005 05 Los Productores
+05 21 03 01 01 005 06 Callejón Nina
+05 21 03 01 01 006 00 Los Gringos
+05 21 03 01 01 006 01 Los Gringos
+05 21 03 01 01 006 02 Rincón Hainero
+05 21 03 01 01 006 03 El Bagazo o El Balazo
+05 21 03 01 01 006 04 Ingenio Río Haina
+05 21 03 01 01 006 05 El Hoyo
+05 21 03 01 01 006 06 Los Platanitos
+05 21 03 01 01 007 00 Villa Lisa
+05 21 03 01 01 007 01 Villa Lisa
+05 21 03 01 01 008 00 Barcequillo
+05 21 03 01 01 008 01 Barcequillo
+05 21 03 01 01 008 02 El Molino 
+05 21 03 01 01 008 03 Urbanización Colinas del Caribe
+05 21 03 01 01 008 04 Libertad
+05 21 03 01 01 008 05 La Esmeralda (Hoyo de Machuca)
+05 21 03 01 01 008 06 Urbanización Francia
+05 21 03 01 01 008 07 Camboya
+05 21 03 01 01 009 00 San Antonio
+05 21 03 01 01 009 01 San Antonio
+05 21 03 01 01 009 02 San José
+05 21 03 01 01 009 03 Chino
+05 21 03 01 01 010 00 El Centro
+05 21 03 01 01 010 01 El Centro
+05 21 03 01 01 010 02 Los Coquitos
+05 21 03 01 01 010 03 Mejoramiento Social
+05 21 03 01 01 011 00 El Distrito
+05 21 03 01 01 011 01 El Distrito
+05 21 03 01 01 011 02 Kilómetro 17
+05 21 03 01 01 011 03 Pueblo Nuevo
+05 21 03 01 01 011 04 Vietnam
+05 21 03 01 01 011 05 El Semillero o La Caoba
+05 21 03 01 01 011 06 Los Mangos
+05 21 03 01 01 011 07 La Linea
+05 21 03 01 01 012 00 Invicea
+05 21 03 01 01 012 01 Invicea
+05 21 03 01 01 012 02 Brisas del Mar o La Loma o Invi Cea Parte Atrás
+05 21 03 01 01 013 00 Autoridad Portuaria
+05 21 03 01 01 013 01 Autoridad Portuaria
+05 21 03 01 01 014 00 San Gregorio o Kilómetro 18
+05 21 03 01 01 014 01 San Gregorio o Kilómetro 18
+05 21 03 01 01 014 02 El Vacacional 
+05 21 03 01 01 014 03 Altos de Chavos
+05 21 03 01 02 000 00 Haina
+05 21 03 01 02 001 00 Calle en Medio
+05 21 03 01 02 002 00 Cabón
+05 21 03 01 02 003 00 Itabo
+05 21 03 01 02 004 00 El Naranjal
+05 21 03 01 02 005 00 Piedra Blanca Sur
+05 21 03 01 02 006 00 Los Desamparados
+05 21 03 02 00 000 00 El Carril (DM)
+05 21 03 02 01 000 00 El Carril (Zona urbana)
+05 21 03 02 01 001 00 Anacagüita
+05 21 03 02 01 001 01 Anacagüita
+05 21 03 02 01 001 02 La Ceita 
+05 21 03 02 01 002 00 Los Serranos
+05 21 03 02 01 002 01 Los Serranos
+05 21 03 02 01 002 02 Los Campeches
+05 21 03 02 01 003 00 Centro del Pueblo o La Placeta
+05 21 03 02 01 003 01 Centro del Pueblo
+05 21 03 02 01 003 02 Los Frías
+05 21 03 02 02 000 00 El Cajuilito
+05 21 03 02 02 001 00 Feliciana
+05 21 03 02 02 002 00 Cajuilito Norte
+05 21 03 02 02 003 00 Cajuilito Sur
+05 21 03 02 02 004 00 Arenoso
+05 21 03 02 02 005 00 Monte Adentro
+05 21 03 02 02 006 00 Mata Naranjo o Naranjal
+05 21 03 02 04 000 00 La Pared
+05 21 03 02 04 001 00 Cruce de la Feliciana
+05 21 03 02 04 002 00 La Pared
+05 21 03 02 04 003 00 Monte Largo
+05 21 03 02 04 004 00 Sabaneta
+05 21 03 02 04 005 00 El Caliche
+05 21 03 02 04 006 00 Teresandón
+05 21 03 02 04 007 00 La Isleta
+05 21 03 02 04 008 00 El Calvario
+05 21 03 02 04 009 00 La Gallera
+05 21 03 03 00 000 00 Quita Sueño (DM)
+05 21 03 03 01 000 00 Quita Sueño (Zona urbana)
+05 21 03 03 01 001 00 Quita Sueño
+05 21 03 03 01 001 01 Quita Sueño
+05 21 03 03 02 000 00 Piedra Blanca Norte
+05 21 03 03 02 001 00 Piedra Blanca Norte
+05 21 03 03 02 002 00 Quita Sueño Norte
+05 21 03 03 02 003 00 Quita Sueño Sur
+05 21 03 03 03 000 00 La Cerca (SD)
+05 21 03 03 03 001 00 La Cerca (SD)
+05 21 03 03 04 000 00 Villa María
+05 21 03 03 04 001 00 Villa Maria
+05 21 03 03 05 000 00 Los Barrancones los Frías
+05 21 03 03 05 001 00 Los Barrancones los Frías
+05 21 03 03 06 000 00 Barcequillo Industrial
+05 21 03 03 06 001 00 Barcequillo Industrial
+05 21 04 00 00 000 00 cambita Garabitos
+05 21 04 01 00 000 00 Cambita Garabitos
+05 21 04 01 01 000 00 Cambita Garabitos (Zona urbana)
+05 21 04 01 01 001 00 Las Casitas
+05 21 04 01 01 001 01 Las Casitas
+05 21 04 01 01 001 02 Las Casitas Parte Atrás o Callejón de Taga
+05 21 04 01 01 002 00 Centro del Pueblo
+05 21 04 01 01 002 01 Centro del Pueblo
+05 21 04 01 01 003 00 Codetel
+05 21 04 01 01 003 01 Codetel
+05 21 04 01 01 004 00 Félix Núñez o El Muro
+05 21 04 01 01 004 01 Félix Núñez o El Muro
+05 21 04 01 01 005 00 El Cajón
+05 21 04 01 01 005 01 El Cajón
+05 21 04 01 01 005 02 La Lagunita
+05 21 04 01 01 005 03 Urbanización Domínguez
+05 21 04 01 01 006 00 Villa Verde
+05 21 04 01 01 006 01 Villa Verde
+05 21 04 01 01 006 02 Altos de los Ubaldos
+05 21 04 01 01 007 00 La Torre
+05 21 04 01 01 007 01 La Torre
+05 21 04 01 01 008 00 15 de Agosto
+05 21 04 01 01 008 01 15 de Agosto
+05 21 04 01 01 008 02 La Toronja
+05 21 04 01 01 008 03 Lucinda
+05 21 04 01 01 009 00 INVI
+05 21 04 01 01 009 01 INVI
+05 21 04 01 01 009 02 Ofasa
+05 21 04 01 01 009 03 Invi Parte Atrás
+05 21 04 01 01 010 00 La Escuela
+05 21 04 01 01 010 01 La Escuela
+05 21 04 01 01 010 02 Jeringa
+05 21 04 01 02 000 00 Cambita Garabitos
+05 21 04 01 02 001 00 Los Bajos del Río
+05 21 04 01 02 002 00 Arroyo Higüero
+05 21 04 01 02 003 00 La Toma Arriba
+05 21 04 01 02 004 00 La Boca de La Toma
+05 21 04 01 02 005 00 Arroyo Hoyo
+05 21 04 01 02 006 00 El Ingenio
+05 21 04 01 02 007 00 Botoncillo
+05 21 04 01 02 008 00 Palma Seca
+05 21 04 01 02 009 00 Loma El Guazumal
+05 21 04 01 02 010 00 San Francisco
+05 21 04 01 02 011 00 Cumía Adentro
+05 21 04 01 02 012 00 Loma La Canoa
+05 21 04 01 02 013 00 Cumía Arriba
+05 21 04 01 03 000 00 Humachón
+05 21 04 01 03 001 00 El Macao
+05 21 04 01 03 002 00 El Cedro
+05 21 04 01 03 003 00 Palma Seca
+05 21 04 01 03 004 00 La Jagüita
+05 21 04 01 03 005 00 El Llano
+05 21 04 01 03 006 00 Las Auyamas
+05 21 04 01 03 007 00 Las Hicoteas
+05 21 04 01 03 008 00 Humachón
+05 21 04 01 03 009 00 Mucha Agua
+05 21 04 01 03 010 00 El Limón
+05 21 04 01 03 011 00 Juan Román
+05 21 04 01 03 012 00 Botoncillos
+05 21 04 01 04 000 00 La Colonia
+05 21 04 01 04 001 00 Mano Matuey Arriba
+05 21 04 01 04 002 00 Mano Matuey Abajo
+05 21 04 01 04 003 00 La Cueva
+05 21 04 01 04 004 00 La Colonia
+05 21 04 01 04 005 00 La Cabirma
+05 21 04 01 04 006 00 Loma Los Anones
+05 21 04 01 04 007 00 El Majagual
+05 21 04 01 04 008 00 Arroyo Lindo
+05 21 04 01 04 009 00 El Limón
+05 21 04 01 05 000 00 Los Manantiales
+05 21 04 01 05 001 00 El Cañaveral
+05 21 04 01 05 002 00 Leonardo
+05 21 04 01 05 003 00 Los Manantiales
+05 21 04 01 05 004 00 Los Hozaderos
+05 21 04 01 05 005 00 Agua Clara
+05 21 04 01 05 006 00 El Zumbí Manteca
+05 21 04 01 05 007 00 El Corte Nuevo
+05 21 04 01 05 008 00 Los Jugaderos
+05 21 04 01 05 009 00 Bruno
+05 21 04 01 05 010 00 Manuel Mina
+05 21 04 01 05 011 00 La Rinconada
+05 21 04 01 05 012 00 La Estancia
+05 21 04 01 05 013 00 Loma La Tasajera
+05 21 04 01 05 014 00 Los Coles
+05 21 04 01 05 015 00 El Jobo
+05 21 04 01 05 016 00 Valentín
+05 21 04 01 05 017 00 Miguel
+05 21 04 01 05 018 00 La Palmita
+05 21 04 01 05 019 00 Mucha Agua
+05 21 04 01 06 000 00 El Tablazo
+05 21 04 01 06 001 00 El Tablazo
+05 21 04 01 06 002 00 Las Minas
+05 21 04 01 06 003 00 Piedra Gorda
+05 21 04 01 06 004 00 El Habrá
+05 21 04 01 06 005 00 El Co
+05 21 04 01 06 006 00 Las Eneas
+05 21 04 01 06 007 00 Arroyo Grande
+05 21 04 01 06 008 00 El Higüerito
+05 21 04 01 06 009 00 Los Anones
+05 21 04 01 06 010 00 El Carao
+05 21 04 01 06 011 00 La Guazábara
+05 21 04 01 06 012 00 La Yabacoa
+05 21 04 01 06 013 00 Nigua
+05 21 04 01 06 014 00 Los Chaparrales
+05 21 04 01 06 015 00 Cañada Bonita
+05 21 04 01 06 016 00 Loma el Alto de la Piña
+05 21 04 01 06 017 00 Hondo Valle
+05 21 04 02 00 000 00 Cambita El Pueblecito (DM)
+05 21 04 02 01 000 00 Cambita El Pueblecito (Zona urbana)
+05 21 04 02 01 001 00 Cambita El Pueblecito
+05 21 04 02 01 001 01 Cambita El Pueblecito
+05 21 04 02 01 001 02 Arroyo Pino
+05 21 04 02 01 001 03 La Gallera
+05 21 04 02 01 001 04 La Sabana
+05 21 04 02 01 001 05 La Sabana de los Domínguez
+05 21 04 02 01 001 06 El Centro
+05 21 04 02 01 001 07 El Pedregal
+05 21 04 02 01 001 08 Cayao Arriba (Callao Arriba)
+05 21 04 02 01 001 09 Cayao Abajo (Callao Abajo)
+05 21 04 02 02 000 00 Llanada Grande
+05 21 04 02 02 001 00 La Llanada Grande o Cañada Grande
+05 21 04 02 02 002 00 La Gallina
+05 21 04 02 02 003 00 Loma Lechoso
+05 21 04 02 02 004 00 La Cebolla
+05 21 04 02 02 005 00 La Jagüita
+05 21 04 02 02 006 00 La Lagunita
+05 21 04 02 02 007 00 Cañada de la Vaca
+05 21 04 02 02 008 00 Corbanito (Callao Arriba)
+05 21 04 02 02 009 00 Firme de Suárez
+05 21 04 02 03 000 00 Pueblo Nuevo
+05 21 04 02 03 001 00 Cumía Abajo
+05 21 04 02 03 002 00 El Papayo
+05 21 04 02 03 003 00 Jerónimo López
+05 21 04 02 03 004 00 Pueblo Nuevo
+05 21 04 02 03 005 00 Arroyo Pino
+05 21 04 02 03 006 00 La Majagua
+05 21 04 02 04 000 00 El Toro
+05 21 04 02 04 001 00 La Guama
+05 21 04 02 04 002 00 Canoa
+05 21 04 02 04 003 00 Los Toros
+05 21 04 02 04 004 00 El Mamey
+05 21 04 02 04 005 00 Martinica
+05 21 05 00 00 000 00 Villa Altagracia
+05 21 05 01 00 000 00 Villa Altagracia
+05 21 05 01 01 000 00 Villa Altagracia (Zona urbana)
+05 21 05 01 01 001 00 Juan Pablo Duarte
+05 21 05 01 01 001 01 Juan Pablo Duarte
+05 21 05 01 01 001 02 Primaveral o Sergio Mareta
+05 21 05 01 01 001 03 Antonio o La Toca David
+05 21 05 01 01 002 00 Las Cañitas
+05 21 05 01 01 002 01 Las Cañitas
+05 21 05 01 01 003 00 Ramón Matías Mella
+05 21 05 01 01 003 01 Ramón Matías Mella
+05 21 05 01 01 004 00 Catarey
+05 21 05 01 01 004 01 Catarey
+05 21 05 01 01 004 02 Flor de Liz o Sal si Puedes
+05 21 05 01 01 004 03 José Francisco Peña Gómez
+05 21 05 01 01 004 04 Los Chaleses o Los Almacenes
+05 21 05 01 01 004 05 Los Multi
+05 21 05 01 01 004 06 Novillero
+05 21 05 01 01 004 07 Quinto Patio (5.º Patio)
+05 21 05 01 01 004 08 La Jabilla
+05 21 05 01 01 004 09 Las 10 Casitas
+05 21 05 01 01 004 10 Brooklyn
+05 21 05 01 01 005 00 Fátima o Los Cachimbos
+05 21 05 01 01 005 01 Fátima o Los Cachimbos
+05 21 05 01 01 006 00 Pueblo Nuevo
+05 21 05 01 01 006 01 Pueblo Nuevo
+05 21 05 01 01 007 00 Centro del Pueblo
+05 21 05 01 01 007 01 Centro del Pueblo
+05 21 05 01 01 007 02 Los Alemanes
+05 21 05 01 01 008 00 INVI
+05 21 05 01 01 008 01 INVI
+05 21 05 01 01 008 02 Las 80 Casitas
+05 21 05 01 01 008 03 Los Tractoristas
+05 21 05 01 01 008 04 La Plata
+05 21 05 01 01 008 05 Invicea
+05 21 05 01 01 009 00 Tierra Santa
+05 21 05 01 01 009 01 Tierra Santa
+05 21 05 01 01 009 02 La Delicia
+05 21 05 01 01 009 03 Padre Billini
+05 21 05 01 01 010 00 Caribe
+05 21 05 01 01 010 01 Caribe
+05 21 05 01 01 011 00 San Francisco (Entrada)
+05 21 05 01 01 011 01 San Francisco (Entrada)
+05 21 05 01 01 012 00 Los Solares
+05 21 05 01 01 012 01 Los Solares
+05 21 05 01 01 012 02 La Colina I
+05 21 05 01 01 012 03 La Colina II
+05 21 05 01 01 012 04 La Colina III
+05 21 05 01 01 013 00 Remangao
+05 21 05 01 01 013 01 Remangao
+05 21 05 01 01 014 00 Las Sarnas
+05 21 05 01 01 014 01 Las Sarnas
+05 21 05 01 01 015 00 Maternidad
+05 21 05 01 01 015 01 Maternidad
+05 21 05 01 01 016 00 Buenos Aires
+05 21 05 01 01 016 01 Buenos Aires
+05 21 05 01 01 017 00 Libertad
+05 21 05 01 01 017 01 Libertad
+05 21 05 01 01 018 00 Pajarito
+05 21 05 01 01 018 01 Pajarito
+05 21 05 01 01 019 00 Vista Hermosa
+05 21 05 01 01 019 01 Vista Hermosa
+05 21 05 01 01 020 00 Los Mercados
+05 21 05 01 01 020 01 Los Mercados
+05 21 05 01 02 000 00 Catarey
+05 21 05 01 02 001 00 El Negro
+05 21 05 01 02 002 00 Arroyo Grande
+05 21 05 01 02 003 00 El Duey
+05 21 05 01 02 004 00 Loma Vieja
+05 21 05 01 02 005 00 Batey Lechería
+05 21 05 01 02 006 00 Cañada Blanca
+05 21 05 01 02 007 00 El Molino
+05 21 05 01 02 008 00 Novillero
+05 21 05 01 02 009 00 El Rodeo
+05 21 05 01 02 010 00 Los Aguacates
+05 21 05 01 02 011 00 Kilómetro 45
+05 21 05 01 02 012 00 La Lomita o El Corral
+05 21 05 01 02 013 00 Cañada Honda
+05 21 05 01 03 000 00 Maná de Haina
+05 21 05 01 03 001 00 Joa
+05 21 05 01 03 002 00 La Guázuma
+05 21 05 01 03 003 00 El Sereno
+05 21 05 01 03 004 00 Maná de Haina
+05 21 05 01 03 005 00 Maná de Maizal o Maizal Arriba
+05 21 05 01 03 006 00 La Caoba
+05 21 05 01 03 007 00 Cambutera
+05 21 05 01 03 008 00 La Celestina
+05 21 05 01 03 009 00 Nandita
+05 21 05 01 03 010 00 Hormigo
+05 21 05 01 03 011 00 Reparadero
+05 21 05 01 03 012 00 Batey los Guineos
+05 21 05 01 03 013 00 Batey 43
+05 21 05 01 03 014 00 Guardarraya de Naiboa
+05 21 05 01 03 015 00 La Isabela
+05 21 05 01 03 016 00 Kilómetro 40
+05 21 05 01 03 017 00 Carvajal
+05 21 05 01 03 018 00 Los Lirios
+05 21 05 01 03 019 00 Madrigal
+05 21 05 01 03 020 00 Monte Bonito
+05 21 05 01 03 021 00 Derrumbadero
+05 21 05 01 03 022 00 Higüerito
+05 21 05 01 03 023 00 Finquita
+05 21 05 01 03 024 00 Caobal
+05 21 05 02 00 000 00 San José del Puerto (DM)
+05 21 05 02 01 000 00 San José del Puerto (Zona urbana)
+05 21 05 02 01 001 00 El Puerto o El Centro
+05 21 05 02 01 001 01 El Puerto o El Centro
+05 21 05 02 01 001 02 Borojol
+05 21 05 02 01 002 00 Batey
+05 21 05 02 01 002 01 Batey
+05 21 05 02 01 002 02 Los Barrancones Nuevos o Los Alemanes
+05 21 05 02 01 003 00 Puerto Rico
+05 21 05 02 01 003 01 Puerto Rico
+05 21 05 02 01 003 02 Detrás de Puerto Rico o Puerto Rico II
+05 21 05 02 01 003 03 Korea
+05 21 05 02 02 000 00 Básima
+05 21 05 02 02 001 00 Básima
+05 21 05 02 02 002 00 Sabana Culebra
+05 21 05 02 02 003 00 Guananito
+05 21 05 02 02 004 00 Sabana Piedra
+05 21 05 02 02 005 00 Tubo Prieto
+05 21 05 02 02 006 00 Come Hombre
+05 21 05 02 02 007 00 El Duey
+05 21 05 02 02 008 00 La Cueva del Duey
+05 21 05 02 02 009 00 Kilómetro 48
+05 21 05 02 02 010 00 Los Arroyones
+05 21 05 02 03 000 00 Los Mogotes
+05 21 05 02 03 001 00 Los Mogotes
+05 21 05 02 03 002 00 Blanco
+05 21 05 02 03 003 00 Majagua
+05 21 05 02 03 004 00 Kilómetro 56
+05 21 05 02 03 005 00 Kilómetro 59
+05 21 05 02 03 006 00 Rancho Yagua
+05 21 05 02 03 007 00 Arenoso
+05 21 05 02 04 000 00 Pino Herrado
+05 21 05 02 04 001 00 La Cumbre
+05 21 05 02 04 002 00 Los Ganchos
+05 21 05 02 04 003 00 Rancho La Cumbre
+05 21 05 02 04 004 00 El Puerto
+05 21 05 02 04 005 00 El Café
+05 21 05 02 04 006 00 El Sesenta y Uno (61)
+05 21 05 02 04 007 00 El Dos (El 2) o La Mina
+05 21 05 03 00 000 00 Medina (DM)
+05 21 05 03 01 000 00 Medina (Zona urbana)
+05 21 05 03 01 001 00 Medina
+05 21 05 03 01 001 01 La Anacagüita
+05 21 05 03 01 001 02 La Sabana
+05 21 05 03 01 001 03 La Almendra
+05 21 05 03 01 001 04 La Esperanza
+05 21 05 03 01 001 05 El Fundo
+05 21 05 03 02 000 00 Loma Verde
+05 21 05 03 02 001 00 Núñez Abajo
+05 21 05 03 02 002 00 Los Mejía
+05 21 05 03 02 003 00 Los Jesús
+05 21 05 03 03 000 00 El Pedrero
+05 21 05 03 03 001 00 El Pedrero
+05 21 05 03 03 002 00 Mamey Macho
+05 21 05 03 03 003 00 Guanabanito
+05 21 05 03 03 004 00 La Juliana Arriba
+05 21 05 03 03 005 00 Núñez Arriba
+05 21 05 03 03 006 00 El Limón
+05 21 05 03 04 000 00 Castaño
+05 21 05 03 04 001 00 La Curva
+05 21 05 03 04 002 00 La Cuabita
+05 21 05 03 04 003 00 Vietnam
+05 21 05 03 04 004 00 Castaño
+05 21 05 03 05 000 00 Medina
+05 21 05 03 05 001 00 Media Cara
+05 21 05 03 05 002 00 El Fundo
+05 21 05 03 05 003 00 Rancho Acevedo
+05 21 05 03 05 004 00 El Paraíso
+05 21 05 03 05 005 00 Lechería
+05 21 05 03 05 006 00 La Juliana Abajo
+05 21 05 03 05 007 00 Los Algarrobos
+05 21 05 04 00 000 00 La Cuchilla (DM)
+05 21 05 04 01 000 00 La Cuchilla (Zona urbana)
+05 21 05 04 01 001 00 La Cuchilla
+05 21 05 04 01 001 01 La Cuchilla
+05 21 05 04 01 001 02 El Aguacero
+05 21 05 04 01 001 03 Rincón los Sindo o Zumbí la Araña
+05 21 05 04 01 001 04 Los Chepitos
+05 21 05 04 01 001 05 Ciudad Nueva
+05 21 05 04 01 001 06 Lolo
+05 21 05 04 01 001 07 Brisas Suaves
+05 21 05 04 01 002 00 Guachupita
+05 21 05 04 01 002 01 Guachupita
+05 21 05 04 01 002 02 Sector Olimpia
+05 21 05 04 01 002 03 Lo Menso
+05 21 05 04 02 000 00 La Cuchilla
+05 21 05 04 02 001 00 La Joya
+05 21 05 04 02 002 00 La Piña
+05 21 05 04 02 003 00 La Rosa
+05 21 05 04 02 004 00 Los Brache o Los Bellacos
+05 21 05 04 02 005 00 Lo Menso
+05 21 05 04 03 000 00 El Aguacero
+05 21 05 04 03 001 00 Aguacero
+05 21 05 04 03 002 00 Gragea
+05 21 05 04 03 003 00 Arroyo el Loro
+05 21 05 04 03 004 00 Cañada de la Palma
+05 21 05 04 03 005 00 Higo Claro
+05 21 05 04 03 006 00 Barrio La Grama
+05 21 05 04 03 007 00 Los Placencio o Los Horacio
+05 21 05 04 03 008 00 Los Compé
+05 21 05 04 04 000 00 El Caobal
+05 21 05 04 04 001 00 El Caobal
+05 21 05 04 04 002 00 Los Hoyos
+05 21 05 04 04 003 00 Sabana Caobal
+05 21 05 04 04 004 00 Los Anones
+05 21 05 04 04 005 00 Los Pineda
+05 21 05 04 04 006 00 El Maricao
+05 21 05 04 04 007 00 Los Mosquitos
+05 21 05 04 04 008 00 Los Conucos
+05 21 05 04 05 000 00 El Cidral
+05 21 05 04 05 001 00 El Cidral
+05 21 05 04 05 002 00 Jengibre
+05 21 05 04 05 003 00 La Bomba
+05 21 05 04 05 004 00 Los Reinoso
+05 21 05 04 05 005 00 Blanco Caobal
+05 21 05 04 05 006 00 Terreno del Estado
+05 21 05 04 05 007 00 Loma de Los Majaguales
+05 21 05 04 06 000 00 El Cidral (La Represa)
+05 21 05 04 06 001 00 Barrio Chino
+05 21 05 04 06 002 00 Blanco Majagua
+05 21 05 04 06 003 00 La Ceiba
+05 21 05 04 06 004 00 Higüerito
+05 21 05 04 06 005 00 La Represa
+05 21 06 00 00 000 00 Yaguate
+05 21 06 01 00 000 00 Yaguate
+05 21 06 01 01 000 00 Yaguate (Zona urbana)
+05 21 06 01 01 001 00 Viejo
+05 21 06 01 01 001 01 Viejo
+05 21 06 01 01 002 00 Santa Cruz
+05 21 06 01 01 002 01 Santa Cruz
+05 21 06 01 01 002 02 Residencial Santana
+05 21 06 01 01 002 02 Moja Casabe
+05 21 06 01 01 002 04 El Callejón
+05 21 06 01 01 002 05 Altos de Santa Cruz
+05 21 06 01 01 002 06 Los Guzmanes
+05 21 06 01 01 003 00 La Uva
+05 21 06 01 01 003 01 La Uva
+05 21 06 01 01 004 00 Nuevo
+05 21 06 01 01 004 01 Nuevo
+05 21 06 01 01 004 02 Residencial Rivas Bonilla
+05 21 06 01 01 005 00 Moja Casabe (Bella Vista)
+05 21 06 01 01 005 01 Moja Casabe (Bella Vista)
+05 21 06 01 01 006 00 Centro del Pueblo
+05 21 06 01 01 004 03 Centro del Pueblo
+05 21 06 01 02 000 00 Las Gallardas
+05 21 06 01 02 001 00 Yaguate Arriba o La Jabilla
+05 21 06 01 02 002 00 Las Gallardas (S.D.)
+05 21 06 01 02 003 00 Los Guzmán
+05 21 06 01 02 004 00 Las Mercedes
+05 21 06 01 02 005 00 Gerónimo López (S.D.)
+05 21 06 01 02 006 00 La Cueva (S.D.)
+05 21 06 01 02 007 00 El Fuerte (S.D.)
+05 21 06 01 02 008 00 La Jagua (S.D.)
+05 21 06 01 02 009 00 Tío Lorenzo (S.D.)
+05 21 06 01 02 010 00 Paimatía (S.D.)
+05 21 06 01 02 011 00 Arroyo Mamey (S.D.)
+05 21 06 01 02 012 00 Higuerito
+05 21 06 01 02 013 00 Semana Santa
+05 21 06 01 02 014 00 La Cumba
+05 21 06 01 03 000 00 Najayo en Medio
+05 21 06 01 03 001 00 Los Leones
+05 21 06 01 03 002 00 Najayo en Medio
+05 21 06 01 03 003 00 Los Franco
+05 21 06 01 03 004 00 La Ermita o Najayo en Medio
+05 21 06 01 03 005 00 Moja Casabe
+05 21 06 01 03 006 00 Duveaux (Mamey Macho)
+05 21 06 01 03 007 00 La Loma
+05 21 06 01 03 008 00 La Cabirma
+05 21 06 01 03 009 00 Los Sánchez
+05 21 06 01 03 010 00 Los Mateo
+05 21 06 01 03 011 00 Lucas Díaz
+05 21 06 01 03 012 00 La Jagua
+05 21 06 01 03 013 00 Boca de los Arroyos
+05 21 06 01 03 014 00 La Vaca
+05 21 06 01 03 015 00 Los Riceli (Los Brea)
+05 21 06 01 03 016 00 El Limón
+05 21 06 01 03 017 00 Pajarito
+05 21 06 01 03 018 00 Buzón
+05 21 06 01 03 019 00 La Caoba
+05 21 06 01 03 020 00 Ingenio Caei
+05 21 06 01 03 021 00 Cabria Abajo
+05 21 06 01 04 000 00 Maná de Yaguate
+05 21 06 01 04 001 00 El Maizal
+05 21 06 01 04 002 00 Boca de Maná
+05 21 06 01 04 003 00 La Mancha
+05 21 06 01 04 004 00 El Pozo
+05 21 06 01 04 005 00 Monte Bonito
+05 21 06 01 04 006 00 El Fuerte
+05 21 06 01 04 007 00 El Horno
+05 21 06 01 04 008 00 Maná Abajo
+05 21 06 01 04 009 00 Maná de Yaguate
+05 21 06 01 04 010 00 El Copey
+05 21 06 02 00 000 00 Doña Ana (DM)
+05 21 06 02 01 000 00 Doña Ana (Zona urbana)
+05 21 06 02 01 001 00 Doña Ana
+05 21 06 02 01 001 01 Doña Ana
+05 21 06 02 02 000 00 Los Brujanes
+05 21 06 02 02 001 00 Las Gallardas (Los Brujanes)
+05 21 06 02 02 002 00 Pujabante (Pujavante)
+05 21 06 02 02 003 00 Machín
+05 21 06 02 02 004 00 Machincito (SD)
+05 21 06 02 03 000 00 La Sierra
+05 21 06 02 03 001 00 La Sierra
+05 21 06 02 03 002 00 La Manigua
+05 21 06 02 03 003 00 El Anón (SD)
+05 21 07 00 00 000 00 San Gregorio de Nigua
+05 21 07 01 00 000 00 San Gregorio de Nigua
+05 21 07 01 01 000 00 San Gregorio de Nigua (Zona urbana)
+05 21 07 01 01 001 00 Nigua Norte I
+05 21 07 01 01 001 01 Venezuela
+05 21 07 01 01 001 02 Kilómetro 22
+05 21 07 01 01 001 03 La Granja
+05 21 07 01 01 001 04 Lemba
+05 21 07 01 01 001 05 Los Chivos o Los Chinos
+05 21 07 01 01 001 06 El Campeche
+05 21 07 01 01 001 07 Nigua Norte I
+05 21 07 01 01 002 00 Puerta Blanca
+05 21 07 01 01 002 01 Puerta Blanca
+05 21 07 01 01 003 00 La Costa
+05 21 07 01 01 003 01 La Costa
+05 21 07 01 01 004 00 Yogo Yogo
+05 21 07 01 01 004 01 Yogo Yogo
+05 21 07 01 01 005 00 Nigua Sur I
+05 21 07 01 01 005 01 Nigua Sur I
+05 21 07 01 01 005 02 Los Pozos
+05 21 07 01 01 005 03 Buenos Aires
+05 21 07 01 01 005 04 Reparto San Gregorio
+05 21 07 01 01 005 05 Las Caobas
+05 21 07 01 01 005 06 Camunguí
+05 21 07 01 01 006 00 Nigua Sur II
+05 21 07 01 01 006 01 Nigua Sur II
+05 21 07 01 01 006 02 Villa Castín o Los Pérez
+05 21 07 01 01 006 03 La Sabana o San Miguel
+05 21 07 01 01 006 04 El Laurel
+05 21 07 01 02 000 00 Boca de Nigua
+05 21 07 01 02 001 00 Los Fructuosos
+05 21 07 01 02 002 00 San Antonio
+05 21 07 01 02 003 00 Samángola
+05 21 07 01 02 004 00 Boca de Nigua
+05 21 07 01 02 005 00 San Nicolás
+05 21 07 01 02 006 00 Cambelén
+05 21 07 01 02 007 00 Arroyo Higüero
+05 21 07 01 02 008 00 Yogo Yogo
+05 21 07 01 03 000 00 Najayo Abajo
+05 21 07 01 03 001 00 Dios Dirá
+05 21 07 01 03 002 00 Najayo Abajo o Cruce de Najayo
+05 21 07 01 03 003 00 Hato Viejo
+05 21 07 01 03 004 00 Los Amaceyes
+05 21 07 01 03 005 00 Los Higüeros
+05 21 07 01 03 006 00 Carlos Pinto
+05 21 07 01 03 007 00 Cañada Andrés
+05 21 07 01 03 008 00 Goyo Viejo
+05 21 07 01 03 009 00 Las Playas
+05 21 07 01 03 010 00 El Guano
+05 21 07 01 04 000 00 Malpáez
+05 21 07 01 04 001 00 Malpáez
+05 21 07 01 04 002 00 La Canela
+05 21 07 01 04 003 00 Los Cajuiles
+05 21 08 00 00 000 00 Los Cacaos
+05 21 08 01 00 000 00 Los Cacaos
+05 21 08 01 01 000 00 Los Cacaos (Zona urbana)
+05 21 08 01 01 001 00 Los Cacaos
+05 21 08 01 01 001 01 La Asociación
+05 21 08 01 01 001 02 Los Multi
+05 21 08 01 01 001 03 Campo de Tiro
+05 21 08 01 01 001 04 Centro del Pueblo
+05 21 08 01 01 001 05 El Cuartel
+05 21 08 01 01 001 06 El Puentecito
+05 21 08 01 02 000 00 El Guineo
+05 21 08 01 02 001 00 Los Cacaos Rural
+05 21 08 01 02 002 00 Los Guázaros
+05 21 08 01 02 003 00 Los Arroyos
+05 21 08 01 02 004 00 La Siembra
+05 21 08 01 02 005 00 Francisco Mateo
+05 21 08 01 02 006 00 Los Jengibres
+05 21 08 01 02 007 00 Hoyo Prieto
+05 21 08 01 02 008 00 Los Mineros
+05 21 08 01 02 009 00 Los Candonguitos
+05 21 08 01 02 010 00 La Pocilga
+05 21 08 01 02 011 00 Las Tres Veredas
+05 21 08 01 02 012 00 Los Jíbaros
+05 21 08 01 02 013 00 La Cuchilla de la Guardia
+05 21 08 01 02 014 00 Pancholo
+05 21 08 01 02 015 00 La Gina Marcada
+05 21 08 01 02 016 00 Los Guineos Adentro
+05 21 08 01 02 017 00 Los Guineos Afuera
+05 21 08 01 02 018 00 Zumbi Manteca
+05 21 08 01 03 000 00 Los Naranjos
+05 21 08 01 03 001 00 Monteada Nueva
+05 21 08 01 03 002 00 Melitón
+05 21 08 01 03 003 00 Vallejo
+05 21 08 01 03 004 00 Cañada Bonita
+05 21 08 01 03 005 00 Monte Bonito
+05 21 08 01 03 006 00 Cañada del Agua
+05 21 08 01 03 007 00 Santana
+05 21 08 01 03 008 00 Benito
+05 21 08 01 03 009 00 Palma Arriba
+05 21 08 01 03 010 00 Arroyo Piedra
+05 21 08 01 03 011 00 Arroyo del Café
+05 21 08 01 03 012 00 Los Caños
+05 21 08 01 03 013 00 La Jina
+05 21 08 01 03 014 00 Florencio
+05 21 08 01 03 015 00 Los Naranjos
+05 21 08 01 03 016 00 Los Arroyos
+05 21 08 01 03 017 00 La Palma
+05 21 08 01 03 018 00 Silloncito
+05 21 08 01 04 000 00 Calderón
+05 21 08 01 04 001 00 El Valle
+05 21 08 01 04 002 00 Calderón
+05 21 08 01 04 003 00 Palo de La Cruz
+05 21 08 01 04 004 00 Mahomita Los Arroyitos
+05 21 08 01 04 005 00 Arroyo Grande
+05 21 08 01 04 006 00 Calderón Arriba
+05 21 08 01 04 007 00 La Cañada del Café
+05 21 08 01 04 008 00 Los Calimetes
+05 21 08 01 04 009 00 Cienaguita
+05 21 08 01 04 010 00 Vallejito Abajo

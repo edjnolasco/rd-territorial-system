@@ -1,0 +1,704 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+01 09 00 00 00 000 00 Espaillat
+01 09 01 00 00 000 00 Moca
+01 09 01 01 00 000 00 Moca
+01 09 01 01 01 000 00 Moca (Zona urbana)
+01 09 01 01 01 001 00 Nuevo Puerto Rico
+01 09 01 01 01 001 01 Nuevo Puerto Rico
+01 09 01 01 01 001 02 Marién García
+01 09 01 01 01 001 03 Residencial Michell
+01 09 01 01 01 001 04 Residencial Irka
+01 09 01 01 01 001 05 Residencial Boca de Moca
+01 09 01 01 01 002 00 José Horacio Rodríguez
+01 09 01 01 01 002 01 José Horacio Rodríguez
+01 09 01 01 01 003 00 El Muerto Borracho Cervantes
+01 09 01 01 01 003 01 El Muerto Borracho Cervantes
+01 09 01 01 01 003 02 Villa Bachola
+01 09 01 01 01 004 00 Puerto Rico Viejo
+01 09 01 01 01 004 01 Puerto Rico Viejo
+01 09 01 01 01 004 02 Lotificación Victoriana
+01 09 01 01 01 005 00 Juan Lopito
+01 09 01 01 01 005 01 Juan Lopito
+01 09 01 01 01 006 00 Los Cáceres
+01 09 01 01 01 006 01 Los Cáceres
+01 09 01 01 01 006 02 Habitación los Cáceres
+01 09 01 01 01 007 00 Militar
+01 09 01 01 01 007 01 Militar
+01 09 01 01 01 007 02 Fortaleza 2 de Mayo
+01 09 01 01 01 008 00 centro de la ciudad
+01 09 01 01 01 008 01 Centro de la Ciudad
+01 09 01 01 01 009 00 Guachupita
+01 09 01 01 01 009 01 Guachupita
+01 09 01 01 01 009 02 Los Mangos
+01 09 01 01 01 009 03 Centro de la Ciudad
+01 09 01 01 01 010 00 urbanización Estela
+01 09 01 01 01 010 01 Urbanización Estela
+01 09 01 01 01 011 00 Sal si Puedes
+01 09 01 01 01 011 01 Sal si Puedes
+01 09 01 01 01 011 02 Hoyo de Meregildo
+01 09 01 01 01 012 00 Guaucí
+01 09 01 01 01 012 01 Guaucí
+01 09 01 01 01 012 02 Residencial Calaf II
+01 09 01 01 01 013 00 Mejoramiento Social
+01 09 01 01 01 013 01 Mejoramiento Social
+01 09 01 01 01 014 00 urbanización del Este
+01 09 01 01 01 014 01 Urbanización del Este
+01 09 01 01 01 015 00 Villa Elsa
+01 09 01 01 01 015 01 Residencial Villa Elsa
+01 09 01 01 01 015 02 Villa Elsa II
+01 09 01 01 01 015 03 Villa Elsa III
+01 09 01 01 01 015 04 Villa Graciela
+01 09 01 01 01 015 05 El Zoológico
+01 09 01 01 01 016 00 La Piscina
+01 09 01 01 01 016 01 La Piscina
+01 09 01 01 01 017 00 Roque Dabas
+01 09 01 01 01 017 01 Roque Dabas
+01 09 01 01 01 018 00 Villa olga
+01 09 01 01 01 018 01 Villa Olga
+01 09 01 01 01 019 00 Mairosa
+01 09 01 01 01 019 01 Mairosa
+01 09 01 01 01 020 00 Residencial Moca (Maco Toribio o Maco Tibio)
+01 09 01 01 01 020 01 Residencial Moca (Maco Toribio o Maco Tibio)
+01 09 01 01 01 021 00 la Milagrosa
+01 09 01 01 01 021 01 La Milagrosa
+01 09 01 01 01 022 00 Las Flores
+01 09 01 01 01 022 01 Las Flores
+01 09 01 01 01 023 00 Don Bosco
+01 09 01 01 01 023 01 Don Bosco
+01 09 01 01 01 024 00 Guaucí Abajo
+01 09 01 01 01 024 01 Guaucí Abajo
+01 09 01 01 01 024 02 Residencial Evans Luis
+01 09 01 01 01 024 03 30 de Mayo
+01 09 01 01 01 025 00 Residencial Calaf I
+01 09 01 01 01 025 01 Residencial Calaf I
+01 09 01 01 01 026 00 Los Panchos
+01 09 01 01 01 026 01 Los Panchos
+01 09 01 01 01 027 00 Juan de Dios
+01 09 01 01 01 027 01 Juan de Dios
+01 09 01 01 01 028 00 la Joyita
+01 09 01 01 01 028 01 La Joyita
+01 09 01 01 01 029 00 Villa carolina i
+01 09 01 01 01 029 01 Villa Carolina I
+01 09 01 01 01 030 00 Villa carolina ii
+01 09 01 01 01 030 01 Villa Carolina II
+01 09 01 01 01 031 00 El corozo
+01 09 01 01 01 031 01 El Corozo
+01 09 01 01 01 032 00 los Maestros
+01 09 01 01 01 032 01 Los Maestros
+01 09 01 01 01 033 00 Eurípides
+01 09 01 01 01 033 01 Eurípides
+01 09 01 01 01 033 02 Urbanización Eurípides Durán II
+01 09 01 01 01 033 03 Urbanización Lolita
+01 09 01 01 01 033 04 Residencial Villa Carolin
+01 09 01 01 01 033 05 Residencial Estanza
+01 09 01 01 01 034 00 Quija Quieta
+01 09 01 01 01 034 01 Quija Quieta
+01 09 01 01 01 035 00 El caimito
+01 09 01 01 01 035 01 El Caimito
+01 09 01 01 01 035 02 El Caimito del Hospital
+01 09 01 01 01 035 03 Villa Emely
+01 09 01 01 01 035 04 El Caimito de la Rosario
+01 09 01 01 01 035 05 Respaldo Amelia
+01 09 01 01 01 035 06 Residencial s/n
+01 09 01 01 01 035 07 Residencial Beverly Hills
+01 09 01 01 01 036 00 urbanización Yenny María I
+01 09 01 01 01 036 01 Urbanización Yenny María I
+01 09 01 01 01 037 00 urbanización Yenny María II
+01 09 01 01 01 037 01 Urbanización Yenny María II
+01 09 01 01 01 038 00 Villa Estancia Nueva
+01 09 01 01 01 038 01 Villa Estancia Nueva
+01 09 01 01 01 039 00 Los López
+01 09 01 01 01 039 01 Los López I
+01 09 01 01 01 039 02 Los López II
+01 09 01 01 01 039 03 Los López III
+01 09 01 01 01 039 04 Flora
+01 09 01 01 01 040 00 Miguel A. Michel
+01 09 01 01 01 040 01 Miguel A. Michel
+01 09 01 01 01 041 00 Residencial Alexandra
+01 09 01 01 01 041 01 Residencial Alexandra
+01 09 01 01 01 042 00 Milito
+01 09 01 01 01 042 01 Milito
+01 09 01 01 01 043 00 Villa carolina iii
+01 09 01 01 01 043 01 Villa Carolina III
+01 09 01 01 01 044 00 Villa carolina iV
+01 09 01 01 01 044 01 Villa Carolina IV
+01 09 01 01 01 044 02 Residencial Dulce Emilia I
+01 09 01 01 01 044 03 Residencial Dulce Emilia II
+01 09 01 01 01 045 00 Nueva Suiza
+01 09 01 01 01 045 01 Nueva Suiza
+01 09 01 01 01 045 02 Juana Saltitopa
+01 09 01 01 01 046 00 Residencial Moronta
+01 09 01 01 01 046 01 Residencial Moronta
+01 09 01 01 01 046 02 Urbanización Lama
+01 09 01 01 01 046 03 Industria de Alimento
+01 09 01 01 01 047 00 Los Cocos
+01 09 01 01 01 047 01 Los Cocos
+01 09 01 01 01 047 02 Villa Esmeralda
+01 09 01 01 01 047 03 Residencial Vista Verde
+01 09 01 01 01 048 00 Villa caimito
+01 09 01 01 01 048 01 Villa Caimito
+01 09 01 01 01 048 02 Residencial María del Carmen
+01 09 01 01 01 048 03 Urbanización Ámbar
+01 09 01 01 01 048 04 Residencial Jardín del Este
+01 09 01 01 01 048 05 Residencial ámbar
+01 09 01 01 01 048 06 Villas Caimito
+01 09 01 01 01 049 00 Pueblo Arriba
+01 09 01 01 01 049 01 Pueblo Arriba
+01 09 01 01 01 050 00 La Estación
+01 09 01 01 01 050 01 La Estación
+01 09 01 01 01 051 00 los loros
+01 09 01 01 01 051 01 Los Loros
+01 09 01 01 01 052 00 El Bolsillo
+01 09 01 01 01 052 01 El Bolsillo
+01 09 01 01 01 053 00 Altos de Chavón
+01 09 01 01 01 053 01 Altos de Chavón
+01 09 01 01 01 054 00 Manuel Rodríguez
+01 09 01 01 01 054 01 Manuel Rodríguez
+01 09 01 01 01 055 00 los torres
+01 09 01 01 01 055 01 Los Torres
+01 09 01 01 01 056 00 Villa Delia
+01 09 01 01 01 056 01 Villa Delia
+01 09 01 01 01 056 02 Los Cáceres
+01 09 01 01 01 056 03 Estancia Nueva
+01 09 01 01 01 056 04 Villa Delia Gold
+01 09 01 01 01 056 05 Residencial Villa Delia Blue
+01 09 01 01 01 056 06 Villa Delia IV
+01 09 01 01 01 056 07 Residencial Villa Delia V
+01 09 01 01 01 057 00 El cementerio
+01 09 01 01 01 057 01 El Cementerio
+01 09 01 01 01 058 00 San José
+01 09 01 01 01 058 01 San José
+01 09 01 01 01 058 02 Peje de Peña
+01 09 01 01 01 059 00 Cementerio Municipal de Moca
+01 09 01 01 01 059 01 Cementerio Municipal de Moca
+01 09 01 01 01 060 00 De Foro
+01 09 01 01 01 060 01 De Foro
+01 09 01 01 01 060 02 Las Colinas
+01 09 01 01 01 061 00 Los Profesionales
+01 09 01 01 01 061 01 Los Profesionales
+01 09 01 01 01 062 00 Residencial Montreal
+01 09 01 01 01 062 01 Residencial Montreal
+01 09 01 01 01 063 00 Batuto
+01 09 01 01 01 063 01 Batuto
+01 09 01 01 01 064 00 Residencial Los Octavio
+01 09 01 01 01 064 01 Residencial Los Octavio
+01 09 01 01 02 000 00 Zafarraya
+01 09 01 01 02 001 00 Zafarraya
+01 09 01 01 02 002 00 Los Cercados
+01 09 01 01 02 003 00 La Chancleta
+01 09 01 01 02 004 00 La Soledad
+01 09 01 01 02 005 00 Cacique Soledad
+01 09 01 01 02 006 00 La Rosa de Moca
+01 09 01 01 02 007 00 El Picacho
+01 09 01 01 02 008 00 Caimito
+01 09 01 01 03 000 00 El algarrobo
+01 09 01 01 03 001 00 Santa Eduvigis
+01 09 01 01 03 002 00 Quebrada de la Jagua o de la Yagua
+01 09 01 01 03 003 00 Los Cadillos
+01 09 01 01 03 004 00 El Algarrobo
+01 09 01 01 03 005 00 La Penda
+01 09 01 01 04 000 00 llenas
+01 09 01 01 04 001 00 Los Hilario
+01 09 01 01 04 002 00 El Corozo
+01 09 01 01 04 003 00 Isleta
+01 09 01 01 04 004 00 Llenas-Hinchas
+01 09 01 01 05 000 00 Paso de Moca
+01 09 01 01 05 001 00 San Francisco Arriba
+01 09 01 01 05 002 00 Paso de Moca
+01 09 01 01 05 003 00 La Ermita
+01 09 01 01 05 004 00 Estancia Nueva Abajo
+01 09 01 01 05 005 00 Barrancón
+01 09 01 01 06 000 00 San luis
+01 09 01 01 06 001 00 Quebrada Honda
+01 09 01 01 06 002 00 San Luis
+01 09 01 01 06 003 00 Los Jengibres
+01 09 01 01 06 004 00 Los Jengibres Abajo
+01 09 01 01 06 005 00 La Piragua
+01 09 01 01 07 000 00 Santa rosa
+01 09 01 01 07 001 00 Rincón de los Jiménez
+01 09 01 01 07 002 00 Santa Rosa
+01 09 01 01 07 003 00 La Playita
+01 09 01 01 07 004 00 Los Bretones
+01 09 01 01 07 005 00 La Furnia (Rincón de los Jiménez)
+01 09 01 02 00 000 00 José Contreras (DM)
+01 09 01 02 01 000 00 José Contreras (Zona urbana)
+01 09 01 02 01 001 00 Centro del Pueblo
+01 09 01 02 01 001 01 Centro del Pueblo
+01 09 01 02 01 001 02 El Play
+01 09 01 02 02 000 00 camarones
+01 09 01 02 02 001 00 Camarones Arriba
+01 09 01 02 02 002 00 Los Guayuyos
+01 09 01 02 02 003 00 La Encantada I
+01 09 01 02 02 004 00 Los Laureles
+01 09 01 02 02 005 00 Camarones Abajo
+01 09 01 02 02 006 00 La Encantada II
+01 09 01 02 03 000 00 Palma Herrada
+01 09 01 02 03 001 00 Palma Herrada
+01 09 01 02 03 002 00 Las Golondrinas
+01 09 01 02 03 003 00 El Limón
+01 09 01 02 03 004 00 Los Bueyes
+01 09 01 02 03 005 00 La Jagüita
+01 09 01 02 03 006 00 Partido
+01 09 01 02 04 000 00 Rancho de los Plátanos
+01 09 01 02 04 001 00 Arroyo Blanco
+01 09 01 02 04 002 00 Arroyo Blanco de Los Rincones
+01 09 01 02 04 003 00 La Higuereta
+01 09 01 02 04 004 00 Arroyo Bellaco
+01 09 01 02 04 005 00 Los Cacaos
+01 09 01 02 04 006 00 Los Tratraces
+01 09 01 02 04 007 00 Arroyo Dichoso
+01 09 01 02 04 008 00 La Yautía Arriba
+01 09 01 02 04 009 00 La Yautía Abajo
+01 09 01 02 04 010 00 Los Calderos
+01 09 01 02 04 011 00 Cola de Pato
+01 09 01 02 04 012 00 Rancho de Los Plátanos
+01 09 01 02 04 013 00 Los Rincones
+01 09 01 02 04 014 00 Corte Nuevo
+01 09 01 04 00 000 00 Juan López (DM)
+01 09 01 04 01 000 00 Juan López (Zona urbana)
+01 09 01 04 01 001 00 Centro del Pueblo o El Mamey
+01 09 01 04 01 001 01 Centro del Pueblo o El Mamey
+01 09 01 04 01 001 02 Los Macos
+01 09 01 04 02 000 00 Juan López Abajo
+01 09 01 04 02 001 00 Juan López Abajo
+01 09 01 04 02 002 00 Los González
+01 09 01 04 02 003 00 Guaucí Arriba
+01 09 01 04 02 004 00 Los Turcos
+01 09 01 04 03 000 00 los robles
+01 09 01 04 03 001 00 Los Robles
+01 09 01 04 03 002 00 Los Pérez
+01 09 01 04 03 003 00 Los Julines
+01 09 01 04 03 004 00 Los Tejada
+01 09 01 04 04 000 00 Juan López Arriba
+01 09 01 04 04 001 00 Juan López Arriba
+01 09 01 04 04 002 00 Los Cañafístol
+01 09 01 04 04 003 00 Los Camacho
+01 09 01 04 04 004 00 San Caralampio
+01 09 01 04 04 005 00 La Sidra
+01 09 01 04 05 000 00 El Salitre
+01 09 01 04 05 001 00 El Salitre
+01 09 01 04 05 002 00 Los Naranjos
+01 09 01 04 05 003 00 Pozo de la Palma
+01 09 01 04 05 004 00 La Barca
+01 09 01 05 00 000 00 Las Lagunas (DM)
+01 09 01 05 01 000 00 Las Lagunas (Zona urbana)
+01 09 01 05 01 001 00 las lagunas
+01 09 01 05 01 001 01 Las Lagunas
+01 09 01 05 01 002 00 Doroto o La Playa
+01 09 01 05 01 002 01 Doroto o La Playa
+01 09 01 05 01 003 00 los Ureña
+01 09 01 05 01 003 01 Los Ureña
+01 09 01 05 01 003 02 Elaine o Ana Maria
+01 09 01 05 02 000 00 Las Lagunas Abajo
+01 09 01 05 02 001 00 La Penda
+01 09 01 05 02 002 00 Las Cruces
+01 09 01 05 02 003 00 Las Lagunas Arriba
+01 09 01 05 02 004 00 Las Lagunas Abajo
+01 09 01 05 02 005 00 La Cañada o La Lomita
+01 09 01 05 02 006 00 El Cañafístol
+01 09 01 05 02 007 00 Jababa al Medio
+01 09 01 05 03 000 00 El Aguacate Arriba
+01 09 01 05 03 001 00 El Aguacate Abajo
+01 09 01 05 03 002 00 Cacique Arriba
+01 09 01 05 03 003 00 Canta Rana
+01 09 01 05 03 004 00 Aguacate Arriba
+01 09 01 05 03 005 00 Catarey
+01 09 01 05 03 006 00 Los Polanco
+01 09 01 05 03 007 00 Altos de Serafina
+01 09 01 05 03 008 00 Jababa Arriba
+01 09 01 05 04 000 00 Boca Férrea Abajo
+01 09 01 05 04 001 00 Boca Férrea Abajo (Aguacate)
+01 09 01 05 04 002 00 Boca Férrea Arriba (Algarrobo)
+01 09 01 05 04 003 00 El Rancho los Pomos o Rancho
+01 09 01 06 00 000 00 Canca la Reyna (DM)
+01 09 01 06 01 000 00 Canca la Reyna (Zona urbana)
+01 09 01 06 01 001 00 Canca la Reyna
+01 09 01 06 01 001 01 Canca la Reyna
+01 09 01 06 01 001 02 Los Morillos
+01 09 01 06 01 001 03 El Nando
+01 09 01 06 01 001 04 Chiche Guaba (Los Morel)
+01 09 01 06 01 002 00 Los Rojas
+01 09 01 06 01 002 01 Los Rojas
+01 09 01 06 01 003 00 los Guzmán
+01 09 01 06 01 003 01 Los Guzmán
+01 09 01 06 02 000 00 Canca Reparación
+01 09 01 06 02 001 00 La Chicharra
+01 09 01 06 02 002 00 Los Medina
+01 09 01 06 02 003 00 Los Méndez
+01 09 01 06 02 004 00 Canca Reparación u Onésimo Polanco
+01 09 01 06 03 000 00 San Francisco Abajo
+01 09 01 06 03 001 00 San Francisco Abajo
+01 09 01 06 03 002 00 El Perú
+01 09 01 06 03 003 00 Los Santos
+01 09 01 06 03 004 00 Villa Dura
+01 09 01 06 04 000 00 San José (Antiguo Licey al Medio)
+01 09 01 06 04 001 00 Los Paulino
+01 09 01 06 04 002 00 El Puente
+01 09 01 07 00 000 00 El Higüerito (DM)
+01 09 01 07 01 000 00 El Higüerito (Zona urbana)
+01 09 01 07 01 001 00 El Higüerito
+01 09 01 07 01 001 01 El Higüerito
+01 09 01 07 01 002 00 la Sabana
+01 09 01 07 01 002 01 La Sabana
+01 09 01 07 01 002 02 Los Sosa
+01 09 01 07 01 003 00 calle 8
+01 09 01 07 01 003 01 Calle 8
+01 09 01 07 01 003 02 La Misericordia
+01 09 01 07 01 004 00 camboya
+01 09 01 07 01 004 01 Camboya
+01 09 01 07 01 005 00 El Zoológico
+01 09 01 07 01 005 01 El Zoológico
+01 09 01 07 01 006 00 El Higüerito arriba
+01 09 01 07 01 006 01 El Higüerito Arriba
+01 09 01 07 01 006 02 Los Matos
+01 09 01 07 02 000 00 las Guázumas
+01 09 01 07 02 001 00 Tierra Dura
+01 09 01 07 02 002 00 Managua Abajo
+01 09 01 07 02 003 00 Las Guázumas
+01 09 01 07 03 000 00 Reparadero
+01 09 01 07 03 001 00 Reparadero
+01 09 01 07 03 002 00 Reparadero Arriba
+01 09 01 07 03 003 00 Los Beatos
+01 09 01 07 04 000 00 Bonagua Arriba
+01 09 01 07 04 001 00 Bonagua
+01 09 01 07 04 002 00 Bonagua Arriba
+01 09 01 07 04 003 00 Los Quezada
+01 09 01 07 04 004 00 Las Palmitas
+01 09 01 08 00 000 00 Monte de la Jagua (DM)
+01 09 01 08 01 000 00 Monte de la Jagua (Zona urbana)
+01 09 01 08 01 001 00 Monte de la Jagua
+01 09 01 08 01 001 01 Monte de la Jagua
+01 09 01 08 01 002 00 Monte de la Jagua arriba
+01 09 01 08 01 002 01 Monte de la Jagua Arriba
+01 09 01 08 01 003 00 los Maringüises
+01 09 01 08 01 003 01 Los Maringüises
+01 09 01 08 01 004 00 Juan reyes
+01 09 01 08 01 004 01 Juan Reyes
+01 09 01 08 01 004 02 Taza Pérez
+01 09 01 08 02 000 00 El Pico
+01 09 01 08 02 001 00 El Pico
+01 09 01 08 02 002 00 Borojol
+01 09 01 08 02 003 00 Los Bretones
+01 09 01 08 02 004 00 Mata Larga
+01 09 01 08 03 000 00 los Vargas
+01 09 01 08 03 001 00 Los Vargas
+01 09 01 08 03 002 00 La Colina
+01 09 01 08 03 003 00 Los Durán
+01 09 01 08 03 004 00 Los Tavárez
+01 09 01 08 03 005 00 Los Méndez
+01 09 01 08 04 000 00 Sarambamba
+01 09 01 08 04 001 00 Sarambamba
+01 09 01 08 04 002 00 Monte de la Jagua Abajo
+01 09 01 08 04 003 00 Los Pichardo
+01 09 01 08 04 004 00 Los Pérez
+01 09 01 09 00 000 00 La Ortega (DM)
+01 09 01 09 01 000 00 La Ortega (Zona urbana)
+01 09 01 09 01 001 00 La Ortega Abajo
+01 09 01 09 01 001 01 La Ortega Abajo
+01 09 01 09 02 000 00 la Gran canaria
+01 09 01 09 02 001 00 La Rivera del Este
+01 09 01 09 02 002 00 Ortega Afuera
+01 09 01 09 02 003 00 El Azucey
+01 09 01 09 03 000 00 Santa cruz de tenerife
+01 09 01 09 03 001 00 La Rivera del Oeste
+01 09 01 09 03 002 00 La Rivera del Norte
+01 09 01 09 03 003 00 Los Guzmán
+01 09 01 09 03 004 00 Los Grullón
+01 09 02 00 00 000 00 cayetano Germosén
+01 09 02 01 00 000 00 cayetano Germosén
+01 09 02 01 01 000 00 Cayetano Germosén o Guanábano (Zona urbana)
+01 09 02 01 01 001 00 urbanización Alba
+01 09 02 01 01 001 01 Urbanización Alba
+01 09 02 01 01 001 02 Urbanización Alba Marién
+01 09 02 01 01 002 00 Centro del Pueblo
+01 09 02 01 01 002 01 Centro del Pueblo
+01 09 02 01 01 002 02 Urbanización José Elías Ramírez
+01 09 02 01 01 002 03 Residencial Alba
+01 09 02 01 01 002 04 Urbanización Abreu
+01 09 02 01 01 003 00 Guanábano
+01 09 02 01 01 003 01 Guanábano
+01 09 02 01 01 003 02 Urbanización Abreu Reyes
+01 09 02 01 01 004 00 Bolo o urbanización Sánchez
+01 09 02 01 01 004 01 Bolo o Urbanización Sánchez
+01 09 02 01 01 005 00 Los Rojas
+01 09 02 01 01 005 01 Los Rojas
+01 09 02 01 01 006 00 Hato Viejo
+01 09 02 01 01 006 01 Hato Viejo
+01 09 02 01 02 000 00 La Guama (De Guanábano)
+01 09 02 01 02 001 00 La Guama (De Guanábano)
+01 09 02 01 02 002 00 La Vereda
+01 09 02 01 02 003 00 El Carril
+01 09 02 01 02 004 00 Nibaje
+01 09 02 01 02 005 00 Los Rincones
+01 09 02 01 02 006 00 Calle del Río
+01 09 02 01 02 007 00 Los Rojas
+01 09 02 01 03 000 00 Hato Viejo
+01 09 02 01 03 001 00 La Penda
+01 09 02 01 03 002 00 Vuelta Larga
+01 09 02 01 03 003 00 Los Barrancones
+01 09 02 01 03 004 00 Los Hicacos
+01 09 02 01 03 005 00 Hato Viejo (Azucey)
+01 09 02 01 03 006 00 Sabana de los Alba
+01 09 02 01 03 007 00 Los Jazmines
+01 09 03 00 00 000 00 Gaspar Hernández
+01 09 03 01 00 000 00 Gaspar Hernández
+01 09 03 01 01 000 00 Gaspar Hernández (Zona urbana)
+01 09 03 01 01 001 00 Centro del Pueblo
+01 09 03 01 01 001 01 Centro del Pueblo
+01 09 03 01 01 002 00 la Hoya
+01 09 03 01 01 002 01 La Hoya
+01 09 03 01 01 003 00 Altos de Gaspar Hernández
+01 09 03 01 01 003 01 Altos de Gaspar Hernández
+01 09 03 01 01 004 00 El correo
+01 09 03 01 01 004 01 El Correo
+01 09 03 01 01 005 00 candoy
+01 09 03 01 01 005 01 Candoy
+01 09 03 01 01 006 00 Campo Verde
+01 09 03 01 01 006 01 Campo Verde
+01 09 03 01 01 007 00 El Semillero
+01 09 03 01 01 007 01 El Semillero
+01 09 03 01 01 008 00 loma de Yerba
+01 09 03 01 01 008 01 Loma de Yerba
+01 09 03 01 01 009 00 Los Franceses
+01 09 03 01 01 009 01 Los Franceses
+01 09 03 01 02 000 00 Bejuco Blanco
+01 09 03 01 02 001 00 Naranjo Dulce Arriba
+01 09 03 01 02 002 00 La Ermita
+01 09 03 01 02 003 00 Las Auyamas
+01 09 03 01 02 004 00 Hoya Grande
+01 09 03 01 02 005 00 Palo Colorado
+01 09 03 01 02 006 00 La Batata
+01 09 03 01 02 007 00 Los Algarrobos
+01 09 03 01 02 008 00 Bejuco Blanco
+01 09 03 01 02 009 00 Mata de Guanábano
+01 09 03 01 02 010 00 El Catey
+01 09 03 01 02 011 00 Río Piedra
+01 09 03 01 02 012 00 La Cabuya
+01 09 03 01 02 013 00 La Cigua
+01 09 03 01 02 014 00 Punta Gorda
+01 09 03 01 02 015 00 Las Caobas
+01 09 03 01 02 016 00 Boca de Henequén
+01 09 03 01 02 017 00 Loma al Medio
+01 09 03 01 02 018 00 Boca de Joba
+01 09 03 01 02 019 00 Calle Ancha
+01 09 03 01 03 000 00 El Jobo
+01 09 03 01 03 001 00 La Jagüita
+01 09 03 01 03 002 00 Loma de Yerba
+01 09 03 01 03 003 00 El Jobo
+01 09 03 01 03 004 00 Los Palmaritos
+01 09 03 01 03 005 00 El Caimán
+01 09 03 01 03 006 00 El Anón Abajo
+01 09 03 01 03 007 00 Arenoso
+01 09 03 01 03 008 00 Angostura
+01 09 03 01 04 000 00 Ojo de Agua
+01 09 03 01 04 001 00 El Manguito
+01 09 03 01 04 002 00 Arroyo Grande
+01 09 03 01 04 003 00 Boca de Partido
+01 09 03 01 04 004 00 Ojo de Agua
+01 09 03 01 04 005 00 El Peñón
+01 09 03 01 04 006 00 Mata Puerco
+01 09 03 01 04 007 00 Arroyo Seco
+01 09 03 01 04 008 00 Hoyo Hondo
+01 09 03 01 04 009 00 Paso de la Palma
+01 09 03 01 04 010 00 La Gina
+01 09 03 02 00 000 00 Joba Arriba (DM)
+01 09 03 02 01 000 00 Joba Arriba (Zona urbana)
+01 09 03 02 01 001 00 Joba arriba
+01 09 03 02 01 001 01 Joba Arriba
+01 09 03 02 01 002 00 María Auxiliadora
+01 09 03 02 01 002 01 María Auxiliadora
+01 09 03 02 01 003 00 Emilio García
+01 09 03 02 01 003 01 Emilio García
+01 09 03 02 01 004 00 Espíritu Santo
+01 09 03 02 01 004 01 Espíritu Santo
+01 09 03 02 01 005 00 La Piragua
+01 09 03 02 01 005 01 La Piragua
+01 09 03 02 02 000 00 El Higüero
+01 09 03 02 02 001 00 Arroyo Blanco
+01 09 03 02 02 002 00 El Guaranal
+01 09 03 02 02 003 00 El Higüero
+01 09 03 02 02 004 00 Los Limones
+01 09 03 02 02 005 00 Higüero Abajo
+01 09 03 02 02 006 00 La Sabana
+01 09 03 02 02 007 00 El Barrito 
+01 09 03 02 02 008 00 Legía
+01 09 03 02 02 009 00 Gajo Malo
+01 09 03 02 03 000 00 Jagua clara
+01 09 03 02 03 001 00 La Vereda
+01 09 03 02 03 002 00 Gina Clara (Jagua Clara)
+01 09 03 02 03 003 00 Los Ramones
+01 09 03 02 03 004 00 La Sabaneta
+01 09 03 02 03 005 00 El Sisal
+01 09 03 02 03 006 00 El Majagual
+01 09 03 02 03 007 00 El Paradero
+01 09 03 02 03 008 00 La Cueva
+01 09 03 02 03 009 00 La Culata
+01 09 03 02 03 010 00 Boca de Meneguén
+01 09 03 02 04 000 00 La Piragua
+01 09 03 02 04 001 00 La Ceiba
+01 09 03 02 04 002 00 Quezada
+01 09 03 02 04 003 00 La Piragua al Medio
+01 09 03 02 04 004 00 Los Alcarrizos (Sabaneta)
+01 09 03 02 04 005 00 La Lomota
+01 09 03 02 04 006 00 Caliente
+01 09 03 02 04 007 00 La Piragua
+01 09 03 02 04 008 00 El Anón Arriba
+01 09 03 02 04 009 00 Los Hoyos
+01 09 03 02 04 010 00 La Filipina
+01 09 03 02 04 011 00 El Guaranal o Alto de La Piragua
+01 09 03 03 00 000 00 Veragua (DM)
+01 09 03 03 01 000 00 Veragua (Zona urbana)
+01 09 03 03 01 001 00 Veragua
+01 09 03 03 01 001 01 Veragua
+01 09 03 03 01 002 00 Villa Progreso
+01 09 03 03 01 002 01 Villa Progreso
+01 09 03 03 02 000 00 Batey Ginebra
+01 09 03 03 02 001 00 Batey Ginebra
+01 09 03 03 02 002 00 Las Marías
+01 09 03 03 02 003 00 Calolín
+01 09 03 03 03 000 00 Rincón de Veragua
+01 09 03 03 03 001 00 Rincón de Veragua o Rincón
+01 09 03 03 03 002 00 Boca de Yásica
+01 09 03 03 03 003 00 La Lometa
+01 09 03 03 03 004 00 La Piña
+01 09 03 03 03 005 00 La Cuchara
+01 09 03 03 03 006 00 Veragua Arriba
+01 09 03 03 04 000 00 Caño Dulce
+01 09 03 03 04 001 00 Caño Dulce
+01 09 03 03 04 002 00 La Hebra
+01 09 03 03 04 003 00 La Canas
+01 09 03 03 04 004 00 Cruz de Gen
+01 09 03 03 04 005 00 Alto Grande
+01 09 03 03 04 006 00 Los Guaos
+01 09 03 03 04 007 00 Cruz de Gen (Saltadero)
+01 09 03 04 00 000 00 Villa Magante (DM)
+01 09 03 04 01 000 00 Villa Magante (Zona urbana)
+01 09 03 04 01 001 00 la Yagua
+01 09 03 04 01 001 01 La Yagua
+01 09 03 04 01 001 02 Los Rincones
+01 09 03 04 01 002 00 Los Amapolos
+01 09 03 04 01 002 01 Los Amapolos
+01 09 03 04 02 000 00 Vereda al Medio
+01 09 03 04 02 001 00 Vereda al Medio
+01 09 03 04 02 002 00 Los Firmes o Loma los Titises
+01 09 03 04 02 003 00 El Oro
+01 09 03 04 02 004 00 El Mango
+01 09 03 04 02 005 00 La Hicotea
+01 09 03 04 02 006 00 Arroyo Prieto
+01 09 03 04 02 007 00 La Ciénaga
+01 09 03 04 03 000 00 la cantera
+01 09 03 04 03 001 00 La Cantera
+01 09 03 04 03 002 00 El Limón
+01 09 03 04 03 003 00 Los Puyones
+01 09 03 04 03 004 00 El Tablón
+01 09 03 04 04 000 00 las tres ceibas
+01 09 03 04 04 001 00 Las Tres Ceibas
+01 09 03 04 04 002 00 Los Pinos
+01 09 03 04 04 003 00 El Gajo
+01 09 03 04 04 004 00 Churumbunes
+01 09 03 04 04 005 00 El Bachateo
+01 09 03 04 04 006 00 La Sufridera
+01 09 03 04 05 000 00 Magante
+01 09 03 04 05 001 00 Magante
+01 09 03 04 05 002 00 Gancho al Medio
+01 09 03 04 05 003 00 Palmarito
+01 09 03 04 05 004 00 Tierra Blanca
+01 09 04 00 00 000 00 Jamao al Norte
+01 09 04 01 00 000 00 Jamao al Norte
+01 09 04 01 01 000 00 Jamao Al Norte (Zona urbana)
+01 09 04 01 01 001 00 Centro del Pueblo
+01 09 04 01 01 001 01 Centro del Pueblo
+01 09 04 01 01 002 00 arroyo del agua
+01 09 04 01 01 002 01 Arroyo del Agua
+01 09 04 01 01 003 00 Rincón Caliente
+01 09 04 01 01 003 01 Rincón Caliente
+01 09 04 01 01 004 00 la laguna
+01 09 04 01 01 004 01 La Laguna
+01 09 04 01 01 005 00 Boca de Jamao
+01 09 04 01 01 005 01 Boca de Jamao
+01 09 04 01 01 005 02 Cruce de Noé
+01 09 04 01 02 000 00 Jamao al Sur
+01 09 04 01 02 001 00 Arroyo del Gato
+01 09 04 01 02 002 00 La Piedra
+01 09 04 01 02 003 00 Los Moluses o Los Meluses
+01 09 04 01 02 004 00 Marinero
+01 09 04 01 02 005 00 El Ramonal
+01 09 04 01 02 006 00 La Jagua
+01 09 04 01 02 007 00 Las Espinas
+01 09 04 01 03 000 00 Los Brazos
+01 09 04 01 03 001 00 Los Brazos
+01 09 04 01 03 002 00 Los Peña
+01 09 04 01 03 003 00 La Mina
+01 09 04 01 04 000 00 La Filipina
+01 09 04 01 04 001 00 La Filipina
+01 09 04 01 04 002 00 Hojas Anchas
+01 09 04 01 04 003 00 El Pajón
+01 09 04 01 04 004 00 Las Manaclas
+01 09 04 01 04 005 00 Los Manantiales
+01 09 04 01 04 006 00 Los Peñones
+01 09 04 01 05 000 00 las caobas
+01 09 04 01 05 001 00 Las Caobas
+01 09 04 01 05 002 00 Arroyo del Agua
+01 09 04 01 05 003 00 Palo Roto
+01 09 04 01 05 004 00 La Canela
+01 09 04 01 05 005 00 Palo Blanco
+01 09 04 01 05 006 00 Caimoní
+01 09 04 01 05 007 00 La Cana
+01 09 04 01 05 008 00 Villa Iván Guzmán (El Saladillo)
+01 09 04 01 05 009 00 Arroyo Frío
+01 09 04 01 05 010 00 Los Saladillos
+01 09 04 01 05 011 00 La Vereda
+01 09 04 01 05 012 00 Los Charamicos
+01 09 05 00 00 000 00 San Víctor 
+01 09 05 01 00 000 00 San Víctor 
+01 09 05 01 01 000 00 San Víctor (Zona urbana)
+01 09 05 01 01 001 00 San Víctor
+01 09 05 01 01 001 01 San Víctor
+01 09 05 01 01 002 00 Centro del Pueblo
+01 09 05 01 01 002 01 Centro del Pueblo
+01 09 05 01 01 003 00 lambada
+01 09 05 01 01 003 01 Lambada
+01 09 05 01 01 004 00 San antonio
+01 09 05 01 01 004 01 San Antonio
+01 09 05 01 01 005 00 San Víctor Abajo
+01 09 05 01 01 005 01 San Víctor Abajo
+01 09 05 01 02 000 00 El caimito
+01 09 05 01 02 001 00 El Catey
+01 09 05 01 02 002 00 Los 21 (Los Veintiuno)
+01 09 05 01 02 003 00 El Sitio
+01 09 05 01 02 004 00 La Cumbre (La Cumbre 2)
+01 09 05 01 02 005 00 Loma Picada
+01 09 05 01 02 006 00 La Puente 
+01 09 05 01 02 007 00 El Caimito
+01 09 05 01 03 000 00 Alto de Los Pozos (Villa Cafetalera)
+01 09 05 01 03 001 00 La Cabirma
+01 09 05 01 03 002 00 El Copey
+01 09 05 01 03 003 00 Alto los Posos
+01 09 05 01 04 000 00 Puesto Grande
+01 09 05 01 04 001 00 Puesto Grande
+01 09 05 01 04 002 00 Moquita
+01 09 05 01 04 003 00 La Joya 
+01 09 05 01 04 004 00 La Vijía
+01 09 05 01 04 005 00 El Limón
+01 09 05 01 05 000 00 Los Amaceyes Arriba
+01 09 05 01 05 001 00 La Cangrejera
+01 09 05 01 05 002 00 Guayabillo
+01 09 05 01 05 003 00 Caquita
+01 09 05 01 05 004 00 Colorado
+01 09 05 01 05 005 00 Los Amaceyes Arriba
+01 09 05 01 05 006 00 La Lomota
+01 09 05 01 06 000 00 la ceiba de Madera
+01 09 05 01 06 001 00 La Ceiba de Madera
+01 09 05 01 06 002 00 Madera
+01 09 05 01 06 003 00 Las Flores 
+01 09 05 01 06 004 00 La Lomita
+01 09 05 01 06 005 00 La Chicharra
+01 09 05 01 07 000 00 cuero Duro
+01 09 05 01 07 001 00 Cuero Duro
+01 09 05 01 07 002 00 El Rincón
+01 09 05 01 07 003 00 Los Rosario
+01 09 05 01 07 004 00 Las Amapolas
+01 09 05 01 08 000 00 San Víctor Arriba
+01 09 05 01 08 001 00 San Víctor Arriba

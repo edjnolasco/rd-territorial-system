@@ -1,0 +1,7 @@
+timestamp,request_id,client_id,endpoint,status_code,latency_ms,query,level_requested,level_resolved,result_type,api_key_hash
+2026-04-25T21:04:50.708480+00:00,206cdc9c-eede-4f95-9c23-4af3721dcd36,ip:127.0.0.1,/api/v1/resolve,200,0.0,Azua,,district_municipal,matched,
+2026-04-25T21:04:50.709374+00:00,206cdc9c-eede-4f95-9c23-4af3721dcd36,ip:127.0.0.1,/api/v1/resolve,200,474.47,,,,,
+2026-04-25T21:05:09.103981+00:00,3d514e46-ca82-49f8-b9aa-cbcdb9609f9e,ip:127.0.0.1,/api/v1/resolve,200,0.0,Villa Maria,,,ambiguous,
+2026-04-25T21:05:09.104622+00:00,3d514e46-ca82-49f8-b9aa-cbcdb9609f9e,ip:127.0.0.1,/api/v1/resolve,200,1.75,,,,,
+2026-04-25T21:05:21.554647+00:00,4ecdb095-cbc1-4d8e-af47-4187b52db4d1,ip:127.0.0.1,/api/v1/resolve,200,0.0,Nombre Inexistente XYZ,,,no_match,
+2026-04-25T21:05:21.555185+00:00,4ecdb095-cbc1-4d8e-af47-4187b52db4d1,ip:127.0.0.1,/api/v1/resolve,200,1.43,,,,,

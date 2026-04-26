@@ -1,0 +1,514 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+07 07 00 00 00 000 00 Elías Piña
+07 07 01 00 00 000 00 comendador
+07 07 01 01 00 000 00 comendador
+07 07 01 01 01 000 00 Comendador (Zona urbana)
+07 07 01 01 01 001 00 la Hortensia 
+07 07 01 01 01 001 01 La Hortensia 
+07 07 01 01 01 002 00 aduana
+07 07 01 01 01 002 01 Aduana
+07 07 01 01 01 002 02 Residencial Ogando
+07 07 01 01 01 003 00 cristo Salvador
+07 07 01 01 01 003 01 Cristo Salvador
+07 07 01 01 01 003 02 La Gallera
+07 07 01 01 01 003 03 Luz Celeste Lara
+07 07 01 01 01 004 00 Centro del Pueblo
+07 07 01 01 01 004 01 Centro del Pueblo
+07 07 01 01 01 004 02 Obrero
+07 07 01 01 01 005 00 la Virgen
+07 07 01 01 01 005 01 La Virgen
+07 07 01 01 01 006 00 Galindo
+07 07 01 01 01 006 01 Galindo
+07 07 01 01 01 007 00 Ana Patria Martínez
+07 07 01 01 01 007 01 Ana Patria Martínez
+07 07 01 01 01 008 00 El Play 
+07 07 01 01 01 008 01 El Play 
+07 07 01 01 01 009 00 lavador Norte 
+07 07 01 01 01 009 01 Lavador Norte 
+07 07 01 01 01 010 00 El cementerio
+07 07 01 01 01 010 01 El Cementerio
+07 07 01 01 01 011 00 la antena
+07 07 01 01 01 011 01 La Antena
+07 07 01 01 01 012 00 La Delicia
+07 07 01 01 01 012 01 La Delicia
+07 07 01 01 01 013 00 Villa Progreso
+07 07 01 01 01 013 01 Villa Progreso
+07 07 01 01 01 014 00 Los Paulinos
+07 07 01 01 01 014 01 Los Paulinos
+07 07 01 01 02 000 00 Los Rinconcitos
+07 07 01 01 02 001 00 Sabana Campo
+07 07 01 01 02 002 00 Los Rinconcitos
+07 07 01 01 02 003 00 Sabana Yegua
+07 07 01 01 03 000 00 Puello
+07 07 01 01 03 001 00 Lambederos
+07 07 01 01 03 002 00 La Margarita
+07 07 01 01 03 003 00 Pozo Hondo
+07 07 01 01 03 004 00 Puello
+07 07 01 01 03 005 00 Corral de Marcos
+07 07 01 01 03 006 00 El Carril
+07 07 01 01 03 007 00 Afortunada
+07 07 01 01 03 008 00 Hato Nuevo
+07 07 01 01 03 009 00 Cruce de Malena
+07 07 01 01 04 000 00 la Jagua
+07 07 01 01 04 001 00 La Jagua
+07 07 01 01 04 002 00 Cruce de Mundito
+07 07 01 01 05 000 00 Juan Felipe
+07 07 01 01 05 001 00 Juan Felipe
+07 07 01 01 05 002 00 Caobal
+07 07 01 01 05 003 00 Los Jengibres Arriba
+07 07 01 01 05 004 00 Los Callejones
+07 07 01 01 06 000 00 Macasía
+07 07 01 01 06 001 00 Las dos Bocas
+07 07 01 01 06 002 00 El Hoyo
+07 07 01 01 06 003 00 El Morro
+07 07 01 01 06 004 00 Macasía
+07 07 01 01 06 005 00 Carrera Verde
+07 07 01 01 07 000 00 Las Patillas
+07 07 01 01 07 001 00 Las Patillas
+07 07 01 01 07 002 00 El Carrizal
+07 07 01 01 07 003 00 Carrera de Sierra
+07 07 01 01 07 004 00 La Ceiba
+07 07 01 01 07 005 00 La Cabra - El Cerro
+07 07 01 01 07 006 00 Los Corocitos
+07 07 01 01 08 000 00 El Pino
+07 07 01 01 08 001 00 El Pino
+07 07 01 01 08 002 00 La Barranca
+07 07 01 01 08 003 00 Guazumal
+07 07 01 01 08 004 00 Mata Bonita
+07 07 01 01 08 005 00 La Cuna
+07 07 01 01 08 006 00 Rancho del Negro
+07 07 01 01 09 000 00 Pinzón
+07 07 01 01 09 001 00 Pinzón
+07 07 01 01 09 002 00 La Lomita
+07 07 01 01 09 003 00 Roncador
+07 07 01 01 09 004 00 El Hueso
+07 07 01 01 09 005 00 El Duan
+07 07 01 01 09 006 00 Lucazada
+07 07 01 01 09 007 00 Prudencio
+07 07 01 02 00 000 00 Sabana Larga (DM)
+07 07 01 02 01 000 00 Sabana Larga (Zona urbana)
+07 07 01 02 01 001 00 Sabana larga
+07 07 01 02 01 001 01 Sabana Larga
+07 07 01 02 02 000 00 Sabana larga
+07 07 01 02 02 001 00 La Rosa
+07 07 01 02 02 002 00 Escondidito
+07 07 01 02 03 000 00 angostura
+07 07 01 02 03 001 00 Angostura
+07 07 01 02 03 002 00 Monte Grande
+07 07 01 02 03 003 00 Los Jobazos
+07 07 01 02 03 004 00 Junquito
+07 07 01 02 03 005 00 Los Córbanos
+07 07 01 02 03 006 00 Piedra Hincada
+07 07 01 02 03 007 00 Los Cocuyos
+07 07 01 02 04 000 00 Hato Viejo
+07 07 01 02 04 001 00 Hato Viejo
+07 07 01 02 04 002 00 Candelón (El Candelón)
+07 07 01 02 04 003 00 Cañada Grande
+07 07 01 02 04 004 00 El Batey
+07 07 01 02 05 000 00 Potroso
+07 07 01 02 05 001 00 Ojo de Agua
+07 07 01 02 05 002 00 La Mina
+07 07 01 02 05 003 00 Potroso
+07 07 01 02 05 004 00 La Mina Arriba
+07 07 01 02 05 005 00 Tierra Honda (Tierra Hundida)
+07 07 01 02 05 006 00 La Cotorra
+07 07 01 02 06 000 00 Potro Blanco
+07 07 01 02 06 001 00 Potro Blanco
+07 07 01 02 06 002 00 El Salto
+07 07 01 02 06 003 00 Sabaneta
+07 07 01 02 06 004 00 El Barrero
+07 07 01 02 06 005 00 La Estrelleta
+07 07 01 03 00 000 00 Guayabo (DM)
+07 07 01 03 01 000 00 Guayabo (Zona urbana)
+07 07 01 03 01 001 00 Guayabo
+07 07 01 03 01 001 01 Guayabo
+07 07 01 03 01 002 00 lavador Sur
+07 07 01 03 01 002 01 Lavador Sur
+07 07 01 03 01 003 00 Militar
+07 07 01 03 01 003 01 Militar
+07 07 01 03 01 004 00 los Mangos
+07 07 01 03 01 004 01 Los Mangos
+07 07 01 03 02 000 00 Guazumal
+07 07 01 03 02 001 00 Palermo
+07 07 01 03 02 002 00 Meseta del Pino
+07 07 01 03 02 003 00 Guazumal Arriba
+07 07 01 03 02 004 00 Guazumal Abajo
+07 07 01 03 03 000 00 Isidro Martínez
+07 07 01 03 03 001 00 Palo Grande
+07 07 01 03 03 002 00 Zobacón (Sobacón)
+07 07 01 03 03 003 00 Zobacón Abajo (Sobacón Abajo)
+07 07 01 03 03 004 00 Zobacón Arriba (Sobacón Arriba)
+07 07 01 03 03 005 00 Isidro Martínez
+07 07 01 03 03 006 00 La Lajita de Antonio Moreta
+07 07 01 03 04 000 00 la Meseta
+07 07 01 03 04 001 00 El Cedro
+07 07 01 03 04 002 00 Guardia Vieja
+07 07 01 03 04 003 00 La Meseta Abajo
+07 07 01 03 04 004 00 La Meseta Arriba
+07 07 01 03 04 005 00 La Meseta
+07 07 01 03 04 006 00 La Tinaja o Tinajita
+07 07 02 00 00 000 00 Bánica
+07 07 02 01 00 000 00 Bánica
+07 07 02 01 01 000 00 Bánica (Zona urbana)
+07 07 02 01 01 001 00 Centro del Pueblo
+07 07 02 01 01 001 01 Centro del Pueblo
+07 07 02 01 01 002 00 La Planta o El Gajo
+07 07 02 01 01 002 01 La Planta o El Gajo
+07 07 02 01 01 003 00 La Recta
+07 07 02 01 01 003 01 La Recta
+07 07 02 01 01 003 02 Los Multi
+07 07 02 01 01 003 03 Rastrillo
+07 07 02 01 01 003 04 Callejón de Merán
+07 07 02 01 02 000 00 las cañitas
+07 07 02 01 02 001 00 Las Cañitas
+07 07 02 01 02 002 00 El Papayo
+07 07 02 01 02 003 00 Blas
+07 07 02 01 02 004 00 El Mamoncito
+07 07 02 01 02 005 00 Rincón Grande
+07 07 02 01 02 006 00 El Escarbadero
+07 07 02 01 02 007 00 María Isabel
+07 07 02 01 02 008 00 Los Memisos
+07 07 02 01 03 000 00 Tabacal
+07 07 02 01 03 001 00 Tabacal
+07 07 02 01 03 002 00 La Cruz
+07 07 02 01 03 003 00 Los Pinos
+07 07 02 01 03 004 00 El Caobal
+07 07 02 01 04 000 00 rastrillo
+07 07 02 01 04 001 00 Espinosa
+07 07 02 02 00 000 00 Sabana Cruz (DM)
+07 07 02 02 01 000 00 Sabana Cruz (Zona urbana)
+07 07 02 02 01 001 00 Centro del Pueblo
+07 07 02 02 01 001 01 Centro del Pueblo
+07 07 02 02 01 001 02 El Millón
+07 07 02 02 02 000 00 Sabana cruz
+07 07 02 02 02 001 00 El Peligro
+07 07 02 02 02 002 00 Los Jobitos
+07 07 02 02 02 003 00 San Andrés
+07 07 02 02 02 004 00 El Guayabo
+07 07 02 02 02 005 00 El Mamoncito
+07 07 02 02 02 006 00 Sabana Cruz 
+07 07 02 02 03 000 00 Guayabal
+07 07 02 02 03 001 00 Guayabal
+07 07 02 02 03 002 00 Pilón
+07 07 02 02 03 003 00 Hato Viejo
+07 07 02 02 04 000 00 Guaroa
+07 07 02 02 04 001 00 Guaroa
+07 07 02 02 04 002 00 Manyaya
+07 07 02 02 06 000 00 El Fondo
+07 07 02 02 06 001 00 Sabana Grande
+07 07 02 02 06 002 00 El Fondo de Sabana Cruz
+07 07 02 02 06 003 00 Los Cercadillos
+07 07 02 03 00 000 00 Sabana Higüero (DM)
+07 07 02 03 01 000 00 Sabana Higüero (Zona urbana)
+07 07 02 03 01 001 00 Higüero
+07 07 02 03 01 001 01 Higüero
+07 07 02 03 02 000 00 Higüerito
+07 07 02 03 02 001 00 Mata Bonita
+07 07 02 03 02 002 00 La Mina
+07 07 02 03 02 003 00 Los Campechitos
+07 07 02 03 02 004 00 La Corcovada
+07 07 02 03 02 005 00 La Lajita
+07 07 02 03 02 006 00 Blas Martínez
+07 07 02 03 02 007 00 Arroyo Salado
+07 07 02 03 02 008 00 Las Chupaderas
+07 07 02 03 02 009 00 Los Pinalitos
+07 07 02 03 02 010 00 Las Herraduras (La Herradura)
+07 07 02 03 03 000 00 los Yareyes
+07 07 02 03 03 001 00 Los Yareyes
+07 07 02 03 03 002 00 Los Pinitos
+07 07 02 03 03 003 00 El Palistal
+07 07 02 03 03 004 00 La Peña
+07 07 02 03 03 005 00 El Anón
+07 07 02 03 03 006 00 Clavellina
+07 07 02 03 03 007 00 El Campeche (Los Yareyes)
+07 07 02 03 04 000 00 El Cantón
+07 07 02 03 04 001 00 El Pon
+07 07 02 03 04 002 00 Hato Viejo
+07 07 02 03 04 003 00 La Viajaca
+07 07 02 03 04 004 00 Charco Colorado
+07 07 02 03 04 005 00 El Vallecito
+07 07 02 03 04 006 00 El Cantón
+07 07 02 03 04 007 00 Los Boquerones
+07 07 02 03 04 008 00 Sabana Mula
+07 07 02 03 04 009 00 El Charco
+07 07 02 03 04 010 00 Palma Sola
+07 07 02 03 04 011 00 Sabana del Pino
+07 07 02 03 04 012 00 Sabana en Medio
+07 07 02 03 04 013 00 La Majuana
+07 07 02 03 05 000 00 cabeza de la Sabana
+07 07 02 03 05 001 00 Naranjo (El Naranjo)
+07 07 02 03 05 002 00 La Caya
+07 07 02 03 05 003 00 Los Brito
+07 07 02 03 05 004 00 Arroyo Seco
+07 07 02 03 05 005 00 La Cana
+07 07 03 00 00 000 00 El llano
+07 07 03 01 00 000 00 El llano
+07 07 03 01 01 000 00 El Llano (Zona urbana)
+07 07 03 01 01 001 00 El llano
+07 07 03 01 01 001 01 La Lechosa
+07 07 03 01 01 001 02 Centro del Pueblo
+07 07 03 01 01 001 03 Pueblo Nuevo
+07 07 03 01 01 001 04 Nuevo
+07 07 03 01 01 001 05 La Iglesia
+07 07 03 01 02 000 00 reboso
+07 07 03 01 02 001 00 Media Luna
+07 07 03 01 02 002 00 Palo Seco
+07 07 03 01 02 003 00 Los Fundos (El Fundo)
+07 07 03 01 02 004 00 Palo Grande
+07 07 03 01 02 005 00 El Chivo (Guazumal - El Chivo)
+07 07 03 01 02 006 00 Piedra Hincada
+07 07 03 01 02 007 00 Reboso - Pontón de el Llano
+07 07 03 01 02 008 00 Palma Cana
+07 07 03 01 02 009 00 El Mamoncito
+07 07 03 02 00 000 00 Guanito (DM)
+07 07 03 02 01 000 00 Guanito (Zona urbana)
+07 07 03 02 01 001 00 Guanito
+07 07 03 02 01 001 01 Guanito
+07 07 03 02 02 000 00 Guanito
+07 07 03 02 02 001 00 Venancio
+07 07 03 02 02 002 00 Los Arroyos
+07 07 03 02 02 003 00 La Lajita
+07 07 03 02 02 004 00 Guanito
+07 07 03 02 02 005 00 Juan Cano
+07 07 03 02 03 000 00 las lagunas
+07 07 03 02 03 001 00 Rosa de la Piedra
+07 07 03 02 03 002 00 Los Pinalitos
+07 07 03 02 03 003 00 El Valle
+07 07 03 02 03 004 00 Plan Café
+07 07 03 02 03 005 00 Las Lagunas
+07 07 03 02 03 006 00 El Aguacate
+07 07 03 02 03 007 00 El Hoyo
+07 07 03 02 04 000 00 Blanco
+07 07 03 02 04 001 00 Blanco
+07 07 03 02 04 002 00 Bruno
+07 07 03 02 04 003 00 El Coco
+07 07 03 02 04 004 00 Sabaneta
+07 07 03 02 04 005 00 Matadero
+07 07 03 02 04 006 00 La Lista
+07 07 03 02 04 007 00 El Yayal
+07 07 03 02 04 008 00 La Nunuta
+07 07 03 02 04 009 00 Cerro Mico
+07 07 04 00 00 000 00 Hondo Valle
+07 07 04 01 00 000 00 Hondo Valle
+07 07 04 01 01 000 00 Hondo Valle (Zona urbana)
+07 07 04 01 01 001 00 Los Majaos
+07 07 04 01 01 001 01 Los Majaos
+07 07 04 01 01 002 00 la colonia
+07 07 04 01 01 002 01 La Colonia
+07 07 04 01 01 003 00 Centro del Pueblo
+07 07 04 01 01 003 01 Centro del Pueblo
+07 07 04 01 01 003 02 Lincoln
+07 07 04 01 01 003 03 Los Maestros
+07 07 04 01 01 004 00 Guachupita
+07 07 04 01 01 004 01 Guachupita
+07 07 04 01 01 004 02 30 de Mayo
+07 07 04 01 01 005 00 El Cruce
+07 07 04 01 01 005 01 El Cruce
+07 07 04 01 02 000 00 Aniceto Martínez
+07 07 04 01 02 001 00 Cañada de Miguel
+07 07 04 01 02 002 00 El Hoyazo
+07 07 04 01 02 003 00 Yerba Buena
+07 07 04 01 02 004 00 Los Palos de Burro
+07 07 04 01 02 005 00 El Barrero
+07 07 04 01 02 006 00 Piedra Blanca o Sobacón
+07 07 04 01 02 007 00 Las 204
+07 07 04 01 02 008 00 Junquito
+07 07 04 01 02 009 00 Palo Prieto
+07 07 04 01 02 010 00 Guardia del Café (La Peña)
+07 07 04 01 02 011 00 Aniceto Martínez
+07 07 04 01 03 000 00 Rancho de Pedro
+07 07 04 01 03 001 00 Los Callejones
+07 07 04 01 03 002 00 El Beyugal
+07 07 04 01 03 003 00 Las Cañitas
+07 07 04 01 03 004 00 La Rosa (Rancho de Pedro)
+07 07 04 01 03 005 00 Palo Blanco
+07 07 04 01 03 006 00 Calimete
+07 07 04 01 03 007 00 La Bestia
+07 07 04 01 03 008 00 Los Pajaritos
+07 07 04 01 03 009 00 Boca del Botado
+07 07 04 01 03 010 00 Los Chicharrones
+07 07 04 01 03 011 00 La Fruta
+07 07 04 01 03 012 00 El Cedro
+07 07 04 01 03 013 00 Los Jaquelles
+07 07 04 01 03 014 00 Los Rincones
+07 07 04 01 03 015 00 Los Botados de La Caña
+07 07 04 01 03 016 00 Los Botados de Victoria
+07 07 04 01 03 017 00 Los Botados
+07 07 04 01 03 018 00 Los Naranjos
+07 07 04 01 03 019 00 Lagunita
+07 07 04 01 03 020 00 Escondido
+07 07 04 01 03 021 00 El Pino
+07 07 04 01 03 022 00 La Siembra
+07 07 04 01 03 023 00 Los Magueyes
+07 07 04 01 03 024 00 Agua del Higo
+07 07 04 01 03 025 00 Tasajera
+07 07 04 01 03 026 00 Los Guayabos
+07 07 04 01 03 027 00 Loma de Febrillet
+07 07 04 01 03 028 00 La Fuente
+07 07 04 01 03 029 00 Los Botados de La Reserva
+07 07 04 01 03 030 00 Rancho de Pedro
+07 07 04 01 03 031 00 La Vuelta del Chivo
+07 07 04 02 00 000 00 Rancho de La Guardia (DM)
+07 07 04 02 01 000 00 Rancho de La Guardia (Zona urbana)
+07 07 04 02 01 001 00 Rancho de La Guardia
+07 07 04 02 01 001 01 Rancho de La Guardia
+07 07 04 02 02 000 00 los Guineos
+07 07 04 02 02 001 00 Los Guineos
+07 07 04 02 02 002 00 El Ranchito (Los Ranchitos)
+07 07 04 02 02 003 00 El Caliche (Plan Café o El Caliche)
+07 07 04 02 02 004 00 Primer Rancho Arriba
+07 07 04 02 02 005 00 Las Lagunas
+07 07 04 02 03 000 00 La Sahonada
+07 07 04 02 03 001 00 La Sahonada
+07 07 04 02 03 002 00 El Puertón
+07 07 04 02 03 003 00 Los Marranitos
+07 07 04 02 03 004 00 La Sahonada Arriba
+07 07 04 02 04 000 00 Rancho de la Guardia
+07 07 04 02 04 001 00 Guayabal
+07 07 04 02 04 002 00 El Pedregal
+07 07 04 02 04 003 00 La Fuente Arriba
+07 07 04 02 04 004 00 Pinal Redondo
+07 07 04 02 04 005 00 Manaclar
+07 07 04 02 04 006 00 Los Naranjos
+07 07 04 02 04 007 00 El Pozo
+07 07 04 02 04 008 00 Gajo del Gacho
+07 07 05 00 00 000 00 Pedro Santana
+07 07 05 01 00 000 00 Pedro Santana
+07 07 05 01 01 000 00 Pedro Santana (Zona urbana)
+07 07 05 01 01 001 00 Militar
+07 07 05 01 01 001 01 Militar
+07 07 05 01 01 002 00 azul
+07 07 05 01 01 002 01 Azul
+07 07 05 01 01 003 00 centro de la ciudad
+07 07 05 01 01 003 01 Centro de la Ciudad
+07 07 05 01 01 004 00 Nuevo
+07 07 05 01 01 004 01 Nuevo
+07 07 05 01 01 005 00 La E o La Escuela
+07 07 05 01 01 005 01 La E o La Escuela
+07 07 05 01 01 006 00 Los Patios
+07 07 05 01 01 006 01 Los Patios
+07 07 05 01 01 007 00 El Tanque
+07 07 05 01 01 007 01 El Tanque
+07 07 05 01 02 000 00 La Palma
+07 07 05 01 02 001 00 La Descubierta
+07 07 05 01 02 002 00 Las Palmas
+07 07 05 01 02 003 00 Los Cajuilitos
+07 07 05 01 02 004 00 Los Cercadillos
+07 07 05 01 02 005 00 Damajagua
+07 07 05 01 02 006 00 Los Chicharrones
+07 07 05 01 02 007 00 El Córbano
+07 07 05 01 02 008 00 Cerro San Francisco
+07 07 05 01 03 000 00 El Hoyo
+07 07 05 01 03 001 00 El Hoyo
+07 07 05 01 03 002 00 Los Gritos
+07 07 05 01 03 003 00 La Yamayas
+07 07 05 01 03 004 00 Guayuyal
+07 07 05 01 03 005 00 Valentín Las Yayas
+07 07 05 01 03 006 00 Bartolo
+07 07 05 01 03 007 00 El Barrero
+07 07 05 01 03 008 00 Pesquero
+07 07 05 01 03 009 00 La Racimera
+07 07 05 01 04 000 00 Guayajayuco
+07 07 05 01 04 001 00 Guayajayuco
+07 07 05 01 04 002 00 Rosso
+07 07 05 01 04 003 00 Carata
+07 07 05 01 04 004 00 La Zurza
+07 07 05 01 04 005 00 Los Amaceyes
+07 07 05 01 04 006 00 Rancho Higüero
+07 07 05 01 04 007 00 Sombrero
+07 07 05 01 04 008 00 Hoyo Prieto
+07 07 05 01 04 009 00 Los Cedros
+07 07 05 01 04 010 00 Los Dajaos
+07 07 05 01 04 011 00 Pulio
+07 07 05 01 05 000 00 Nicolás (Joca)
+07 07 05 01 05 001 00 Nicolás o Joca
+07 07 05 01 05 002 00 Los Tocones
+07 07 05 01 05 003 00 Arroyo Grande
+07 07 05 01 05 004 00 El Morro
+07 07 05 01 05 005 00 La Cueva
+07 07 05 01 05 006 00 El Tocino de Joca
+07 07 05 01 05 007 00 El Pomito
+07 07 05 01 05 008 00 Las Canas - El Estrecho
+07 07 05 02 00 000 00 Río Limpio (DM)
+07 07 05 02 01 000 00 Río Limpio (Zona urbana)
+07 07 05 02 01 001 00 Río Limpio
+07 07 05 02 01 001 01 Río Limpio
+07 07 05 02 02 000 00 Río Limpio
+07 07 05 02 02 001 00 Río Bonito
+07 07 05 02 02 002 00 Piedra Blanca
+07 07 05 02 02 003 00 La Guázara
+07 07 05 02 02 004 00 Los Pinitos
+07 07 05 02 02 005 00 Ravinzal
+07 07 05 02 02 006 00 Los Guandules
+07 07 05 02 02 007 00 La Palma
+07 07 05 02 02 008 00 La Tayota
+07 07 05 02 03 000 00 La Sierrecita
+07 07 05 02 03 001 00 Rancho Tomás
+07 07 05 02 03 002 00 Rancho Valdez
+07 07 05 02 03 003 00 La Llanadita
+07 07 05 02 03 004 00 Patricio
+07 07 05 02 03 005 00 La Tayota
+07 07 05 02 03 006 00 La Guama
+07 07 05 02 03 007 00 Francisco José
+07 07 05 02 03 008 00 La Nasa
+07 07 05 02 03 009 00 La Sierrecita
+07 07 05 02 03 010 00 El Cayuco
+07 07 05 02 03 011 00 La Cidra - La Ginita
+07 07 05 02 03 012 00 Cañada de Piedra
+07 07 05 02 03 013 00 El Hoyo Sanjuanero
+07 07 05 02 03 014 00 Cañada Negra
+07 07 05 02 04 000 00 Billiguín
+07 07 05 02 04 001 00 Billiguín
+07 07 05 02 04 002 00 Pachutico
+07 07 05 02 04 003 00 La Horqueta
+07 07 05 02 04 004 00 Rincón
+07 07 05 02 04 005 00 La Siembrita
+07 07 05 02 04 006 00 Los Corocitos
+07 07 05 02 04 007 00 La Peña
+07 07 05 02 04 008 00 Caramana
+07 07 05 02 04 009 00 Majagualito
+07 07 05 02 04 010 00 Botoncillos
+07 07 05 02 04 011 00 El Jengibre
+07 07 05 02 04 012 00 La Atravesada
+07 07 06 00 00 000 00 Juan Santiago
+07 07 06 01 00 000 00 Juan Santiago
+07 07 06 01 01 000 00 Juan Santiago (Zona urbana)
+07 07 06 01 01 001 00 Juan Santiago
+07 07 06 01 01 001 01 Juan Santiago
+07 07 06 01 02 000 00 Juan Santiago
+07 07 06 01 02 001 00 Guardia del Café
+07 07 06 01 02 002 00 Majagualito
+07 07 06 01 02 003 00 Cañada de Cilantro
+07 07 06 01 02 004 00 Las Canas
+07 07 06 01 02 005 00 Sabana de Jengibre
+07 07 06 01 02 006 00 El Guayacal
+07 07 06 01 02 007 00 Sabana de Chen
+07 07 06 01 02 008 00 Los Palmaritos
+07 07 06 01 02 009 00 Naranjo Dulce
+07 07 06 01 03 000 00 Juan de la cruz
+07 07 06 01 03 001 00 Cañada del Barrero
+07 07 06 01 03 002 00 Sabana Cuna
+07 07 06 01 03 003 00 Sabana Calvario
+07 07 06 01 03 004 00 Joco Viejo
+07 07 06 01 03 005 00 Sonador o Juan de La Cruz
+07 07 06 01 03 006 00 La Tinaja
+07 07 06 01 04 000 00 Sabana de la loma
+07 07 06 01 04 001 00 La Búcara
+07 07 06 01 04 002 00 Sabana de la Loma
+07 07 06 01 04 003 00 Juan García
+07 07 06 01 04 004 00 Cabeza de Toro
+07 07 06 01 04 005 00 Madre Vieja
+07 07 06 01 04 006 00 Cañada Bejuco
+07 07 06 01 04 007 00 Domingo
+07 07 06 01 04 008 00 Sabana Larga
+07 07 06 01 04 009 00 Los Pilones
+07 07 06 01 05 000 00 Monte Mayor
+07 07 06 01 05 001 00 Majagual
+07 07 06 01 05 002 00 Asiento Miguel
+07 07 06 01 05 003 00 Los Conucos
+07 07 06 01 05 004 00 Santiaguito
+07 07 06 01 05 005 00 Las Mesas
+07 07 06 01 05 006 00 Los Caños
+07 07 06 01 05 007 00 Monte Mayor o Cerro Mico

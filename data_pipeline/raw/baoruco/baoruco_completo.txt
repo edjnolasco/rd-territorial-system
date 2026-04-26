@@ -1,0 +1,437 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+06 03 00 00 00 000 00 Baoruco
+06 03 01 00 00 000 00 Neiba
+06 03 01 01 00 000 00 Neiba
+06 03 01 01 01 000 00 Neiba (Zona urbana)
+06 03 01 01 01 001 00 Cachón Seco
+06 03 01 01 01 001 01 Cachón Seco
+06 03 01 01 01 002 00 Centro del Pueblo
+06 03 01 01 01 002 01 Centro del Pueblo
+06 03 01 01 01 002 02 El Millón
+06 03 01 01 01 002 03 El Encanto
+06 03 01 01 01 003 00 la cuaba
+06 03 01 01 01 003 01 La Cuaba
+06 03 01 01 01 003 02 Villa Paja
+06 03 01 01 01 004 00 Puerto Plata (INVI)
+06 03 01 01 01 004 01 Puerto Plata (INVI)
+06 03 01 01 01 005 00 Santa cruz
+06 03 01 01 01 005 01 Santa Cruz
+06 03 01 01 01 006 00 El Tanque
+06 03 01 01 01 006 01 El Tanque
+06 03 01 01 01 007 00 cerro al Medio 
+06 03 01 01 01 007 01 Cerro al Medio 
+06 03 01 01 01 007 02 Gancha
+06 03 01 01 01 008 00 Coronel Francisco Alberto Caamaño
+06 03 01 01 01 008 01 Coronel Francisco Alberto Caamaño
+06 03 01 01 01 009 00 Los Cocos
+06 03 01 01 01 009 01 Los Cocos
+06 03 01 01 01 010 00 Las Filipinas
+06 03 01 01 01 010 01 Las Filipinas
+06 03 01 01 01 011 00 las Malvinas
+06 03 01 01 01 011 01 Las Malvinas
+06 03 01 01 01 012 00 los Girasoles
+06 03 01 01 01 012 01 Los Girasoles
+06 03 01 01 01 013 00 Brisas del Norte
+06 03 01 01 01 013 01 Brisas del Norte
+06 03 01 01 01 014 00 la Jota
+06 03 01 01 01 014 01 La Jota
+06 03 01 01 01 015 00 La Teja
+06 03 01 01 01 015 01 La Teja
+06 03 01 01 02 000 00 Apolinar Perdomo
+06 03 01 01 02 001 00 Apolinar Perdomo
+06 03 01 01 02 002 00 San Sapito o Agapito
+06 03 01 01 02 003 00 El Hato
+06 03 01 01 02 004 00 El Pico
+06 03 01 01 02 005 00 Dos Brazos
+06 03 01 01 02 006 00 El Botado
+06 03 01 01 02 007 00 Los Hoyitos
+06 03 01 01 02 008 00 El Gajo
+06 03 01 01 03 000 00 El Estero
+06 03 01 01 03 001 00 El Estero
+06 03 01 01 03 002 00 Cachón Seco
+06 03 01 01 03 003 00 La Puentecita
+06 03 01 01 03 004 00 Ojeda
+06 03 01 01 03 005 00 Cecadal
+06 03 01 01 04 000 00 los Guineos
+06 03 01 01 04 001 00 Los Guineos
+06 03 01 01 04 002 00 Los Segundos
+06 03 01 01 04 003 00 Los Montazos
+06 03 01 01 04 004 00 Las Cañas
+06 03 01 01 05 000 00 El Manguito
+06 03 01 01 05 001 00 El Manguito
+06 03 01 01 05 002 00 La Tala
+06 03 01 01 05 003 00 Tabardillo Arriba
+06 03 01 01 05 004 00 Las Cañas
+06 03 01 01 05 005 00 Monte Quemado
+06 03 01 01 05 006 00 Plaza Cacique
+06 03 01 01 05 007 00 La Colonia
+06 03 01 01 06 000 00 Las Petacas
+06 03 01 01 06 001 00 Las Petacas
+06 03 01 01 06 002 00 El Manaclar
+06 03 01 01 06 003 00 Regadera
+06 03 01 01 06 004 00 Los Tres Pies
+06 03 01 01 06 005 00 La Gloria
+06 03 01 01 06 006 00 Viña
+06 03 01 01 06 007 00 Los Charquitos
+06 03 01 01 06 008 00 Segundo Paso
+06 03 01 01 07 000 00 los roas
+06 03 01 01 07 001 00 Los Roas
+06 03 01 01 07 002 00 Los Fonditos
+06 03 01 01 07 003 00 El Bejucal
+06 03 01 01 07 004 00 El Calabozo
+06 03 01 01 07 005 00 La Lomita
+06 03 01 01 07 006 00 El Ingenio
+06 03 01 01 07 007 00 El Sillón
+06 03 01 01 08 000 00 Copey
+06 03 01 01 08 001 00 El Copey
+06 03 01 01 08 002 00 Rancho de Marcos
+06 03 01 01 08 003 00 Timia
+06 03 01 01 08 004 00 Zarabanda
+06 03 01 01 08 005 00 El Mangal
+06 03 01 01 08 006 00 Palmar Bonito
+06 03 01 01 08 007 00 El Aguacate
+06 03 01 01 09 000 00 El Aguacate
+06 03 01 01 09 001 00 Alto de La Peña
+06 03 01 01 09 002 00 Los Peñascos
+06 03 01 01 09 003 00 Rancho Viejo
+06 03 01 01 09 004 00 Pinalito (Los Pichones)
+06 03 01 01 09 005 00 La Guamita
+06 03 01 01 09 006 00 El Pozo
+06 03 01 01 09 007 00 Panchito
+06 03 01 01 09 008 00 El Aguacate
+06 03 01 01 09 009 00 Guayuyal del Aguacate
+06 03 01 01 09 010 00 El Fondo
+06 03 01 01 09 011 00 El Alto
+06 03 01 01 09 012 00 Los Canes
+06 03 01 02 00 000 00 El Palmar (DM)
+06 03 01 02 01 000 00 El Palmar (Zona urbana)
+06 03 01 02 01 001 00 El Palmar
+06 03 01 02 01 001 01 El Palmar
+06 03 01 02 01 001 02 La Puerta
+06 03 01 02 01 001 03 Batey 3
+06 03 01 02 02 000 00 Batey I
+06 03 01 02 02 001 00 Batey I
+06 03 01 02 03 000 00 Batey 4
+06 03 01 02 03 001 00 Batey 4
+06 03 01 02 03 002 00 Batey Cuchillo
+06 03 01 02 04 000 00 Batey 5
+06 03 01 02 04 001 00 Batey 5
+06 03 01 02 05 000 00 Batey Isabela
+06 03 01 02 05 001 00 Batey Isabela
+06 03 01 02 05 002 00 Batey 2
+06 03 01 02 06 000 00 El Palmar
+06 03 01 02 06 001 00 El Palmar
+06 03 01 02 06 002 00 Batey 3
+06 03 02 00 00 000 00 Galván
+06 03 02 01 00 000 00 Galván
+06 03 02 01 01 000 00 Galván (Zona urbana)
+06 03 02 01 01 001 00 Galván
+06 03 02 01 01 001 01 Galván
+06 03 02 01 01 002 00 La Piedra
+06 03 02 01 01 002 01 La Piedra
+06 03 02 01 01 003 00 Sábila Arriba (Zábila Arriba)
+06 03 02 01 01 003 01 Sábila Arriba (Zábila Arriba)
+06 03 02 01 01 003 02 La Sábila
+06 03 02 01 01 004 00 El Muey
+06 03 02 01 01 004 01 El Muey
+06 03 02 01 01 005 00 los Hierros
+06 03 02 01 01 005 01 Los Hierros
+06 03 02 01 01 006 00 los Multi de Galván
+06 03 02 01 01 006 01 Los Multi de Galván
+06 03 02 01 02 000 00 El Mamón
+06 03 02 01 02 001 00 El Mamón
+06 03 02 01 02 002 00 Placer Bonito
+06 03 02 01 02 003 00 Palo Alto
+06 03 02 01 02 004 00 La Guama
+06 03 02 01 02 005 00 Los Cerros
+06 03 02 01 02 006 00 Muerto Sentado
+06 03 02 01 02 007 00 El Millo
+06 03 02 01 02 008 00 Los Angelitos
+06 03 02 01 02 009 00 Carpintero
+06 03 02 01 02 010 00 Las Sábilas
+06 03 02 01 02 011 00 La Mina
+06 03 02 01 03 000 00 El Rodeo (Majagual)
+06 03 02 01 03 001 00 Majagual
+06 03 02 01 04 000 00 Las Tejas
+06 03 02 01 04 001 00 Las Tejas
+06 03 02 01 04 002 00 Cabirmal
+06 03 02 01 04 003 00 El Rodeo
+06 03 02 01 04 004 00 Los Arroyitos
+06 03 02 01 04 005 00 La Rosa o Gran Plena
+06 03 02 01 04 006 00 Batista
+06 03 02 01 04 007 00 Los Botaditos
+06 03 02 01 04 008 00 Los Guazarales
+06 03 02 01 04 009 00 Batey San Rafael
+06 03 02 01 04 010 00 Mundito
+06 03 02 01 04 011 00 Gliteria
+06 03 02 01 04 012 00 Las Flores
+06 03 02 02 00 000 00 El Salado (DM)
+06 03 02 02 01 000 00 El Salado (Zona urbana)
+06 03 02 02 01 001 00 El Salado
+06 03 02 02 01 001 01 El Salado
+06 03 02 02 02 000 00 tamarindo
+06 03 02 02 02 001 00 Tamarindo
+06 03 02 02 02 002 00 El Salado
+06 03 02 02 02 003 00 Guaragurito
+06 03 02 02 02 004 00 Cachón Viejo
+06 03 02 02 02 005 00 Moruno
+06 03 02 02 02 006 00 Saladito
+06 03 02 02 02 007 00 Boca del Palmar
+06 03 02 02 02 008 00 Los Cocos
+06 03 02 02 02 009 00 Cerro al Medio 
+06 03 02 02 02 010 00 Preparo
+06 03 03 00 00 000 00 tamayo
+06 03 03 01 00 000 00 tamayo
+06 03 03 01 01 000 00 Tamayo (Zona urbana)
+06 03 03 01 01 001 00 Los Charquitos
+06 03 03 01 01 001 01 Los Charquitos
+06 03 03 01 01 002 00 la Sombra
+06 03 03 01 01 002 01 La Sombra
+06 03 03 01 01 003 00 María Montez o Los Cuaba
+06 03 03 01 01 003 01 María Montez o Los Cuaba
+06 03 03 01 01 004 00 Alto de las Flores
+06 03 03 01 01 004 01 Alto de las Flores
+06 03 03 01 01 005 00 Centro del Pueblo
+06 03 03 01 01 005 01 Centro del Pueblo
+06 03 03 01 01 006 00 El Cacique
+06 03 03 01 01 006 01 El Cacique
+06 03 03 01 01 007 00 San José la cuaba
+06 03 03 01 01 007 01 San José La Cuaba
+06 03 03 01 01 008 00 Hato Nuevo
+06 03 03 01 01 008 01 Hato Nuevo
+06 03 03 01 02 000 00 Barranca
+06 03 03 01 02 001 00 Barranca
+06 03 03 01 02 002 00 Honduras
+06 03 03 01 02 003 00 Vuelta Grande
+06 03 03 01 02 004 00 San Simón
+06 03 03 01 02 005 00 Rincón de Ají (Arroyo Seco)
+06 03 03 02 00 000 00 uvilla (DM)
+06 03 03 02 01 000 00 uvilla (Zona urbana)
+06 03 03 02 01 001 00 Uvilla arriba
+06 03 03 02 01 001 01 Uvilla Arriba
+06 03 03 02 01 001 02 Cañafístola
+06 03 03 02 01 002 00 leonardo González o los Mulos
+06 03 03 02 01 002 01 Leonardo González o Los Mulos
+06 03 03 02 01 003 00 uvilla Abajo
+06 03 03 02 01 003 01 Uvilla Abajo
+06 03 03 02 01 004 00 Nueva Uvilla
+06 03 03 02 01 004 01 Nueva Uvilla
+06 03 03 02 02 000 00 El Jobo
+06 03 03 02 02 001 00 El Jobo
+06 03 03 03 00 000 00 Santana (DM)
+06 03 03 03 01 000 00 Santana (Zona urbana)
+06 03 03 03 01 001 00 la cu
+06 03 03 03 01 001 01 La Cu
+06 03 03 03 01 002 00 El cerro
+06 03 03 03 01 002 01 El Cerro
+06 03 03 03 01 003 00 Villa Liberación
+06 03 03 03 01 003 01 Villa Liberación
+06 03 03 03 01 004 00 Villa lorenza
+06 03 03 03 01 004 01 Villa Lorenza
+06 03 03 03 01 005 00 El cerrito
+06 03 03 03 01 005 01 El Cerrito
+06 03 03 03 02 000 00 Bayahonda
+06 03 03 03 02 001 00 Bayahonda
+06 03 03 03 02 002 00 Villa Santana (Batey Santana)
+06 03 03 03 02 003 00 Los Conuquitos
+06 03 03 03 02 004 00 San Ramón
+06 03 03 03 02 005 00 Cachimba
+06 03 03 03 02 006 00 Altamira
+06 03 03 04 00 000 00 Monserrate o Montserrat (DM)
+06 03 03 04 01 000 00 Monserrate o Montserrat (Zona urbana)
+06 03 03 04 01 001 00 Montserrat
+06 03 03 04 01 001 01 Montserrat
+06 03 03 04 01 001 02 Valle Encantado
+06 03 03 04 01 002 00 Santa María
+06 03 03 04 01 002 01 Santa María
+06 03 03 04 02 000 00 Santa María
+06 03 03 04 02 001 00 Santa María
+06 03 03 04 03 000 00 Valle Encantado
+06 03 03 04 03 001 00 El Higo
+06 03 03 05 00 000 00 Cabeza de Toro (DM)
+06 03 03 05 01 000 00 Cabeza de Toro (Zona urbana)
+06 03 03 05 01 001 00 cabeza de toro
+06 03 03 05 01 001 01 Cabeza de Toro
+06 03 03 05 02 000 00 El Granado
+06 03 03 05 02 001 00 El Manguito
+06 03 03 05 02 002 00 La Graná
+06 03 03 05 02 003 00 Cabeza de Toro
+06 03 03 05 03 000 00 Guanarate
+06 03 03 05 03 001 00 Guanarate
+06 03 03 06 00 000 00 Mena (DM)
+06 03 03 06 01 000 00 Mena (Zona urbana)
+06 03 03 06 01 001 00 Mena arriba
+06 03 03 06 01 001 01 Mena Arriba
+06 03 03 06 01 001 02 Mena
+06 03 03 06 01 002 00 Mena Abajo
+06 03 03 06 01 002 01 Mena Abajo
+06 03 03 06 02 000 00 Los Blocks de Mena
+06 03 03 06 02 001 00 Villa Mella
+06 03 03 06 02 002 00 Mena Abajo
+06 03 03 06 02 003 00 Mena Arriba
+06 03 03 06 02 004 00 Batey Mena o Block de Mena
+06 03 03 07 00 000 00 Santa Bárbara El 6 (DM)
+06 03 03 07 01 000 00 Santa Bárbara El 6 (Zona urbana)
+06 03 03 07 01 001 00 Los Blocks
+06 03 03 07 01 001 01 Los Blocks
+06 03 03 07 01 002 00 las casitas
+06 03 03 07 01 002 01 Las Casitas
+06 03 03 07 01 003 00 Concho Primo
+06 03 03 07 01 003 01 Concho Primo
+06 03 03 07 01 004 00 Los Barrancones
+06 03 03 07 01 004 01 Los Barrancones
+06 03 03 07 02 000 00 la casita
+06 03 03 07 02 001 00 La Casita
+06 03 03 07 02 002 00 Concho Primo
+06 03 03 07 03 000 00 los robles
+06 03 03 07 03 001 00 Los Robles
+06 03 03 07 03 002 00 Palo de Leche
+06 03 04 00 00 000 00 Villa Jaragua
+06 03 04 01 00 000 00 Villa Jaragua
+06 03 04 01 01 000 00 Villa Jaragua (Zona urbana)
+06 03 04 01 01 001 00 la Madre
+06 03 04 01 01 001 01 La Madre
+06 03 04 01 01 002 00 El otro lado
+06 03 04 01 01 002 01 El Otro Lado
+06 03 04 01 01 003 00 El Palmar
+06 03 04 01 01 003 01 El Palmar
+06 03 04 01 01 004 00 Palenque
+06 03 04 01 01 004 01 Palenque
+06 03 04 01 01 005 00 Centro del Pueblo
+06 03 04 01 01 005 01 Centro del Pueblo
+06 03 04 01 01 006 00 El cerro
+06 03 04 01 01 006 01 El Cerro
+06 03 04 01 01 006 02 El Papayo (El Palmarito)
+06 03 04 01 01 007 00 Los Guayacanes
+06 03 04 01 01 007 01 Los Guayacanes
+06 03 04 01 01 008 00 Nuevo
+06 03 04 01 01 008 01 Nuevo
+06 03 04 01 01 009 00 Mecerón
+06 03 04 01 01 009 01 Mecerón
+06 03 04 01 01 010 00 alto Velo
+06 03 04 01 01 010 01 Alto Velo
+06 03 04 01 01 011 00 Brisas del Este
+06 03 04 01 01 011 01 Brisas del Este
+06 03 04 01 01 012 00 Fe y Alegría
+06 03 04 01 01 012 01 Fe y Alegría
+06 03 04 01 01 013 00 Enriquillo
+06 03 04 01 01 013 01 Enriquillo
+06 03 04 01 01 013 02 Tunal
+06 03 04 01 01 014 00 Villa Progreso
+06 03 04 01 01 014 01 Villa Progreso
+06 03 04 01 01 015 00 El 10
+06 03 04 01 01 015 01 El 10
+06 03 04 01 01 016 00 Vista al Lago o La Bruja
+06 03 04 01 01 016 01 Vista al Lago o La Bruja
+06 03 04 01 02 000 00 El Barro
+06 03 04 01 02 001 00 Los Amaceyes
+06 03 04 01 02 002 00 Yerba Buena
+06 03 04 01 02 003 00 Ronelio Lloyo o Rancho de Goyo
+06 03 04 01 02 004 00 El Barro
+06 03 04 01 02 005 00 El Higüero
+06 03 04 01 02 006 00 Pedro
+06 03 04 01 02 007 00 La Esperanza
+06 03 04 01 02 008 00 El Mamey
+06 03 04 01 02 009 00 Arroyo Salado
+06 03 04 01 02 010 00 Las Cortaderas
+06 03 04 01 02 011 00 El Meso
+06 03 04 01 02 012 00 Guayacanal
+06 03 04 01 03 000 00 las cañitas
+06 03 04 01 03 001 00 Las Cañitas
+06 03 04 01 03 002 00 La Cidra
+06 03 04 01 03 003 00 Penda
+06 03 04 01 03 004 00 Meregildo
+06 03 04 01 03 005 00 Loma de Juanico
+06 03 04 01 03 006 00 El Valle
+06 03 04 01 03 007 00 Naranjo
+06 03 04 01 03 008 00 Hoyo de Julián
+06 03 04 01 03 009 00 Sobacón
+06 03 04 01 03 010 00 Colorado
+06 03 04 01 04 000 00 Pie de Loma
+06 03 04 01 04 001 00 Pie de Loma
+06 03 04 01 04 002 00 La Cidra
+06 03 04 01 04 003 00 Las Lagunas
+06 03 04 01 04 004 00 Majagual Cenizo
+06 03 04 01 05 000 00 Mata de Naranja
+06 03 04 01 05 001 00 Los Hierros
+06 03 04 01 05 002 00 Arroyo Seco (Guayubín)
+06 03 04 01 05 003 00 Monte de la Gallina
+06 03 04 01 05 004 00 Mata de Naranja
+06 03 04 01 05 005 00 Los Jaricos (Janison)
+06 03 04 01 05 006 00 La Cuba
+06 03 04 01 05 007 00 El Silencio (Loma del Silencio)
+06 03 04 01 05 008 00 Los Yaurumos
+06 03 04 01 05 009 00 La Cuchilla
+06 03 04 01 05 010 00 Cascajar (Cascajal)
+06 03 05 00 00 000 00 Los Ríos
+06 03 05 01 00 000 00 Los Ríos
+06 03 05 01 01 000 00 Los Ríos (Zona urbana)
+06 03 05 01 01 001 00 El cerro
+06 03 05 01 01 001 01 El Cerro
+06 03 05 01 01 002 00 los Guandules
+06 03 05 01 01 002 01 Los Guandules
+06 03 05 01 01 002 02 El Faro
+06 03 05 01 01 003 00 El Cachimbo
+06 03 05 01 01 003 01 El Cachimbo
+06 03 05 01 01 003 02 Campo Bello
+06 03 05 01 01 003 03 La Javilla
+06 03 05 01 01 004 00 La Picantina (El Otro Lado)
+06 03 05 01 01 004 01 La Picantina (El Otro Lado)
+06 03 05 01 01 005 00 Centro del Pueblo o La Q
+06 03 05 01 01 005 01 Centro del Pueblo o La Q
+06 03 05 01 01 005 02 La Barahona
+06 03 05 01 01 005 03 Las Cañitas
+06 03 05 01 01 006 00 lengua azul
+06 03 05 01 01 006 01 Lengua Azul
+06 03 05 01 01 007 00 Hato Nuevo
+06 03 05 01 01 007 01 Hato Nuevo
+06 03 05 01 01 007 02 Proyecto
+06 03 05 01 01 008 00 Pavón
+06 03 05 01 01 008 01 Pavón
+06 03 05 01 02 000 00 Higo de la cruz
+06 03 05 01 02 001 00 La Rosa
+06 03 05 01 02 002 00 Pino Fresco
+06 03 05 01 02 003 00 Los Bleos
+06 03 05 01 02 004 00 Higo de la Cruz
+06 03 05 01 02 005 00 Los Higos
+06 03 05 01 02 006 00 Monte Bonito
+06 03 05 01 02 007 00 La Madera
+06 03 05 01 02 008 00 Agua de la Palma (La Recta)
+06 03 05 01 02 009 00 La Guamita
+06 03 05 01 02 010 00 Barrerita
+06 03 05 01 02 011 00 El Pino
+06 03 05 01 03 000 00 Los Mosquitos
+06 03 05 01 03 001 00 Los Mosquitos
+06 03 05 01 03 002 00 Los Palos del Burro
+06 03 05 01 03 003 00 La Sierra
+06 03 05 01 03 004 00 La Plena
+06 03 05 01 03 005 00 La Finca
+06 03 05 01 03 006 00 Pinalito
+06 03 05 01 03 007 00 El Toro
+06 03 05 02 00 000 00 Las Clavellinas (DM)
+06 03 05 02 01 000 00 Las Clavellinas (Zona urbana)
+06 03 05 02 01 001 00 las clavellinas
+06 03 05 02 01 001 01 Las Clavellinas
+06 03 05 02 01 001 02 La Rotonda
+06 03 05 02 01 002 00 alto Velo
+06 03 05 02 01 002 01 Alto Velo
+06 03 05 02 01 002 02 Sin Nombre
+06 03 05 02 01 002 03 Vista al Lago 
+06 03 05 02 01 003 00 Las Flores
+06 03 05 02 01 003 01 Las Flores
+06 03 05 02 01 004 00 Boca de Pala
+06 03 05 02 01 004 01 Boca de Pala
+06 03 05 02 01 005 00 Los Povitos
+06 03 05 02 01 005 01 Los Polvitos
+06 03 05 02 01 006 00 cuba
+06 03 05 02 01 006 01 Cuba
+06 03 05 02 02 000 00 Cañada Vieja
+06 03 05 02 02 001 00 Cañada Vieja
+06 03 05 02 02 002 00 Cañada del Rancho
+06 03 05 02 02 003 00 Los Amaceyes
+06 03 05 02 03 000 00 arroyo Salado
+06 03 05 02 03 001 00 Arroyo Salado
+06 03 05 02 03 002 00 El Palmarito
+06 03 05 02 03 003 00 La Cortadera

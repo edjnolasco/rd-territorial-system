@@ -1,0 +1,1100 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+02 13 00 00 00 000 00 La Vega
+02 13 01 00 00 000 00 La Vega
+02 13 01 01 00 000 00 La Vega
+02 13 01 01 01 000 00 Concepción de La Vega (Zona urbana)
+02 13 01 01 01 001 00 San Martín II
+02 13 01 01 01 001 01 San Martín II
+02 13 01 01 01 002 00 Nápoles
+02 13 01 01 01 002 01 Nápoles
+02 13 01 01 01 003 00 X
+02 13 01 01 01 003 01 X
+02 13 01 01 01 003 02 La Planta
+02 13 01 01 01 003 03 Parque Hostos
+02 13 01 01 01 003 04 Centro de la Ciudad
+02 13 01 01 01 003 05 Villa Fresca o Villa Carolina
+02 13 01 01 01 004 00 Quinto Patio
+02 13 01 01 01 004 01 Quinto Patio
+02 13 01 01 01 005 00 Villa Real
+02 13 01 01 01 005 01 Villa Real
+02 13 01 01 01 006 00 Induveca
+02 13 01 01 01 006 01 Induveca
+02 13 01 01 01 007 00 San Antonio
+02 13 01 01 01 007 01 San Antonio
+02 13 01 01 01 008 00 El Campito
+02 13 01 01 01 008 01 El Campito
+02 13 01 01 01 008 02 Villa Fresca
+02 13 01 01 01 008 03 Carolina Norte
+02 13 01 01 01 008 04 Prado del Norte
+02 13 01 01 01 008 05 Libertad o Jarro Sucio
+02 13 01 01 01 008 06 Residencial El Campito
+02 13 01 01 01 008 07 Residencial Hernández III
+02 13 01 01 01 009 00 El Tanque
+02 13 01 01 01 009 01 El Tanque
+02 13 01 01 01 009 02 La Cacata
+02 13 01 01 01 009 03 Altos de Chavón
+02 13 01 01 01 010 00 María Auxiliadora
+02 13 01 01 01 010 01 María Auxiliadora
+02 13 01 01 01 011 00 Las Carmelitas
+02 13 01 01 01 011 01 Las Carmelitas
+02 13 01 01 01 012 00 Nibaje
+02 13 01 01 01 012 01 Nibaje
+02 13 01 01 01 012 02 Don Fausto
+02 13 01 01 01 013 00 El Hatico 
+02 13 01 01 01 013 01 El Hatico (Jeramias)
+02 13 01 01 01 013 02 Residencial Ana Miguelina (Ana Magalis)
+02 13 01 01 01 013 03 Fundación Panal
+02 13 01 01 01 014 00 Altos del Hatico
+02 13 01 01 01 014 01 Altos del Hatico
+02 13 01 01 01 014 02 Residencial Don Fausto
+02 13 01 01 01 014 03 Lindo
+02 13 01 01 01 014 04 La Moraleja
+02 13 01 01 01 014 05 Los Mocanos
+02 13 01 01 01 014 06 Inco
+02 13 01 01 01 015 00 La Primavera
+02 13 01 01 01 015 01 La Primavera
+02 13 01 01 01 015 02 Urbanización La Lotería
+02 13 01 01 01 015 03 Los Multis
+02 13 01 01 01 015 04 Villa Turey
+02 13 01 01 01 016 00 Villa Hollywood
+02 13 01 01 01 016 01 Villa Hollywood
+02 13 01 01 01 016 02 Villa Esperanza
+02 13 01 01 01 016 03 Villas Tati
+02 13 01 01 01 017 00 Los Multifamiliares
+02 13 01 01 01 017 01 Los Multifamiliares
+02 13 01 01 01 018 00 Villa Francisca
+02 13 01 01 01 018 01 Villa Francisca I
+02 13 01 01 01 018 02 Villa Francisca II
+02 13 01 01 01 018 03 San Miguel
+02 13 01 01 01 019 00 La Laguna
+02 13 01 01 01 019 01 La Laguna
+02 13 01 01 01 019 02 Rincón Escondido
+02 13 01 01 01 019 03 Residencial Fabio Fiallo
+02 13 01 01 01 019 04 Guaco
+02 13 01 01 01 019 05 Urbanización Despradel
+02 13 01 01 01 019 06 Parque Industrial
+02 13 01 01 01 019 07 La Guama
+02 13 01 01 01 020 00 Arenoso
+02 13 01 01 01 020 01 Arenoso
+02 13 01 01 01 020 02 Callejón de La Rosa
+02 13 01 01 01 020 03 Urbanización Montalvo Liranzo
+02 13 01 01 01 020 04 Lotificación Fermín
+02 13 01 01 01 020 05 Arenoso I
+02 13 01 01 01 020 06 Residencial Las Mercedes
+02 13 01 01 01 021 00 Soto
+02 13 01 01 01 021 01 Soto
+02 13 01 01 01 021 02 Urbanización Omelia II
+02 13 01 01 01 021 03 Urbanización Omelia III
+02 13 01 01 01 021 04 Urbanización Omelia I
+02 13 01 01 01 022 00 Santo Domingo
+02 13 01 01 01 022 01 Santo Domingo
+02 13 01 01 01 022 02 Arboleda I
+02 13 01 01 01 023 00 Ciudad Universitaria
+02 13 01 01 01 023 01 Ciudad Universitaria
+02 13 01 01 01 023 02 Jardines Universitarios
+02 13 01 01 01 024 00 Villa Margarita
+02 13 01 01 01 024 01 Villa Margarita
+02 13 01 01 01 025 00 Gamundi
+02 13 01 01 01 025 01 Gamundi
+02 13 01 01 01 025 02 Los Robles
+02 13 01 01 01 025 03 La Enramada
+02 13 01 01 01 025 04 Residencial Don Bartolo
+02 13 01 01 01 025 05 Residencial Cruzado I
+02 13 01 01 01 026 00 Santo Domingo Savio
+02 13 01 01 01 026 01 Santo Domingo Savio
+02 13 01 01 01 027 00 Don Bosco
+02 13 01 01 01 027 01 Don Bosco
+02 13 01 01 01 027 02 Arboleda IV
+02 13 01 01 01 027 03 Arboleda III
+02 13 01 01 01 027 04 Los Robles
+02 13 01 01 01 027 05 Vedada
+02 13 01 01 01 027 06 Arboleda II
+02 13 01 01 01 028 00 Guarionex
+02 13 01 01 01 028 01 Guarionex
+02 13 01 01 01 028 02 La Cigua
+02 13 01 01 01 029 00 Villa Rosa
+02 13 01 01 01 029 01 Villa Rosa
+02 13 01 01 01 030 00 Juan Pablo Duarte
+02 13 01 01 01 030 01 Juan Pablo Duarte
+02 13 01 01 01 030 02 Paraíso
+02 13 01 01 01 030 03 Los Barrancones
+02 13 01 01 01 030 04 Residencial Paraíso
+02 13 01 01 01 030 05 Residencial Jardines del Sur
+02 13 01 01 01 030 06 Jardines del Paraíso
+02 13 01 01 01 030 07 Camboya
+02 13 01 01 01 030 08 Villa Olga
+02 13 01 01 01 030 09 Residencial Don Juan
+02 13 01 01 01 030 10 Residencial Paraíso Dorado
+02 13 01 01 01 031 00 Puerto Rico
+02 13 01 01 01 031 01 Puerto Rico
+02 13 01 01 01 032 00 Los Barrancones o Conani
+02 13 01 01 01 032 01 Los Barrancones o Conani
+02 13 01 01 01 032 02 Los Barrancones
+02 13 01 01 01 032 03 Las Cañitas
+02 13 01 01 01 033 00 Nuevo
+02 13 01 01 01 033 01 Nuevo
+02 13 01 01 01 034 00 Residencial Don Zoilo
+02 13 01 01 01 034 01 Residencial Don Zoilo
+02 13 01 01 01 035 00 La Sabana de Pontón
+02 13 01 01 01 035 01 Sabana de Pontón
+02 13 01 01 01 035 02 Galindo
+02 13 01 01 01 035 03 Residencial Don Pedro
+02 13 01 01 01 035 04 Charamico
+02 13 01 01 01 035 05 Residencial Don Chimbin 3
+02 13 01 01 01 035 06 Residencial Don Chimbin 2
+02 13 01 01 01 035 07 Residencial Don Chimbin 1
+02 13 01 01 01 036 00 Pontón Abajo o el 4
+02 13 01 01 01 036 01 Pontón Abajo o el 4
+02 13 01 01 01 036 02 Residencial Quisqueya
+02 13 01 01 01 036 03 Residencial Las Praderas
+02 13 01 01 01 036 04 Residencial Rosa de la Mota
+02 13 01 01 01 037 00 Las Maras
+02 13 01 01 01 037 01 Las Maras I
+02 13 01 01 01 037 02 El Fundo
+02 13 01 01 01 037 03 Urbanización Las Maras II
+02 13 01 01 01 037 04 Residencial Ciudad Olímpica
+02 13 01 01 01 037 05 Samán
+02 13 01 01 01 037 06 Ciudad Consuelo
+02 13 01 01 01 037 07 Villa Parano
+02 13 01 01 01 037 08 Don Antonio
+02 13 01 01 01 037 09 Gamagüey
+02 13 01 01 01 037 10 Urbanización Nicole
+02 13 01 01 01 038 00 Los Pomos
+02 13 01 01 01 038 01 Los Pomos
+02 13 01 01 01 038 02 Amanda I
+02 13 01 01 01 038 03 Amanda III
+02 13 01 01 01 038 04 Residencial Esperanza
+02 13 01 01 01 038 05 Urbanización Vega Real
+02 13 01 01 01 038 06 Residencial El Coral
+02 13 01 01 01 038 07 Urbanización Villa Flores
+02 13 01 01 01 039 00 El Higüero
+02 13 01 01 01 039 01 El Higüero
+02 13 01 01 01 039 02 Galindo
+02 13 01 01 01 039 03 Villa Holguín
+02 13 01 01 01 039 04 Urbanización Villa Progreso
+02 13 01 01 01 040 00 Villa Espinal
+02 13 01 01 01 040 01 Villa Espinal
+02 13 01 01 01 041 00 Villas Carolina
+02 13 01 01 01 041 01 Villas Carolina
+02 13 01 01 01 042 00 Carolina
+02 13 01 01 01 042 01 Carolina
+02 13 01 01 01 042 02 Ensueño I
+02 13 01 01 01 042 03 Ensueño II
+02 13 01 01 01 043 00 Residencial Armida
+02 13 01 01 01 043 01 Residencial Armida
+02 13 01 01 01 043 02 Don Persio I
+02 13 01 01 01 043 03 Don Persio II
+02 13 01 01 01 043 04 Don Persio III
+02 13 01 01 01 044 00 Pontón
+02 13 01 01 01 044 01 Pontón
+02 13 01 01 01 044 02 Residencial Wendy Michell
+02 13 01 01 01 044 03 Residencial El Dorado
+02 13 01 01 01 044 04 Residencial El Molino
+02 13 01 01 01 044 05 Proyecto FERJOSA II
+02 13 01 01 01 045 00 Villa Lora
+02 13 01 01 01 045 01 Villa Lora
+02 13 01 01 01 046 00 Palmarito
+02 13 01 01 01 046 01 Palmarito
+02 13 01 01 01 046 02 Las Marías
+02 13 01 01 01 047 00 Enriquillo o Residencial Santana
+02 13 01 01 01 047 01 Enriquillo o Residencial Santana
+02 13 01 01 01 048 00 El Pinito
+02 13 01 01 01 048 01 El Pinito
+02 13 01 01 01 048 02 Residencial Pinar del Jara
+02 13 01 01 01 049 00 Hatico de Jeremías
+02 13 01 01 01 049 01 Hatico de Jeremías
+02 13 01 01 01 049 02 Residencial Doña ángela
+02 13 01 01 01 049 03 Residencial Don Nieto Cordero
+02 13 01 01 01 049 04 Residencial Praderas del Este
+02 13 01 01 01 049 05 Residencial Doña Elsa
+02 13 01 01 01 050 00 Jeremías
+02 13 01 01 01 050 01 Jeremías
+02 13 01 01 01 050 02 Residencial Fiallo
+02 13 01 01 01 050 03 Residencial Las Praderas
+02 13 01 01 01 050 04 El Pinito Sabaneta
+02 13 01 01 01 050 05 Sevico o Los Rieles
+02 13 01 01 01 050 06 Urbanización Fiallo IV
+02 13 01 01 02 000 00 Bacuí Arriba
+02 13 01 01 02 001 00 Maguey
+02 13 01 01 02 002 00 Bacuí al Medio
+02 13 01 01 02 003 00 Las Uvas
+02 13 01 01 02 004 00 Las Cinco Esquinas
+02 13 01 01 02 005 00 El Rodeo
+02 13 01 01 02 006 00 La Palmita
+02 13 01 01 02 007 00 El Mamoncito
+02 13 01 01 02 008 00 Sabana de los Jiménez
+02 13 01 01 02 009 00 El Capacito
+02 13 01 01 02 010 00 Bacuí Arriba
+02 13 01 01 02 011 00 Bacuí Adentro
+02 13 01 01 04 000 00 Bayacanes
+02 13 01 01 04 001 00 Monte Grande
+02 13 01 01 04 002 00 Las Cruces
+02 13 01 01 04 003 00 Las Guaranitas
+02 13 01 01 04 004 00 El Higüero
+02 13 01 01 04 005 00 Joa
+02 13 01 01 04 006 00 Cercado Alto
+02 13 01 01 04 007 00 Yami
+02 13 01 01 04 008 00 El Higo
+02 13 01 01 04 009 00 Monte Llano
+02 13 01 01 05 000 00 Burende
+02 13 01 01 05 001 00 Arenoso
+02 13 01 01 05 002 00 Las Martínez
+02 13 01 01 05 003 00 Los Callejones
+02 13 01 01 05 004 00 Los Mota
+02 13 01 01 05 005 00 Guaco (La Piñita)
+02 13 01 01 05 006 00 Guaco (La Pista)
+02 13 01 01 05 007 00 La Lomita de Guaco
+02 13 01 01 05 008 00 Loma de Los Ángeles
+02 13 01 01 05 009 00 Río Seco
+02 13 01 01 05 010 00 Soto
+02 13 01 01 05 011 00 Las Pocilgas
+02 13 01 01 05 012 00 Los Hornos
+02 13 01 01 05 013 00 Carrera de Palmas
+02 13 01 01 05 014 00 Santo Cerro
+02 13 01 01 05 015 00 San Francisco
+02 13 01 01 05 016 00 Pozo del Bejuco
+02 13 01 01 05 017 00 Guaco Los Frías
+02 13 01 01 05 018 00 Burende
+02 13 01 01 05 019 00 Los Valerio
+02 13 01 01 05 020 00 Los Corozos
+02 13 01 01 05 021 00 Los Suárez
+02 13 01 01 06 000 00 La Cabirmota
+02 13 01 01 06 001 00 Cabirmota
+02 13 01 01 06 002 00 Pozo Colorado
+02 13 01 01 06 003 00 La Cidra
+02 13 01 01 06 004 00 Arenoso
+02 13 01 01 06 005 00 Botija de Jimayaco
+02 13 01 01 06 006 00 Botija de Cabirmota
+02 13 01 01 06 007 00 Jimayaco Arriba
+02 13 01 01 06 008 00 Jimayaco Abajo
+02 13 01 01 06 009 00 Jimayaco
+02 13 01 01 09 000 00 Guarey
+02 13 01 01 09 001 00 Guarey Arriba
+02 13 01 01 09 002 00 El Faro
+02 13 01 01 09 003 00 Arroyo Ancho
+02 13 01 01 09 004 00 Los Guanábanos
+02 13 01 01 09 005 00 Arroyo Amarillo
+02 13 01 01 09 006 00 Guaigüí
+02 13 01 01 09 007 00 Guarey
+02 13 01 01 10 000 00 Jamo
+02 13 01 01 10 001 00 Los Rieles
+02 13 01 01 10 002 00 Las Yayas Adentro
+02 13 01 01 10 003 00 Jamo Arriba o Jamo Afuera
+02 13 01 01 10 004 00 Jamo La Barranquita
+02 13 01 01 10 005 00 Jamo Jardeta
+02 13 01 01 10 006 00 Las Yayas Afuera
+02 13 01 01 10 007 00 Las Hoyitas
+02 13 01 01 10 008 00 La Carmona
+02 13 01 01 11 000 00 La Penda
+02 13 01 01 11 001 00 El Quemado
+02 13 01 01 11 002 00 La Penda
+02 13 01 01 11 003 00 Rancho Viejo
+02 13 01 01 11 004 00 La Torre
+02 13 01 01 11 005 00 El Caimito Afuera
+02 13 01 01 11 006 00 El Caimito Adentro
+02 13 01 01 11 007 00 El Caimito Abajo
+02 13 01 01 12 000 00 Las Cabuyas
+02 13 01 01 12 001 00 La Cidra
+02 13 01 01 12 002 00 Las Cabuyas
+02 13 01 01 12 003 00 Los Guayos
+02 13 01 01 12 004 00 La Catalina
+02 13 01 01 12 005 00 La Cuarenta
+02 13 01 01 12 006 00 Sabana Rey Abajo Las Cabuyas
+02 13 01 01 12 007 00 Los Ornes o Reforma
+02 13 01 01 14 000 00 Licey
+02 13 01 01 14 001 00 Hoya Grande o Las Tablitas
+02 13 01 01 14 002 00 La Rafaela
+02 13 01 01 14 003 00 Licey
+02 13 01 01 14 004 00 Las Totumas o Los Tocones
+02 13 01 01 14 005 00 Rancho Abajo
+02 13 01 01 14 006 00 Colón
+02 13 01 01 14 007 00 Monte Adentro
+02 13 01 01 15 000 00 Pontón
+02 13 01 01 15 001 00 Pontón
+02 13 01 01 15 002 00 Hoya Cautiva
+02 13 01 01 15 003 00 Terrero
+02 13 01 01 15 004 00 Aguas Altas
+02 13 01 01 15 005 00 El Siete
+02 13 01 01 15 006 00 Sabana de Pontón
+02 13 01 01 15 007 00 Ramada
+02 13 01 01 15 008 00 Guanábano
+02 13 01 01 15 009 00 Miranda
+02 13 01 01 15 010 00 Las Manaclitas
+02 13 01 01 15 011 00 El Algarrobo
+02 13 01 01 15 012 00 El Pino
+02 13 01 01 16 000 00 Sabaneta
+02 13 01 01 16 001 00 Sabaneta o El Puente
+02 13 01 01 16 002 00 El Pinito de Los Jiménez
+02 13 01 01 16 003 00 Matanzas
+02 13 01 01 16 004 00 Rancho Viejo
+02 13 01 01 16 005 00 Palmarejo
+02 13 01 01 16 006 00 Maguey
+02 13 01 01 17 000 00 Las Canas
+02 13 01 01 17 001 00 Las Canas
+02 13 01 01 17 002 00 La Estancia
+02 13 01 01 17 003 00 Las Canas Arriba
+02 13 01 01 17 004 00 La Brusca
+02 13 01 01 17 005 00 La Loma
+02 13 01 01 17 006 00 El Higo
+02 13 01 01 17 007 00 La Mina
+02 13 01 01 17 008 00 Las Canas Abajo
+02 13 01 02 00 000 00 Río Verde Arriba (DM)
+02 13 01 02 01 000 00 Cutupú (Zona urbana)
+02 13 01 02 01 001 00 Cutupú
+02 13 01 02 01 001 01 Cutupú
+02 13 01 02 01 002 00 Vista Bella
+02 13 01 02 01 002 01 Vista Bella
+02 13 01 02 01 003 00 Sabana Larga o Villas Tilín
+02 13 01 02 01 003 01 Sabana Larga o Villas Tilín
+02 13 01 02 01 003 02 Los Mangos
+02 13 01 02 01 004 00 El 11 de Cutupú
+02 13 01 02 01 004 01 El 11 de Cutupú
+02 13 01 02 01 005 00 Los Profesores
+02 13 01 02 01 005 01 Los Profesores
+02 13 01 02 01 005 02 Urbanización Taverás
+02 13 01 02 02 000 00 Arroyo Hondo Arriba
+02 13 01 02 02 001 00 Arroyo Hondo Arriba
+02 13 01 02 02 002 00 Arroyo Hondo Abajo
+02 13 01 02 02 003 00 Los Quezada
+02 13 01 02 02 004 00 La Jabilla
+02 13 01 02 02 005 00 Bonagua Los Sirices
+02 13 01 02 03 000 00 Bonagua
+02 13 01 02 03 001 00 Bonagua
+02 13 01 02 03 002 00 El Llano
+02 13 01 02 03 003 00 El Caimito
+02 13 01 02 03 004 00 Romero
+02 13 01 02 03 005 00 La Palmita
+02 13 01 02 04 000 00 Mirador
+02 13 01 02 04 001 00 El Mirador
+02 13 01 02 04 002 00 Monte Adentro
+02 13 01 02 04 003 00 El Azucey
+02 13 01 02 04 004 00 Los Hoyos
+02 13 01 02 04 005 00 Jababa
+02 13 01 02 04 006 00 Sabaneta
+02 13 01 02 05 000 00 El Naranjal
+02 13 01 02 05 001 00 El Naranjal
+02 13 01 02 05 002 00 Las Arenas
+02 13 01 02 05 003 00 La Cruz del Naranjal
+02 13 01 02 05 004 00 El Tranche
+02 13 01 02 05 005 00 El Naranjal Adentro
+02 13 01 02 06 000 00 Pueblo Viejo
+02 13 01 02 06 001 00 Pueblo Viejo
+02 13 01 02 06 002 00 El Aljibe
+02 13 01 02 06 003 00 Colorao
+02 13 01 02 06 004 00 Los Suárez
+02 13 01 02 06 005 00 La Vereda
+02 13 01 02 06 006 00 El Ranchito
+02 13 01 02 07 000 00 Río Verde Abajo
+02 13 01 02 07 001 00 Río Verde Abajo
+02 13 01 02 07 002 00 La Lima
+02 13 01 02 07 003 00 Las Cañas
+02 13 01 02 07 004 00 Las Escobas
+02 13 01 02 07 005 00 Los Placeres
+02 13 01 02 07 006 00 El Alto del Gallo
+02 13 01 02 07 007 00 El Zumbio
+02 13 01 02 07 008 00 Cazabito
+02 13 01 02 08 000 00 Río Verde Arriba
+02 13 01 02 08 001 00 Río Verde Arriba
+02 13 01 02 08 002 00 Cagüey
+02 13 01 02 08 003 00 Manga Larga Arriba
+02 13 01 02 08 004 00 Manga Larga Abajo
+02 13 01 02 08 005 00 La Destiladera
+02 13 01 02 08 006 00 El Caliche
+02 13 01 02 08 007 00 La Sabana de Río Verde
+02 13 01 02 08 008 00 Los Basora
+02 13 01 03 00 000 00 El Ranchito (DM)
+02 13 01 03 01 000 00 El Ranchito (Zona urbana)
+02 13 01 03 01 001 00 María Trinidad Sánchez o El Semillero
+02 13 01 03 01 001 01 María Trinidad Sánchez o El Semillero
+02 13 01 03 01 002 00 Centro del Pueblo
+02 13 01 03 01 002 01 Centro del Pueblo
+02 13 01 03 01 003 00 Ranchito Abajo o El Badén
+02 13 01 03 01 003 01 Ranchito Abajo o El Badén
+02 13 01 03 01 004 00 Zafarraya
+02 13 01 03 01 004 01 Zafarraya
+02 13 01 03 01 005 00 Urbanización Doña Miledys
+02 13 01 03 01 005 01 Urbanización Doña Miledys
+02 13 01 03 02 000 00 Sabana Rey
+02 13 01 03 02 001 00 La Esquina
+02 13 01 03 02 002 00 Hato Viejo
+02 13 01 03 02 003 00 La Tina
+02 13 01 03 02 004 00 Sabana Rey Arriba
+02 13 01 03 02 005 00 La Romera
+02 13 01 03 02 006 00 El Reco
+02 13 01 03 02 007 00 Los Ranchos
+02 13 01 03 02 008 00 Paso Astacio
+02 13 01 03 02 009 00 La Otra Vera o Los Cruces
+02 13 01 03 02 010 00 La Meseta
+02 13 01 03 02 011 00 Los Gallardos
+02 13 01 03 02 012 00 Los Rincones
+02 13 01 03 03 000 00 El Badén
+02 13 01 03 03 001 00 Ranchito Abajo
+02 13 01 03 03 002 00 La Reforma
+02 13 01 03 03 003 00 Los Solares u Orlando Martínez
+02 13 01 03 03 004 00 El Badén
+02 13 01 03 03 005 00 La Jagüita
+02 13 01 03 03 006 00 El Tamarindo
+02 13 01 03 03 007 00 La Bruja
+02 13 01 03 04 000 00 La Rosa
+02 13 01 03 04 001 00 La Rosa
+02 13 01 03 04 002 00 Los Samanes
+02 13 01 03 04 003 00 La Privada
+02 13 01 04 00 000 00 Tavera (DM)
+02 13 01 04 01 000 00 La Jina Hueca (Zona urbana)
+02 13 01 04 01 001 00 La Jina Hueca
+02 13 01 04 01 001 01 La Jina Hueca
+02 13 01 04 02 000 00 La Jina Hueca
+02 13 01 04 02 001 00 La Presa
+02 13 01 04 02 002 00 Loma del Coco
+02 13 01 04 02 003 00 El Jobo
+02 13 01 04 02 004 00 Conuco Viejo
+02 13 01 04 02 005 00 El Morro
+02 13 01 04 02 006 00 La Jagüita
+02 13 01 04 02 007 00 Tavera
+02 13 01 04 02 008 00 La Cabra
+02 13 01 04 02 009 00 El Aguacate
+02 13 01 04 02 010 00 Los Ranchos de Taveras
+02 13 01 04 02 011 00 Poblado de Taveras
+02 13 01 04 02 012 00 Los Indios
+02 13 01 04 02 013 00 La Cotorra
+02 13 01 04 03 000 00 La Llanada
+02 13 01 04 03 001 00 La Cigua
+02 13 01 04 03 002 00 Llanada al Medio
+02 13 01 04 03 003 00 Llanada de los Jengibres
+02 13 01 04 03 004 00 La Tayota 
+02 13 01 04 03 005 00 La Sabana
+02 13 01 04 03 006 00 La Tala
+02 13 01 04 03 007 00 Llanada Parroquia
+02 13 01 04 03 008 00 Alto del Jobo
+02 13 01 04 03 009 00 El Fundo
+02 13 01 04 03 010 00 El Pino
+02 13 01 04 03 011 00 La Cuaba
+02 13 01 04 03 012 00 Los Jengibres
+02 13 01 04 04 000 00 Jagua Gorda
+02 13 01 04 04 001 00 La Piñita 
+02 13 01 04 04 002 00 El Café
+02 13 01 04 04 003 00 El Bejucal
+02 13 01 04 04 004 00 El Mameyito
+02 13 01 04 04 005 00 El Colorado
+02 13 01 04 04 006 00 El Capá
+02 13 01 04 04 007 00 Lomita Larga
+02 13 01 04 04 008 00 Jagua Gorda
+02 13 01 04 04 009 00 Loma Firme
+02 13 01 04 04 010 00 Rancho La Vaca
+02 13 01 04 04 011 00 La Monja
+02 13 01 04 04 012 00 Velazquito
+02 13 01 04 04 013 00 Los Limones
+02 13 01 04 04 014 00 Loma Sucia
+02 13 01 04 04 015 00 Palero
+02 13 01 04 04 016 00 La Piña
+02 13 01 04 04 017 00 Loma de la Palma
+02 13 01 04 04 018 00 El Añil
+02 13 01 04 04 019 00 Las Cruces
+02 13 01 04 04 020 00 Los Camarones
+02 13 01 04 04 021 00 La Ahumada
+02 13 01 04 05 000 00 El Mamey
+02 13 01 04 05 001 00 Los Guineos
+02 13 01 04 05 002 00 El Mamey
+02 13 01 04 05 003 00 La Guardarraya
+02 13 01 04 05 004 00 Mocán Campana
+02 13 01 04 05 005 00 Mocán
+02 13 01 04 05 006 00 Jagüey
+02 13 01 04 05 007 00 Los Peladeros
+02 13 01 04 05 008 00 Yabanal
+02 13 01 04 05 009 00 Los Rincones
+02 13 01 04 05 010 00 Pozo Hondo
+02 13 01 04 05 011 00 Ceiba Gorda
+02 13 01 04 05 012 00 El Laurel
+02 13 01 04 05 013 00 El Mameyito
+02 13 01 04 05 014 00 El Desecho
+02 13 01 05 00 000 00 Don Juan Rodríguez (DM)
+02 13 01 05 01 000 00 Cruce de Barranca (Zona Urbana)
+02 13 01 05 01 001 00 Cruce de Barranca 
+02 13 01 05 01 001 01 Cruce de Barranca 
+02 13 01 05 02 000 00 Barranca
+02 13 01 05 02 001 00 Barranca
+02 13 01 05 02 002 00 Toro Cenizo
+02 13 01 05 02 003 00 Los Pomos 
+02 13 01 05 02 004 00 Los Tocones 
+02 13 01 05 02 005 00 Don Lolo 
+02 13 01 05 02 006 00 El Caño Afuera 
+02 13 01 05 02 007 00 Monte Plata
+02 13 01 05 03 000 00 Las Yerbas
+02 13 01 05 03 001 00 Las Yerbas
+02 13 01 05 03 002 00 Jagua Dulce
+02 13 01 05 03 003 00 Guachupita 
+02 13 01 05 04 000 00 Bacui
+02 13 01 05 04 001 00 Bacui
+02 13 01 05 04 002 00 Bacui Abajo
+02 13 01 05 04 003 00 Los Tanas 
+02 13 01 05 04 004 00 Palma Sola
+02 13 01 05 04 005 00 El Polvazo 
+02 13 01 05 04 006 00 Barrio Nuevo 
+02 13 01 05 04 007 00 Los Cruces 
+02 13 01 05 04 008 00 El Canal 
+02 13 01 05 04 009 00 Caño Adentro 
+02 13 01 05 04 010 00 El Muelle 
+02 13 01 05 04 011 00 Los Jimenez 
+02 13 01 05 05 000 00 Berruguete
+02 13 01 05 05 001 00 Berruguete
+02 13 01 05 05 002 00 Los Diaz 
+02 13 01 05 05 003 00 Los Garcia 
+02 13 01 05 06 000 00 Los Hoyos
+02 13 01 05 06 001 00 Los Hoyos
+02 13 01 05 06 002 00 Los Caceres 
+02 13 01 05 06 003 00 El Fundo
+02 13 01 05 06 004 00 Los Peña 
+02 13 02 00 00 000 00 Constanza
+02 13 02 01 00 000 00 Constanza
+02 13 02 01 01 000 00 Constanza (Zona urbana)
+02 13 02 01 01 001 00 Respaldo 27 de Febrero
+02 13 02 01 01 001 01 Respaldo 27 de Febrero
+02 13 02 01 01 002 00 Buenos Aires
+02 13 02 01 01 002 01 Buenos Aires
+02 13 02 01 01 002 02 Los Colegios
+02 13 02 01 01 002 03 Los Profesores
+02 13 02 01 01 003 00 Los Laureles
+02 13 02 01 01 003 01 Los Laureles
+02 13 02 01 01 004 00 El Centro del Pueblo
+02 13 02 01 01 004 01 El Centro del Pueblo
+02 13 02 01 01 005 00 El Progreso
+02 13 02 01 01 005 01 El Progreso
+02 13 02 01 01 005 02 Hollywood
+02 13 02 01 01 006 00 Boca de Pato
+02 13 02 01 01 006 01 Boca de Pato
+02 13 02 01 01 007 00 Popular
+02 13 02 01 01 007 01 Popular
+02 13 02 01 01 007 02 El Semillero
+02 13 02 01 01 008 00 El Tornado
+02 13 02 01 01 008 01 El Tornado
+02 13 02 01 01 009 00 Los Pinos
+02 13 02 01 01 009 01 Los Pinos
+02 13 02 01 01 010 00 El Millón
+02 13 02 01 01 010 01 El Millón
+02 13 02 01 01 011 00 La Colina de Los Pomos
+02 13 02 01 01 011 01 La Colina de Los Pomos
+02 13 02 01 01 012 00 El Cercado
+02 13 02 01 01 012 01 El Cercado
+02 13 02 01 01 012 02 La Joya
+02 13 02 01 01 012 03 El Parquecito
+02 13 02 01 01 012 04 Nuevo Amanecer
+02 13 02 01 01 012 05 Juan Pedro
+02 13 02 01 01 012 06 La Piscina
+02 13 02 01 01 012 07 Los Gajitos
+02 13 02 01 01 012 08 El Arenaso
+02 13 02 01 01 012 09 Cercado Abajo
+02 13 02 01 01 012 10 Nueva Esperanza
+02 13 02 01 01 012 11 San Francisco
+02 13 02 01 01 012 12 La Luisa
+02 13 02 01 01 012 13 Los Pinos de Juan Taveras
+02 13 02 01 01 013 00 Las Praderas del Río
+02 13 02 01 01 013 01 Las Praderas del Río
+02 13 02 01 01 014 00 Arroyo Arriba
+02 13 02 01 01 014 01 Arroyo Arriba
+02 13 02 01 01 014 02 El Aserrín
+02 13 02 01 01 014 03 Las Flores
+02 13 02 01 01 014 04 Los Envasadores
+02 13 02 01 01 014 05 Los Pomos
+02 13 02 01 01 014 06 San Isidro
+02 13 02 01 01 014 07 Chavón
+02 13 02 01 01 014 08 El Nueve
+02 13 02 01 01 014 09 Villa Pinales
+02 13 02 01 01 014 10 La Zanja
+02 13 02 01 01 014 11 Central
+02 13 02 01 01 015 00 Lindo
+02 13 02 01 01 015 01 Lindo
+02 13 02 01 01 015 02 El Edén
+02 13 02 01 01 015 03 Paraíso
+02 13 02 01 01 016 00 El Gajo o Mirador Norte
+02 13 02 01 01 016 01 El Gajo o Mirador Norte
+02 13 02 01 01 017 00 La Altagracia
+02 13 02 01 01 017 01 La Altagracia
+02 13 02 01 01 018 00 Los Peynado
+02 13 02 01 01 018 01 Los Peynado
+02 13 02 01 01 019 00 Santiago Apóstol o San Pedro
+02 13 02 01 01 019 01 Santiago Apóstol o San Pedro
+02 13 02 01 01 020 00 Colonia Española
+02 13 02 01 01 020 01 Colonia Española
+02 13 02 01 01 020 02 Residencial San Luis
+02 13 02 01 01 020 03 Residencial Los Doctores
+02 13 02 01 01 020 04 Villa Caribean
+02 13 02 01 01 020 05 Ojo de Agua
+02 13 02 01 02 000 00 Maldonado
+02 13 02 01 02 001 00 La Cienaguita
+02 13 02 01 02 002 00 El Puente
+02 13 02 01 02 003 00 La Culata
+02 13 02 01 02 004 00 Don Miguel
+02 13 02 01 02 005 00 El Arenaso
+02 13 02 01 02 006 00 Arroyo Hondo
+02 13 02 01 02 007 00 La Sabana del Sur
+02 13 02 01 02 008 00 Los Almendrales
+02 13 02 01 02 009 00 Los Cayetanos
+02 13 02 01 02 010 00 El Pino de Las Siete Hojas
+02 13 02 01 02 011 00 Arroyo Naranjo
+02 13 02 01 02 012 00 Los Corralitos
+02 13 02 01 02 013 00 El Chorro
+02 13 02 01 02 014 00 Fundo Viejo
+02 13 02 01 02 015 00 La Ciénaga
+02 13 02 01 02 016 00 El Limón
+02 13 02 01 02 017 00 Los Caños
+02 13 02 01 02 018 00 Las Auyamas
+02 13 02 01 02 019 00 Los Limoncitos
+02 13 02 01 02 020 00 Pinar Parejo
+02 13 02 01 03 000 00 Palero
+02 13 02 01 03 001 00 Las Auyamas
+02 13 02 01 03 002 00 La Colonia Japonesa
+02 13 02 01 03 003 00 Pinar Bonito
+02 13 02 01 03 004 00 El Valle
+02 13 02 01 03 005 00 Colonia Kennedy
+02 13 02 01 03 006 00 La Secadora
+02 13 02 02 00 000 00 Tireo (DM)
+02 13 02 02 01 000 00 Tireo (Zona urbana)
+02 13 02 02 01 001 00 La Mina
+02 13 02 02 01 001 01 La Mina
+02 13 02 02 01 002 00 Tireo al Medio o La Secadora
+02 13 02 02 01 002 01 Tireo al Medio o La Secadora
+02 13 02 02 01 002 02 La Mina
+02 13 02 02 01 003 00 Tireo Arriba
+02 13 02 02 01 003 01 Altagracia I
+02 13 02 02 01 003 02 Altagracia Il
+02 13 02 02 01 004 00 Tireo Abajo
+02 13 02 02 01 004 01 Tireo Abajo
+02 13 02 02 01 004 02 El Haití
+02 13 02 02 01 004 03 El Bolsillo
+02 13 02 02 01 004 04 El Refugio
+02 13 02 02 01 004 05 La Cerca
+02 13 02 02 02 000 00 La Altagracia
+02 13 02 02 02 001 00 Paragua
+02 13 02 02 02 002 00 Monte Llano
+02 13 02 02 02 003 00 Cruz de Cuaba
+02 13 02 02 02 004 00 Suriel
+02 13 02 02 02 005 00 El Chicharrón
+02 13 02 02 02 006 00 La Escuchadera
+02 13 02 02 02 007 00 La Canelilla
+02 13 02 02 02 008 00 El Café
+02 13 02 02 03 000 00 Arroyo Frío
+02 13 02 02 03 001 00 Arroyo Frío
+02 13 02 02 03 002 00 La Ciénaga
+02 13 02 02 03 003 00 Río Abajo
+02 13 02 02 03 004 00 Jima (Cristo Rey)
+02 13 02 02 04 000 00 La Descubierta
+02 13 02 02 04 001 00 La Descubierta
+02 13 02 02 04 002 00 Arroyo Bonito
+02 13 02 02 04 003 00 La Yegua
+02 13 02 02 04 004 00 Las Nueces
+02 13 02 02 04 005 00 Jima
+02 13 02 02 04 006 00 La Castilla
+02 13 02 02 04 007 00 Arenoso
+02 13 02 02 05 000 00 Las Palomas
+02 13 02 02 05 001 00 Las Palmas o Las Palomas
+02 13 02 02 05 002 00 Villa Cafetalera
+02 13 02 02 05 003 00 El Arroyazo (Arroyo del Toro)
+02 13 02 02 05 004 00 Arroyo Prieto
+02 13 02 02 05 005 00 La Angostura
+02 13 02 02 05 006 00 La Novilla o Villa Esperanza
+02 13 02 02 05 007 00 Las Palmas Arriba
+02 13 02 02 06 000 00 El Río
+02 13 02 02 06 001 00 El Río
+02 13 02 02 06 002 00 El Majagual
+02 13 02 02 06 003 00 La Cotorra
+02 13 02 02 06 004 00 Los Sánchez
+02 13 02 02 06 005 00 La Cumbre
+02 13 02 02 06 006 00 La Pelada
+02 13 02 02 06 007 00 La Joya de Paulino
+02 13 02 02 06 008 00 Las Auyamas
+02 13 02 02 06 009 00 El Pomito
+02 13 02 02 06 010 00 La Novilla
+02 13 02 02 06 011 00 Arenosito o Arenoso Arriba
+02 13 02 02 06 012 00 El Cercado
+02 13 02 02 07 000 00 Tireo Abajo
+02 13 02 02 07 001 00 La Guamita
+02 13 02 02 07 002 00 Palerito
+02 13 02 02 07 003 00 Tireo Abajo
+02 13 02 02 07 004 00 Los Fríos
+02 13 02 02 07 005 00 La Novilla
+02 13 02 02 07 006 00 Pinalito
+02 13 02 02 07 007 00 El Naranjo
+02 13 02 02 07 008 00 Los Amaceyes
+02 13 02 02 07 009 00 La Playa
+02 13 02 02 07 010 00 El Botao
+02 13 02 02 07 011 00 Montellano
+02 13 02 02 07 012 00 Arroyo Yaya
+02 13 02 02 07 013 00 Portezuelo
+02 13 02 03 00 000 00 La Sabina (DM)
+02 13 02 03 01 000 00 La Sabina (Zona urbana)
+02 13 02 03 01 001 00 Villa Sabina
+02 13 02 03 01 001 01 Villa Sabina
+02 13 02 03 01 001 02 La Colonia Húngara o El Distrito
+02 13 02 03 01 001 03 Azul
+02 13 02 03 02 000 00 Los Cerros
+02 13 02 03 02 001 00 Cachaza
+02 13 02 03 02 002 00 El Tapión
+02 13 02 03 02 003 00 Los Guineos
+02 13 02 03 02 004 00 El Gramaso
+02 13 02 03 02 005 00 El Cajón
+02 13 02 03 02 006 00 Los Cerros
+02 13 02 03 03 000 00 Palero
+02 13 02 03 03 001 00 Cerro del Monte
+02 13 02 03 03 002 00 Palero Almonte
+02 13 02 03 03 003 00 Palero o Los Higos
+02 13 02 03 03 004 00 El Memiso o El Mimero
+02 13 02 03 03 005 00 El Valle
+02 13 02 03 03 006 00 Cañada Seca
+02 13 02 03 04 000 00 Villa Sabina
+02 13 02 03 04 001 00 Gajo del Mulo o Villa de la Montaña
+02 13 02 03 04 002 00 Santa Ana o Barrio Santa Ana
+02 13 02 03 04 003 00 Barrio Duarte
+02 13 02 03 04 004 00 Guaricano o Jarro Sucio
+02 13 02 03 04 005 00 Gajo del Mulo
+02 13 02 03 05 000 00 El Convento
+02 13 02 03 05 001 00 El Convento
+02 13 02 03 05 002 00 Río Grande
+02 13 02 03 05 003 00 Los Castillos
+02 13 02 03 05 004 00 Monte Llano
+02 13 02 03 05 005 00 La Silverio
+02 13 02 03 05 006 00 Sonador
+02 13 02 03 05 007 00 Pinar Parejo
+02 13 02 03 05 008 00 Villa Los Pajones
+02 13 02 03 05 009 00 Vallecito o Valle Nuevo
+02 13 02 03 05 010 00 Sabana Sin Provecho-Alto Bandera
+02 13 02 03 05 011 00 Sabana Queliz
+02 13 02 03 05 012 00 El Convento Nizao-La Nevera
+02 13 03 00 00 000 00 Jarabacoa
+02 13 03 01 00 000 00 Jarabacoa
+02 13 03 01 01 000 00 Jarabacoa (Zona urbana)
+02 13 03 01 01 001 00 Yerba Buena
+02 13 03 01 01 001 01 Yerba Buena
+02 13 03 01 01 001 02 Lindo
+02 13 03 01 01 002 00 La Jabilla
+02 13 03 01 01 002 01 La Jabilla
+02 13 03 01 01 003 00 Cristo Rey o La Cachaza
+02 13 03 01 01 003 01 Cristo Rey o La Cachaza
+02 13 03 01 01 004 00 Urbanización Cerro Alto
+02 13 03 01 01 004 01 Urbanización Cerro Alto
+02 13 03 01 01 005 00 Los Candelarios
+02 13 03 01 01 005 01 Los Candelarios
+02 13 03 01 01 006 00 Rincón
+02 13 03 01 01 006 01 Rincón
+02 13 03 01 01 007 00 Colonia de Los Pomos o Toñito Batista
+02 13 03 01 01 007 01 Colonia de Los Pomos o Toñito Batista
+02 13 03 01 01 008 00 La Joya II
+02 13 03 01 01 008 01 La Joya II
+02 13 03 01 01 009 00 Urbanización Pinar Dorado
+02 13 03 01 01 009 01 Urbanización Pinar Dorado
+02 13 03 01 01 010 00 La Joya I
+02 13 03 01 01 010 01 La Joya I
+02 13 03 01 01 010 02 La Quebrada
+02 13 03 01 01 011 00 La Trinchera
+02 13 03 01 01 011 01 La Trinchera
+02 13 03 01 01 011 02 La Joya III
+02 13 03 01 01 012 00 Domingo Savio
+02 13 03 01 01 012 01 Domingo Savio
+02 13 03 01 01 013 00 La Colonia Agraria
+02 13 03 01 01 013 01 La Colonia Agraria
+02 13 03 01 01 013 02 María Auxiliadora
+02 13 03 01 01 013 03 El Dorado
+02 13 03 01 01 013 04 La Colonia
+02 13 03 01 01 014 00 Tavito
+02 13 03 01 01 014 01 Tavito
+02 13 03 01 01 015 00 Don Bosco
+02 13 03 01 01 015 01 Don Bosco
+02 13 03 01 01 016 00 Pueblo Nuevo
+02 13 03 01 01 016 01 Pueblo Nuevo
+02 13 03 01 01 017 00 Doctor Elías Santana
+02 13 03 01 01 017 01 Doctor Elías Santana
+02 13 03 01 01 018 00 Blanco o Belarminio Ramírez
+02 13 03 01 01 018 01 Blanco o Belarminio Ramírez
+02 13 03 01 01 019 00 Negro
+02 13 03 01 01 019 01 Negro
+02 13 03 01 01 020 00 Venecia
+02 13 03 01 01 020 01 Venecia
+02 13 03 01 01 020 02 Urbanización Jerez
+02 13 03 01 01 020 03 Urbanización Tony Ydaka
+02 13 03 01 01 020 04 Urbanización Ercilia Pepín
+02 13 03 01 01 020 05 Urbanización Villa Aura
+02 13 03 01 01 020 06 Urbanización Brisas del Mogote
+02 13 03 01 01 021 00 La Plaza
+02 13 03 01 01 021 01 La Plaza
+02 13 03 01 01 022 00 Altos del Yaque
+02 13 03 01 01 022 01 Altos del Yaque
+02 13 03 01 01 023 00 Rosa Mística
+02 13 03 01 01 023 01 Rosa Mística
+02 13 03 01 01 024 00 Urbanización Rincón
+02 13 03 01 01 024 01 Urbanización Rincón
+02 13 03 01 01 025 00 Los Corralitos
+02 13 03 01 01 025 01 Los Corralitos
+02 13 03 01 01 026 00 El 2
+02 13 03 01 01 026 01 El 2
+02 13 03 01 01 027 00 Mirador del Jimenoa
+02 13 03 01 01 027 01 Mirador del Jimenoa
+02 13 03 01 01 028 00 La Quebrada
+02 13 03 01 01 028 01 La Quebrada
+02 13 03 01 01 029 00 Los Pomos
+02 13 03 01 01 029 01 Los Pomos
+02 13 03 01 01 029 02 Villa El Dorado
+02 13 03 01 01 030 00 El Florón
+02 13 03 01 01 030 01 El Florón
+02 13 03 01 01 031 00 Villa Balaguer o Proyecto Yerbabuena
+02 13 03 01 01 031 01 Villa Balaguer o Proyecto Yerbabuena
+02 13 03 01 01 031 02 Villa de Baiguate
+02 13 03 01 01 032 00 Urbanización Proyecto Diloné
+02 13 03 01 01 032 01 Urbanización Proyecto Diloné
+02 13 03 01 01 033 00 Rescate 94
+02 13 03 01 01 033 01 Rescate 94
+02 13 03 01 01 034 00 Medina
+02 13 03 01 01 034 01 Los Mozos
+02 13 03 01 01 034 02 Urbanización Medina I
+02 13 03 01 01 034 03 Urbanización Medina II
+02 13 03 01 01 035 00 Residencial Don Luis
+02 13 03 01 01 035 01 Residencial Don Luis
+02 13 03 01 01 035 02 El Resbalón
+02 13 03 01 02 000 00 Pinar Quemado
+02 13 03 01 02 001 00 La Travesía del Mulo
+02 13 03 01 02 002 00 La Yautía
+02 13 03 01 02 003 00 Pinar Quemado
+02 13 03 01 02 004 00 La Lomita
+02 13 03 01 02 005 00 Palo Blanco
+02 13 03 01 02 006 00 La Guázara
+02 13 03 01 02 007 00 La Pelada
+02 13 03 01 02 008 00 Arroyo Cercado
+02 13 03 01 03 000 00 Corocito
+02 13 03 01 03 001 00 Los Cafeses
+02 13 03 01 03 002 00 Cerro Redondo
+02 13 03 01 03 003 00 Angosto
+02 13 03 01 03 004 00 La Cana
+02 13 03 01 03 005 00 Cañada Prieta
+02 13 03 01 03 006 00 Mata Cadillo
+02 13 03 01 03 007 00 Corocito
+02 13 03 01 03 008 00 Los Auquelles
+02 13 03 01 04 000 00 Estancita
+02 13 03 01 04 001 00 Boma
+02 13 03 01 04 002 00 Arroyo Verraco
+02 13 03 01 04 003 00 La Peña
+02 13 03 01 04 004 00 Juana Álvarez
+02 13 03 01 04 005 00 Balcón de Estancita
+02 13 03 01 04 006 00 Los Pomos
+02 13 03 01 04 007 00 Estancita
+02 13 03 01 04 008 00 Los Hoyitos
+02 13 03 01 04 009 00 Las Táranas
+02 13 03 01 05 000 00 Pedregal
+02 13 03 01 05 001 00 El Salto de Jimenoa
+02 13 03 01 05 002 00 Ojo de Agua
+02 13 03 01 05 003 00 Los Arroyos
+02 13 03 01 05 004 00 Pedregal
+02 13 03 01 06 000 00 Jumunuco 
+02 13 03 01 06 001 00 Jumunuco
+02 13 03 01 06 002 00 Arroyo Bonito
+02 13 03 01 06 003 00 Loma Negra
+02 13 03 01 06 004 00 Arenoso
+02 13 03 01 06 005 00 Yabacao
+02 13 03 01 06 006 00 Guanajuma
+02 13 03 01 06 007 00 Montazos de Arroyo Bonito
+02 13 03 01 06 008 00 Amaceyal
+02 13 03 01 06 009 00 Los Pasos
+02 13 03 01 06 010 00 Las Ánimas
+02 13 03 01 06 011 00 Los Josaderos
+02 13 03 01 06 012 00 Las Cabirmas
+02 13 03 01 06 013 00 Rancho del Río Guanajuma
+02 13 03 01 06 014 00 Llano del Higo
+02 13 03 01 06 015 00 Llano de Jumunuco
+02 13 03 01 06 016 00 Los Montazos
+02 13 03 01 06 017 00 Compadre Pascual
+02 13 03 01 06 018 00 Arroyo Claro
+02 13 03 01 06 019 00 Las Calabazas
+02 13 03 01 07 000 00 Los Corozos
+02 13 03 01 07 001 00 El Paso de la Majagüita
+02 13 03 01 07 002 00 Potro Rabón
+02 13 03 01 07 003 00 Los Ranchitos
+02 13 03 01 07 004 00 Los Corozos
+02 13 03 01 07 005 00 La Cienaguita
+02 13 03 01 07 006 00 Pinar del Yaque (La Piña)
+02 13 03 01 07 007 00 Vera del Yaque
+02 13 03 01 08 000 00 Paso Bajito
+02 13 03 01 08 001 00 La Pista
+02 13 03 01 08 002 00 Redondo
+02 13 03 01 08 003 00 Masipedro
+02 13 03 01 08 004 00 La Manacla
+02 13 03 01 08 005 00 Los Saltaderos
+02 13 03 01 08 006 00 El Guayabo
+02 13 03 01 08 007 00 La Golondrina
+02 13 03 01 08 008 00 La Sal
+02 13 03 01 08 009 00 La Peña
+02 13 03 01 08 010 00 La Frisa
+02 13 03 01 08 011 00 Arroyo Ancho
+02 13 03 01 08 012 00 La Jagua
+02 13 03 01 08 013 00 La Pocilga
+02 13 03 01 08 014 00 Arroyo la Vaca
+02 13 03 01 08 015 00 Arroyo la Pista
+02 13 03 01 08 016 00 Paso Bajito
+02 13 03 01 08 017 00 Loma de la Sal
+02 13 03 01 08 018 00 Palma Sola
+02 13 03 02 00 000 00 Buena Vista (DM)
+02 13 03 02 01 000 00 Buena Vista (Zona urbana)
+02 13 03 02 01 001 00 Buena Vista
+02 13 03 02 01 001 01 Buena Vista
+02 13 03 02 01 001 02 Puente de Yami
+02 13 03 02 01 001 03 Buena Vista Arriba
+02 13 03 02 01 001 04 María Auxiliadora
+02 13 03 02 01 001 05 Campo de Aviación
+02 13 03 02 01 001 06 Los Jiménez
+02 13 03 02 02 000 00 Buena Vista
+02 13 03 02 02 001 00 Limonal
+02 13 03 02 02 002 00 Mata Gorda
+02 13 03 02 02 003 00 El Salto
+02 13 03 02 02 004 00 Los Capacitos
+02 13 03 02 02 005 00 El Anón
+02 13 03 02 02 006 00 Hotel Montaña (El Puerto)
+02 13 03 02 02 007 00 La Atolladera
+02 13 03 02 02 008 00 Mata de Plátano
+02 13 03 02 02 009 00 El Cacao
+02 13 03 02 03 000 00 Hato Viejo
+02 13 03 02 03 001 00 Honduras
+02 13 03 02 03 002 00 La Cigua
+02 13 03 02 03 003 00 La Tarana
+02 13 03 02 03 004 00 Hato Viejo Arriba
+02 13 03 02 03 005 00 Hato Viejo
+02 13 03 02 03 006 00 Los Azules
+02 13 03 02 04 000 00 Hatillo
+02 13 03 02 04 001 00 La Ceniza
+02 13 03 02 04 002 00 La Sabana
+02 13 03 02 04 003 00 Hatillo
+02 13 03 02 04 004 00 La Guama Abajo
+02 13 03 02 04 005 00 La Caoba
+02 13 03 02 04 006 00 Guachupita
+02 13 03 02 04 007 00 La Guama Arriba
+02 13 03 02 04 008 00 Crucero
+02 13 03 02 04 009 00 La Ceiba
+02 13 03 02 05 000 00 Piedra Blanca
+02 13 03 02 05 001 00 Los Cateyes o Los Catorce
+02 13 03 02 05 002 00 Piedra Blanca
+02 13 03 02 05 003 00 Sabaneta
+02 13 03 02 05 004 00 Manaclas
+02 13 03 02 06 000 00 Piedra Blanca del Salto
+02 13 03 02 06 001 00 Piedra Blanca
+02 13 03 02 06 002 00 Los Higos
+02 13 03 02 06 003 00 La Joya
+02 13 03 02 06 004 00 Las Auyamas
+02 13 03 02 06 005 00 Ovendo
+02 13 03 02 06 006 00 Boca de los Ríos
+02 13 03 02 06 007 00 La Guamita Presa de Yegua
+02 13 03 03 00 000 00 Manabao (DM)
+02 13 03 03 01 000 00 Manabao (Zona urbana)
+02 13 03 03 01 001 00 Manabao
+02 13 03 03 01 001 01 Manabao
+02 13 03 03 02 000 00 Los Dajaos
+02 13 03 03 02 001 00 Rancho del Río
+02 13 03 03 02 002 00 Los Calabazos
+02 13 03 03 02 003 00 La Cortina
+02 13 03 03 02 004 00 El Dulce o Arroyo Dulce
+02 13 03 03 02 005 00 El Bolo o La Pelúa
+02 13 03 03 02 006 00 Josafá
+02 13 03 03 02 007 00 El Manguito o Zumbador
+02 13 03 03 02 008 00 Tiesto de Plato o La Cotorra
+02 13 03 03 02 009 00 La Paloma
+02 13 03 03 02 010 00 Los Dajaos
+02 13 03 03 02 011 00 Cañada Amarga
+02 13 03 03 02 012 00 Paso de La Majagüita o La Margarita
+02 13 03 03 02 013 00 La Majagüita
+02 13 03 03 02 014 00 Los Marranitos
+02 13 03 03 02 015 00 Piedra Llana
+02 13 03 03 03 000 00 La Ciénaga
+02 13 03 03 03 001 00 Ciénaga
+02 13 03 03 03 002 00 Mata de Limón
+02 13 03 03 03 003 00 Paso de La Perra
+02 13 03 03 03 004 00 La Peñita
+02 13 03 03 03 005 00 Joya de Ramón
+02 13 03 03 03 006 00 El Tetero
+02 13 03 03 03 007 00 El Higo
+02 13 03 03 03 008 00 Arroyo Frío
+02 13 03 03 03 009 00 El Arraigan
+02 13 03 03 03 010 00 Los Tablones
+02 13 03 03 03 011 00 Boca de los Ríos
+02 13 03 03 03 012 00 Arroyo de los Muertos
+02 13 03 03 04 000 00 Manabao
+02 13 03 03 04 001 00 Pino del Rayo
+02 13 03 03 04 002 00 Arroyo del Rancho
+02 13 03 03 04 003 00 La Joya o La Joya del Tetero
+02 13 03 03 04 004 00 La Redonda (Tierra Colorada, El Abanico)
+02 13 03 03 04 005 00 La Angostura
+02 13 03 03 04 006 00 Pajarito
+02 13 03 03 04 007 00 Mata de Café
+02 13 04 00 00 000 00 Jima Abajo
+02 13 04 01 00 000 00 Jima Abajo
+02 13 04 01 01 000 00 Jima Abajo (Zona urbana)
+02 13 04 01 01 001 00 Centro del Pueblo
+02 13 04 01 01 001 01 Centro del Pueblo
+02 13 04 01 01 001 02 La Mitad
+02 13 04 01 01 001 03 Ensanche Las Palmas
+02 13 04 01 01 001 04 Ensanche Anacaona
+02 13 04 01 01 002 00 Villa Consuelo
+02 13 04 01 01 002 01 Villa Consuelo
+02 13 04 01 01 003 00 La Colonia
+02 13 04 01 01 003 01 La Colonia
+02 13 04 01 01 003 02 Pueblo Nuevo o El Mechón
+02 13 04 01 01 004 00 Rafael Cruceta
+02 13 04 01 01 004 01 Rafael Cruceta
+02 13 04 01 01 005 00 Villa Margarita
+02 13 04 01 01 005 01 Villa Margarita
+02 13 04 01 01 006 00 María Auxiliadora
+02 13 04 01 01 006 01 María Auxiliadora
+02 13 04 01 02 000 00 La Frontera
+02 13 04 01 02 001 00 La Frontera
+02 13 04 01 02 002 00 Los Cerros
+02 13 04 01 02 003 00 Pico Alto
+02 13 04 01 02 004 00 Los Quemaítos
+02 13 04 01 02 005 00 Los Samanes
+02 13 04 01 02 006 00 El Canal de la Miseria
+02 13 04 01 02 007 00 La Factoría
+02 13 04 01 02 008 00 La Romana
+02 13 04 01 02 009 00 Presa de Rincón
+02 13 04 01 03 000 00 Jima Arriba
+02 13 04 01 03 001 00 El Higo
+02 13 04 01 03 002 00 Jima Arriba
+02 13 04 01 03 003 00 Las Escobas
+02 13 04 01 03 004 00 La Lometa
+02 13 04 01 03 005 00 Los Corozos
+02 13 04 01 03 006 00 Río Chiquito
+02 13 04 01 03 007 00 Los Rincones
+02 13 04 01 03 008 00 La Cuarenta
+02 13 04 01 03 009 00 Los Patos
+02 13 04 01 03 010 00 La Guanábana
+02 13 04 01 04 000 00 San Bartolo
+02 13 04 01 04 001 00 La Factoría
+02 13 04 01 04 002 00 Batey Badía
+02 13 04 01 04 003 00 La Joya
+02 13 04 01 04 004 00 El Alto del Polvo
+02 13 04 01 04 005 00 La Boca de Jima
+02 13 04 01 04 006 00 San Bartolo (Bartolomé)
+02 13 04 02 00 000 00 Rincón (DM)
+02 13 04 02 01 000 00 Rincón (Zona urbana)
+02 13 04 02 01 001 00 Rincón
+02 13 04 02 01 001 01 Rincón o Duarte
+02 13 04 02 01 001 02 Soledad
+02 13 04 02 01 001 03 Junumucú
+02 13 04 02 01 001 04 Simón Bolívar
+02 13 04 02 01 001 05 El Hoyo
+02 13 04 02 01 001 06 Villa Caridad
+02 13 04 02 01 001 07 Los Haitises
+02 13 04 02 01 001 08 Padre Fantino
+02 13 04 02 01 001 09 El Caserío Santa Clara
+02 13 04 02 01 001 10 Villa Canal
+02 13 04 02 01 001 11 Ye
+02 13 04 02 01 001 12 El Cruce
+02 13 04 02 01 001 13 Punto Arturo
+02 13 04 02 02 000 00 La Ceibita
+02 13 04 02 02 001 00 La Ceibita
+02 13 04 02 03 000 00 Rincón
+02 13 04 02 03 001 00 Calabacito
+02 13 04 02 03 002 00 La Soledad
+02 13 04 02 03 003 00 Villa Canal
+02 13 04 02 04 000 00 Junumucú
+02 13 04 02 04 001 00 El Caliche
+02 13 04 02 04 002 00 La Guama de Junumucú
+02 13 04 02 04 003 00 Junumucú
+02 13 04 02 04 004 00 Puerto Arturo
+02 13 04 02 04 005 00 Controba o Borinquen
+02 13 04 02 04 006 00 Haití
+02 13 04 02 04 007 00 El Algarrobo o Acapulco
+02 13 04 02 04 008 00 El Cercado

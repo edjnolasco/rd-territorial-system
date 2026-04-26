@@ -1,0 +1,367 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+03 20 00 00 00 000 00 Samaná
+03 20 01 00 00 000 00 Samaná
+03 20 01 01 00 000 00 Samaná
+03 20 01 01 01 000 00 Santa Bárbara de Samaná (Zona urbana)
+03 20 01 01 01 001 00 Willmore
+03 20 01 01 01 001 01 Willmore
+03 20 01 01 01 001 02 El Tanque
+03 20 01 01 01 002 00 Villa Salma
+03 20 01 01 01 002 01 Villa Salma
+03 20 01 01 01 002 02 Bella Vista
+03 20 01 01 01 002 03 Loma Coplín
+03 20 01 01 01 003 00 Centro del Pueblo
+03 20 01 01 01 003 01 Centro del Pueblo
+03 20 01 01 01 003 02 Manhattan
+03 20 01 01 01 003 03 Gustavo o El Hospital
+03 20 01 01 01 004 00 Nueva York
+03 20 01 01 01 004 01 Nueva York
+03 20 01 01 01 005 00 La Fortaleza Vieja
+03 20 01 01 01 005 01 La Fortaleza Vieja
+03 20 01 01 01 006 00 Telecable
+03 20 01 01 01 006 01 Telecable
+03 20 01 01 01 007 00 La Aguada
+03 20 01 01 01 007 01 La Aguada
+03 20 01 01 01 008 00 Panchita
+03 20 01 01 01 008 01 Panchita
+03 20 01 01 01 009 00 Loma Colón
+03 20 01 01 01 009 01 Loma Colón
+03 20 01 01 01 010 00 Área Verde
+03 20 01 01 01 010 01 Área Verde
+03 20 01 01 01 011 00 María Luisa
+03 20 01 01 01 011 01 María Luisa
+03 20 01 01 01 011 02 Militar
+03 20 01 01 01 012 00 La Mezcla
+03 20 01 01 01 012 01 La Mezcla
+03 20 01 01 01 013 00 Cacaveli I
+03 20 01 01 01 013 01 Cacaveli I
+03 20 01 01 01 014 00 El Millón
+03 20 01 01 01 014 01 El Millón
+03 20 01 01 01 015 00 La Bastida
+03 20 01 01 01 015 01 La Bastida
+03 20 01 01 01 016 00 El Mercado
+03 20 01 01 01 016 01 El Mercado
+03 20 01 01 01 017 00 Cacaveli II
+03 20 01 01 01 017 01 Cacaveli II
+03 20 01 01 02 000 00 Acosta
+03 20 01 01 02 001 00 El Valle
+03 20 01 01 02 002 00 Arroyo Seco
+03 20 01 01 02 003 00 Los Plátanos
+03 20 01 01 02 004 00 La Laguna
+03 20 01 01 02 005 00 La Cruz
+03 20 01 01 02 006 00 Esperanza
+03 20 01 01 02 007 00 Río San Juan
+03 20 01 01 02 008 00 La Playa del Valle
+03 20 01 01 02 009 00 La Palmilla
+03 20 01 01 02 010 00 Acosta
+03 20 01 01 02 011 00 Anadel
+03 20 01 01 02 012 00 Monte Rojo
+03 20 01 01 02 013 00 Villa Clara
+03 20 01 01 02 014 00 La Guardia
+03 20 01 01 02 015 00 Cayo Levantado
+03 20 01 01 03 000 00 Los Cacaos
+03 20 01 01 03 001 00 Los Cacaos
+03 20 01 01 03 002 00 La Flecha
+03 20 01 01 03 003 00 Los Yagrumos
+03 20 01 01 03 004 00 Los Gratini
+03 20 01 01 03 005 00 Carenero
+03 20 01 01 03 006 00 Los Naranjos
+03 20 01 01 03 007 00 Punta Balandra
+03 20 01 01 03 008 00 El Francés
+03 20 01 01 03 009 00 Barrancolí
+03 20 01 01 03 010 00 Sabaneta
+03 20 01 01 03 011 00 Loma de La Piña
+03 20 01 01 03 012 00 Arroyo Grande
+03 20 01 01 04 000 00 Honduras
+03 20 01 01 04 001 00 Honduras
+03 20 01 01 04 002 00 Majagualito
+03 20 01 01 04 003 00 Noroeste
+03 20 01 01 04 004 00 Bueyero
+03 20 01 01 04 005 00 Doncel
+03 20 01 01 04 006 00 Curete
+03 20 01 01 04 007 00 Los Green
+03 20 01 01 04 008 00 Las Veritas
+03 20 01 01 04 009 00 Los Algarrobos
+03 20 01 01 04 010 00 Santa María
+03 20 01 01 04 011 00 Los Mangos o Coyote
+03 20 01 01 04 012 00 Las Cayas
+03 20 01 01 04 013 00 Hato Viejo
+03 20 01 01 04 014 00 Ermitaño
+03 20 01 01 04 015 00 Los Arenosos
+03 20 01 01 05 000 00 Juana Vicenta
+03 20 01 01 05 001 00 Juana Vicenta
+03 20 01 01 05 002 00 Arroyo El Toro
+03 20 01 01 05 003 00 El Cuerno
+03 20 01 01 05 004 00 Mata Puercos
+03 20 01 01 05 005 00 La Jina
+03 20 01 01 05 006 00 Río Limón
+03 20 01 01 05 007 00 Arroyo del Diablo
+03 20 01 01 05 008 00 La Lambedera
+03 20 01 01 05 009 00 Los Pirindines
+03 20 01 01 05 010 00 Arroyo Chico Arriba
+03 20 01 01 05 011 00 La Guázara
+03 20 01 01 05 012 00 Colonia Rancho Español
+03 20 01 01 05 013 00 Arroyo Chico Abajo
+03 20 01 01 05 014 00 Pozo Hondo
+03 20 01 01 05 015 00 Wady Cruz
+03 20 01 01 05 016 00 Loma La Cruz
+03 20 01 01 05 017 00 Bonilla
+03 20 01 01 05 018 00 El Jobito
+03 20 01 02 00 000 00 El Limón (DM)
+03 20 01 02 01 000 00 El Limón (Zona urbana)
+03 20 01 02 01 001 00 Centro del Pueblo o El Limón
+03 20 01 02 01 001 01 Centro del Pueblo o El Limón
+03 20 01 02 01 001 02 Martín Polanco
+03 20 01 02 01 001 03 Las Caobas
+03 20 01 02 01 002 00 Arroyo Sabana
+03 20 01 02 01 002 01 Arroyo Sabana
+03 20 01 02 01 002 02 Marian Blanco
+03 20 01 02 01 003 00 La Otra Banda
+03 20 01 02 01 003 01 La Otra Banda
+03 20 01 02 01 003 02 Mamá Tingo
+03 20 01 02 01 003 03 Las Flores o Los Tarones
+03 20 01 02 01 003 04 La Fe
+03 20 01 02 01 003 05 Los Caimicos
+03 20 01 02 01 004 00 Los Acostados
+03 20 01 02 01 004 01 Los Acostados
+03 20 01 02 02 000 00 La Barbacoa
+03 20 01 02 02 001 00 La Barbacoa
+03 20 01 02 02 002 00 Arroyo de La Sabana
+03 20 01 02 02 003 00 Otra Banda
+03 20 01 02 02 004 00 El Café
+03 20 01 02 02 005 00 Arroyo Surdio
+03 20 01 02 03 000 00 Agua Sabrosa
+03 20 01 02 03 001 00 Agua Sabrosa
+03 20 01 02 03 002 00 Calabacito
+03 20 01 02 03 003 00 Palmarito
+03 20 01 02 03 004 00 Caña Feles
+03 20 01 02 04 000 00 Morón
+03 20 01 02 04 001 00 Morón
+03 20 01 02 04 002 00 Las Canas
+03 20 01 02 04 003 00 Lanza del Norte
+03 20 01 03 00 000 00 Arroyo Barril (DM)
+03 20 01 03 01 000 00 Arroyo Barril (Zona urbana)
+03 20 01 03 01 001 00 Arroyo Barril o Centro del Pueblo
+03 20 01 03 01 001 01 Arroyo Barril o Centro del Pueblo
+03 20 01 03 01 001 02 Los Vásquez Arriba
+03 20 01 03 01 001 03 Los Vásquez Abajo
+03 20 01 03 01 001 04 La Balsa
+03 20 01 03 01 001 05 Buen Pan
+03 20 01 03 02 000 00 La Pascuala
+03 20 01 03 02 001 00 La Pascuala
+03 20 01 03 02 002 00 Rancho Español
+03 20 01 03 02 003 00 Los Corozos
+03 20 01 03 02 004 00 Los Arenosos
+03 20 01 03 02 005 00 Río Los Cocos
+03 20 01 03 02 006 00 Los Suárez
+03 20 01 03 02 007 00 El Coco
+03 20 01 03 02 008 00 El Dajao
+03 20 01 03 02 009 00 Los Javieles
+03 20 01 03 02 010 00 El Macao
+03 20 01 03 03 000 00 El Botao
+03 20 01 03 03 001 00 La Chorrera
+03 20 01 03 03 002 00 Arroyo Polo
+03 20 01 03 03 003 00 Los Róbalos
+03 20 01 03 03 004 00 La Mata Puercos
+03 20 01 03 03 005 00 Las Lambederas
+03 20 01 03 03 006 00 El Gri Gri
+03 20 01 04 00 000 00 Las Galeras (DM)
+03 20 01 04 01 000 00 Las Galeras (Zona urbana)
+03 20 01 04 01 001 00 Las Galeras
+03 20 01 04 01 001 01 Las Galeras
+03 20 01 04 01 001 02 La Playita
+03 20 01 04 02 000 00 La Guásuma
+03 20 01 04 02 001 00 Palma Clara
+03 20 01 04 02 002 00 Arroyo del Cabo
+03 20 01 04 02 003 00 Palmarito
+03 20 01 04 02 004 00 La Guásuma
+03 20 01 04 02 005 00 Caya Clara
+03 20 01 04 02 006 00 Madama
+03 20 01 04 02 007 00 Los Amaceyes
+03 20 01 04 02 008 00 Cueva del Agua
+03 20 01 04 02 009 00 Cuatro Ojos
+03 20 01 04 02 010 00 Manuel Quiquito
+03 20 01 04 02 011 00 Laguna Salada
+03 20 01 04 02 012 00 Quintana
+03 20 01 04 02 013 00 Los Lejos
+03 20 01 04 02 014 00 La Playa
+03 20 01 04 02 015 00 El Frontón
+03 20 01 04 02 016 00 Llanada al Medio
+03 20 01 04 03 000 00 Los Tocones
+03 20 01 04 03 001 00 Los Tocones
+03 20 01 04 03 002 00 La Colmena
+03 20 01 04 03 003 00 La Llanada
+03 20 01 04 03 004 00 Castellalito
+03 20 01 04 03 005 00 La Sangría
+03 20 01 04 03 006 00 Laguna del Diablo
+03 20 01 04 03 007 00 Playa Colorada
+03 20 01 04 03 008 00 Ceiba Tablonua
+03 20 01 04 03 009 00 Los Bañaderos
+03 20 01 04 04 000 00 Rincón
+03 20 01 04 04 001 00 Rincón
+03 20 01 04 04 002 00 El Pozo de René
+03 20 01 04 04 003 00 Loma Atravesada
+03 20 01 04 04 004 00 Los Guanos o Loma El Guano
+03 20 01 04 04 005 00 La Herradura
+03 20 01 04 04 006 00 Loma El Guano
+03 20 02 00 00 000 00 Sánchez
+03 20 02 01 00 000 00 Sánchez
+03 20 02 01 01 000 00 Sánchez (Zona urbana)
+03 20 02 01 01 001 00 Los Rieles
+03 20 02 01 01 001 01 Los Rieles
+03 20 02 01 01 001 02 Pueblo Nuevo
+03 20 02 01 01 002 00 Centro del Pueblo
+03 20 02 01 01 002 01 Centro del Pueblo
+03 20 02 01 01 003 00 Pueblo Arriba
+03 20 02 01 01 003 01 Pueblo Arriba
+03 20 02 01 01 003 02 Los Tocones
+03 20 02 01 01 003 03 Proyecto Habitacional Sánchez
+03 20 02 01 01 003 04 El Hoyo
+03 20 02 01 01 003 05 Residencial Doña Mimi
+03 20 02 01 01 003 06 Altamira
+03 20 02 01 01 004 00 Punto Botado
+03 20 02 01 01 004 01 Punto Botado
+03 20 02 01 01 004 02 La Torre
+03 20 02 01 01 005 00 Pueblo Abajo
+03 20 02 01 01 005 01 Pueblo Abajo
+03 20 02 01 01 005 02 Mango Fresco
+03 20 02 01 01 005 03 Villa Iris
+03 20 02 01 01 005 04 Chino
+03 20 02 01 01 006 00 Residencial Cerro Yaljú
+03 20 02 01 01 006 01 Residencial Cerro Yaljú
+03 20 02 01 01 007 00 Loma de los Camacho
+03 20 02 01 01 007 01 Loma de los Camacho
+03 20 02 01 01 008 00 Cruce de las Terrenas
+03 20 02 01 01 008 01 Cruce de las Terrenas
+03 20 02 01 01 009 00 Monte Negro
+03 20 02 01 01 009 01 Monte Negro I
+03 20 02 01 01 009 02 Monte Negro II
+03 20 02 01 01 010 00 El Play
+03 20 02 01 01 010 01 El Play
+03 20 02 01 01 010 02 La Navaja
+03 20 02 01 01 011 00 La Plazoleta
+03 20 02 01 01 011 01 La Plazoleta
+03 20 02 01 02 000 00 La Majagua
+03 20 02 01 02 001 00 El Burro
+03 20 02 01 02 002 00 Piedra Quemada
+03 20 02 01 02 003 00 Los Chicharrones
+03 20 02 01 02 004 00 Los Ríos
+03 20 02 01 02 005 00 San Felipe
+03 20 02 01 02 006 00 Los Mangos
+03 20 02 01 02 007 00 Los Naranjos Abajo
+03 20 02 01 02 008 00 Los Naranjos Arriba
+03 20 02 01 02 009 00 La Canoa
+03 20 02 01 02 010 00 Proyecto Los Haitises o Catey Adentro
+03 20 02 01 02 011 00 La Majagua (Guachupita)
+03 20 02 01 02 012 00 La Cañita (El Escarbado)
+03 20 02 01 02 013 00 Jackson
+03 20 02 01 03 000 00 Las Garitas
+03 20 02 01 03 001 00 Las Garitas
+03 20 02 01 03 002 00 Las Mangas
+03 20 02 01 03 003 00 Cabeza de Toro
+03 20 02 01 03 004 00 Santa Capuza
+03 20 02 01 03 005 00 Arroyo Higüero
+03 20 02 01 03 006 00 Punta Gorda
+03 20 02 01 04 000 00 Agua Santa del Yuna
+03 20 02 01 04 001 00 Agua Santa del Yuna
+03 20 02 01 04 002 00 Jurungo
+03 20 02 01 04 003 00 Palmar Nuevo
+03 20 02 01 04 004 00 Rincón de la Jagua
+03 20 02 01 04 005 00 Caña Brava
+03 20 02 01 04 006 00 Boca del Caño
+03 20 02 01 04 007 00 La Balsa
+03 20 02 01 04 008 00 La Mata
+03 20 02 01 04 009 00 Cristal
+03 20 02 01 04 010 00 Los Guayuyos
+03 20 02 01 04 011 00 La Yaguaza
+03 20 02 01 04 012 00 El Higuito
+03 20 02 01 04 013 00 Playa Prieta
+03 20 02 01 04 014 00 Río Naranjo Arriba
+03 20 02 01 04 015 00 Puerto Escondido
+03 20 02 01 04 016 00 Río Naranjo Abajo
+03 20 02 01 04 017 00 Caba
+03 20 02 01 05 000 00 Majagual
+03 20 02 01 05 001 00 Majagual
+03 20 02 01 05 002 00 Los Corrales
+03 20 02 01 05 003 00 Batey Las Hormigas
+03 20 02 01 05 004 00 Arroyo Hondo
+03 20 02 01 05 005 00 Lodo Blandito
+03 20 02 01 05 006 00 El Coco
+03 20 02 01 05 007 00 Los Bejucos
+03 20 02 01 05 008 00 Los Rincones
+03 20 02 01 05 009 00 La Manga Arriba
+03 20 02 01 05 010 00 Monte Negro
+03 20 02 01 05 011 00 El Gran Llano
+03 20 02 01 05 012 00 Los Capos o Majagual Adentro
+03 20 02 01 05 013 00 La Ceiba
+03 20 02 01 05 014 00 El Aguacate
+03 20 02 01 05 015 00 La Placeta
+03 20 02 01 06 000 00 El Catey
+03 20 02 01 06 001 00 La Lometa
+03 20 02 01 06 002 00 Pedregal
+03 20 02 01 06 003 00 Catey Arriba
+03 20 02 01 06 004 00 Catey Adentro
+03 20 02 01 06 005 00 Catey Abajo
+03 20 03 00 00 000 00 las terrenas
+03 20 03 01 00 000 00 Las Terrenas
+03 20 03 01 01 000 00 Las Terrenas (Zona urbana)
+03 20 03 01 01 001 00 Centro del Pueblo
+03 20 03 01 01 001 01 Centro del Pueblo
+03 20 03 01 01 001 02 El Millón
+03 20 03 01 01 002 00 La Playa
+03 20 03 01 01 002 01 La Playa
+03 20 03 01 01 002 02 Punta Bonita
+03 20 03 01 01 002 03 La Ballena
+03 20 03 01 01 002 04 Cacao Beach
+03 20 03 01 01 002 05 Los Pescadores
+03 20 03 01 01 002 06 La Cayena
+03 20 03 01 01 003 00 El Almendro
+03 20 03 01 01 003 01 El Almendro
+03 20 03 01 01 003 02 El Play
+03 20 03 01 01 004 00 Cacao
+03 20 03 01 01 004 01 Cacao
+03 20 03 01 01 004 02 La Mediterránea
+03 20 03 01 01 005 00 Obdulia o El Pueblecito
+03 20 03 01 01 005 01 Obdulia o El Pueblecito
+03 20 03 01 01 006 00 Caño Seco
+03 20 03 01 01 006 01 Caño Seco
+03 20 03 01 01 006 02 Monte Adentro
+03 20 03 01 01 006 03 Mariola
+03 20 03 01 01 007 00 La Ceiba
+03 20 03 01 01 007 01 Residencial Perla Bonita
+03 20 03 01 01 007 02 La Ceiba
+03 20 03 01 01 007 03 La Planta
+03 20 03 01 01 008 00 Abra Grande
+03 20 03 01 01 008 01 Abra Grande
+03 20 03 01 01 008 02 Residencial El Manantial
+03 20 03 01 01 008 03 Codetel
+03 20 03 01 01 009 00 Come Pan
+03 20 03 01 01 009 01 Come Pan
+03 20 03 01 01 010 00 El Hospital
+03 20 03 01 01 010 01 El Hospital
+03 20 03 01 02 000 00 El Jamito
+03 20 03 01 02 001 00 Hoyo del Cacao
+03 20 03 01 02 002 00 El Jamito
+03 20 03 01 02 003 00 Los Puentes
+03 20 03 01 02 004 00 Laguna Grande
+03 20 03 01 03 000 00 El Cosón
+03 20 03 01 03 001 00 La Ceiba
+03 20 03 01 03 002 00 Palmar de los Nidos
+03 20 03 01 03 003 00 El Cosón
+03 20 03 01 03 004 00 Loma de las Ciguas
+03 20 03 01 03 005 00 La Bonita
+03 20 03 01 03 006 00 El Muro
+03 20 03 01 03 007 00 El Buen Pan
+03 20 03 01 04 000 00 La Barbacoa
+03 20 03 01 04 001 00 La Barbacoa
+03 20 03 01 04 002 00 El Portillo
+03 20 03 01 04 003 00 Carolina
+03 20 03 01 05 000 00 El Naranjito
+03 20 03 01 05 001 00 El Naranjito
+03 20 03 01 05 002 00 La Jagua
+03 20 03 01 05 003 00 Monte Negro
+03 20 03 01 05 004 00 Las Guázaras
+03 20 03 01 05 005 00 Ceiba Bonita
+03 20 03 01 05 006 00 San Felipe

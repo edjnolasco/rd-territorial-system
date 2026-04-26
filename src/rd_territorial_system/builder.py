@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+from pathlib import Path
+from typing import Any
 
 import pandas as pd
 
@@ -24,6 +26,23 @@ from .ingestion import (
 from .normalization import canonical_municipality, canonical_province, match_score
 from .reconciliation import load_municipality_overrides
 from .reporting import build_coverage_report
+
+
+def _ensure_parent_dir(path: Path) -> None:
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+
+
+def _write_json(path: Path, payload: dict[str, Any]) -> None:
+    _ensure_parent_dir(path)
+    path.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
+def _write_csv(df: pd.DataFrame, path: Path) -> None:
+    _ensure_parent_dir(path)
+    df.to_csv(path, index=False)
 
 
 def _feature_name(feature: dict, *keys: str) -> str:
@@ -88,8 +107,6 @@ def build_from_one_gadm(
     sheet_name: str | None = None,
     low_confidence_threshold: int = 85,
 ) -> dict[str, int]:
-    # Descubrir explícitamente el archivo fuente usando ONE_RAW_DIR actual.
-    # Esto evita depender de defaults internos difíciles de monkeypatchear en tests.
     source_path = discover_one_main_table()
     one_df, ingestion_report = load_one_hierarchy_auto(
         path=source_path,
@@ -217,29 +234,21 @@ def build_from_one_gadm(
             }
         )
 
-    PROVINCES_OUTPUT.write_text(
-        json.dumps(
-            {"type": "FeatureCollection", "features": provinces_out},
-            ensure_ascii=False,
-            indent=2,
-        ),
-        encoding="utf-8",
+    _write_json(
+        PROVINCES_OUTPUT,
+        {"type": "FeatureCollection", "features": provinces_out},
     )
-    MUNICIPALITIES_OUTPUT.write_text(
-        json.dumps(
-            {"type": "FeatureCollection", "features": municipalities_out},
-            ensure_ascii=False,
-            indent=2,
-        ),
-        encoding="utf-8",
+    _write_json(
+        MUNICIPALITIES_OUTPUT,
+        {"type": "FeatureCollection", "features": municipalities_out},
     )
 
     master_df = pd.DataFrame(master_rows)
     match_df = pd.DataFrame(report_rows)
 
-    master_df.to_csv(MASTER_OUTPUT, index=False)
-    match_df.to_csv(MATCH_REPORT_OUTPUT, index=False)
-    build_coverage_report(master_df).to_csv(COVERAGE_REPORT_OUTPUT, index=False)
+    _write_csv(master_df, MASTER_OUTPUT)
+    _write_csv(match_df, MATCH_REPORT_OUTPUT)
+    _write_csv(build_coverage_report(master_df), COVERAGE_REPORT_OUTPUT)
 
     unmatched = master_df[~master_df["matched_municipality"]].copy()
 
@@ -249,8 +258,8 @@ def build_from_one_gadm(
         & (master_df["match_type"] != "override")
     ]
 
-    unmatched.to_csv(UNMATCHED_MUNICIPALITIES_OUTPUT, index=False)
-    low_confidence.to_csv(LOW_CONFIDENCE_OUTPUT, index=False)
+    _write_csv(unmatched, UNMATCHED_MUNICIPALITIES_OUTPUT)
+    _write_csv(low_confidence, LOW_CONFIDENCE_OUTPUT)
 
     ingestion_report["rows_input"] = int(len(one_df))
     ingestion_report["rows_used_unique_pairs"] = int(len(one_pairs))
@@ -258,16 +267,12 @@ def build_from_one_gadm(
         master_df["matched_municipality"].fillna(False).sum()
     )
     ingestion_report["rows_unmatched_municipality"] = int(
-        ((~master_df["matched_municipality"]).sum())
-        
+        (~master_df["matched_municipality"]).sum()
     )
     ingestion_report["rows_low_confidence"] = int(len(low_confidence))
     ingestion_report["override_count"] = int((master_df["match_type"] == "override").sum())
 
-    INGESTION_REPORT_OUTPUT.write_text(
-        json.dumps(ingestion_report, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    _write_json(INGESTION_REPORT_OUTPUT, ingestion_report)
 
     return {
         "provinces_output": len(provinces_out),

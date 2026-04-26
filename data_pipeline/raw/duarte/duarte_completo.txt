@@ -1,0 +1,1042 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+03 06 00 00 00 000 00 Duarte
+03 06 01 00 00 000 00 San Francisco de Macorís
+03 06 01 01 00 000 00 San Francisco de Macorís
+03 06 01 01 01 000 00 San Francisco de Macorís (Zona urbana)
+03 06 01 01 01 001 00 Vista del Valle
+03 06 01 01 01 001 01 Getsemaní
+03 06 01 01 01 001 02 Gregorio Luperón I
+03 06 01 01 01 001 03 Gregorio Luperón II Etapa
+03 06 01 01 01 001 04 Vista Linda
+03 06 01 01 01 001 05 Sabana Perdida
+03 06 01 01 01 001 06 Monseñor Moya
+03 06 01 01 01 001 07 Alto Manhattan
+03 06 01 01 01 001 08 Urbanización La Pradera
+03 06 01 01 01 001 09 Salvador Then y Then
+03 06 01 01 01 001 10 Urbanización Caonabo I
+03 06 01 01 01 001 11 Vista del Valle
+03 06 01 01 01 001 12 Vista Nueva
+03 06 01 01 01 001 13 San Miguel
+03 06 01 01 01 002 00 El ciruelillo
+03 06 01 01 01 002 01 El Ciruelillo
+03 06 01 01 01 002 02 Los Ciruelos
+03 06 01 01 01 003 00 ribera del Jaya
+03 06 01 01 01 003 01 Ribera del Jaya
+03 06 01 01 01 003 02 Pico de la Cotorra
+03 06 01 01 01 004 00 los Jardines
+03 06 01 01 01 004 01 Los Jardines
+03 06 01 01 01 005 00 Pisa Costura
+03 06 01 01 01 005 01 Buenos Aires
+03 06 01 01 01 005 02 Pisa Costura
+03 06 01 01 01 005 03 La Manicera
+03 06 01 01 01 006 00 Guzmán
+03 06 01 01 01 006 01 Guzmán
+03 06 01 01 01 007 00 Santa ana
+03 06 01 01 01 007 01 Santa Ana
+03 06 01 01 01 008 00 Gallinero
+03 06 01 01 01 008 01 Gallinero
+03 06 01 01 01 009 00 Las Flores
+03 06 01 01 01 009 01 Las Flores
+03 06 01 01 01 010 00 La Piña I
+03 06 01 01 01 010 01 La Piña I
+03 06 01 01 01 010 02 La Piña II
+03 06 01 01 01 011 00 El Capacito
+03 06 01 01 01 011 01 El Capacito
+03 06 01 01 01 011 02 Urbanización Santa Ana
+03 06 01 01 01 011 03 Ensanche Capotillo
+03 06 01 01 01 012 00 Ensanche Águila
+03 06 01 01 01 012 01 Ensanche águila
+03 06 01 01 01 012 02 Proyecto Urbanización el Ciruelito
+03 06 01 01 01 013 00 urbanización Camilo
+03 06 01 01 01 013 01 Urbanización Camilo
+03 06 01 01 01 013 02 Ensanche Libertad
+03 06 01 01 01 013 03 Residencial Monte Bello
+03 06 01 01 01 014 00 El Hormiguero
+03 06 01 01 01 014 01 El Hormiguero
+03 06 01 01 01 015 00 urbanización Toribio Piantini
+03 06 01 01 01 015 01 Urbanización Toribio Piantini
+03 06 01 01 01 016 00 Ensanche San Martín de Porres
+03 06 01 01 01 016 01 Ensanche San Martín de Porres
+03 06 01 01 01 016 02 Urbanización La Castellana
+03 06 01 01 01 016 03 Urbanización San Francisco I
+03 06 01 01 01 016 04 Urbanización San Francisco II
+03 06 01 01 01 016 05 Urbanización Lora
+03 06 01 01 01 016 06 Urbanización Los Maestros I
+03 06 01 01 01 016 07 Urbanización Los Maestros II
+03 06 01 01 01 016 08 Urbanización Los Maestros III
+03 06 01 01 01 017 00 27 de Febrero
+03 06 01 01 01 017 01 27 de Febrero
+03 06 01 01 01 018 00 Villa Olímpica
+03 06 01 01 01 018 01 Villa Olímpica I
+03 06 01 01 01 018 02 Villa Olímpica II
+03 06 01 01 01 019 00 Duarte
+03 06 01 01 01 019 01 Duarte
+03 06 01 01 01 019 02 Pangola
+03 06 01 01 01 020 00 San Pedro
+03 06 01 01 01 020 01 San Pedro
+03 06 01 01 01 020 02 Vista de San Francisco
+03 06 01 01 01 020 03 Nuevo Renacer
+03 06 01 01 01 021 00 Hermanas Mirabal
+03 06 01 01 01 021 01 Hermanas Mirabal
+03 06 01 01 01 022 00 Ercilia Pepín
+03 06 01 01 01 022 01 Ercilia Pepín
+03 06 01 01 01 023 00 urbanización Jennifer
+03 06 01 01 01 023 01 Urbanización Jennifer
+03 06 01 01 01 024 00 Pueblo Nuevo
+03 06 01 01 01 024 01 Pueblo Nuevo
+03 06 01 01 01 024 02 Holguín Marte
+03 06 01 01 01 024 03 La Guázuma
+03 06 01 01 01 024 04 Los Platanitos
+03 06 01 01 01 024 05 Calleon Castillo
+03 06 01 01 01 025 00 La Espínola I
+03 06 01 01 01 025 01 La Espínola I
+03 06 01 01 01 026 00 La Espínola II
+03 06 01 01 01 026 01 La Espínola II
+03 06 01 01 01 027 00 La Espínola III
+03 06 01 01 01 027 01 La Espínola III
+03 06 01 01 01 027 02 La Islita
+03 06 01 01 01 028 00 La Madeja
+03 06 01 01 01 028 01 La Madeja
+03 06 01 01 01 028 02 Lindo
+03 06 01 01 01 028 03 Jesús de Nazaret
+03 06 01 01 01 029 00 Bijao Afuera
+03 06 01 01 01 029 01 Bijao Afuera
+03 06 01 01 01 029 02 Urbanización Primaveral
+03 06 01 01 01 029 03 Urbanización Las Colinas II
+03 06 01 01 01 030 00 urbanización Andújar 
+03 06 01 01 01 030 01 Urbanización Andújar
+03 06 01 01 01 030 02 Urbanización Bonilla
+03 06 01 01 01 031 00 urbanización El Dorado
+03 06 01 01 01 031 01 Urbanización El Dorado
+03 06 01 01 01 031 02 Urbanización Espinal
+03 06 01 01 01 032 00 las colinas
+03 06 01 01 01 032 01 Las Colinas
+03 06 01 01 01 032 02 Los Jíbaros
+03 06 01 01 01 032 03 La Taína
+03 06 01 01 01 033 00 Ensanche Getsemaní
+03 06 01 01 01 033 01 Ensanche Getsemaní
+03 06 01 01 01 034 00 urbanización Villa Palma
+03 06 01 01 01 034 01 Urbanización Villa Palma
+03 06 01 01 01 035 00 Ensanche Weber
+03 06 01 01 01 035 01 Ensanche Weber
+03 06 01 01 01 036 00 urbanización Abreu
+03 06 01 01 01 036 01 Urbanización Abreu
+03 06 01 01 01 037 00 Santa Lucía
+03 06 01 01 01 037 01 Santa Lucía
+03 06 01 01 01 037 02 Villa Real
+03 06 01 01 01 038 00 Grullón Primera Etapa
+03 06 01 01 01 038 01 Grullón Primera Etapa
+03 06 01 01 01 038 02 Grullón Segunda Etapa
+03 06 01 01 01 038 01 Urbanización Caamaño
+03 06 01 01 01 039 00 Ensanche Madrigal
+03 06 01 01 01 039 01 Ensanche Madrigal
+03 06 01 01 01 040 00 Ensanche Abreu
+03 06 01 01 01 040 01 Ensanche Abreu
+03 06 01 01 01 041 00 Ugamba
+03 06 01 01 01 041 01 Ugamba
+03 06 01 01 01 042 00 cristo rey
+03 06 01 01 01 042 01 Cristo Rey
+03 06 01 01 01 043 00 La Altagracia
+03 06 01 01 01 043 01 La Altagracia
+03 06 01 01 01 043 02 Villa Hortensia
+03 06 01 01 01 044 00 Figueroa
+03 06 01 01 01 044 01 Figueroa
+03 06 01 01 01 045 00 Los Chiripos
+03 06 01 01 01 045 01 Los Chiripos
+03 06 01 01 01 045 02 Villa Verde
+03 06 01 01 01 045 03 Paraiso
+03 06 01 01 01 046 00 urbanización El Silencio
+03 06 01 01 01 046 01 Urbanización El Silencio
+03 06 01 01 01 046 02 Urbanización El Silencio II Etapa
+03 06 01 01 01 046 03 Residencial Las Palmeras
+03 06 01 01 01 047 00 urbanización La Fortuna
+03 06 01 01 01 047 01 Urbanización La Fortuna
+03 06 01 01 01 048 00 urbanización La Caperuza
+03 06 01 01 01 048 01 Urbanización La Caperuza
+03 06 01 01 01 048 02 Urbanización La Caperuza II
+03 06 01 01 01 048 03 Urbanización La Caperuza III
+03 06 01 01 01 048 04 Urbanización Reparto Cabrera
+03 06 01 01 01 049 00 urbanización Campo Fernández I y II
+03 06 01 01 01 049 01 Urbanización Campo Fernández I y II
+03 06 01 01 01 050 00 urbanización Brugal
+03 06 01 01 01 050 01 Urbanización Brugal
+03 06 01 01 01 051 00 urbanización Cordero Tejada
+03 06 01 01 01 051 01 Urbanización Cordero Tejada
+03 06 01 01 01 052 00 urbanización Almánzar
+03 06 01 01 01 052 01 Urbanización Almánzar
+03 06 01 01 01 052 02 Caonabo II
+03 06 01 01 01 053 00 urbanización Álvarez
+03 06 01 01 01 053 01 Urbanización Álvarez
+03 06 01 01 01 053 02 Azul
+03 06 01 01 01 053 03 Residencial Barbi
+03 06 01 01 01 054 00 urbanización Ribera del Jaya
+03 06 01 01 01 054 01 Urbanización Ribera del Jaya
+03 06 01 01 01 055 00 24 de abril
+03 06 01 01 01 055 01 24 de Abril
+03 06 01 01 01 055 02 25 de Abril Chiquito
+03 06 01 01 01 056 00 urbanización Nuevo San Francisco
+03 06 01 01 01 056 01 Urbanización Nuevo San Francisco
+03 06 01 01 01 056 02 Urbanización Colinas I
+03 06 01 01 01 056 03 Ensanche Profesor Juan Bosch
+03 06 01 01 01 056 04 Mamá Tingo Segunda Etapa
+03 06 01 01 01 056 05 Mamá Tingo Primera Etapa
+03 06 01 01 01 057 00 Vista Bella
+03 06 01 01 01 057 01 Vista Bella
+03 06 01 01 01 058 00 urbanización Toribio Camilo
+03 06 01 01 01 058 01 Urbanización Toribio Camilo
+03 06 01 01 01 059 00 Residencial Ensueño
+03 06 01 01 01 059 01 Residencial Ensueño
+03 06 01 01 01 060 00 urbanización Neftalí
+03 06 01 01 01 060 01 Urbanización Neftalí
+03 06 01 01 01 061 00 urbanización María Fernández
+03 06 01 01 01 061 01 Urbanización María Fernández
+03 06 01 01 01 062 00 centro de la ciudad
+03 06 01 01 01 062 01 Centro de la Ciudad
+03 06 01 01 01 062 02 La Ceniza
+03 06 01 01 01 062 03 Las Flores
+03 06 01 01 01 063 00 urbanización Fernández
+03 06 01 01 01 063 01 Urbanización Fernández
+03 06 01 01 01 064 00 urbanización Terranova
+03 06 01 01 01 064 01 Urbanización Terranova
+03 06 01 01 01 065 00 urbanización El Tejar
+03 06 01 01 01 065 01 Urbanización El Tejar
+03 06 01 01 01 066 00 urbanización Paseo del Río
+03 06 01 01 01 066 01 Urbanización Paseo del Río
+03 06 01 01 01 067 00 urbanización Mirador del Sur
+03 06 01 01 01 067 01 Urbanización Mirador del Sur
+03 06 01 01 01 068 00 urbanización Neftalí III
+03 06 01 01 01 068 01 Urbanización Neftalí III
+03 06 01 01 01 069 00 urbanización Las Palmas
+03 06 01 01 01 069 01 Urbanización Las Palmas I
+03 06 01 01 01 069 02 Urbanización Doral Park
+03 06 01 01 01 069 03 Urbanización Las Palmas o Villa Palma
+03 06 01 01 01 069 04 Urbanización Golden Village
+03 06 01 01 01 070 00 Las Cejas
+03 06 01 01 01 070 01 Las Cejas
+03 06 01 01 01 070 02 Villa Doral
+03 06 01 01 01 070 03 Residencial Gilgar
+03 06 01 01 01 071 00 los rieles
+03 06 01 01 01 071 01 Los Rieles
+03 06 01 01 01 071 02 Los Rieles Abajo
+03 06 01 01 01 072 00 Cruce de Mirabel
+03 06 01 01 01 072 01 Cruce de Mirabel
+03 06 01 01 01 073 00 La Sirena o La Penda
+03 06 01 01 01 073 01 La Sirena o La Penda
+03 06 01 01 01 074 00 tubagua
+03 06 01 01 01 074 01 Tubagua
+03 06 01 01 01 074 02 Santa Lucía
+03 06 01 01 01 075 00 Mata larga
+03 06 01 01 01 075 01 Mata Larga
+03 06 01 01 01 075 02 Primaveral
+03 06 01 01 01 076 00 Jobo Bonito
+03 06 01 01 01 076 01 Jobo Bonito
+03 06 01 01 01 077 00 Félix Taveras
+03 06 01 01 01 077 01 Félix Taveras
+03 06 01 01 01 078 00 San Vicente de Paul
+03 06 01 01 01 078 01 San Vicente de Paul
+03 06 01 01 01 078 02 Villa Duarte
+03 06 01 01 01 079 00 urbanización Carmen Añil Bonó
+03 06 01 01 01 079 01 Urbanización Carmen Añil Bonó
+03 06 01 01 01 080 00 urbanización Brisas de la Pradera II
+03 06 01 01 01 080 01 Urbanización Brisas de la Pradera II
+03 06 01 01 01 081 00 la caoba
+03 06 01 01 01 081 01 La Caoba
+03 06 01 01 01 082 00 urbanización Mario Fernández
+03 06 01 01 01 082 01 Urbanización Mario Fernández
+03 06 01 01 01 082 02 Ciudad Médica
+03 06 01 01 01 082 03 Residencial Heidilyn
+03 06 01 01 02 000 00 Colón
+03 06 01 01 02 001 00 Noná
+03 06 01 01 02 002 00 La Sequía
+03 06 01 01 02 003 00 Bijao
+03 06 01 01 02 004 00 Mojín
+03 06 01 01 02 005 00 Rancho Arriba
+03 06 01 01 02 006 00 Hatillo
+03 06 01 01 03 000 00 Güiza
+03 06 01 01 03 001 00 La Penda
+03 06 01 01 03 002 00 Factor
+03 06 01 01 03 003 00 El Limón
+03 06 01 01 03 004 00 Santa Lucía
+03 06 01 01 03 005 00 Güiza
+03 06 01 01 03 006 00 Estanzuela Abajo
+03 06 01 01 03 007 00 La Piedra
+03 06 01 01 03 008 00 Estanzuela Arriba
+03 06 01 01 03 009 00 Los Cerros
+03 06 01 01 03 010 00 Llave
+03 06 01 01 03 011 00 Loma El Medio
+03 06 01 01 04 000 00 la Joya
+03 06 01 01 04 001 00 El Espino
+03 06 01 01 04 002 00 Bijao
+03 06 01 01 04 003 00 La Lima
+03 06 01 01 04 004 00 Los Cadillos
+03 06 01 01 04 005 00 Arbolines
+03 06 01 01 04 006 00 La Joya Arriba
+03 06 01 01 04 007 00 Las Pajas
+03 06 01 01 04 008 00 Río Frío
+03 06 01 01 04 009 00 La Joya
+03 06 01 01 04 010 00 La Guazumita
+03 06 01 01 04 011 00 Los Liones
+03 06 01 01 04 012 00 El Cigual
+03 06 01 01 04 013 00 Loma de la Joya (Loma de los Paulino)
+03 06 01 01 04 014 00 El Mate (Loma El Mate)
+03 06 01 01 05 000 00 Los Bejucos
+03 06 01 01 05 001 00 Los Bejucos
+03 06 01 01 05 002 00 El Jigüero (Higüero)
+03 06 01 01 05 003 00 El Cercado (La Lila)
+03 06 01 01 05 004 00 Casa de Alto
+03 06 01 01 05 005 00 La Yagüiza Central
+03 06 01 01 05 006 00 La Yagüiza Abajo (La Piragua)
+03 06 01 01 05 007 00 La Lomita de la Yagüiza
+03 06 01 01 05 008 00 La Yagüiza Afuera
+03 06 01 01 05 009 00 Río Arriba (Rancho Arriba)
+03 06 01 01 05 010 00 La Sabana
+03 06 01 01 05 011 00 Loma del Muerto
+03 06 01 01 05 012 00 El Aguacate
+03 06 01 01 05 013 00 Palma Herrada
+03 06 01 01 05 014 00 Los Farallones
+03 06 01 01 05 015 00 Loma de Agua
+03 06 01 01 05 016 00 Tumba Burros (Loma Turrón)
+03 06 01 01 05 017 00 Eslabones
+03 06 01 01 05 018 00 Santa Fe
+03 06 01 01 05 019 00 La Lomita de los Salazár
+03 06 01 01 05 020 00 El Concreto (Los Hidalgos)
+03 06 01 01 05 021 00 Los Cacaos
+03 06 01 01 05 022 00 La Zolapa (Solapa)
+03 06 01 01 05 023 00 Los Algodones
+03 06 01 01 05 024 00 Los Ancones
+03 06 01 01 06 000 00 las Guázumas
+03 06 01 01 06 001 00 Las Guázumas
+03 06 01 01 06 002 00 El Aguacate Afuera
+03 06 01 01 06 003 00 El Aguacate Adentro
+03 06 01 01 06 004 00 El Corozo
+03 06 01 01 06 005 00 La Madeja
+03 06 01 01 06 006 00 Los Arroyos
+03 06 01 01 06 007 00 Loma de los Bonilla
+03 06 01 01 07 000 00 la Malena
+03 06 01 01 07 001 00 La Malena o Cruce de La Malena
+03 06 01 01 07 002 00 Cruce de Los Basilio
+03 06 01 01 07 003 00 Ceibita
+03 06 01 01 07 004 00 Zumbadora
+03 06 01 01 07 005 00 La Bestia de La Malena
+03 06 01 01 07 006 00 La Cigua
+03 06 01 01 07 007 00 La Trocha
+03 06 01 01 07 008 00 La Auyama
+03 06 01 01 07 009 00 Cuesta Abajo
+03 06 01 01 07 010 00 Arroyo Bonito
+03 06 01 01 07 011 00 Catey
+03 06 01 01 07 012 00 Atabalero Abajo
+03 06 01 01 07 013 00 Altos de los Naranjos
+03 06 01 01 07 014 00 Mil Tareas de Atabalero
+03 06 01 01 07 015 00 La Bestia de Atabalero
+03 06 01 01 07 016 00 Cañete
+03 06 01 01 07 017 00 Arroyo El Toro
+03 06 01 01 07 018 00 Cruce de los Betances
+03 06 01 01 07 019 00 Lucas
+03 06 01 01 07 020 00 Aguacate
+03 06 01 01 07 021 00 Gajo Malo
+03 06 01 01 07 022 00 Gajo la Yuca
+03 06 01 01 07 023 00 Buena Vista
+03 06 01 01 07 024 00 Jurungo
+03 06 01 01 07 025 00 El Guineal
+03 06 01 01 07 026 00 Los Cinco
+03 06 01 01 07 027 00 La Vereda
+03 06 01 01 07 028 00 Venus
+03 06 01 01 07 029 00 Las Sabinas
+03 06 01 01 07 030 00 Los Palitos
+03 06 01 01 07 031 00 La Culata
+03 06 01 01 07 032 00 Santa Fe
+03 06 01 01 07 033 00 Guabina
+03 06 01 01 07 034 00 Blanco
+03 06 01 01 07 035 00 La Manacla
+03 06 01 01 07 036 00 Alto de López
+03 06 01 02 00 000 00 La Peña (DM)
+03 06 01 02 01 000 00 La Peña (Zona urbana)
+03 06 01 02 01 001 00 La Peña
+03 06 01 02 01 001 01 La Peña
+03 06 01 02 01 002 00 Proyecto Los Núñez
+03 06 01 02 01 002 01 Proyecto Los Núñez
+03 06 01 02 01 003 00 canta la rana
+03 06 01 02 01 003 01 Canta la Rana
+03 06 01 02 01 004 00 La Peña Abajo
+03 06 01 02 01 004 01 La Peña Abajo
+03 06 01 02 02 000 00 La Bajada
+03 06 01 02 02 001 00 La Bajada
+03 06 01 02 02 002 00 La Guazarita
+03 06 01 02 02 003 00 El Caracol
+03 06 01 02 02 004 00 Río Arriba
+03 06 01 02 02 005 00 Guayuyo Afuera
+03 06 01 02 02 006 00 Brazo Grande
+03 06 01 02 02 007 00 El Burro
+03 06 01 02 02 008 00 Palo Verde
+03 06 01 02 02 009 00 Los Pontones Abajo
+03 06 01 02 02 010 00 Boba
+03 06 01 02 02 011 00 El Sitio
+03 06 01 02 02 012 00 El Ingenio
+03 06 01 02 02 013 00 La Ceniza
+03 06 01 02 02 014 00 Los Caimiticos
+03 06 01 02 02 015 00 Chinguelo
+03 06 01 02 02 016 00 Guayuyo Adentro
+03 06 01 02 02 017 00 Los Pomos
+03 06 01 02 02 018 00 El Catey
+03 06 01 02 02 019 00 El Limón
+03 06 01 02 02 020 00 Palmarito
+03 06 01 02 02 021 00 Piedra Blanca
+03 06 01 02 02 022 00 Los Mates
+03 06 01 02 02 023 00 Los Pontones Arriba
+03 06 01 02 03 000 00 Demajagual
+03 06 01 02 03 001 00 Demajagual Arriba
+03 06 01 02 03 002 00 Demajagual Abajo
+03 06 01 02 03 003 00 La Vereda del Demajagual
+03 06 01 02 03 004 00 Palmarito
+03 06 01 02 03 005 00 El Llano
+03 06 01 02 03 006 00 La Garza
+03 06 01 02 04 000 00 Dichoso
+03 06 01 02 04 001 00 Dichoso Arriba
+03 06 01 02 04 002 00 Dichoso Abajo
+03 06 01 02 04 003 00 Los Barros
+03 06 01 02 04 004 00 La Vereda de Dichoso
+03 06 01 02 05 000 00 laguna de coto
+03 06 01 02 05 001 00 Laguna al Medio (Laguna de Coto)
+03 06 01 02 05 002 00 Laguna Abajo
+03 06 01 02 05 003 00 Los Palos
+03 06 01 02 05 004 00 Coto Arriba
+03 06 01 02 05 005 00 Coto al Medio (Rincón de Coto)
+03 06 01 02 05 006 00 Coto Abajo
+03 06 01 02 06 000 00 la Mesa
+03 06 01 02 06 001 00 La Mesa
+03 06 01 02 06 002 00 Chaviscal
+03 06 01 02 06 003 00 Callejón de los Mejía
+03 06 01 02 06 004 00 Chucho Vásquez
+03 06 01 02 06 005 00 Las Caobas
+03 06 01 02 07 000 00 Patao
+03 06 01 02 07 001 00 Patao
+03 06 01 02 07 002 00 Loma de Almacey
+03 06 01 02 07 003 00 Las Cabuyas
+03 06 01 02 07 004 00 Hatillo (Jatillo)
+03 06 01 02 07 005 00 Pie de Plata
+03 06 01 02 07 006 00 El Calabazo
+03 06 01 02 08 000 00 La Peña
+03 06 01 02 08 001 00 Alto del Pilón Abajo
+03 06 01 02 08 002 00 Azlor
+03 06 01 02 08 003 00 Los Botaos
+03 06 01 02 08 004 00 Los Bracitos
+03 06 01 02 08 005 00 Buenos Aires
+03 06 01 02 08 006 00 Cadillar
+03 06 01 02 08 007 00 Casa Vieja
+03 06 01 02 08 008 00 Pie de Plata
+03 06 01 02 08 009 00 El Cercado
+03 06 01 02 08 010 00 Cuaba
+03 06 01 02 08 011 00 Alto de Cuevas
+03 06 01 02 08 012 00 Cuevas
+03 06 01 02 08 013 00 Cuaba Arriba o La Represa
+03 06 01 02 08 014 00 Herrera de Cuaba
+03 06 01 02 08 015 00 El Jamo
+03 06 01 02 08 016 00 La Laguneta
+03 06 01 02 08 017 00 La Lagunita del Quemao
+03 06 01 02 08 018 00 El Mango
+03 06 01 02 08 019 00 Monte Bonito
+03 06 01 02 08 020 00 Alto del Pilón Arriba
+03 06 01 02 08 021 00 Pozo del Jobo
+03 06 01 02 08 022 00 Los Puentes
+03 06 01 02 08 023 00 Rincón del Higüero
+03 06 01 02 08 024 00 Tawike
+03 06 01 02 08 025 00 El Valle
+03 06 01 02 08 026 00 La Zarza
+03 06 01 02 08 027 00 Limón Dulce
+03 06 01 02 08 028 00 La Amargura
+03 06 01 02 08 029 00 La Chancleta
+03 06 01 02 08 030 00 El Quemao (Loma del Quemao)
+03 06 01 02 08 031 00 Los Caños
+03 06 01 02 08 032 00 Los Placeres
+03 06 01 02 08 033 00 La Pocilga
+03 06 01 02 09 000 00 Pontón
+03 06 01 02 09 001 00 Pontón
+03 06 01 02 09 002 00 Monte Negro
+03 06 01 02 10 000 00 ramonal
+03 06 01 02 10 001 00 Ramonal Arriba
+03 06 01 02 10 002 00 La Paloma
+03 06 01 02 10 003 00 Los Lirios
+03 06 01 02 10 004 00 Ramonal Abajo
+03 06 01 02 10 005 00 La Ciénaga
+03 06 01 02 10 006 00 Los Espinos
+03 06 01 03 00 000 00 Cenoví (DM)
+03 06 01 03 01 000 00 Cenoví (Zona urbana)
+03 06 01 03 01 001 00 Cenoví
+03 06 01 03 01 001 01 Cenoví
+03 06 01 03 01 002 00 los rieles
+03 06 01 03 01 002 01 Los Rieles
+03 06 01 03 02 000 00 Bomba de Cenoví
+03 06 01 03 02 001 00 Los Rieles
+03 06 01 03 02 002 00 El Canal
+03 06 01 03 02 003 00 Los Arroyos
+03 06 01 03 02 004 00 Los Rincones
+03 06 01 03 02 005 00 El Bobo
+03 06 01 03 02 006 00 Bandera
+03 06 01 03 02 007 00 Santa Lucía
+03 06 01 03 02 008 00 La Berma
+03 06 01 03 02 009 00 La Amarga
+03 06 01 03 02 010 00 La Reforma
+03 06 01 03 02 011 00 El Carril
+03 06 01 03 03 000 00 los indios
+03 06 01 03 03 001 00 Los Indios
+03 06 01 03 03 002 00 Hoyo Viejo
+03 06 01 03 03 003 00 El Chucho de Pey
+03 06 01 03 03 004 00 El Limpio
+03 06 01 03 03 005 00 Rosa Baja
+03 06 01 03 03 006 00 Rosa Alta
+03 06 01 03 04 000 00 Cruz de Cenoví
+03 06 01 03 04 001 00 Cruz de Cenoví
+03 06 01 03 04 002 00 Los Caimitos
+03 06 01 03 04 003 00 La Colonia
+03 06 01 03 04 004 00 La Nasa
+03 06 01 03 04 005 00 El Mamey
+03 06 01 03 04 006 00 Noná
+03 06 01 03 05 000 00 Porquero
+03 06 01 03 05 001 00 Porquero Abajo
+03 06 01 03 05 002 00 El Hatico
+03 06 01 03 05 003 00 El Gajo
+03 06 01 03 05 004 00 Los Cacaos
+03 06 01 03 05 005 00 Porquero Arriba
+03 06 01 03 05 006 00 Las Caobas
+03 06 01 03 06 000 00 El caimito
+03 06 01 03 06 001 00 El Caimito
+03 06 01 03 06 002 00 La Caoba
+03 06 01 03 06 003 00 Los Quemados
+03 06 01 03 06 004 00 El Canal
+03 06 01 03 06 005 00 El Barrio
+03 06 01 03 06 006 00 La Sabana
+03 06 01 03 06 007 00 Mal Nombre
+03 06 01 03 07 000 00 Colón
+03 06 01 03 07 001 00 Colón
+03 06 01 03 07 002 00 Genimillo
+03 06 01 03 07 003 00 La Boca
+03 06 01 03 07 004 00 El Barro
+03 06 01 03 07 005 00 La Guamita
+03 06 01 03 07 006 00 Los Rieles Abajo
+03 06 01 03 07 007 00 El Bobo
+03 06 01 04 00 000 00 Jaya (DM)
+03 06 01 04 01 000 00 Hoyo Jaya (Zona urbana)
+03 06 01 04 01 001 00 Hoyo de Jaya
+03 06 01 04 01 001 01 María Auxiliadora
+03 06 01 04 01 001 02 San Luis
+03 06 01 04 02 000 00 La Piña
+03 06 01 04 02 001 00 La Piña
+03 06 01 04 02 002 00 Los Cocos
+03 06 01 04 02 003 00 Mata Vieja
+03 06 01 04 02 004 00 Jaragua
+03 06 01 04 02 005 00 Comunidad San Vicente
+03 06 01 04 03 000 00 Hoyo de Jaya
+03 06 01 04 03 001 00 Santa Elena
+03 06 01 04 03 002 00 Maimoro
+03 06 01 04 03 003 00 La Sidra
+03 06 01 04 03 004 00 Los Lirios
+03 06 01 04 03 005 00 Los Callejones
+03 06 01 04 03 006 00 Firme de los Ortega
+03 06 01 04 03 007 00 Ojo de Agua
+03 06 01 04 04 000 00 Los Bacilios
+03 06 01 04 04 001 00 Cruce de Los Bacilios
+03 06 01 04 04 002 00 Sonador
+03 06 01 04 04 003 00 La Pegajosa
+03 06 01 04 04 004 00 Firme del Carrao
+03 06 01 04 04 005 00 Los Bacilios
+03 06 01 04 04 006 00 La Tarana
+03 06 01 04 04 007 00 Alto del Caballo
+03 06 01 04 05 000 00 Naranjo Dulce
+03 06 01 04 05 001 00 Naranjo Dulce Abajo
+03 06 01 04 05 002 00 Naranjo Dulce Arriba
+03 06 01 04 05 003 00 Las Yerbas
+03 06 01 04 05 004 00 La Jagüita
+03 06 01 04 05 005 00 Alto del Rayo
+03 06 01 04 05 006 00 El Catey
+03 06 01 04 05 007 00 Ceibita o Cuevita
+03 06 01 04 05 008 00 Rancho Abajo
+03 06 01 04 05 009 00 La Vereda
+03 06 01 04 05 010 00 La Yabacoa
+03 06 01 04 05 011 00 La Explanación
+03 06 01 04 05 012 00 El Limón
+03 06 01 04 06 000 00 loma de Jaya
+03 06 01 04 06 001 00 Loma de Jaya
+03 06 01 04 06 002 00 La Colonia o El Jobito
+03 06 01 04 06 003 00 Tres Pies
+03 06 01 04 06 004 00 La Yaya
+03 06 01 04 06 005 00 La Malenita o La Lomasa
+03 06 01 04 06 006 00 Firme de la Brisa
+03 06 01 04 06 007 00 La Guamita
+03 06 01 04 06 008 00 Martel
+03 06 01 04 06 009 00 La Malena
+03 06 01 04 06 010 00 El Pomito
+03 06 01 04 06 011 00 Gancho de Jaya
+03 06 01 04 06 012 00 La Higuereta
+03 06 01 04 07 000 00 Jaya
+03 06 01 04 07 001 00 Jaya
+03 06 01 04 07 002 00 La Ceiba
+03 06 01 04 07 003 00 Hondo Valle
+03 06 01 04 07 004 00 La Malena de Jaya
+03 06 01 04 07 005 00 El Derrumbadero
+03 06 01 04 07 006 00 Los Pomos o Los Pomolos
+03 06 01 04 07 007 00 Loma de Perro
+03 06 01 04 07 008 00 Rancho Arriba
+03 06 01 05 00 000 00 Presidente Don Antonio Guzmán Fernández (DM)
+03 06 01 05 01 000 00 Presidente Don Antonio Guzmán Fernández (Zona urbana)
+03 06 01 05 01 001 00 Proyecto Don Antonio Guzmán Fernández-Los Aguayos
+03 06 01 05 01 001 01 Proyecto Don Antonio Guzmán Fernández-Los Aguayos
+03 06 01 05 01 001 02 El Planazo
+03 06 01 05 01 001 03 Urbanización Baltzar
+03 06 01 05 01 001 04 La Fé
+03 06 01 05 01 001 05 El Liceo
+03 06 01 05 01 001 06 Urbanización D’luxe 
+03 06 01 05 01 001 07 El Hormiguero
+03 06 01 05 01 001 08 La Fina de Jorge Vale
+03 06 01 05 01 001 09 Urbanización Ventura (Yoyo)
+03 06 01 05 01 001 10 Urbanización Sin Nombre
+03 06 01 05 02 000 00 la Guama
+03 06 01 05 02 001 00 Cruce
+03 06 01 05 02 002 00 Guama Abajo
+03 06 01 05 02 003 00 El Tres
+03 06 01 05 02 004 00 Caño Seco
+03 06 01 05 02 005 00 El Hato o El Jato
+03 06 01 05 02 006 00 Proyecto Don Antonio Guzmán Fernández
+03 06 01 05 03 000 00 Génimo
+03 06 01 05 03 001 00 Génimo
+03 06 01 05 03 002 00 El Higüero
+03 06 01 05 03 003 00 El Pozo
+03 06 01 05 03 004 00 Sabaneta
+03 06 01 05 03 005 00 La Lima
+03 06 02 00 00 000 00 arenoso
+03 06 02 01 00 000 00 arenoso
+03 06 02 01 01 000 00 Arenoso (Zona urbana)
+03 06 02 01 01 001 00 arenoso
+03 06 02 01 01 001 01 Centro del Pueblo o La Carretera
+03 06 02 01 01 001 02 La Cantera
+03 06 02 01 01 001 03 INVI-Villa Progreso-Arenoso
+03 06 02 01 01 001 04 El Palmar
+03 06 02 01 01 001 05 Pueblo Nuevo
+03 06 02 01 01 001 06 Los Japoneses
+03 06 02 01 01 001 07 Los Estudiantes
+03 06 02 01 01 001 08 La Altagracia
+03 06 02 01 01 001 09 La Francia
+03 06 02 01 01 001 10 Los Llanos
+03 06 02 01 01 001 11 Villa Lodo
+03 06 02 01 01 001 12 Moro Sucio
+03 06 02 01 01 002 00 Palma Sola
+03 06 02 01 01 002 01 Palma Sola
+03 06 02 01 02 000 00 Los Platanitos
+03 06 02 01 02 001 00 Los Platanitos
+03 06 02 02 00 000 00 Las Coles (DM)
+03 06 02 02 01 000 00 Las Coles (Zona urbana)
+03 06 02 02 01 001 00 las coles
+03 06 02 02 01 001 01 Las Coles
+03 06 02 02 02 000 00 las carreras
+03 06 02 02 02 001 00 Las Carreras
+03 06 02 02 02 002 00 Villa María
+03 06 02 02 02 003 00 Las Guamas
+03 06 02 02 02 004 00 Los Cacaos
+03 06 02 02 03 000 00 la Jagua
+03 06 02 02 03 001 00 La Jagua
+03 06 02 02 03 002 00 El Guayabo
+03 06 02 02 03 003 00 Rincón Bebedero
+03 06 02 02 03 004 00 El Mango o El Mago
+03 06 02 02 03 005 00 Caño de Madrid (Madera)
+03 06 02 02 04 000 00 la Garza
+03 06 02 02 04 001 00 Cruce de las Cabirmas (Antigua Atronca Perros)
+03 06 02 02 04 002 00 El Jobo
+03 06 02 02 04 003 00 La Raya o El Mango
+03 06 02 02 04 004 00 La Garza
+03 06 02 02 04 005 00 La Playa
+03 06 02 02 04 006 00 La Cebolla
+03 06 02 02 04 007 00 Morro Sucio
+03 06 02 02 04 008 00 El Cachimbo (San Andrés)
+03 06 02 02 04 009 00 El Mango
+03 06 02 03 00 000 00 El Aguacate (DM)
+03 06 02 03 01 000 00 El Aguacate (Zona urbana)
+03 06 02 03 01 001 00 El Aguacate
+03 06 02 03 01 001 01 El Aguacate
+03 06 02 03 01 001 02 Las Matas
+03 06 02 03 01 001 03 Villa Iris
+03 06 02 03 01 001 04 El Muro
+03 06 02 03 01 001 05 Los Coquitos
+03 06 02 03 01 001 06 Los Cabrera
+03 06 02 03 02 000 00 El Aguacate
+03 06 02 03 02 001 00 Caño Abajo
+03 06 02 03 02 002 00 Las Matas
+03 06 02 03 02 003 00 El Aguacate
+03 06 02 03 03 000 00 Yabacoa
+03 06 02 03 03 001 00 Yabacoa
+03 06 02 03 03 002 00 Rabo de Chivo
+03 06 02 03 03 003 00 La Manga
+03 06 02 03 03 004 00 El Firme
+03 06 02 03 04 000 00 Ciénaga Vieja
+03 06 02 03 04 001 00 Ciénaga Vieja
+03 06 02 03 04 002 00 Cuba
+03 06 02 03 04 003 00 Los Chichones
+03 06 02 03 04 004 00 Sabaneta
+03 06 02 03 05 000 00 los Haitiles
+03 06 02 03 05 001 00 Los Haitiles
+03 06 02 03 05 002 00 La Mina
+03 06 02 03 05 003 00 Pescadero
+03 06 03 00 00 000 00 castillo
+03 06 03 01 00 000 00 castillo
+03 06 03 01 01 000 00 Castillo (Zona urbana)
+03 06 03 01 01 001 00 Centro del Pueblo
+03 06 03 01 01 001 01 Centro del Pueblo
+03 06 03 01 01 001 02 Rabo de Chivo
+03 06 03 01 01 001 03 Canta la Rana
+03 06 03 01 01 001 04 La Manteca (El Carmen)
+03 06 03 01 01 001 05 La Cancha
+03 06 03 01 01 002 00 Puerto Rico
+03 06 03 01 01 002 01 Puerto Rico
+03 06 03 01 01 003 00 La Mora o Nigua Abajo
+03 06 03 01 01 003 01 La Mora o Nigua Abajo
+03 06 03 01 02 000 00 Jina clara
+03 06 03 01 02 001 00 Jina Clara
+03 06 03 01 02 002 00 El Mogote
+03 06 03 01 02 003 00 El Firme de los Cafeses
+03 06 03 01 02 004 00 Firme de Jina Clara
+03 06 03 01 02 005 00 Cuesta Blanca
+03 06 03 01 02 006 00 Los Cafeses
+03 06 03 01 02 007 00 Las Piedras
+03 06 03 01 03 000 00 Juana Díaz
+03 06 03 01 03 001 00 El Tablón
+03 06 03 01 03 002 00 Nigua Abajo
+03 06 03 01 03 003 00 La Mora o Nigua Abajo
+03 06 03 01 03 004 00 Jiménez
+03 06 03 01 03 005 00 La Lometa
+03 06 03 01 03 006 00 Juana Díaz Abajo
+03 06 03 01 03 007 00 La Zarza
+03 06 03 01 03 008 00 Los Guaraguaos
+03 06 03 01 03 009 00 El Firme de los Cafeses
+03 06 03 01 03 010 00 Juana Díaz Arriba
+03 06 03 01 04 000 00 Los Cachones
+03 06 03 01 04 001 00 Los Cachones
+03 06 03 01 04 002 00 El Rucio Abajo
+03 06 03 01 04 003 00 Los Cachones Arriba (Cachones Adentro)
+03 06 03 01 04 004 00 Los Callejones
+03 06 03 01 04 005 00 Los Saladillos (EL Saladillo)
+03 06 03 01 04 006 00 El Rucio de los Cachones
+03 06 03 01 05 000 00 los lanos
+03 06 03 01 05 001 00 Los Lanos
+03 06 03 01 05 002 00 Cruce de Los Lanos
+03 06 03 01 05 003 00 Cruce de Magua
+03 06 03 01 05 004 00 Quebrada de Pablo
+03 06 03 01 05 005 00 La Ceibita
+03 06 03 01 05 006 00 Los Naranjos
+03 06 03 01 05 007 00 La Jagüita
+03 06 03 01 05 008 00 Loma Vieja
+03 06 03 01 05 009 00 El Rucio de Los Lanos
+03 06 03 01 06 000 00 Rincón Hondo
+03 06 03 01 06 001 00 Rincón Hondo
+03 06 03 01 06 002 00 Las Piedritas
+03 06 03 01 06 003 00 La Jagua
+03 06 03 01 06 004 00 El Firme
+03 06 03 01 06 005 00 El Alto
+03 06 03 01 06 006 00 Las Caobas Arriba
+03 06 03 01 06 007 00 Las Berenjenas
+03 06 03 01 06 008 00 Las Caobas Abajo
+03 06 03 01 06 009 00 La Guazarita (Campeche Arriba de Castillo)
+03 06 03 01 07 000 00 Yaiba Abajo
+03 06 03 01 07 001 00 Yaiba Abajo
+03 06 03 01 07 002 00 Pueblo Nuevo
+03 06 03 01 07 003 00 Yaiba o Rincón de Yaiba
+03 06 03 01 07 004 00 Curazao
+03 06 03 01 07 005 00 Yanabo Abajo
+03 06 03 01 07 006 00 Los Palmaritos
+03 06 03 01 07 007 00 La Garata
+03 06 03 01 07 008 00 La Joya
+03 06 03 01 07 009 00 Majagual
+03 06 03 01 07 010 00 Yanabo Arriba
+03 06 03 01 07 011 00 Yaiba Arriba
+03 06 04 00 00 000 00 Pimentel
+03 06 04 01 00 000 00 Pimentel
+03 06 04 01 01 000 00 Pimentel (Zona urbana)
+03 06 04 01 01 001 00 la Jabilla
+03 06 04 01 01 001 01 La Jabilla
+03 06 04 01 01 001 02 Urbanización Hernández
+03 06 04 01 01 002 00 Centro del Pueblo
+03 06 04 01 01 002 01 Centro del Pueblo
+03 06 04 01 01 002 02 Chulín
+03 06 04 01 01 002 03 Rebelde
+03 06 04 01 01 002 04 Urbanización Maya
+03 06 04 01 01 003 00 cementerio o cristo rey
+03 06 04 01 01 003 01 Cementerio o Cristo Rey
+03 06 04 01 01 003 02 El Matadero
+03 06 04 01 01 004 00 los Molondrones
+03 06 04 01 01 004 01 Los Molondrones
+03 06 04 01 01 004 02 Urbanización Ninina o Saldaña
+03 06 04 01 01 004 03 La Sabanita
+03 06 04 01 01 004 04 Manguito o La Jabilla
+03 06 04 01 01 005 00 La Estancia
+03 06 04 01 01 005 01 La Estancia
+03 06 04 01 01 005 02 Los Maestros
+03 06 04 01 01 005 03 Residencial S/N
+03 06 04 01 01 005 04 Urbanización Las Palmas
+03 06 04 01 01 005 05 Urbanización Rojas
+03 06 04 01 01 005 06 El Mamey
+03 06 04 01 01 005 07 Las Mercedes
+03 06 04 01 01 006 00 Canta Maco
+03 06 04 01 01 006 01 Canta Maco
+03 06 04 01 01 007 00 El Play 
+03 06 04 01 01 007 01 El Play 
+03 06 04 01 01 008 00 El Centro (Alegre)
+03 06 04 01 01 008 01 El Centro (Alegre)
+03 06 04 01 02 000 00 Buena Vista
+03 06 04 01 02 001 00 Buena Vista
+03 06 04 01 02 002 00 La Jagua
+03 06 04 01 02 003 00 Catalina
+03 06 04 01 02 004 00 Guanábano
+03 06 04 01 03 000 00 caobete
+03 06 04 01 03 001 00 Caobete
+03 06 04 01 03 002 00 Caobete Arriba
+03 06 04 01 03 003 00 Rincón Martín
+03 06 04 01 03 004 00 Los Limones
+03 06 04 01 03 005 00 Rinconazo
+03 06 04 01 04 000 00 Cuaba Abajo
+03 06 04 01 04 001 00 Cuaba Abajo
+03 06 04 01 04 002 00 El Puente de Camú
+03 06 04 01 04 003 00 Matuán Abajo
+03 06 04 01 04 004 00 La Estancia
+03 06 04 01 04 005 00 Casa de Alto
+03 06 04 01 04 006 00 La Excavación
+03 06 04 01 04 007 00 La Chancleta
+03 06 04 01 04 008 00 Campeche Arriba
+03 06 04 01 04 009 00 La Barca
+03 06 04 01 04 010 00 La Gina
+03 06 04 01 04 011 00 Campeche Abajo
+03 06 04 01 05 000 00 San Felipe Arriba
+03 06 04 01 05 001 00 San Felipe Arriba
+03 06 04 01 05 002 00 Alto de Caimito
+03 06 04 01 05 003 00 La Galana
+03 06 04 01 05 004 00 Quebrada de los Patos
+03 06 04 01 05 005 00 La Berraza
+03 06 04 01 05 006 00 Los Callejones
+03 06 04 01 05 007 00 San Felipe Abajo
+03 06 05 00 00 000 00 Villa riva
+03 06 05 01 00 000 00 Villa riva
+03 06 05 01 01 000 00 Villa Riva (Zona urbana)
+03 06 05 01 01 001 00 Villa Feria (Centro del Pueblo)
+03 06 05 01 01 001 01 Villa Feria (Centro del Pueblo)
+03 06 05 01 01 002 00 ciudad Nueva
+03 06 05 01 01 002 01 Ciudad Nueva
+03 06 05 01 01 003 00 Buenos Aires
+03 06 05 01 01 003 01 Buenos Aires
+03 06 05 01 01 004 00 San antonio
+03 06 05 01 01 004 01 San Antonio
+03 06 05 01 01 005 00 El Manguito
+03 06 05 01 01 005 01 El Manguito
+03 06 05 01 01 006 00 urbanización Rodríguez
+03 06 05 01 01 006 01 Urbanización Rodríguez
+03 06 05 01 01 007 00 urbanización Abreu
+03 06 05 01 01 007 01 Urbanización Abreu
+03 06 05 01 01 007 02 50
+03 06 05 01 02 000 00 Ceiba de Los Pájaros
+03 06 05 01 02 001 00 Ceiba de los Pájaros
+03 06 05 01 02 002 00 La Ceiba Abajo
+03 06 05 01 02 003 00 Los Cocos
+03 06 05 01 02 004 00 Reventazón
+03 06 05 01 02 005 00 Los Naranjos
+03 06 05 01 02 006 00 Boca de Cevicos
+03 06 05 01 02 007 00 Loma Colorada
+03 06 05 01 02 008 00 Junco Verde
+03 06 05 01 02 009 00 Payabo
+03 06 05 01 02 010 00 Majagual
+03 06 05 01 02 011 00 Los Mayabos
+03 06 05 01 02 012 00 Boca de Payabo
+03 06 05 01 03 000 00 Chiringo
+03 06 05 01 03 001 00 Chiringo
+03 06 05 01 03 002 00 Loma Abajo
+03 06 05 01 03 003 00 El Higüero
+03 06 05 01 03 004 00 Las Hormigas
+03 06 05 01 03 005 00 Zumba
+03 06 05 01 03 006 00 Rincón de Majagual
+03 06 05 01 03 007 00 Loma Arriba
+03 06 05 01 03 008 00 Alto de Bululo (El Caimito)
+03 06 05 01 03 009 00 Castaño
+03 06 05 01 03 010 00 El Manguito
+03 06 05 01 03 011 00 El Ciruelito o El Ciruelillo
+03 06 05 02 00 000 00 Agua Santa del Yuna (DM)
+03 06 05 02 01 000 00 Agua Santa del Yuna (Zona urbana)
+03 06 05 02 01 001 00 la reforma
+03 06 05 02 01 001 01 La Reforma
+03 06 05 02 01 001 02 El Muro
+03 06 05 02 01 001 03 Pueblo Nuevo o Santa Clara
+03 06 05 02 01 001 04 Proyecto INVI-Villa Progreso
+03 06 05 02 01 001 05 El Puente
+03 06 05 02 01 001 06 Los Maco o San Isidro
+03 06 05 02 01 001 07 José Francisco Peña Gómez (Pelagio)
+03 06 05 02 01 001 08 El Play
+03 06 05 02 01 001 09 El Mocano
+03 06 05 02 02 000 00 Callejón de Tilo
+03 06 05 02 02 001 00 Callejón de Tilo
+03 06 05 02 02 002 00 Borojol
+03 06 05 02 02 003 00 El Arado
+03 06 05 02 02 004 00 Barrio Lindo
+03 06 05 02 03 000 00 Paraguay
+03 06 05 02 03 001 00 Paraguay
+03 06 05 02 03 002 00 Cristal
+03 06 05 02 04 000 00 la reforma
+03 06 05 02 04 001 00 La Reforma
+03 06 05 02 04 002 00 El Muro (Pueblo Nuevo)
+03 06 05 02 04 003 00 Laurel
+03 06 05 03 00 000 00 Cristo Rey de Guaraguao (DM)
+03 06 05 03 01 000 00 Cristo Rey de Guaraguao (Zona urbana)
+03 06 05 03 01 001 00 Guaraguao
+03 06 05 03 01 001 01 Guaraguao
+03 06 05 03 01 002 00 la Gallera
+03 06 05 03 01 002 01 La Gallera
+03 06 05 03 01 002 02 Antonio Guzmán Fernández
+03 06 05 03 01 002 03 La Costa o la Langosta
+03 06 05 03 01 002 04 San Valentín
+03 06 05 03 01 002 05 San Rafael
+03 06 05 03 01 002 06 Camino de Barraquito ( Verde salida a Barraquito)
+03 06 05 03 01 002 07 Centro del Pueblo
+03 06 05 03 01 002 08 Germania
+03 06 05 03 01 002 09 La Ceibita
+03 06 05 03 02 000 00 Guaraguao
+03 06 05 03 02 001 00 Guaraguao
+03 06 05 03 03 000 00 Los Peynado
+03 06 05 03 03 001 00 Los Peynado
+03 06 05 03 03 002 00 Alto de Marchena (Palmarito)
+03 06 05 03 03 003 00 La Mina de los Peynado (Mina Vieja)
+03 06 05 03 03 004 00 Los Contreras
+03 06 05 03 03 005 00 Palmar Viejo (El Bono)
+03 06 05 03 03 006 00 Palacio
+03 06 05 04 00 000 00 Las Taranas (DM)
+03 06 05 04 01 000 00 Las Taranas (Zona urbana)
+03 06 05 04 01 001 00 las taranas
+03 06 05 04 01 001 01 Las Taranas
+03 06 05 04 01 002 00 Las Mercedes
+03 06 05 04 01 002 01 Las Mercedes
+03 06 05 04 01 002 02 Nuevo Renacer
+03 06 05 04 01 002 03 Seguidores de Cristo
+03 06 05 04 01 002 04 San Rafael
+03 06 05 04 01 002 05 Fe Y Amor
+03 06 05 04 02 000 00 El Abanico
+03 06 05 04 02 001 00 San Rafael
+03 06 05 04 02 002 00 El Caño
+03 06 05 04 02 003 00 Baiguate
+03 06 05 04 02 004 00 El Bombillo (Bombillo Adentro)
+03 06 05 04 02 005 00 Haití Bonito
+03 06 05 04 02 006 00 El Abanico de Catamey
+03 06 05 04 02 007 00 Barrio David
+03 06 05 04 03 000 00 Bomba de Yaiba
+03 06 05 04 03 001 00 La Bomba de Yaiba
+03 06 05 04 03 002 00 Arebalo (Arevano)
+03 06 05 04 03 003 00 La Bruca
+03 06 05 04 03 004 00 Los Espinos
+03 06 05 04 03 005 00 Juana Rodríguez (Juana Rodríguez Arriba)
+03 06 05 04 04 000 00 Jobobán
+03 06 05 04 04 001 00 Jobobán
+03 06 05 04 04 002 00 Firme de Las Taranas
+03 06 05 04 04 003 00 Las Caobas
+03 06 05 04 04 004 00 Jobo Dulce
+03 06 05 04 04 005 00 El Indio
+03 06 05 04 04 006 00 La Ceiba Gorda
+03 06 05 04 04 007 00 La Punta
+03 06 05 04 04 008 00 El Campamento
+03 06 05 05 00 000 00 Barraquito (DM)
+03 06 05 05 01 000 00 Barraquito (Zona urbana)
+03 06 05 05 01 001 00 Barraquito Cercado
+03 06 05 05 01 001 01 Barraquito Cercado
+03 06 05 05 01 001 02 El INDRHI
+03 06 05 05 01 001 03 El Bolsillo (La Bomba)
+03 06 05 05 01 001 04 La Pangola
+03 06 05 05 01 001 05 El Cilantro
+03 06 05 05 01 002 00 El Venao
+03 06 05 05 01 002 01 El Venao
+03 06 05 05 01 002 02 Clavo Torcío
+03 06 05 05 02 000 00 Barraquito
+03 06 05 05 02 001 00 Barraquito
+03 06 05 05 02 002 00 La Cueva
+03 06 05 05 02 003 00 Loma de la Ceiba (La Ceibita)
+03 06 05 05 03 000 00 El Venao
+03 06 05 05 03 001 00 El Venao
+03 06 05 05 04 000 00 La Pista
+03 06 05 05 04 001 00 Sector I
+03 06 05 05 04 002 00 La Yagüita
+03 06 05 05 04 003 00 Sector II
+03 06 05 05 04 004 00 La Pista
+03 06 06 00 00 000 00 las Guáranas
+03 06 06 01 00 000 00 las Guáranas
+03 06 06 01 01 000 00 Las Guáranas (Zona urbana)
+03 06 06 01 01 001 00 las Guáranas
+03 06 06 01 01 001 01 Las Guáranas
+03 06 06 01 01 001 02 Las Flores o solares
+03 06 06 01 01 001 03 La Berma del Canal
+03 06 06 01 01 002 00 los Genao
+03 06 06 01 01 002 01 Los Genao
+03 06 06 01 01 002 02 Los Jardines
+03 06 06 01 01 003 00 El Vaticano
+03 06 06 01 01 003 01 El Vaticano
+03 06 06 01 01 003 02 Las Iglesias
+03 06 06 01 01 003 03 Aguas Vivas
+03 06 06 01 01 003 04 San José
+03 06 06 01 01 004 00 San Juan
+03 06 06 01 01 004 01 San Juan
+03 06 06 01 01 005 00 Pueblo Nuevo
+03 06 06 01 01 005 01 Pueblo Nuevo
+03 06 06 01 02 000 00 la Enea
+03 06 06 01 02 001 00 La Enea
+03 06 06 01 02 002 00 El Camú
+03 06 06 01 02 003 00 La Palmilla
+03 06 06 01 02 004 00 La Gina
+03 06 06 01 02 005 00 Los Memisos
+03 06 06 01 02 006 00 El Tablón
+03 06 06 01 02 007 00 Las Mercedes
+03 06 06 01 03 000 00 El Hato
+03 06 06 01 03 001 00 El Hato
+03 06 06 01 03 002 00 Honduras
+03 06 06 01 03 003 00 Serrano
+03 06 06 01 03 004 00 El Limón
+03 06 06 01 04 000 00 Rincón de los Genao
+03 06 06 01 04 001 00 Rincón de los Genao
+03 06 06 01 04 002 00 Guamacage (Papayo)
+03 06 06 01 05 000 00 los rivera
+03 06 06 01 05 001 00 Los Rivera o Altagracia
+03 06 06 01 05 002 00 Cuca
+03 06 06 01 05 003 00 La Rivera
+03 06 07 00 00 000 00 Eugenio María de Hostos
+03 06 07 01 00 000 00 Eugenio María de Hostos
+03 06 07 01 01 000 00 Eugenio María de Hostos (Zona urbana)
+03 06 07 01 01 001 00 Centro del Pueblo
+03 06 07 01 01 001 01 Centro del Pueblo
+03 06 07 01 01 002 00 El Play
+03 06 07 01 01 002 01 El Play
+03 06 07 01 01 003 00 los Guandules
+03 06 07 01 01 003 01 Los Guandules
+03 06 07 01 01 004 00 David
+03 06 07 01 01 004 01 David
+03 06 07 01 01 005 00 la Gina
+03 06 07 01 01 005 01 La Gina
+03 06 07 01 01 006 00 El Jarol
+03 06 07 01 01 006 01 El Jarol
+03 06 07 01 01 007 00 El 4
+03 06 07 01 01 007 01 El 4
+03 06 07 01 01 008 00 La Yuca
+03 06 07 01 01 008 01 La Yuca
+03 06 07 01 02 000 00 Acicate
+03 06 07 01 02 001 00 Acicate
+03 06 07 01 02 002 00 Juana Díaz Abajo
+03 06 07 01 02 003 00 Sabana de la Ceiba
+03 06 07 01 02 004 00 Río Yuna
+03 06 07 01 02 005 00 Acicate Adentro
+03 06 07 01 03 000 00 Cerrejón
+03 06 07 01 03 001 00 Cerrejón
+03 06 07 01 03 002 00 Atoro
+03 06 07 01 04 000 00 la isleta
+03 06 07 01 04 001 00 La Isleta
+03 06 07 01 04 002 00 Cruce de los Javieles
+03 06 07 01 04 003 00 Cien Tareas
+03 06 07 02 00 000 00 Sabana Grande (DM)
+03 06 07 02 01 000 00 Sabana Grande (Zona urbana)
+03 06 07 02 01 001 00 Sabana Grande o El Caserío
+03 06 07 02 01 001 01 Sabana Grande o El Caserío
+03 06 07 02 02 000 00 Culata Abajo
+03 06 07 02 02 001 00 La Yuca o Atronca Perro
+03 06 07 02 02 002 00 Boca de Yuca
+03 06 07 02 03 000 00 la culata
+03 06 07 02 03 001 00 La Culata
+03 06 07 02 03 002 00 La Culata al Medio
+03 06 07 02 04 000 00 María Fernández
+03 06 07 02 04 001 00 María Fernández
+03 06 07 02 04 002 00 El Resbalón

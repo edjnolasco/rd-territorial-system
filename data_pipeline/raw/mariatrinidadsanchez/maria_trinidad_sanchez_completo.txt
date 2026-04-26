@@ -1,0 +1,590 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+03 14 00 00 00 000 00 María Trinidad Sánchez
+03 14 01 00 00 000 00 Nagua
+03 14 01 01 00 000 00 Nagua
+03 14 01 01 01 000 00 Nagua (Zona urbana)
+03 14 01 01 01 001 00 El Tanque
+03 14 01 01 01 001 01 El Tanque
+03 14 01 01 01 002 00 Libertad (El Guayo)
+03 14 01 01 01 002 01 Libertad (El Guayo)
+03 14 01 01 01 002 02 Urbanización Invermar
+03 14 01 01 01 003 00 La Capitalista
+03 14 01 01 01 003 01 La Capitalista
+03 14 01 01 01 004 00 El Edén
+03 14 01 01 01 004 01 El Edén
+03 14 01 01 01 005 00 San Marcos (Soldado Arriba)
+03 14 01 01 01 005 01 San Marcos (Soldado Arriba)
+03 14 01 01 01 005 02 Los Medicos (Proyecto Esmeralda)
+03 14 01 01 01 005 03 Urbanización Esmeralda
+03 14 01 01 01 005 04 Urbanización Peña Bello
+03 14 01 01 01 006 00 San José de Villa (Cumajón)
+03 14 01 01 01 006 01 San José de Villa (Cumajón)
+03 14 01 01 01 006 02 Urbanización Villa Real
+03 14 01 01 01 007 00 Soldado Abajo
+03 14 01 01 01 007 01 Soldado Abajo
+03 14 01 01 01 008 00 Pueblo Nuevo
+03 14 01 01 01 008 01 Pueblo Nuevo
+03 14 01 01 01 009 00 Villa Iris
+03 14 01 01 01 009 01 Villa Iris
+03 14 01 01 01 010 00 Centro del Pueblo
+03 14 01 01 01 010 01 Centro del Pueblo
+03 14 01 01 01 011 00 Toro Cenizo
+03 14 01 01 01 011 01 Toro Cenizo
+03 14 01 01 01 012 00 Río Mar
+03 14 01 01 01 012 01 Río Mar
+03 14 01 01 01 013 00 Universitario
+03 14 01 01 01 013 01 Universitario
+03 14 01 01 01 014 00 Residencial Miguel Abud
+03 14 01 01 01 014 01 Residencial Miguel Abud
+03 14 01 01 01 015 00 P.R.D.
+03 14 01 01 01 015 01 P.R.D.
+03 14 01 01 01 016 00 Los Cacaítos
+03 14 01 01 01 016 01 Los Cacaítos
+03 14 01 01 01 017 00 Quisqueyano
+03 14 01 01 01 017 01 Quisqueyano
+03 14 01 01 01 018 00 Roberto Fermín
+03 14 01 01 01 018 01 Roberto Fermín
+03 14 01 01 01 019 00 Santísima Trinidad
+03 14 01 01 01 019 01 Santísima Trinidad
+03 14 01 01 01 020 00 Ensanche José Ramírez
+03 14 01 01 01 020 01 Ensanche José Ramírez
+03 14 01 01 01 021 00 Los Maestros
+03 14 01 01 01 021 01 Los Maestros
+03 14 01 01 01 022 00 Luis Martín Hilario
+03 14 01 01 01 022 01 Luis Martín Hilario
+03 14 01 01 01 023 00 Cementerio
+03 14 01 01 01 023 01 Cementerio
+03 14 01 01 01 024 00 Proyecto Nueva Nagua
+03 14 01 01 01 024 01 Proyecto Nueva Nagua
+03 14 01 01 01 025 00 José Lucas
+03 14 01 01 01 025 01 José Lucas
+03 14 01 01 01 026 00 La Pocilga (Duraliza Ulloa)
+03 14 01 01 01 026 01 La Pocilga (Duraliza Ulloa)
+03 14 01 01 01 027 00 Bella Vista
+03 14 01 01 01 027 01 Bella Vista
+03 14 01 01 01 028 00 La Cruz
+03 14 01 01 01 028 01 La Cruz
+03 14 01 01 01 029 00 Buenos Aires
+03 14 01 01 01 029 01 Buenos Aires
+03 14 01 01 01 030 00 Proyecto José Francisco Peña Gómez
+03 14 01 01 01 030 01 Proyecto José Francisco Peña Gómez
+03 14 01 01 01 031 00 Residencial Doña Emma Balaguer
+03 14 01 01 01 031 01 Residencial Doña Emma Balaguer
+03 14 01 01 01 032 00 Residencial Vista del Atlántico
+03 14 01 01 01 032 01 Residencial Vista del Atlántico
+03 14 01 01 01 033 00 Kilómetro 3
+03 14 01 01 01 033 01 Kilómetro 3
+03 14 01 01 01 034 00 Residencial Costa Verde
+03 14 01 01 01 034 01 Residencial Costa Verde
+03 14 01 01 01 035 00 El Frenito
+03 14 01 01 01 035 01 El Frenito
+03 14 01 01 01 036 00 Urbanización Toni Lucas
+03 14 01 01 01 036 01 Urbanización Toni Lucas
+03 14 01 01 01 037 00 Proyecto Sin Nombre
+03 14 01 01 01 037 01 Proyecto Sin Nombre
+03 14 01 01 01 038 00 Urbanización Lora
+03 14 01 01 01 038 01 Urbanización Lora
+03 14 01 01 01 039 00 Las Quinientas
+03 14 01 01 01 039 01 Las Quinientas
+03 14 01 01 01 039 02 Miguel Yangüela
+03 14 01 01 01 040 00 La Laguna o Peña Bello
+03 14 01 01 01 040 01 La Laguna o Peña Bello
+03 14 01 01 01 041 00 El Ferrocarril
+03 14 01 01 01 041 01 El Ferrocarril
+03 14 01 01 01 042 00 Proyecto Mingoye
+03 14 01 01 01 042 01 Proyecto Mingoye
+03 14 01 01 01 043 00 Cerros de la Bahía
+03 14 01 01 01 043 01 Cerros de la Bahía
+03 14 01 01 01 044 00 Residencial las Praderas
+03 14 01 01 01 044 01 Residencial las Praderas
+03 14 01 01 01 045 00 Callejón A
+03 14 01 01 01 045 01 Callejón A
+03 14 01 01 01 046 00 Residencial Peña Bello
+03 14 01 01 01 046 01 Residencial Peña Bello
+03 14 01 01 02 000 00 Nagua Rural
+03 14 01 01 02 001 00 El Estero
+03 14 01 01 02 002 00 Caño Blanco
+03 14 01 01 02 003 00 La Senda
+03 14 01 01 02 004 00 La Loma
+03 14 01 01 02 005 00 Cruce del Caño
+03 14 01 01 02 006 00 La Represa
+03 14 01 01 02 007 00 El Juncal
+03 14 01 01 02 008 00 Los Cacaítos
+03 14 01 01 02 009 00 Sabaneta
+03 14 01 02 00 000 00 San José de Matanzas (DM)
+03 14 01 02 01 000 00 San José de Matanzas (Zona urbana)
+03 14 01 02 01 001 00 La Playa
+03 14 01 02 01 001 01 La Playa
+03 14 01 02 01 002 00 Fogón Apagado
+03 14 01 02 01 002 01 Fogón Apagado
+03 14 01 02 01 003 00 Los Suburbios
+03 14 01 02 01 003 01 Los Suburbios
+03 14 01 02 01 004 00 Nuevo
+03 14 01 02 01 004 01 Nuevo
+03 14 01 02 01 005 00 Centro del Pueblo
+03 14 01 02 01 005 01 Centro del Pueblo
+03 14 01 02 02 000 00 Ceja del Jobo
+03 14 01 02 02 001 00 Vietnam
+03 14 01 02 02 002 00 El Aguacate de Vietnam
+03 14 01 02 02 003 00 La Cejita
+03 14 01 02 02 004 00 Ceja del Jobo
+03 14 01 02 02 005 00 La Ceja
+03 14 01 02 02 006 00 Ceja de los Castaños
+03 14 01 02 02 007 00 El Tablón
+03 14 01 02 02 008 00 Ceja de La Guamita
+03 14 01 02 03 000 00 Cruce de Rincón
+03 14 01 02 03 001 00 Cruce de Pescadero
+03 14 01 02 03 002 00 Pescadero
+03 14 01 02 03 003 00 Cruce de Rincón
+03 14 01 02 03 004 00 Los Berrendos
+03 14 01 02 03 005 00 La Lometa
+03 14 01 02 03 006 00 Pontón
+03 14 01 02 03 007 00 Las Garzas
+03 14 01 02 03 008 00 Los Rieles de Molinillo
+03 14 01 02 03 009 00 La Guama
+03 14 01 02 03 010 00 La Lometica
+03 14 01 02 03 011 00 Maltomacina
+03 14 01 02 03 012 00 San Rafael
+03 14 01 02 03 013 00 El Saldo
+03 14 01 02 04 000 00 Los Yayales
+03 14 01 02 04 001 00 Poza de Bojolo
+03 14 01 02 04 002 00 Los Yayales
+03 14 01 02 04 003 00 Colorado
+03 14 01 02 04 004 00 El Tope
+03 14 01 02 04 005 00 El Anón
+03 14 01 02 04 006 00 El Guayabo
+03 14 01 02 04 007 00 El Naranjo
+03 14 01 02 04 008 00 Cuba Libre
+03 14 01 02 04 009 00 Arenoso
+03 14 01 02 04 010 00 Matancita
+03 14 01 03 00 000 00 Las Gordas (DM)
+03 14 01 03 01 000 00 Las Gordas (Zona urbana)
+03 14 01 03 01 001 00 Centro del Pueblo o Alto de la Felicidad
+03 14 01 03 01 001 01 Centro del Pueblo o Alto de la Felicidad
+03 14 01 03 01 002 00 El Caserío
+03 14 01 03 01 002 01 El Caserío
+03 14 01 03 01 003 00 La Changüela
+03 14 01 03 01 003 01 La Changüela
+03 14 01 03 01 004 00 Quebrada Amarilla
+03 14 01 03 01 004 01 Quebrada Amarilla
+03 14 01 03 01 004 02 El Cruce
+03 14 01 03 01 005 00 Canta Rana
+03 14 01 03 01 005 01 Canta Rana
+03 14 01 03 02 000 00 Las Gordas
+03 14 01 03 02 001 00 La Lometa
+03 14 01 03 03 000 00 Boba
+03 14 01 03 03 001 00 La Senda
+03 14 01 03 03 002 00 Bella Vista
+03 14 01 03 03 003 00 Los Rincones de Boba
+03 14 01 03 03 004 00 La Mata (Boba)
+03 14 01 03 04 000 00 Los Jengibres
+03 14 01 03 04 001 00 Los Jengibres
+03 14 01 03 04 002 00 Guayabito
+03 14 01 03 04 003 00 Alemania
+03 14 01 03 04 004 00 La Catalina
+03 14 01 03 04 005 00 Los Cuervos
+03 14 01 03 04 006 00 La Totuma
+03 14 01 03 04 007 00 Laguna del Caimán
+03 14 01 03 04 008 00 Los Memizos
+03 14 01 03 04 009 00 Las Totumas Abajo
+03 14 01 03 04 010 00 El Higüero
+03 14 01 03 04 011 00 Arroyo Sordo
+03 14 01 03 05 000 00 Mata Bonita
+03 14 01 03 05 001 00 Mata Bonita
+03 14 01 03 05 002 00 Piragua
+03 14 01 03 05 003 00 Mata del Agua
+03 14 01 03 05 004 00 El Tizón
+03 14 01 03 05 005 00 Guarapo
+03 14 01 03 05 006 00 Quebrada Amarilla
+03 14 01 03 06 000 00 Caño de los Naranjos
+03 14 01 03 06 001 00 Caño de los Naranjos
+03 14 01 03 06 002 00 La Ciénaga
+03 14 01 04 00 000 00 Arroyo al Medio (DM)
+03 14 01 04 01 000 00 Arroyo al Medio (Zona urbana)
+03 14 01 04 01 001 00 Cruce de Arroyo al Medio
+03 14 01 04 01 001 01 Cruce de Arroyo al Medio
+03 14 01 04 01 001 02 Peña Bello
+03 14 01 04 01 002 00 Samaná o Samaná Tres Cuerdas
+03 14 01 04 01 002 01 Samaná o Samaná Tres Cuerdas
+03 14 01 04 01 002 02 Tres Cuerdas
+03 14 01 04 01 002 03 Tres Cuerdas o Puerco Gordo
+03 14 01 04 02 000 00 El Guayabo
+03 14 01 04 02 001 00 La Joya
+03 14 01 04 02 002 00 El Cruce de Guayabo (El Cruce)
+03 14 01 04 02 003 00 El Guayabo
+03 14 01 04 02 004 00 Los Cachimbos
+03 14 01 04 02 005 00 Caño Teloso Abajo
+03 14 01 04 02 006 00 Monte Llano
+03 14 01 04 02 007 00 La Colmenas
+03 14 01 04 02 008 00 Los Saúcos
+03 14 01 04 02 009 00 Sonador
+03 14 01 04 02 010 00 Los Rincones
+03 14 01 04 02 011 00 Caño Teloso Arriba
+03 14 01 04 03 000 00 Río Jagua
+03 14 01 04 03 001 00 Río Jagua
+03 14 01 04 03 002 00 El Coil o Col
+03 14 01 04 03 003 00 Los Chivos
+03 14 01 04 03 004 00 La Mina
+03 14 01 04 03 005 00 El Balatá o Los Balataces
+03 14 01 04 03 006 00 Los Anones
+03 14 01 04 03 007 00 La Placeta
+03 14 01 04 03 008 00 El Ramonal
+03 14 01 04 03 009 00 Los Pajones
+03 14 01 04 03 010 00 Río Jagua Arriba
+03 14 01 04 03 011 00 Peñoso
+03 14 01 04 03 012 00 Los Oréganos
+03 14 01 04 03 013 00 La Guásuma 
+03 14 01 04 03 014 00 El Calabazo
+03 14 01 04 04 000 00 El Yayal
+03 14 01 04 04 001 00 El Yayal
+03 14 01 04 04 002 00 Sabana del Yayal (Los Ranchos)
+03 14 01 04 04 003 00 Las Quince Mil
+03 14 01 04 04 004 00 Los Pontones
+03 14 01 04 04 005 00 Caño de Los Negros
+03 14 01 04 04 006 00 Sabana del Mono (La Sabana)
+03 14 01 04 04 007 00 Villa Altagracia (El Hoyito)
+03 14 01 04 04 008 00 La Palmita Arriba
+03 14 01 04 04 009 00 El Drago
+03 14 01 04 04 010 00 Villa Alegre
+03 14 01 04 04 011 00 La Palmita Abajo
+03 14 01 04 04 012 00 Los Cerros
+03 14 01 04 05 000 00 Las Córcobas
+03 14 01 04 05 001 00 Arroyo al Medio Arriba
+03 14 01 04 05 002 00 El Alto del Cementerio
+03 14 01 04 05 003 00 Los Fogones
+03 14 01 04 05 004 00 La Curva (El Aguacate)
+03 14 01 04 05 005 00 Caya Clara
+03 14 01 04 05 006 00 Las Córcobas
+03 14 01 04 05 007 00 La Jagua
+03 14 01 04 05 008 00 El Picao de Luis o Picado de Luis
+03 14 01 04 05 009 00 Quebrada Honda
+03 14 01 04 05 010 00 Los Toros
+03 14 01 04 05 011 00 Majagual Abajo
+03 14 01 04 05 012 00 El Palmar de los Sánchez
+03 14 01 04 05 013 00 La Pieza
+03 14 01 04 05 014 00 Majagual
+03 14 01 04 05 015 00 La Travesía
+03 14 01 04 05 016 00 La Ciruela
+03 14 02 00 00 000 00 cabrera
+03 14 02 01 00 000 00 Cabrera
+03 14 02 01 01 000 00 Cabrera (Zona urbana)
+03 14 02 01 01 001 00 Centro del Pueblo
+03 14 02 01 01 001 01 Centro del Pueblo
+03 14 02 01 01 002 00 Residencial María
+03 14 02 01 01 002 01 Residencial María
+03 14 02 01 01 003 00 Doña Luisa
+03 14 02 01 01 003 01 Doña Luisa
+03 14 02 01 01 004 00 Residencial Brismar o Brisas del Mar
+03 14 02 01 01 004 01 Residencial Brismar o Brisas del Mar
+03 14 02 01 01 004 02 Residencial Terramar
+03 14 02 01 01 004 03 Residencial Mon Flora
+03 14 02 01 01 004 04 Residencial Ana Rosa
+03 14 02 01 01 005 00 La Aviación
+03 14 02 01 01 005 01 La Aviación
+03 14 02 01 01 005 02 Residencial Los Cabos
+03 14 02 01 01 006 00 Residencial Federico Linares
+03 14 02 01 01 006 01 Residencial Federico Linares
+03 14 02 01 01 007 00 Residencial Brisas del Atlántico
+03 14 02 01 01 007 01 Residencial Brisas del Atlántico
+03 14 02 01 01 007 02 El Puerto Arriba
+03 14 02 01 01 007 03 Residencial Carrera
+03 14 02 01 01 008 00 Residencial Roque Núñez
+03 14 02 01 01 008 01 Residencial Roque Núñez
+03 14 02 01 01 009 00 El Naranjito
+03 14 02 01 01 009 01 El Naranjito
+03 14 02 01 01 010 00 El Jamo
+03 14 02 01 01 010 01 El Jamo
+03 14 02 01 02 000 00 Abreu
+03 14 02 01 02 001 00 Preciosa de Mora
+03 14 02 01 02 002 00 Playa Navío
+03 14 02 01 02 003 00 Los Romedillos
+03 14 02 01 02 004 00 Loma Blanca
+03 14 02 01 02 005 00 Abreu
+03 14 02 01 02 006 00 El Bretón
+03 14 02 01 02 007 00 Catalina Abajo
+03 14 02 01 02 008 00 El Puerto
+03 14 02 01 02 009 00 Caya Clara
+03 14 02 01 02 010 00 El Naranjito
+03 14 02 01 02 011 00 Media Gorra
+03 14 02 01 02 012 00 Los Novillos o Las Abejas
+03 14 02 01 02 013 00 Laguna Honda
+03 14 02 01 02 014 00 Las Escobas
+03 14 02 01 02 015 00 Loma de la Jagua
+03 14 02 01 02 016 00 El Zapote
+03 14 02 01 02 017 00 El Cruce de la Palma
+03 14 02 01 02 018 00 Jina Clara
+03 14 02 01 02 019 00 Los Hoyos
+03 14 02 01 02 020 00 Los Cavori
+03 14 02 01 02 021 00 Las Cabirmas
+03 14 02 01 02 022 00 Cañada Mala
+03 14 02 01 02 023 00 Buena Agua
+03 14 02 01 02 024 00 Jobo Dulce
+03 14 02 01 02 025 00 Recodo
+03 14 02 01 02 026 00 El Catuán
+03 14 02 01 02 027 00 Los Guaos
+03 14 02 01 02 028 00 Loma del Burro
+03 14 02 01 02 029 00 Las Cuatro Esquinas
+03 14 02 01 02 030 00 Catalina Arriba
+03 14 02 01 02 031 00 La Peonía
+03 14 02 01 02 032 00 Pozo del Higo
+03 14 02 01 02 033 00 Loma del Caballo
+03 14 02 01 02 034 00 El Saltadero
+03 14 02 01 02 035 00 Guao Abajo
+03 14 02 01 02 036 00 Picado Cidor
+03 14 02 01 02 037 00 Jobo Dulce o La Peonía
+03 14 02 01 02 038 00 Loma Blanca o La Peonía
+03 14 02 01 03 000 00 La Jagüita
+03 14 02 01 03 001 00 El Pujador o Jagüita
+03 14 02 01 03 002 00 Caño Azul de Salomón
+03 14 02 01 03 003 00 La Jagua
+03 14 02 01 03 004 00 El Palito
+03 14 02 01 03 005 00 Santa María
+03 14 02 01 03 006 00 Jobo Claro
+03 14 02 01 03 007 00 Sector Mella
+03 14 02 01 03 008 00 San José Pastrana
+03 14 02 01 03 009 00 Bejuco Alambre
+03 14 02 01 03 010 00 Laguna del Remblazo
+03 14 02 01 03 011 00 La Bejucura
+03 14 02 01 03 012 00 La Flaca
+03 14 02 01 04 000 00 El Jamo
+03 14 02 01 04 001 00 El Diamante
+03 14 02 01 04 002 00 La Cruz
+03 14 02 01 04 003 00 La Llanada
+03 14 02 01 04 004 00 Juan Gómez
+03 14 02 01 04 005 00 Loma Alta
+03 14 02 01 04 006 00 Los Valles
+03 14 02 01 04 007 00 Los Canjilones
+03 14 02 01 04 008 00 Pozo Prieto
+03 14 02 01 04 009 00 El Jamo
+03 14 02 01 04 010 00 Higo de las Tres Piernas
+03 14 02 01 04 011 00 El Cigual
+03 14 02 02 00 000 00 Arroyo Salado (DM)
+03 14 02 02 01 000 00 Arroyo Salado (Zona urbana)
+03 14 02 02 01 001 00 Payita o Centro del Pueblo
+03 14 02 02 01 001 01 Payita o Centro del Pueblo
+03 14 02 02 01 002 00 Los Solares
+03 14 02 02 01 002 01 Los Solares
+03 14 02 02 01 003 00 Santa Ana
+03 14 02 02 01 003 01 Santa Ana
+03 14 02 02 01 004 00 Los Placeres
+03 14 02 02 01 004 01 Los Placeres
+03 14 02 02 02 000 00 Baoba del Piñal
+03 14 02 02 02 001 00 Baoba del Piñal
+03 14 02 02 02 002 00 Línea 15
+03 14 02 02 02 003 00 Vista Linda
+03 14 02 02 02 004 00 Pueblo Nuevo
+03 14 02 02 02 005 00 La Central (Arroyo Salado)
+03 14 02 02 02 006 00 Los Pajuiles
+03 14 02 02 02 007 00 Ochoa
+03 14 02 02 02 008 00 Los Higos
+03 14 02 02 03 000 00 San Isidro
+03 14 02 02 03 001 00 San Isidro
+03 14 02 02 03 002 00 Caño Bejuco
+03 14 02 02 03 003 00 Cañada Arenosa
+03 14 02 02 03 004 00 Barrio El Carmen (Tierra de Pulguita)
+03 14 02 02 03 005 00 La Legamosa
+03 14 02 02 04 000 00 Payita
+03 14 02 02 04 001 00 Payita
+03 14 02 02 04 002 00 Los Placeres
+03 14 02 02 04 003 00 La Ceiba
+03 14 02 02 04 004 00 Los Pajones
+03 14 02 02 04 005 00 Puerto Rico a Pie
+03 14 02 02 05 000 00 San Rafael
+03 14 02 02 05 001 00 San Rafael
+03 14 02 02 05 002 00 Barrio El Puente
+03 14 02 02 05 003 00 Ojo de Agua
+03 14 02 02 05 004 00 La Milagrosa o Proyecto San Miguel
+03 14 02 02 05 005 00 La Cueva
+03 14 02 03 00 000 00 La Entrada (DM)
+03 14 02 03 01 000 00 La Entrada (Zona urbana)
+03 14 02 03 01 001 00 La Entrada
+03 14 02 03 01 001 01 La Entrada
+03 14 02 03 02 000 00 Caño Azul Colorado
+03 14 02 03 02 001 00 Caño Azul de Colorado
+03 14 02 03 02 002 00 Las Abejas
+03 14 02 03 02 003 00 La Vereda
+03 14 02 03 02 004 00 Pozo Amarillo
+03 14 02 03 02 005 00 Pozo Arenoso
+03 14 02 03 02 006 00 El Brocal
+03 14 02 03 02 007 00 El Bajío (Los Puentes)
+03 14 02 03 02 008 00 Loma del Toro
+03 14 02 03 02 009 00 La Virgen de la Piedra
+03 14 02 03 02 010 00 La Entrada
+03 14 02 03 03 000 00 La Capilla
+03 14 02 03 03 001 00 La Capilla
+03 14 02 03 03 002 00 El Picao de Los Toritos
+03 14 02 03 03 003 00 Pozo Hondo
+03 14 02 03 03 004 00 Los Pinitos
+03 14 02 03 03 005 00 La Botija
+03 14 02 03 03 006 00 Los Cacaos
+03 14 02 03 03 007 00 El Callejón
+03 14 02 03 03 008 00 Loma de Los Selectos
+03 14 03 00 00 000 00 El Factor
+03 14 03 01 00 000 00 El Factor
+03 14 03 01 01 000 00 El Factor (Zona urbana)
+03 14 03 01 01 001 00 Factor Viejo
+03 14 03 01 01 001 01 Factor Viejo
+03 14 03 01 01 001 02 Piedra Blanca
+03 14 03 01 01 002 00 Pueblo Nuevo
+03 14 03 01 01 002 01 Pueblo Nuevo
+03 14 03 01 01 002 02 Los Pasitos
+03 14 03 01 01 003 00 El Hospital o Las Mercedes
+03 14 03 01 01 003 01 El Hospital o Las Mercedes
+03 14 03 01 01 004 00 El Barro
+03 14 03 01 01 004 01 El Barro
+03 14 03 01 01 005 00 La Iglesia
+03 14 03 01 01 005 01 La Iglesia
+03 14 03 01 01 006 00 El Abita
+03 14 03 01 01 006 01 El Abita
+03 14 03 01 01 006 02 El Pld
+03 14 03 01 01 006 03 El Prd
+03 14 03 01 01 006 04 La Curva o La Planta de Gas
+03 14 03 01 01 007 00 El Play o San José
+03 14 03 01 01 007 01 El Play o San José
+03 14 03 01 01 007 02 Los Mangos
+03 14 03 01 01 007 03 María Auxiliadora
+03 14 03 01 01 007 04 Urbanización Don Deporte o Don Pedro
+03 14 03 01 02 000 00 El Papayo
+03 14 03 01 02 001 00 Los Pomos
+03 14 03 01 02 002 00 Vuelta Larga
+03 14 03 01 02 003 00 Cinta Negra
+03 14 03 01 02 004 00 El Papayo
+03 14 03 01 02 005 00 El Higüero
+03 14 03 01 02 006 00 El Jobito
+03 14 03 01 02 007 00 Cuesta Colorada
+03 14 03 01 02 008 00 La Peonía
+03 14 03 01 02 009 00 Esquina Caliente
+03 14 03 01 02 010 00 Altos del Rancho
+03 14 03 01 03 000 00 Los Pajones
+03 14 03 01 03 001 00 Los Pajones
+03 14 03 01 03 002 00 Quebrada Fría
+03 14 03 01 03 003 00 Caño de la Vaca
+03 14 03 01 03 004 00 Piedra Blanca
+03 14 03 01 04 000 00 Telanza
+03 14 03 01 04 001 00 El Barro
+03 14 03 01 04 002 00 Palma Sola
+03 14 03 01 04 003 00 El Telanza
+03 14 03 01 04 004 00 Blanco
+03 14 03 01 05 000 00 Los Indios
+03 14 03 01 05 001 00 Los Indios
+03 14 03 01 05 002 00 Higüerito
+03 14 03 01 05 003 00 Higüerito Abajo
+03 14 03 01 05 004 00 Higüerito Arriba
+03 14 03 01 05 005 00 La Jíbara
+03 14 03 02 00 000 00 El Pozo (DM)
+03 14 03 02 01 000 00 El Pozo (Zona urbana)
+03 14 03 02 01 001 00 El Pozo
+03 14 03 02 01 001 01 El Pozo
+03 14 03 02 01 001 02 Los Coquitos
+03 14 03 02 01 002 00 Los Limones
+03 14 03 02 01 002 01 Los Limones
+03 14 03 02 01 002 02 Alto de Cuba
+03 14 03 02 01 002 03 Los Pinos
+03 14 03 02 01 003 00 El Chucho o La Trocha
+03 14 03 02 01 003 01 El Chucho o La Trocha
+03 14 03 02 01 004 00 La Factoria
+03 14 03 02 01 004 01 La Factoria
+03 14 03 02 02 000 00 Los Limones
+03 14 03 02 02 001 00 El Alto (Villa Flores)
+03 14 03 02 02 002 00 La Trocha
+03 14 03 02 02 003 00 El Helechal (El Alto)
+03 14 03 02 02 004 00 Rabo de Chivo
+03 14 03 02 02 005 00 La Cidra
+03 14 03 02 02 006 00 Barrio La Yagua de La Trocha
+03 14 03 02 02 007 00 La Grimosa
+03 14 03 02 02 008 00 La Cimarra
+03 14 03 02 02 009 00 La Pichinga
+03 14 03 02 03 000 00 Madre Vieja
+03 14 03 02 03 001 00 Madre Vieja
+03 14 03 02 03 002 00 La Punta
+03 14 03 02 03 003 00 Alto de Jalisco
+03 14 03 02 03 004 00 Callejón de los Mota
+03 14 03 02 03 005 00 El Toro
+03 14 03 02 03 006 00 La Factoría
+03 14 03 02 03 007 00 La Guázara
+03 14 03 02 03 008 00 La Candela
+03 14 04 00 00 000 00 Río San Juan
+03 14 04 01 00 000 00 Río San Juan
+03 14 04 01 01 000 00 Río San Juan (Zona urbana)
+03 14 04 01 01 001 00 Urbanización Aurora
+03 14 04 01 01 001 01 Urbanización Aurora
+03 14 04 01 01 002 00 Acapulco
+03 14 04 01 01 002 01 Acapulco
+03 14 04 01 01 003 00 Nueva York Chiquito
+03 14 04 01 01 003 01 Nueva York Chiquito
+03 14 04 01 01 003 02 Urbanización Doña Antonia
+03 14 04 01 01 003 03 Gregorio Luperón
+03 14 04 01 01 003 04 El Bronx
+03 14 04 01 01 004 00 Las Flores
+03 14 04 01 01 004 01 Las Flores
+03 14 04 01 01 005 00 El Hospital
+03 14 04 01 01 005 01 El Hospital
+03 14 04 01 01 005 02 El Cementerio
+03 14 04 01 01 005 03 Nuevo Horizontes o Los Maestros
+03 14 04 01 01 006 00 Buenos Aires
+03 14 04 01 01 006 01 Buenos Aires
+03 14 04 01 01 007 00 Centro del Pueblo
+03 14 04 01 01 007 01 Centro del Pueblo
+03 14 04 01 01 008 00 Caña Amarga
+03 14 04 01 01 008 01 Caña Amarga
+03 14 04 01 01 009 00 El Edén
+03 14 04 01 01 009 01 El Edén
+03 14 04 01 01 010 00 La Gallera Vieja
+03 14 04 01 01 010 01 La Gallera Vieja
+03 14 04 01 01 011 00 La Coquera
+03 14 04 01 01 011 01 La Coquera
+03 14 04 01 01 012 00 Urbanización Rosa Delia
+03 14 04 01 01 012 01 Urbanización Rosa Delia
+03 14 04 01 01 012 02 Residencial Tana y Luna
+03 14 04 01 01 013 00 Residencial Bella Colina
+03 14 04 01 01 013 01 Residencial Bella Colina
+03 14 04 01 01 014 00 Santa Lucía
+03 14 04 01 01 014 01 Santa Lucía
+03 14 04 01 02 000 00 Los Cacaos
+03 14 04 01 02 001 00 La Mozadera o La Hozadera
+03 14 04 01 02 002 00 Los Cajuiles
+03 14 04 01 02 003 00 La Puerta
+03 14 04 01 02 004 00 El Caraqueño
+03 14 04 01 02 005 00 Bobita Abajo
+03 14 04 01 02 006 00 Bobita al Centro
+03 14 04 01 02 007 00 El Guano
+03 14 04 01 02 008 00 Los Remolinos
+03 14 04 01 02 009 00 Puerca Gorda
+03 14 04 01 02 010 00 El Morrito
+03 14 04 01 02 011 00 Jobo Claro
+03 14 04 01 02 012 00 Arroyo Sabana
+03 14 04 01 02 013 00 Los Pomos
+03 14 04 01 02 014 00 El Copeyito
+03 14 04 01 02 015 00 Carrasco
+03 14 04 01 02 016 00 La Manigua
+03 14 04 01 02 017 00 La Descubierta
+03 14 04 01 02 018 00 Loma El Café
+03 14 04 01 02 019 00 La Manteca
+03 14 04 01 02 020 00 El Coquital
+03 14 04 01 02 021 00 Puerca Gorda del Firme
+03 14 04 01 02 022 00 La Vigía
+03 14 04 01 02 023 00 El Caracol
+03 14 04 01 02 024 00 Los Palmaritos
+03 14 04 01 02 025 00 Sabana la Puerta
+03 14 04 01 02 026 00 Manigua Arriba
+03 14 04 01 02 027 00 Batey Brugal
+03 14 04 01 02 028 00 La Coyera
+03 14 04 01 02 029 00 Las Ceibas
+03 14 04 01 02 030 00 El Ranchito
+03 14 04 01 02 031 00 Los Chirivicos
+03 14 04 01 03 000 00 Mata Puerco
+03 14 04 01 03 001 00 Laguna de Yerba o Josadera
+03 14 04 01 03 002 00 Alto del Macao
+03 14 04 01 03 003 00 La Cubana
+03 14 04 01 03 004 00 Pozo Prieto o Pozo Largo
+03 14 04 01 03 005 00 Mata Puerco Arriba
+03 14 04 01 03 006 00 Mata Puerco Abajo
+03 14 04 01 03 007 00 Bejuco Alambre
+03 14 04 01 03 008 00 La Caribe
+03 14 04 01 03 009 00 La Novilla
+03 14 04 01 03 010 00 Cuerno de Buey
+03 14 04 01 03 011 00 Arroyo Grande
+03 14 04 01 03 012 00 El Tablón
+03 14 04 01 03 013 00 La Tierra

@@ -1,0 +1,1992 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+01 25 00 00 00 000 00 Santiago
+01 25 01 00 00 000 00 Santiago
+01 25 01 01 00 000 00 Santiago
+01 25 01 01 01 000 00 Santiago de los Caballeros (Zona urbana)
+01 25 01 01 01 001 00 Parque Metropolitano de Santiago
+01 25 01 01 01 001 01 Parque Metropolitano de Santiago
+01 25 01 01 01 002 00 Pontezuela al Medio
+01 25 01 01 01 002 01 Pontezuela al Medio
+01 25 01 01 01 002 02 Brisas del Este
+01 25 01 01 01 002 03 Urbanización Amanecer
+01 25 01 01 01 002 04 Residencial Pontezuela
+01 25 01 01 01 002 05 Urbanización Jardines Dorado
+01 25 01 01 01 002 06 Llanos de Gurabo II
+01 25 01 01 01 002 07 Altos de Chavón
+01 25 01 01 01 003 00 los Salados
+01 25 01 01 01 003 01 Los Salados
+01 25 01 01 01 003 02 Manolo Tavárez Justo
+01 25 01 01 01 003 03 Los Salados Viejos
+01 25 01 01 01 003 04 Ensanche La Rotonda
+01 25 01 01 01 004 00 Ensanche Libertad
+01 25 01 01 01 004 01 Ensanche Libertad
+01 25 01 01 01 004 02 Jardines del Oeste
+01 25 01 01 01 004 03 Reparto Los Robles
+01 25 01 01 01 004 04 Urbanización Libertad
+01 25 01 01 01 004 05 Urbanización Ejecutivo
+01 25 01 01 01 004 06 El Rincón
+01 25 01 01 01 005 00 altos de Vireya
+01 25 01 01 01 005 01 Altos de Vireya
+01 25 01 01 01 005 02 Cuesta Colorada
+01 25 01 01 01 005 03 Ensanche Ramos
+01 25 01 01 01 005 04 Las Américas
+01 25 01 01 01 005 05 Urbanización Las Palmas
+01 25 01 01 01 005 06 Ingco
+01 25 01 01 01 005 07 Urbanización Ingco
+01 25 01 01 01 005 08 América Palma
+01 25 01 01 01 006 00 Espaillat
+01 25 01 01 01 006 01 Espaillat
+01 25 01 01 01 007 00 Ensanche Bermúdez
+01 25 01 01 01 007 01 Ensanche Bermúdez
+01 25 01 01 01 007 02 Gurabito
+01 25 01 01 01 007 03 Hoyo de Puchula
+01 25 01 01 01 007 04 Ensanche Yaqué o Cuesta Colorada
+01 25 01 01 01 007 05 La Caoba
+01 25 01 01 01 008 00 La Otra Banda
+01 25 01 01 01 008 01 La Otra Banda
+01 25 01 01 01 008 02 Bella Vista
+01 25 01 01 01 008 03 Las Praderas
+01 25 01 01 01 008 04 Suelo Duro
+01 25 01 01 01 008 05 Urbanización Mirador Sur
+01 25 01 01 01 008 06 Villa Liberación
+01 25 01 01 01 008 07 Hacienda Palmeral
+01 25 01 01 01 008 08 Viejo Villa Liberación
+01 25 01 01 01 008 09 Hacienda Palmeral
+01 25 01 01 01 008 10 Cerro de Luz
+01 25 01 01 01 008 11 La Antena o La Torre
+01 25 01 01 01 008 12 Alto de San Rafael
+01 25 01 01 01 008 13 Los Manchegos
+01 25 01 01 01 008 14 Urbanización La Paz
+01 25 01 01 01 008 15 Rescate ,Dignificación Ciudadanos del Hoyo de Julia (Colinas del Yaqué)
+01 25 01 01 01 008 16 Residencial Nicolás Vargas
+01 25 01 01 01 009 00 Baracoa
+01 25 01 01 01 009 01 Baracoa
+01 25 01 01 01 009 02 Ensanche Román
+01 25 01 01 01 009 03 Ensanche Dolores
+01 25 01 01 01 009 04 Ensanche Román II 
+01 25 01 01 01 010 00 la Joya
+01 25 01 01 01 010 01 La Joya
+01 25 01 01 01 010 02 Multifamiliares Tabacalera
+01 25 01 01 01 010 03 Hospedaje Yaque
+01 25 01 01 01 010 04 Parte Alta de La Joya
+01 25 01 01 01 010 05 Framboyán
+01 25 01 01 01 011 00 Bella Vista
+01 25 01 01 01 011 01 Bella Vista
+01 25 01 01 01 011 02 Mirador del Yaque
+01 25 01 01 01 011 03 Piña de Oro
+01 25 01 01 01 011 04 Reparto Primavera
+01 25 01 01 01 011 05 Cerros de Bella Vista
+01 25 01 01 01 011 06 Cerro Alto
+01 25 01 01 01 011 07 Cerro de Papatín
+01 25 01 01 01 011 08 Vista Hermosa
+01 25 01 01 01 011 09 Cerro Alto II
+01 25 01 01 01 011 10 El Hoyo de la Cacata
+01 25 01 01 01 011 11 Cerro de Tuna
+01 25 01 01 01 011 12 Loma de La Tayota
+01 25 01 01 01 011 13 Pastor Arriba
+01 25 01 01 01 011 14 Alto Cerro
+01 25 01 01 01 011 15 La Altagracia
+01 25 01 01 01 011 16 El Esfuerzo
+01 25 01 01 01 011 17 Reparto Peralta
+01 25 01 01 01 012 00 Peralta
+01 25 01 01 01 012 01 Peralta
+01 25 01 01 01 012 02 Residencial Paseo del Prado
+01 25 01 01 01 012 03 Residencial Paseo Verde
+01 25 01 01 01 012 04 Residencial Los Castillos
+01 25 01 01 01 012 05 Residencial Paseo Yoryi Morel
+01 25 01 01 01 012 06 La Mina 
+01 25 01 01 01 013 00 La Yagüita de Pastor
+01 25 01 01 01 013 01 Yagüita de Pastor
+01 25 01 01 01 013 02 Reparto Nueva Creación
+01 25 01 01 01 013 03 Pastor Arriba
+01 25 01 01 01 013 04 Residencial Las Charcas
+01 25 01 01 01 013 05 Asfalto
+01 25 01 01 01 013 06 Hoyo de Justa
+01 25 01 01 01 014 00 los Jazmines
+01 25 01 01 01 014 01 Los Jazmines
+01 25 01 01 01 014 02 Colinas del Sur
+01 25 01 01 01 014 03 Cristo Rey
+01 25 01 01 01 014 04 Los Prados
+01 25 01 01 01 014 05 Vietnam
+01 25 01 01 01 014 06 La Unión 
+01 25 01 01 01 015 00 Nibaje
+01 25 01 01 01 015 01 Nibaje
+01 25 01 01 01 016 00 centro de la ciudad
+01 25 01 01 01 016 01 Centro de la Ciudad
+01 25 01 01 01 016 02 Los Pepines
+01 25 01 01 01 016 03 Centro Historico
+01 25 01 01 01 017 00 Pueblo Nuevo
+01 25 01 01 01 017 01 Pueblo Nuevo
+01 25 01 01 01 017 02 El Congo (Los Multi)
+01 25 01 01 01 018 00 Ensanche  Bolívar
+01 25 01 01 01 018 01 Ensanche  Bolívar
+01 25 01 01 01 018 02 Ensanche Caonabo (Los Platanitos)
+01 25 01 01 01 018 03 Hermanas Mirabal
+01 25 01 01 01 018 04 Ciudad Deportiva
+01 25 01 01 01 018 05 Urbanización Domingo Bermúdez
+01 25 01 01 01 019 00 los ciruelitos
+01 25 01 01 01 019 01 Los Ciruelitos
+01 25 01 01 01 019 02 Coronel Francisco Alberto Caamaño Deñó
+01 25 01 01 01 020 00 las colinas
+01 25 01 01 01 020 01 Las Colinas
+01 25 01 01 01 020 02 Altos del INVI
+01 25 01 01 01 020 03 Reparto Manhattan
+01 25 01 01 01 020 04 Tierra Alta
+01 25 01 01 01 021 00 urbanización los Reyes
+01 25 01 01 01 021 01 Urbanización Los Reyes
+01 25 01 01 01 021 02 Urbanización Los Reyes II
+01 25 01 01 01 021 03 Urbanización Real
+01 25 01 01 01 021 04 Residencial Vista del Cerro
+01 25 01 01 01 021 05 Residencial Brisas del Norte
+01 25 01 01 01 021 06 Urbanización Alta Vista
+01 25 01 01 01 021 07 Diego de Ocampo o Los Jardines del Norte
+01 25 01 01 01 021 08 Francisco del Rosario Sánchez
+01 25 01 01 01 021 09 Urbanización Imperial
+01 25 01 01 01 022 00 Buenos Aires
+01 25 01 01 01 022 01 Buenos Aires
+01 25 01 01 01 022 02 Camboya
+01 25 01 01 01 023 00 Gregorio Luperón
+01 25 01 01 01 023 01 Gregorio Luperón
+01 25 01 01 01 023 02 Cerro Alto
+01 25 01 01 01 023 03 Cerro Alto II
+01 25 01 01 01 023 04 Pradera del Cerro
+01 25 01 01 01 023 05 Residencial Brisol
+01 25 01 01 01 023 06 Residencial Don Simón
+01 25 01 01 01 023 07 Residencial Paradise III
+01 25 01 01 01 023 08 Las Mercedes 
+01 25 01 01 01 023 09 Residencial Cerro Diego de Ocampo 
+01 25 01 01 01 023 10 Residencial Julisa 
+01 25 01 01 01 024 00 Mejoramiento Social
+01 25 01 01 01 024 01 Mejoramiento Social
+01 25 01 01 01 024 02 El Ejido
+01 25 01 01 01 024 03 Savica
+01 25 01 01 01 024 04 Reparto Perelló
+01 25 01 01 01 024 05 Hermanas Mirabal o Las Yagüitas del Ejido
+01 25 01 01 01 024 06 Simón Díaz
+01 25 01 01 01 025 00 Los Jardines Metropolitanos
+01 25 01 01 01 025 01 Los Jardines Metropolitanos
+01 25 01 01 01 025 02 Reparto Oquet
+01 25 01 01 01 025 03 Ensanche Julia
+01 25 01 01 01 026 00 la trinitaria
+01 25 01 01 01 026 01 La Trinitaria
+01 25 01 01 01 026 02 Cerro del Castillo
+01 25 01 01 01 026 03 Santiago Apóstol
+01 25 01 01 01 026 04 Los Colegios
+01 25 01 01 01 026 05 Panorama
+01 25 01 01 01 027 00 La Zurza
+01 25 01 01 01 027 01 Reparto Tavárez
+01 25 01 01 01 027 02 La Lotería
+01 25 01 01 01 027 03 La Zurza I
+01 25 01 01 01 027 04 La Zurza II
+01 25 01 01 01 027 05 La Zurza III
+01 25 01 01 01 027 06 Tavárez Oeste
+01 25 01 01 01 027 07 Reparto 30 de Marzo
+01 25 01 01 01 027 08 Cañada Burgos
+01 25 01 01 01 028 00 El Ensueño
+01 25 01 01 01 028 01 El Ensueño
+01 25 01 01 01 028 02 Los Guandules
+01 25 01 01 01 028 03 Ensanche Ortega
+01 25 01 01 01 028 04 Villa Jagua
+01 25 01 01 01 028 05 El Retiro
+01 25 01 01 01 028 06 Los Santos
+01 25 01 01 01 028 07 El Retiro I
+01 25 01 01 01 028 08 El Retiro II
+01 25 01 01 01 029 00 Pekín
+01 25 01 01 01 029 01 Pekín
+01 25 01 01 01 029 02 Camboya
+01 25 01 01 01 029 03 CONANI
+01 25 01 01 01 029 04 Corea
+01 25 01 01 01 029 05 Urbanización Villa Elena
+01 25 01 01 01 029 06 Urbanización Fernando Valerio
+01 25 01 01 01 029 07 Las Praderas
+01 25 01 01 01 029 08 Residencial Los Cerros de Doña Julia
+01 25 01 01 01 029 09 Villa Ángel
+01 25 01 01 01 029 10 Los Quemados
+01 25 01 01 01 029 11 Pekín Abajo
+01 25 01 01 01 030 00 Reparto universitario
+01 25 01 01 01 030 01 Reparto Universitario
+01 25 01 01 01 030 02 Reparto Imperial
+01 25 01 01 01 030 03 Quintas de Rincón Largo
+01 25 01 01 01 030 04 Residencial El Portal
+01 25 01 01 01 030 05 Residencial El Embrujo II
+01 25 01 01 01 030 06 Residencial El Embrujo III
+01 25 01 01 01 031 00 Villa olga
+01 25 01 01 01 031 01 Villa Olga
+01 25 01 01 01 031 02 La Esmeralda
+01 25 01 01 01 031 03 La Moraleja
+01 25 01 01 01 031 04 La Rinconada
+01 25 01 01 01 031 05 La Rosaleda
+01 25 01 01 01 031 06 Pinos de Villa Olga
+01 25 01 01 01 031 07 Rincón Largo
+01 25 01 01 01 031 08 Residencial Amapola
+01 25 01 01 01 031 09 Reparto Framboyán
+01 25 01 01 01 031 10 Reparto Ilusión
+01 25 01 01 01 031 11 Residencial Nicole
+01 25 01 01 01 031 12 Urbanización Monumental
+01 25 01 01 01 031 13 El Despertar
+01 25 01 01 01 031 14 Urbanización Sara
+01 25 01 01 01 031 15 Urbanización La Española
+01 25 01 01 01 032 00 Reparto del Este
+01 25 01 01 01 032 01 Reparto del Este
+01 25 01 01 01 032 02 Reparto Kokette
+01 25 01 01 01 032 03 Los Cajuiles
+01 25 01 01 01 032 04 Reparto Haché
+01 25 01 01 01 032 05 La Junta
+01 25 01 01 01 032 06 Villa Progreso
+01 25 01 01 01 032 07 Reparto Los Robles
+01 25 01 01 01 033 00 los cerros de Gurabo
+01 25 01 01 01 033 01 Los Cerros de Gurabo
+01 25 01 01 01 033 02 Casilda
+01 25 01 01 01 033 03 Cerro Hermoso
+01 25 01 01 01 033 04 Cerros de Gurabo I
+01 25 01 01 01 033 05 Cerros de Gurabo II
+01 25 01 01 01 033 06 Cerros de Gurabo III
+01 25 01 01 01 033 07 Hoya del Caimito
+01 25 01 01 01 033 08 Villa Progreso
+01 25 01 01 01 033 09 Los Cerritos
+01 25 01 01 01 033 10 Villa Progreso II
+01 25 01 01 01 033 11 Residencial Mainardi Reina
+01 25 01 01 01 034 00 Reparto Consuelo
+01 25 01 01 01 034 01 Reparto Consuelo
+01 25 01 01 01 034 02 Urbanización Paraíso
+01 25 01 01 01 034 03 Urbanización El Edén
+01 25 01 01 01 034 04 La Gallera
+01 25 01 01 01 034 05 Residencial Consuelo V
+01 25 01 01 01 035 00 Gurabo
+01 25 01 01 01 035 01 Gurabo Abajo
+01 25 01 01 01 035 02 Gurabo Arriba
+01 25 01 01 01 035 03 Gurabo al Medio
+01 25 01 01 01 035 04 Villa Verde
+01 25 01 01 01 035 05 Residencial Margarita
+01 25 01 01 01 035 06 Urbanización Alejo
+01 25 01 01 01 035 07 Los Ríos
+01 25 01 01 01 035 08 Padre Las Casas 
+01 25 01 01 01 036 00 Hoya del caimito
+01 25 01 01 01 036 01 Hoya del Caimito
+01 25 01 01 01 037 00 Arroyo Hondo Abajo
+01 25 01 01 01 037 01 Arroyo Hondo Abajo
+01 25 01 01 01 037 02 Valle Verde I
+01 25 01 01 01 037 03 Valle Verde II
+01 25 01 01 01 037 04 Sector Rivera del Valle
+01 25 01 01 01 038 00 Los Álamos
+01 25 01 01 01 038 01 Los Álamos
+01 25 01 01 01 038 02 El Embrujo III Primera Etapa
+01 25 01 01 01 038 03 Residencial Iris
+01 25 01 01 01 038 04 Urbanización Monte Verde
+01 25 01 01 01 038 06 Hato Mayor
+01 25 01 01 01 038 07 Residencial Iris 
+01 25 01 01 01 039 00 arroyo Hondo arriba
+01 25 01 01 01 039 01 Arroyo Hondo Arriba
+01 25 01 01 01 039 02 Los Girasoles
+01 25 01 01 01 039 03 Villa Magisterial
+01 25 01 01 01 039 04 Vista Linda
+01 25 01 01 01 039 05 Residencial Villa de los Imperios
+01 25 01 01 01 039 06 Residencial Los Rosales
+01 25 01 01 01 039 07 La Flor
+01 25 01 01 01 039 08 Construcción Urbanización Vista Monumental
+01 25 01 01 01 040 00 Hato Mayor
+01 25 01 01 01 040 01 Hato Mayor
+01 25 01 01 01 040 02 Los Ángeles
+01 25 01 01 01 040 03 El Bronx
+01 25 01 01 01 041 00 Jardines del Este
+01 25 01 01 01 041 01 Jardines del Este
+01 25 01 01 01 041 02 Las Hortensias
+01 25 01 01 01 041 03 Urbanización El Embrujo I
+01 25 01 01 01 041 04 Villa Los Hidalgos
+01 25 01 01 01 041 05 Quintas de Pontezuela
+01 25 01 01 01 041 06 Urbanizacion Cerros de Villa Olga Embrujo I  
+01 25 01 01 01 041 07 Urbanizacion Miami 
+01 25 01 01 01 042 00 arboleda
+01 25 01 01 01 042 01 Arboleda
+01 25 01 01 01 043 00 El Dorado
+01 25 01 01 01 043 01 El Dorado I
+01 25 01 01 01 043 02 El Dorado II
+01 25 01 01 01 043 03 Las Damas
+01 25 01 01 01 043 04 Los Hidalgos
+01 25 01 01 01 043 05 Las Dianas
+01 25 01 01 01 043 06 Residencial Vargas
+01 25 01 01 01 044 00 los rieles
+01 25 01 01 01 044 01 Los Rieles
+01 25 01 01 01 044 02 Gurabo o Flor de Gurabo
+01 25 01 01 01 044 03 Los Llanos de Gurabo
+01 25 01 01 01 044 04 Quinto Centenario
+01 25 01 01 01 044 05 Mi Sueño
+01 25 01 01 01 045 00 la Herradura
+01 25 01 01 01 045 01 La Herradura
+01 25 01 01 01 045 02 Nuevo
+01 25 01 01 01 045 03 Residencial Corona
+01 25 01 01 01 045 04 Residencial Corona Plaza
+01 25 01 01 01 045 05 Residencial Mainardi
+01 25 01 01 01 045 06 Residencial Los Maestros o Brisas de la Herradura
+01 25 01 01 01 045 07 Residencial El Doral
+01 25 01 01 01 045 08 Los Mera
+01 25 01 01 01 045 09 Villa Hortensia 
+01 25 01 01 01 045 10 Alto de La Herradura
+01 25 01 01 01 045 11 Llano de La Barranquita o La Herradura
+01 25 01 01 01 045 12 La Isla
+01 25 01 01 01 045 13 La Estancia
+01 25 01 01 01 046 00 La Barranquita
+01 25 01 01 01 046 01 La Barranquita
+01 25 01 01 01 046 02 El INVI o Ciudad Universitaria
+01 25 01 01 01 046 03 Rapa Jicao
+01 25 01 01 01 046 04 Barrio Motocross
+01 25 01 01 01 046 05 Llano de La Barranquita 
+01 25 01 01 01 046 06 Ciudad Universitaria
+01 25 01 01 01 047 00 La Fardiquera
+01 25 01 01 01 047 01 La Fardiquera
+01 25 01 01 01 047 02 Residencial Villa del Norte
+01 25 01 01 01 047 03 Residencial Villa María
+01 25 01 01 01 047 04 Limonal Abajo
+01 25 01 01 01 047 05 Los Laureles
+01 25 01 01 01 047 06 Los Samanes
+01 25 01 01 01 047 07 Los Militares
+01 25 01 01 01 047 08 La Rosa
+01 25 01 01 01 048 00 Buena Vista
+01 25 01 01 01 048 01 Buena Vista
+01 25 01 01 01 048 02 Villa Buena Vista
+01 25 01 01 01 048 03 Prolongación Padre Las Casas
+01 25 01 01 01 048 04 Miraflores
+01 25 01 01 01 048 05 Urbanización Padre Las Casas
+01 25 01 01 01 048 07 San Martin
+01 25 01 01 01 049 00 las antillas
+01 25 01 01 01 049 01 Las Antillas
+01 25 01 01 01 049 02 Cerros Don Antonio
+01 25 01 01 01 049 03 Los Pérez
+01 25 01 01 01 050 00 los Morán
+01 25 01 01 01 050 01 Los Morán
+01 25 01 01 01 051 00 altos de rafey
+01 25 01 01 01 051 01 Altos de Rafey
+01 25 01 01 01 051 02 Rafey
+01 25 01 01 01 051 03 Rincón de Oro
+01 25 01 01 01 051 04 Urbanización Paraíso del Yaqué
+01 25 01 01 01 051 05 Hoyo de Lima
+01 25 01 01 01 051 06 Altos de Rafey I
+01 25 01 01 01 051 07 Altos de Rafey II
+01 25 01 01 01 052 00 Zona Industrial
+01 25 01 01 01 052 01 Zona Industrial
+01 25 01 01 01 052 02 Multifamiliares Zona Franca
+01 25 01 01 01 052 03 Urbanización Don Jaime
+01 25 01 01 01 053 00 la terraza
+01 25 01 01 01 053 01 La Terraza
+01 25 01 01 01 053 02 La Rosa
+01 25 01 01 01 053 03 Villa Esperanza
+01 25 01 01 01 053 04 La Terraza Abajo
+01 25 01 01 01 054 00 urbanización Henríquez
+01 25 01 01 01 054 01 Urbanización Henríquez
+01 25 01 01 01 054 02 Urbanización Las Cayenas
+01 25 01 01 01 054 03 Cecara
+01 25 01 01 01 054 04 Urbanización Coronel Fernández Domínguez
+01 25 01 01 01 054 05 Pedro Francisco Bonó
+01 25 01 01 01 054 06 Reparto Montero
+01 25 01 01 01 055 00 los Santos
+01 25 01 01 01 055 01 Los Santos
+01 25 01 01 01 055 02 Hoyo de Bartola
+01 25 01 01 01 056 00 Rincón Largo
+01 25 01 01 01 056 01 Rincón Largo
+01 25 01 01 01 057 00 Villa Olímpica
+01 25 01 01 01 057 01 Villa Olímpica
+01 25 01 01 01 057 02 Lindo
+01 25 01 01 01 057 03 Los Mina
+01 25 01 01 01 057 04 Obrero
+01 25 01 01 01 057 05 San José
+01 25 01 01 01 057 06 Marilópez
+01 25 01 01 01 057 07 Residencial Pradera del Norte
+01 25 01 01 01 057 08 Urbanización Fernández
+01 25 01 01 01 057 09 Villa Noa
+01 25 01 01 01 057 10 Zamarrilla
+01 25 01 01 01 057 11 La Islita
+01 25 01 01 01 057 12 Primavera
+01 25 01 01 01 057 13 Villa Lucero
+01 25 01 01 01 058 00 Área Monumental
+01 25 01 01 01 058 01 Área Monumental
+01 25 01 01 02 000 00 El Ingenio Abajo
+01 25 01 01 02 001 00 Los Campeches
+01 25 01 01 02 002 00 Callejón de los Sánchez
+01 25 01 01 03 000 00 El Papayo
+01 25 01 01 03 001 00 Quebrada Honda
+01 25 01 01 03 002 00 La Noriega
+01 25 01 01 03 003 00 El Papayo
+01 25 01 01 04 000 00 Gurabo Abajo
+01 25 01 01 04 001 00 La Chichigua
+01 25 01 01 05 000 00 la Herradura
+01 25 01 01 05 001 00 La Herradura Abajo
+01 25 01 01 05 002 00 La Herradura Arriba
+01 25 01 01 05 003 00 Los Naranjos
+01 25 01 01 06 000 00 Las Charcas
+01 25 01 01 06 001 00 La Cruz
+01 25 01 01 06 002 00 Las Charcas
+01 25 01 01 06 003 00 Las Charcas Abajo
+01 25 01 01 07 000 00 Monte Adentro Abajo
+01 25 01 01 07 001 00 Pontezuela Abajo
+01 25 01 01 07 002 00 Monte Adentro Abajo o Las Aromas
+01 25 01 01 07 003 00 Don Pedro Abajo
+01 25 01 01 07 004 00 Kilómetro 4 1/2 (Antiguo Kilómetro 6)
+01 25 01 01 07 005 00 Kilómetro 5 1/2 (Antiguo Kilómetro 6 1/2)
+01 25 01 01 07 006 00 Kilómetro 6 1/2 (Antiguo Kilómetro 7)
+01 25 01 01 07 007 00 Los Cirises
+01 25 01 01 07 008 00 Don Pedro Arriba (Monte Peña)
+01 25 01 01 08 000 00 Palo Quemado
+01 25 01 01 08 001 00 La Guama
+01 25 01 01 08 002 00 La Cumbre
+01 25 01 01 08 003 00 Pulido
+01 25 01 01 08 004 00 Palma Limpia
+01 25 01 01 08 005 00 La Jabilla
+01 25 01 01 08 006 00 Río Arriba
+01 25 01 01 08 007 00 Puerto Rico
+01 25 01 01 08 008 00 Los Higos
+01 25 01 01 08 009 00 El Arroyo Arriba
+01 25 01 01 08 010 00 Kilómetro 11
+01 25 01 01 08 011 00 El Meso
+01 25 01 01 08 012 00 Bellaco
+01 25 01 01 08 013 00 Palo Quemado
+01 25 01 01 08 014 00 Cuesta de Piedra
+01 25 01 01 08 015 00 Rancho Viejo
+01 25 01 01 08 016 00 El Arroyo
+01 25 01 01 08 017 00 El Caimito
+01 25 01 01 09 000 00 Pontezuela al Medio
+01 25 01 01 09 001 00 Pontezuela Arriba
+01 25 01 02 00 000 00 Pedro García (DM)
+01 25 01 02 01 000 00 Pedro García (Zona urbana)
+01 25 01 02 01 001 00 El Play
+01 25 01 02 01 001 01 El Play
+01 25 01 02 01 002 00 Centro del Pueblo
+01 25 01 02 01 002 01 Centro del Pueblo
+01 25 01 02 01 003 00 Las Mercedes
+01 25 01 02 01 003 01 Las Mercedes
+01 25 01 02 01 004 00 La Altagracia
+01 25 01 02 01 004 01 La Altagracia
+01 25 01 02 01 004 02 Emiliano Tadif o Divino Niño
+01 25 01 02 02 000 00 la auyama
+01 25 01 02 02 001 00 El Hoyazo
+01 25 01 02 02 002 00 Los Bueyes
+01 25 01 02 02 003 00 Piedras Azules Abajo
+01 25 01 02 02 004 00 El Puerto
+01 25 01 02 02 005 00 Los Lirios
+01 25 01 02 02 006 00 El Coral
+01 25 01 02 02 007 00 Cayas Quemadas
+01 25 01 02 02 008 00 La Canasta
+01 25 01 02 02 009 00 Los Naranjos
+01 25 01 02 02 010 00 Piedras Azules Arriba
+01 25 01 02 02 011 00 Arroyo Prieto
+01 25 01 02 02 012 00 Las Caobas
+01 25 01 02 02 013 00 El Piñón
+01 25 01 02 02 014 00 Lomas Frías
+01 25 01 02 02 015 00 El Congo
+01 25 01 02 02 016 00 La Catalina
+01 25 01 02 02 017 00 Arroyo Ancho
+01 25 01 02 02 018 00 La Guama
+01 25 01 02 02 019 00 La Yallita
+01 25 01 02 02 020 00 Los Mates
+01 25 01 02 02 021 00 Las Auyamas
+01 25 01 02 02 022 00 Los Ramones
+01 25 01 02 02 023 00 El Ribón
+01 25 01 02 02 024 00 Alto Gordo
+01 25 01 02 02 025 00 La Finca
+01 25 01 02 02 026 00 La Guamita
+01 25 01 02 02 027 00 Las Cayas
+01 25 01 02 02 028 00 El Maizal
+01 25 01 02 02 029 00 La Guázara
+01 25 01 02 02 030 00 Los Rincones
+01 25 01 02 02 031 00 Alto de Cedro
+01 25 01 05 00 000 00 La Canela (DM)
+01 25 01 05 01 000 00 La Canela (Zona urbana)
+01 25 01 05 01 001 00 Canela Abajo
+01 25 01 05 01 001 01 Canela Abajo
+01 25 01 05 01 002 00 Nuevo
+01 25 01 05 01 002 01 Nuevo
+01 25 01 05 01 003 00 Canela Arriba o Centro del Pueblo
+01 25 01 05 01 003 01 Canela Arriba o Centro del Pueblo
+01 25 01 05 02 000 00 Hatillo San lorenzo
+01 25 01 05 02 001 00 Hatillo San Lorenzo
+01 25 01 05 02 002 00 Baitoa Clara
+01 25 01 05 02 003 00 Los Cerritos
+01 25 01 05 02 004 00 Platanal Adentro
+01 25 01 05 02 005 00 Platanal Afuera o Arriba
+01 25 01 05 02 006 00 Platanal Abajo
+01 25 01 05 02 007 00 Platanal La Joya
+01 25 01 05 02 008 00 Capilla
+01 25 01 05 02 009 00 Piedra Grande o Gorda
+01 25 01 05 02 010 00 El Túnel
+01 25 01 05 03 000 00 Sabana Grande de Batey I
+01 25 01 05 03 001 00 Sabana Grande de Batey I
+01 25 01 05 03 002 00 Cuesta Arena
+01 25 01 05 03 003 00 Los Almácigos
+01 25 01 06 00 000 00 San Francisco de Jacagua (DM)
+01 25 01 06 01 000 00 San Francisco de Jacagua (Zona urbana)
+01 25 01 06 01 001 00 San Francisco Arriba
+01 25 01 06 01 001 01 San Francisco Arriba
+01 25 01 06 01 002 00 Los Cocos o San Francisco Abajo
+01 25 01 06 01 002 01 Los Cocos o San Francisco Abajo
+01 25 01 06 01 003 00 Palmarito
+01 25 01 06 01 003 01 Palmarito
+01 25 01 06 01 004 00 Quinigua
+01 25 01 06 01 004 01 Quinigua
+01 25 01 06 02 000 00 Jacagua Adentro
+01 25 01 06 02 001 00 La Búcara
+01 25 01 06 02 002 00 Auqueyes
+01 25 01 06 02 003 00 Loma de Agua Honda
+01 25 01 06 02 004 00 El Buzo
+01 25 01 06 02 005 00 Jacagua Adentro
+01 25 01 06 02 006 00 El Play
+01 25 01 06 02 007 00 El Níspero
+01 25 01 06 02 008 00 La Tinaja
+01 25 01 06 03 000 00 Jacagua al Medio
+01 25 01 06 03 001 00 Jacagua Abajo
+01 25 01 06 03 002 00 Jacagua al Medio
+01 25 01 06 03 003 00 La Playa
+01 25 01 06 04 000 00 la ciénaga
+01 25 01 06 04 001 00 La Ciénaga
+01 25 01 06 04 002 00 Los Tocones
+01 25 01 06 05 000 00 El Ranchito Piche
+01 25 01 06 05 001 00 Piche
+01 25 01 06 05 002 00 La Guazumita
+01 25 01 06 05 003 00 Los Manantiales
+01 25 01 06 05 004 00 El Ranchito
+01 25 01 06 05 005 00 Loma de Sabana
+01 25 01 06 05 006 00 Cuesta de Quinigua
+01 25 01 06 05 007 00 La Hondura
+01 25 01 06 06 000 00 Las Tres Cruces
+01 25 01 06 06 001 00 Las Tres Cruces
+01 25 01 06 06 002 00 Jacagua
+01 25 01 06 06 003 00 Monte Adentro
+01 25 01 06 06 004 00 Jacagua Arriba
+01 25 01 06 06 005 00 La Furnia
+01 25 01 06 06 006 00 El Buzo
+01 25 01 06 06 007 00 Palmarito
+01 25 01 06 06 008 00 Quinigua
+01 25 01 06 07 000 00 El Aguacate
+01 25 01 06 07 001 00 El Aguacate de Jacagua
+01 25 01 06 07 002 00 La Calabacita
+01 25 01 06 08 000 00 Palo Alto
+01 25 01 06 08 001 00 Palo Alto
+01 25 01 06 09 000 00 los Guineos
+01 25 01 06 09 001 00 Los Guineos
+01 25 01 06 09 002 00 Palmar Arriba
+01 25 01 06 10 000 00 la Delgada
+01 25 01 06 10 001 00 La Delgada
+01 25 01 06 10 002 00 La Delgada Arriba
+01 25 01 06 11 000 00 Salamanca
+01 25 01 06 11 001 00 El Alto del Jamo
+01 25 01 06 11 002 00 Los Arroyos de Salamanca
+01 25 01 06 11 003 00 Salamanca
+01 25 01 07 00 000 00 Hato del Yaque (DM)
+01 25 01 07 01 000 00 Hato del Yaque (Zona urbana)
+01 25 01 07 01 001 00 El Portón
+01 25 01 07 01 001 01 El Portón
+01 25 01 07 01 002 00 El tamarindo
+01 25 01 07 01 002 01 El Tamarindo
+01 25 01 07 01 002 02 San Ramón
+01 25 01 07 01 003 00 Ensanche Hermanas Mirabal
+01 25 01 07 01 003 01 Ensanche Hermanas Mirabal
+01 25 01 07 01 004 00 la Mina
+01 25 01 07 01 004 01 La Mina
+01 25 01 07 01 004 02 La Mina Arriba o La Rotonda
+01 25 01 07 01 004 03 La Mina Abajo
+01 25 01 07 01 005 00 La Paz
+01 25 01 07 01 005 01 La Paz
+01 25 01 07 01 006 00 La Rinconada
+01 25 01 07 01 006 01 La Rinconada
+01 25 01 07 01 007 00 los Jiménez
+01 25 01 07 01 007 01 Los Jiménez
+01 25 01 07 01 007 02 Los Jiménez Arriba
+01 25 01 07 01 008 00 Monseñor Eliseo Pérez
+01 25 01 07 01 008 01 Monseñor Eliseo Pérez
+01 25 01 07 01 009 00 Praderas del Yaque
+01 25 01 07 01 009 01 Praderas del Yaque
+01 25 01 07 01 009 02 Los Letreros
+01 25 01 07 01 009 03 Reparto Las Colinas
+01 25 01 07 01 010 00 San antonio
+01 25 01 07 01 010 01 San Antonio
+01 25 01 07 01 011 00 urbanización Grullón
+01 25 01 07 01 011 01 Urbanización Grullón
+01 25 01 07 01 011 02 Brisas del Yaque
+01 25 01 07 01 012 00 Villa Fátima
+01 25 01 07 01 012 01 Villa Fátima
+01 25 01 07 01 012 02 Los Guandules
+01 25 01 07 01 013 00 Villa Progreso
+01 25 01 07 01 013 01 Villa Progreso
+01 25 01 07 01 014 00 Mateo Pelón
+01 25 01 07 01 014 01 Mateo Pelón
+01 25 01 07 02 000 00 Hato del Yaque
+01 25 01 07 02 001 00 San Antonio
+01 25 01 07 02 002 00 Hato del Yaque Abajo
+01 25 01 07 02 003 00 Villa Tabacalera
+01 25 01 07 03 000 00 Villa Bao
+01 25 01 07 03 001 00 Villa Bao Arriba
+01 25 01 07 03 002 00 Villa Bao Abajo
+01 25 01 07 04 000 00 El Flúmer
+01 25 01 07 04 001 00 El Flúmer
+01 25 01 07 04 002 00 Barceló
+01 25 01 07 04 003 00 El Muro
+01 25 01 07 05 000 00 Guayacanal
+01 25 01 07 05 001 00 Guayacanal
+01 25 01 07 05 002 00 Finca de Aciba
+01 25 01 07 05 003 00 El Salao
+01 25 01 08 00 000 00 Santiago Oeste (DM)
+01 25 01 08 01 000 00 Santiago Oeste (Zona urbana)
+01 25 01 08 01 001 00 cienfuegos central
+01 25 01 08 01 001 01 Cienfuegos Central
+01 25 01 08 01 001 02 Duarte I
+01 25 01 08 01 001 03 Los Rieles
+01 25 01 08 01 001 04 Brisas del Canal
+01 25 01 08 01 001 05 Ensanche La Fe
+01 25 01 08 01 001 06 Ciudad Satélite I
+01 25 01 08 01 001 07 El Semillero I
+01 25 01 08 01 001 08 Ensanche José Manuel
+01 25 01 08 01 001 09 El Fondo de la Botella (Fondo de Botella)
+01 25 01 08 01 001 10 Ingenio Arriba
+01 25 01 08 01 001 11 La Gloria
+01 25 01 08 01 001 12 La Mosca
+01 25 01 08 01 001 13 La Piña
+01 25 01 08 01 001 14 La Pulga
+01 25 01 08 01 001 15 Llanos del Ingenio
+01 25 01 08 01 001 16 Monte Bonito
+01 25 01 08 01 001 17 San Antonio
+01 25 01 08 01 001 18 Cerros de San Lorenzo
+01 25 01 08 01 001 19 Villa Gloria
+01 25 01 08 01 001 20 Villa Rosa
+01 25 01 08 01 001 21 Las Colinas (Las Colinas de Cienfuegos)
+01 25 01 08 01 001 22 Alto Bonito
+01 25 01 08 01 001 23 San Lorenzo
+01 25 01 08 01 001 24 La Paz
+01 25 01 08 01 001 25 La Javilla
+01 25 01 08 01 001 26 Sector Macario Sánchez
+01 25 01 08 01 001 27 Pinar del Rio
+01 25 01 08 01 001 28 Duarte III
+01 25 01 08 01 001 29 Duarte II
+01 25 01 08 01 001 30 Villa Hermosa
+01 25 01 08 01 001 31 Nuevo Milenio (Villa Gloria)
+01 25 01 08 01 001 32 La Gloria de Cienfuegos (Centro)
+01 25 01 08 01 001 33 Ciudad de Dios
+01 25 01 08 01 001 34 Ciudad Satélite II (Los Multi de ciudad Satelite)
+01 25 01 08 01 001 35 Villa Rosa II
+01 25 01 08 01 001 36 Bendición del Norte
+01 25 01 08 01 001 37 La Bendición
+01 25 01 08 01 001 38 San Lorenzo II
+01 25 01 08 01 001 39 Colinas de La Libertad
+01 25 01 08 01 001 40 Ingenio Abajo
+01 25 01 08 01 001 41 Brisas del Canal II
+01 25 01 08 01 001 42 El Semillero II
+01 25 01 08 01 001 43 Urbanización San Lorenzo
+01 25 01 08 01 001 44 Santa Lucía
+01 25 01 08 01 001 45 El Nazareno
+01 25 01 08 01 001 46 El Hoyo
+01 25 01 08 01 001 47 La Tablita
+01 25 01 08 01 001 48 Reparto Villa Fe
+01 25 01 08 01 001 49 Villa de San Lorenzo
+01 25 01 08 01 001 50 Villa Rosa I
+01 25 01 08 01 001 51 Urbanización Don Jaime
+01 25 01 08 01 001 52 Ensanche Alegría
+01 25 01 08 01 001 53 Sector Ocho
+01 25 01 08 01 001 54 Valle Bonito (Valle Lindo)
+01 25 01 08 01 001 55 Ensanche San Lorenzo
+01 25 01 08 01 001 56 Villa Duarte I
+01 25 01 08 01 001 57 Villa Duarte II
+01 25 01 08 01 002 00 Monte Rico
+01 25 01 08 01 002 01 Monte Rico
+01 25 01 08 01 002 02 Ingenio
+01 25 01 08 01 002 03 La Unión I
+01 25 01 08 01 002 04 Ensanche Mella I
+01 25 01 08 01 002 05 Ensanche Mella II
+01 25 01 08 01 002 06 La Unión II
+01 25 01 08 01 002 07 Urbanización Monte Rico I
+01 25 01 08 01 002 08 Urbanización Monte Rico II
+01 25 01 08 01 002 09 Apartamentos de Monterico
+01 25 01 08 01 002 10 Cerro de Don Juan
+01 25 01 08 01 002 11 La Torre del Mella I
+01 25 01 08 01 002 12 Ensanche Mella I Central
+01 25 01 08 01 002 13 El Tabaco
+01 25 01 08 02 000 00 Parada 7
+01 25 01 08 02 001 00 Parada 7
+01 25 01 08 02 002 00 San Miguel
+01 25 01 08 02 003 00 El Progreso (Villa Progreso)
+01 25 01 08 02 004 00 La Emboscada
+01 25 01 08 02 005 00 Mejía
+01 25 01 08 02 006 00 El Ingenio Abajo
+01 25 01 08 02 007 00 El Ingenio Arriba
+01 25 01 08 02 008 00 La Cacata
+01 25 02 00 00 000 00 Bisonó
+01 25 02 01 00 000 00 Bisonó
+01 25 02 01 01 000 00 Bisonó (Zona urbana)
+01 25 02 01 01 001 00 El cerro
+01 25 02 01 01 001 01 El Cerro
+01 25 02 01 01 001 02 Juan Goris
+01 25 02 01 01 001 03 La Justicia
+01 25 02 01 01 002 00 Centro del Pueblo
+01 25 02 01 01 002 01 Centro del Pueblo
+01 25 02 01 01 003 00 los candelones
+01 25 02 01 01 003 01 Los Candelones
+01 25 02 01 01 003 02 El Acueducto
+01 25 02 01 01 003 03 Urbanización Portela
+01 25 02 01 01 004 00 Duarte
+01 25 02 01 01 004 01 Duarte
+01 25 02 01 01 005 00 Jeremías o Nuevo
+01 25 02 01 01 005 01 Jeremías o Nuevo
+01 25 02 01 01 006 00 Jalisco
+01 25 02 01 01 006 01 Jalisco
+01 25 02 01 01 007 00 la Mella
+01 25 02 01 01 007 01 La Mella
+01 25 02 01 01 008 00 San Antonio (El Bolsillo)
+01 25 02 01 01 008 01 San Antonio (El Bolsillo)
+01 25 02 01 01 009 00 la trinitaria
+01 25 02 01 01 009 01 La Trinitaria
+01 25 02 01 01 010 00 la rotonda
+01 25 02 01 01 010 01 La Rotonda
+01 25 02 01 01 011 00 27 de Febrero
+01 25 02 01 01 011 01 27 de Febrero
+01 25 02 01 01 011 02 Reparto Peralta
+01 25 02 01 01 012 00 La Altagracia
+01 25 02 01 01 012 01 La Altagracia
+01 25 02 01 01 013 00 San Miguel
+01 25 02 01 01 013 01 San Miguel
+01 25 02 01 01 014 00 Duarte "A" o Chiche de León
+01 25 02 01 01 014 01 Duarte "A" o Chiche de León
+01 25 02 01 01 015 00 Hermanas Mirabal
+01 25 02 01 01 015 01 Hermanas Mirabal
+01 25 02 01 01 015 02 Augusto Batista
+01 25 02 01 01 016 00 Manolo tavárez Justo
+01 25 02 01 01 016 01 Manolo Tavárez Justo
+01 25 02 01 01 017 00 El Abanico
+01 25 02 01 01 017 01 El Abanico
+01 25 02 01 01 018 00 Pica Piedra (El Canal)
+01 25 02 01 01 018 01 Pica Piedra (El Canal)
+01 25 02 01 01 019 00 Minerva o Simón Bolívar
+01 25 02 01 01 019 01 Minerva o Simón Bolívar
+01 25 02 01 01 020 00 La Escuela o El Callejón de La Toma
+01 25 02 01 01 020 01 La Escuela o El Callejón de La Toma
+01 25 02 01 01 021 00 Mejía Arriba
+01 25 02 01 01 021 01 Mejía Arriba
+01 25 02 01 01 022 00 Mejía Abajo
+01 25 02 01 01 022 01 Mejía Abajo
+01 25 02 01 01 023 00 Loma de Perro
+01 25 02 01 01 023 01 Loma de Perro
+01 25 02 01 01 023 02 Viejo Carril
+01 25 02 01 01 024 00 San José
+01 25 02 01 01 024 01 San José
+01 25 02 01 01 025 00 Pontón
+01 25 02 01 01 025 01 Pontón
+01 25 02 01 01 026 00 La Estación o El Canal (Esteban Martinez)
+01 25 02 01 01 026 01 La Estación o El Canal (Esteban Martinez)
+01 25 02 01 01 027 00 los Girasoles
+01 25 02 01 01 027 01 Los Girasoles
+01 25 02 01 02 000 00 Cañada Bonita
+01 25 02 01 02 001 00 Cañada Bonita
+01 25 02 01 02 002 00 El Catey
+01 25 02 01 02 003 00 Guanábano del Limón
+01 25 02 01 02 004 00 El Caimito
+01 25 02 01 02 005 00 Agua Hedionda
+01 25 02 01 02 006 00 La Atravesada
+01 25 02 01 02 007 00 Las Raíces
+01 25 02 01 02 008 00 Los Cachimbos
+01 25 02 01 02 009 00 Las Caobas
+01 25 02 01 02 010 00 El Estado
+01 25 02 01 02 011 00 Gancho de Jobo
+01 25 02 01 02 012 00 El Túnel
+01 25 02 01 02 013 00 Los Cedros
+01 25 02 01 02 014 00 La Estación
+01 25 02 01 03 000 00 Estancia del Yaque
+01 25 02 01 03 001 00 Estancia del Yaque
+01 25 02 01 04 000 00 la lomota
+01 25 02 01 04 001 00 El Puente
+01 25 02 01 04 002 00 Los Muñoz
+01 25 02 01 04 003 00 El Cabirmal
+01 25 02 01 04 004 00 Los Cabrera o La Lometa
+01 25 02 01 04 005 00 Alto de La Sierra (La Sierra)
+01 25 02 01 04 006 00 Los Brazos
+01 25 02 01 04 007 00 Los Ruales
+01 25 02 01 04 008 00 Cayota
+01 25 02 01 05 000 00 la Villa Nueva
+01 25 02 01 05 001 00 La Villa Nueva
+01 25 02 01 05 002 00 El Abra
+01 25 02 01 05 003 00 Cañada Higüero
+01 25 02 01 05 004 00 Los Higos
+01 25 02 01 05 005 00 La Tunita
+01 25 02 01 05 006 00 El Abra Arriba
+01 25 02 01 05 007 00 Cañada Sucia
+01 25 02 01 05 008 00 Agua Hedionda
+01 25 02 01 05 009 00 Aguacate de Navarrete
+01 25 02 01 06 000 00 Mejía de Navarrete
+01 25 02 01 06 001 00 Barrancón
+01 25 02 01 06 002 00 Los Candelones
+01 25 02 01 07 000 00 Pontoncito
+01 25 02 01 07 001 00 Pedro García
+01 25 02 01 07 002 00 Canal Cañeo
+01 25 02 01 07 003 00 Kilómetro 7
+01 25 02 01 07 004 00 Villa Tabacalera
+01 25 02 01 07 005 00 Cruce de Barrero
+01 25 02 01 07 006 00 Pontoncito
+01 25 02 01 07 007 00 Pun Pun
+01 25 02 01 08 000 00 Vuelta larga
+01 25 02 01 08 001 00 Vuelta Larga
+01 25 03 00 00 000 00 Jánico
+01 25 03 01 00 000 00 Jánico
+01 25 03 01 01 000 00 Jánico (Zona urbana)
+01 25 03 01 01 001 00 Centro del Pueblo
+01 25 03 01 01 001 01 Centro del Pueblo
+01 25 03 01 01 001 02 Joliu
+01 25 03 01 01 001 03 Las Monjas
+01 25 03 01 01 002 00 El Play
+01 25 03 01 01 002 01 El Play
+01 25 03 01 01 002 02 La Gallera
+01 25 03 01 01 003 00 San José
+01 25 03 01 01 003 01 San José
+01 25 03 01 01 003 02 El Tanque
+01 25 03 01 01 004 00 Pueblo Nuevo
+01 25 03 01 01 004 01 Pueblo Nuevo
+01 25 03 01 01 005 00 la caña
+01 25 03 01 01 005 01 La Caña
+01 25 03 01 02 000 00 cagüeyes
+01 25 03 01 02 001 00 Guayabales
+01 25 03 01 02 002 00 Las Cejitas
+01 25 03 01 02 003 00 Boca Naranjos
+01 25 03 01 02 004 00 Damajagua
+01 25 03 01 02 005 00 El Barco
+01 25 03 01 02 006 00 Las Yayas
+01 25 03 01 02 007 00 Cagüeyes
+01 25 03 01 02 008 00 El Palero
+01 25 03 01 03 000 00 Cebú
+01 25 03 01 03 001 00 Arroyo Piedra
+01 25 03 01 03 002 00 Batey
+01 25 03 01 03 003 00 Cebú
+01 25 03 01 03 004 00 Damajagua
+01 25 03 01 03 005 00 Los Jazmines
+01 25 03 01 03 006 00 Guatiniquín
+01 25 03 01 03 007 00 La Caoba
+01 25 03 01 04 000 00 Dicayagua Abajo
+01 25 03 01 04 001 00 Arroyo Seco
+01 25 03 01 04 002 00 El Verde
+01 25 03 01 04 003 00 Los Indios
+01 25 03 01 04 004 00 Zalaya
+01 25 03 01 04 005 00 Los Robles
+01 25 03 01 04 006 00 Dicayagua Abajo
+01 25 03 01 04 007 00 Los Altos
+01 25 03 01 04 008 00 Dicayagua Arriba
+01 25 03 01 05 000 00 Jagua Abajo
+01 25 03 01 05 001 00 Jagua Abajo
+01 25 03 01 05 002 00 El Naranjo
+01 25 03 01 05 003 00 Los Guanos
+01 25 03 01 05 004 00 Llano de Jagua
+01 25 03 01 05 005 00 Henequén
+01 25 03 01 05 006 00 Loma de la Vaca
+01 25 03 01 05 007 00 La Piña
+01 25 03 01 05 008 00 Los Lavaderos
+01 25 03 01 05 009 00 Cañada Grande
+01 25 03 01 05 010 00 La Cuchilla
+01 25 03 01 05 011 00 Los Calabozos
+01 25 03 01 05 012 00 Jagua Arriba
+01 25 03 01 06 000 00 loma del corral
+01 25 03 01 06 001 00 Loma del Corral
+01 25 03 01 06 002 00 La Caña
+01 25 03 01 06 003 00 La Fortaleza
+01 25 03 01 06 004 00 Los Lirios
+01 25 03 01 06 005 00 Málaga
+01 25 03 01 06 006 00 Piedra Gorda
+01 25 03 01 06 007 00 Loma Sucia
+01 25 03 01 07 000 00 Mesetas
+01 25 03 01 07 001 00 Babocico
+01 25 03 01 07 002 00 Gurabo
+01 25 03 01 07 003 00 Boca de Jánico
+01 25 03 01 07 004 00 Las Mesetas
+01 25 03 01 07 005 00 Bao
+01 25 03 01 07 006 00 Monterías
+01 25 03 01 07 007 00 Los Asientos
+01 25 03 01 07 008 00 Hoyo de Bao
+01 25 03 01 07 009 00 Baiguaque
+01 25 03 02 00 000 00 Juncalito (DM)
+01 25 03 02 01 000 00 Juncalito (Zona urbana)
+01 25 03 02 01 001 00 María Auxiliadora
+01 25 03 02 01 001 01 María Auxiliadora
+01 25 03 02 01 002 00 Divino Niño
+01 25 03 02 01 002 01 Divino Niño
+01 25 03 02 01 003 00 Fe y Alegria
+01 25 03 02 01 003 01 Fe y Alegria
+01 25 03 02 01 003 02 La Altagracia
+01 25 03 02 01 004 00 San Miguel
+01 25 03 02 01 004 01 San Miguel
+01 25 03 02 01 005 00 Santa rosa de lima
+01 25 03 02 01 005 01 Santa Rosa de Lima
+01 25 03 02 01 006 00 Santa ana
+01 25 03 02 01 006 01 Santa Ana
+01 25 03 02 01 006 02 San José Abajo
+01 25 03 02 01 006 03 Jesús de Nazaret
+01 25 03 02 01 007 00 San antonio
+01 25 03 02 01 007 01 San Antonio
+01 25 03 02 02 000 00 Franco Bidó
+01 25 03 02 02 001 00 Cerro Prieto
+01 25 03 02 02 002 00 Baiguaque
+01 25 03 02 02 003 00 Franco Bidó
+01 25 03 02 02 004 00 Los Cadillos
+01 25 03 02 02 005 00 Lora de Los Auqueyes
+01 25 03 02 02 006 00 Sabaneta Abajo
+01 25 03 02 02 007 00 Los Auqueyes
+01 25 03 02 02 008 00 Los Cirises
+01 25 03 02 02 009 00 El Pinazo
+01 25 03 02 02 010 00 Zalzamora (Zarzamora)
+01 25 03 02 02 011 00 Arroyo Malo
+01 25 03 02 02 012 00 Los Guayuyos
+01 25 03 02 03 000 00 Janey
+01 25 03 02 03 001 00 Río Abajo
+01 25 03 02 03 002 00 Los Lora
+01 25 03 02 03 003 00 El Palero
+01 25 03 02 03 004 00 El Tuerto
+01 25 03 02 03 005 00 Quebrada
+01 25 03 02 03 006 00 El Quemado
+01 25 03 02 03 007 00 La Laguna
+01 25 03 02 03 008 00 La Calabaza
+01 25 03 02 03 009 00 Janey
+01 25 03 02 03 010 00 Los Auyenes
+01 25 03 02 03 011 00 Sabaneta Arriba
+01 25 03 02 03 012 00 El Naranjo
+01 25 03 02 03 013 00 La Berenjena
+01 25 03 02 03 014 00 Los Montazos
+01 25 03 02 03 015 00 Río Arriba
+01 25 03 02 04 000 00 Juncalito Abajo
+01 25 03 02 04 001 00 Dójima
+01 25 03 02 04 002 00 La Norita
+01 25 03 02 04 003 00 La Lechuza
+01 25 03 02 04 004 00 La Estaca
+01 25 03 02 04 005 00 El Higüero
+01 25 03 02 04 006 00 Loma de La Cruz
+01 25 03 02 04 007 00 El Naranjito
+01 25 03 02 04 008 00 Piedra Blanca
+01 25 03 02 04 009 00 La Calaberna
+01 25 03 02 04 010 00 Juncalito Arriba
+01 25 03 02 04 011 00 La Culebra
+01 25 03 02 04 012 00 Los Arroyos
+01 25 03 02 04 013 00 Loma Prieta
+01 25 03 02 04 014 00 Los Granizos
+01 25 03 02 04 015 00 Rincón del Novillo
+01 25 03 02 04 016 00 El Cacique
+01 25 03 02 04 017 00 Pico Alto
+01 25 03 02 05 000 00 Rincón Largo
+01 25 03 02 05 001 00 Naranjo Dulce
+01 25 03 02 05 002 00 El Mocho
+01 25 03 02 05 003 00 Los Positos
+01 25 03 02 05 004 00 Rincón Largo
+01 25 03 02 06 000 00 Rincón Llano
+01 25 03 02 06 001 00 Rincón Llano
+01 25 03 02 06 002 00 La Paría
+01 25 03 02 06 003 00 Cerro Prieto
+01 25 03 02 06 004 00 El Peñón
+01 25 03 02 06 005 00 El Cerrazo
+01 25 03 02 06 006 00 Lomita Prieta
+01 25 03 02 06 007 00 Parque Nacional
+01 25 03 02 06 008 00 Loma del Rancho
+01 25 03 02 06 009 00 Pajarito
+01 25 03 02 06 010 00 La Guajaca
+01 25 03 03 00 000 00 El Caimito (DM)
+01 25 03 03 01 000 00 El Caimito (Zona urbana)
+01 25 03 03 01 001 00 El caimito
+01 25 03 03 01 001 01 El Caimito
+01 25 03 03 01 002 00 El Palero
+01 25 03 03 01 002 01 El Palero
+01 25 03 03 01 003 00 Los Corocitos
+01 25 03 03 01 003 01 Los Corocitos
+01 25 03 03 01 004 00 los caballos
+01 25 03 03 01 004 01 Los Caballos
+01 25 03 03 01 005 00 Paso Afuera
+01 25 03 03 01 005 01 Paso Afuera
+01 25 03 03 02 000 00 Yaque Abajo
+01 25 03 03 02 001 00 El Aguacate
+01 25 03 03 02 002 00 El Brujo (Yaque Abajo)
+01 25 03 03 02 003 00 El Corral
+01 25 03 03 02 004 00 El Yagual o El Jagual
+01 25 03 03 02 005 00 Yaque Arriba
+01 25 03 03 02 006 00 La Pocilguita
+01 25 03 03 02 007 00 Los Camarones
+01 25 03 03 02 008 00 Los Palmaritos
+01 25 03 03 03 000 00 El caimito
+01 25 03 03 03 001 00 El Hoyo u Hoyo Bello
+01 25 03 03 03 002 00 El Presentado
+01 25 03 03 04 000 00 Pinalito
+01 25 03 03 04 001 00 Pinalito
+01 25 03 03 04 002 00 Botoncillo
+01 25 03 03 04 003 00 Guanajuma
+01 25 03 03 04 004 00 El Anón
+01 25 03 03 04 005 00 Las Auyamas
+01 25 03 03 04 006 00 Damajagua
+01 25 03 03 04 007 00 Henequén
+01 25 03 03 04 008 00 Cañete
+01 25 03 03 04 009 00 Loma Alta
+01 25 03 03 05 000 00 Los Pilones
+01 25 03 03 05 001 00 Arenilla
+01 25 03 03 05 002 00 Bejucal
+01 25 03 03 05 003 00 El Córbano
+01 25 03 03 05 004 00 El Monteadero
+01 25 03 03 05 005 00 El Papayo
+01 25 03 03 05 006 00 El Pescadero
+01 25 03 03 05 007 00 El Roblito
+01 25 03 03 05 008 00 El Turco
+01 25 03 03 05 009 00 La Cidra
+01 25 03 03 05 010 00 La Cueva
+01 25 03 03 05 011 00 La Faldiquera
+01 25 03 03 05 012 00 La Guamita
+01 25 03 03 05 013 00 La Horqueta
+01 25 03 03 05 014 00 La Jagua o La Vagua
+01 25 03 03 05 015 00 Las Ánimas
+01 25 03 03 05 016 00 Los Calimetes
+01 25 03 03 05 017 00 Los Pilones
+01 25 03 03 05 018 00 El Pie de Los Pilones
+01 25 03 03 05 019 00 Potranquita
+01 25 03 03 05 020 00 Rancho Viejo
+01 25 03 03 05 021 00 Rincón Llano
+01 25 03 03 05 022 00 Hundidera
+01 25 03 03 06 000 00 la Guama
+01 25 03 03 06 001 00 Aguacate
+01 25 03 03 06 002 00 El Corral
+01 25 03 03 06 003 00 El Cerrazo
+01 25 03 03 06 004 00 La Guama o La Guania
+01 25 03 03 06 005 00 Los Negros
+01 25 03 03 06 006 00 Piedra Blanca
+01 25 03 03 06 007 00 Las Palerías
+01 25 03 03 06 008 00 Los Limones
+01 25 03 03 06 009 00 La Cidra
+01 25 03 03 06 010 00 Paso Hondo
+01 25 03 03 06 011 00 Los Tomates
+01 25 04 00 00 000 00 Licey al Medio
+01 25 04 01 00 000 00 Licey al Medio
+01 25 04 01 01 000 00 Licey al Medio (Zona urbana)
+01 25 04 01 01 001 00 Villa alba
+01 25 04 01 01 001 01 Villa Alba
+01 25 04 01 01 001 02 Urbanización Las Gaviotas
+01 25 04 01 01 002 00 los osorias
+01 25 04 01 01 002 01 Los Osorias
+01 25 04 01 01 002 02 Los Cocos o El Coco
+01 25 04 01 01 003 00 los Solano
+01 25 04 01 01 003 01 Los Solano
+01 25 04 01 01 004 00 El centro
+01 25 04 01 01 004 01 El Centro
+01 25 04 01 01 004 02 Residencial Dalma Rosa (Alma Rosa)
+01 25 04 01 01 004 03 Residencial Jardines de Licey
+01 25 04 01 01 004 04 Urbanización Los Rodríguez
+01 25 04 01 01 004 05 Urbanización Las Gaviotas
+01 25 04 01 01 004 06 Urbanización Fineta
+01 25 04 01 01 004 07 Urbanización Hermanas Mirabal
+01 25 04 01 02 000 00 La Cruz de María Francisca
+01 25 04 01 02 001 00 La Cruz de María Francisca
+01 25 04 01 02 002 00 Limonal Arriba
+01 25 04 01 03 000 00 Licey Arriba
+01 25 04 01 03 001 00 Licey Arriba
+01 25 04 01 03 002 00 Monte Adentro Arriba
+01 25 04 01 04 000 00 Licey Abajo
+01 25 04 01 04 001 00 Licey Abajo
+01 25 04 01 05 000 00 cruz de isalguez
+01 25 04 01 05 001 00 Cruz de Isalguez
+01 25 04 02 00 000 00 Las Palomas (DM)
+01 25 04 02 01 000 00 Las Palomas (Zona urbana)
+01 25 04 02 01 001 00 Las Palomas o Centro del Pueblo
+01 25 04 02 01 001 01 Las Palomas o Centro del Pueblo
+01 25 04 02 01 002 00 limonal
+01 25 04 02 01 002 01 Limonal
+01 25 04 02 01 002 02 Callejón de la Alegría
+01 25 04 02 01 002 03 Callejón Julio Blanco
+01 25 04 02 01 002 04 Callejón Los Torres
+01 25 04 02 01 002 05 Callejón Polito
+01 25 04 02 01 002 06 Los Otilio
+01 25 04 02 01 002 07 Salsa I
+01 25 04 02 01 002 08 Salsa II
+01 25 04 02 01 003 00 Las Palomas Abajo
+01 25 04 02 01 003 01 Las Palomas Abajo
+01 25 04 02 01 003 02 Urbanización San Gregorio
+01 25 04 02 01 003 03 Entrada de Paulino
+01 25 04 02 01 003 04 Urbanización Los Ureña
+01 25 04 02 01 003 05 Calle Bordón
+01 25 04 02 01 003 06 Los Rodríguez
+01 25 04 02 01 003 07 Los Santos o Los Macos
+01 25 04 02 01 004 00 los aritas
+01 25 04 02 01 004 01 Los Aritas
+01 25 04 02 01 004 02 Los Lindanas
+01 25 04 02 01 004 03 Los Martes
+01 25 04 02 01 004 04 La Poza Prieta
+01 25 04 02 01 004 05 La Rusia
+01 25 04 02 01 004 06 Los Burgos
+01 25 04 02 01 005 00 Las Palomas Arriba
+01 25 04 02 01 005 01 Las Palomas Arriba
+01 25 04 02 01 005 02 Los Castillos
+01 25 04 02 01 005 03 Urbanización Caraballo
+01 25 04 02 01 005 04 Los Triunfel
+01 25 04 02 01 005 05 Los Matas
+01 25 04 02 01 005 06 Los Acevedos
+01 25 04 02 01 005 07 Chuchu Jorge
+01 25 04 02 01 006 00 los Mirandas
+01 25 04 02 01 006 01 Los Mirandas
+01 25 04 02 01 007 00 Cruce de Chón
+01 25 04 02 01 007 01 Cruce de Chón
+01 25 04 02 01 008 00 Los Portes
+01 25 04 02 01 008 01 Los Portes
+01 25 04 02 01 009 00 Triple Play
+01 25 04 02 01 009 01 Triple Play
+01 25 04 02 01 010 00 los colelos
+01 25 04 02 01 010 01 Los Colelos
+01 25 04 02 01 011 00 Los Cruces
+01 25 04 02 01 011 01 Los Cruces
+01 25 04 02 02 000 00 Las Palomas Arriba
+01 25 04 02 02 001 00 Uveral
+01 25 05 00 00 000 00 San José de las Matas
+01 25 05 01 00 000 00 San José de las Matas
+01 25 05 01 01 000 00 San José de Las Matas (Zona urbana)
+01 25 05 01 01 001 00 Pueblo Nuevo
+01 25 05 01 01 001 01 Pueblo Nuevo
+01 25 05 01 01 001 02 Balaguer
+01 25 05 01 01 001 03 Don Luis
+01 25 05 01 01 002 00 Centro del Pueblo
+01 25 05 01 01 002 01 Centro del Pueblo
+01 25 05 01 01 002 02 La Piñita
+01 25 05 01 01 003 00 Villa Duarte arriba
+01 25 05 01 01 003 01 Villa Duarte Arriba
+01 25 05 01 01 003 02 Urbanización Estrella
+01 25 05 01 01 003 03 Vietnam
+01 25 05 01 01 003 04 Urbanización Zarzuela
+01 25 05 01 01 004 00 Villa Duarte Abajo
+01 25 05 01 01 004 01 Villa Duarte Abajo
+01 25 05 01 01 004 02 Ensanche Las Palmas
+01 25 05 01 01 004 03 Ensanche Las Caobas
+01 25 05 01 01 004 04 Ensanche Los Jardines
+01 25 05 01 01 005 00 Paraíso de Las Matas
+01 25 05 01 01 005 01 Paraíso de Las Matas
+01 25 05 01 01 006 00 cañada del caimito
+01 25 05 01 01 006 01 Cañada del Caimito
+01 25 05 01 01 006 02 Cerro Hermoso
+01 25 05 01 01 006 03 Villa Verdúm
+01 25 05 01 01 007 00 La Mansión
+01 25 05 01 01 007 01 La Mansión
+01 25 05 01 01 008 00 Ojo de Agua
+01 25 05 01 01 008 01 Ojo de Agua
+01 25 05 01 01 009 00 Villa Esperanza
+01 25 05 01 01 009 01 Villa Esperanza
+01 25 05 01 01 010 00 Paraíso
+01 25 05 01 01 010 01 Paraíso
+01 25 05 01 01 011 00 urbanización Ofelia
+01 25 05 01 01 011 01 Urbanización Ofelia
+01 25 05 01 02 000 00 inoa
+01 25 05 01 02 001 00 La Mara
+01 25 05 01 02 002 00 Los Payasos o Los Parayases
+01 25 05 01 02 003 00 Los Palmaritos
+01 25 05 01 02 004 00 Barrancón
+01 25 05 01 02 005 00 El Caimito
+01 25 05 01 02 006 00 Nava
+01 25 05 01 02 007 00 Caobanico
+01 25 05 01 02 008 00 Pinalito
+01 25 05 01 02 009 00 El Corozo
+01 25 05 01 02 010 00 Quebrada Honda
+01 25 05 01 02 011 00 Vereda de Amina
+01 25 05 01 02 012 00 Los Platanitos
+01 25 05 01 02 013 00 Inoa Abajo
+01 25 05 01 02 014 00 Bernabé
+01 25 05 01 02 015 00 Boca de Higua
+01 25 05 01 02 016 00 Las Brujas
+01 25 05 01 02 017 00 Ceja de Higüero
+01 25 05 01 02 018 00 Los Naranjos
+01 25 05 01 02 019 00 Bejucal
+01 25 05 01 02 020 00 Las Yayas
+01 25 05 01 02 021 00 La Cabirma
+01 25 05 01 02 022 00 Higua
+01 25 05 01 02 023 00 Los Arroyos
+01 25 05 01 02 024 00 Los Pinos
+01 25 05 01 02 025 00 Inoa
+01 25 05 01 03 000 00 Eugenio Perdomo
+01 25 05 01 03 001 00 Pavón
+01 25 05 01 03 002 00 Limbao
+01 25 05 01 03 003 00 Guzmán
+01 25 05 01 03 004 00 Vidal Pichardo
+01 25 05 01 03 005 00 El Alto
+01 25 05 01 03 006 00 Higüero
+01 25 05 01 03 007 00 Pedro Disla
+01 25 05 01 03 008 00 Paralimón
+01 25 05 01 03 009 00 Proyecto Monción
+01 25 05 01 03 010 00 La Breña
+01 25 05 01 03 011 00 La Cabuya
+01 25 05 01 03 012 00 Moscoso
+01 25 05 01 03 013 00 La Guázuma
+01 25 05 01 04 000 00 Mata Grande
+01 25 05 01 04 001 00 Mata Grande
+01 25 05 01 04 002 00 Arroyo Prieto
+01 25 05 01 04 003 00 Los Junquitos
+01 25 05 01 04 004 00 Antonsape
+01 25 05 01 04 005 00 La Mina
+01 25 05 01 04 006 00 Loma Prieta
+01 25 05 01 04 007 00 Sabaneta
+01 25 05 01 04 008 00 Rancho al Medio
+01 25 05 01 04 009 00 Los Aposentos
+01 25 05 01 04 010 00 Guacaritas
+01 25 05 01 04 011 00 El Valle
+01 25 05 01 04 012 00 Montellano
+01 25 05 01 04 013 00 Mohoso
+01 25 05 01 04 014 00 Loma del Loro
+01 25 05 01 05 000 00 Los Montones Abajo
+01 25 05 01 05 001 00 Bohío Viejo
+01 25 05 01 05 002 00 Los dos Pinos
+01 25 05 01 05 003 00 La Fortuna
+01 25 05 01 05 004 00 Arroyo al Medio
+01 25 05 01 05 005 00 Loma de Mara
+01 25 05 01 05 006 00 La Guazarita
+01 25 05 01 05 007 00 Loma Bajita
+01 25 05 01 05 008 00 Los Montones Abajo
+01 25 05 01 05 009 00 Damajagua
+01 25 05 01 05 010 00 La Guázuma
+01 25 05 01 05 011 00 Boca de Guázuma
+01 25 05 01 05 012 00 Cañada Llana
+01 25 05 01 05 013 00 Corocitos
+01 25 05 01 05 014 00 Mezquino
+01 25 05 01 05 015 00 Loma de Jánico
+01 25 05 01 05 016 00 San Bartolo
+01 25 05 01 05 017 00 Lomita de Piedras
+01 25 05 01 05 018 00 Rincón de Piedras
+01 25 05 01 05 019 00 El Tallado
+01 25 05 01 05 020 00 Capita
+01 25 05 01 05 021 00 Rancho de Copey
+01 25 05 01 05 022 00 Río Arriba
+01 25 05 01 05 023 00 La Ceiba
+01 25 05 01 05 024 00 Don Juan
+01 25 05 01 05 025 00 Los Montones Arriba
+01 25 05 01 05 026 00 La Cana
+01 25 05 01 05 027 00 La Bija
+01 25 05 01 05 028 00 Los Lirios
+01 25 05 01 05 029 00 Llano de la Cana
+01 25 05 01 05 030 00 La Ceja
+01 25 05 01 05 031 00 Cepito
+01 25 05 01 05 032 00 Ortega
+01 25 05 01 05 033 00 Magueyal
+01 25 05 01 05 034 00 Piedra Gorda
+01 25 05 01 06 000 00 Pedregal
+01 25 05 01 06 001 00 Botoncillo
+01 25 05 01 06 002 00 Pedregal
+01 25 05 01 06 003 00 Loma de la Vaca
+01 25 05 01 06 004 00 Arroyo Jánico
+01 25 05 01 06 005 00 La Ceiba
+01 25 05 01 06 006 00 Motolón
+01 25 05 01 06 007 00 Cerro Gordo
+01 25 05 01 06 008 00 Hoya Bellaca
+01 25 05 01 06 009 00 Guajaca
+01 25 05 01 06 010 00 El Verde
+01 25 05 01 06 011 00 Sui
+01 25 05 01 06 012 00 Loma de la Ciénaga
+01 25 05 01 06 013 00 Mejía
+01 25 05 01 06 014 00 La Guázuma
+01 25 05 01 07 000 00 Las Piedras
+01 25 05 01 07 001 00 Las Piedras
+01 25 05 01 07 002 00 El Guano
+01 25 05 01 07 003 00 Los Jíbaros
+01 25 05 01 07 004 00 El Llano de las Piedras
+01 25 05 01 07 005 00 Aguacate
+01 25 05 01 07 006 00 Manaclar
+01 25 05 01 07 007 00 Arroyo Puerto
+01 25 05 01 07 008 00 Alto del Dajao
+01 25 05 01 07 009 00 El Limón
+01 25 05 01 07 010 00 Loma de los Ríos
+01 25 05 01 07 011 00 Arroyo la Vieja
+01 25 05 01 07 012 00 Tierra Colorada
+01 25 05 01 07 013 00 El Carrizal
+01 25 05 01 07 014 00 Arroyo Carrizal
+01 25 05 01 07 015 00 Palo de Burro
+01 25 05 01 07 016 00 El Rodeo
+01 25 05 01 07 017 00 Dajao Abajo
+01 25 05 01 07 018 00 Arroyo Malo o Arroyo del Dajao
+01 25 05 01 07 019 00 Laguna del Dajao
+01 25 05 01 07 020 00 La Sierrecita
+01 25 05 01 07 021 00 El Dajao
+01 25 05 01 07 022 00 El Dajao de Las Piedras
+01 25 05 01 08 000 00 Yerba Buena
+01 25 05 01 08 001 00 Llano de la Tala
+01 25 05 01 08 002 00 Los Llanos
+01 25 05 01 08 003 00 Mariana
+01 25 05 01 08 004 00 Yerba Buena
+01 25 05 01 08 005 00 Quebrada Llana
+01 25 05 01 08 006 00 Carpintero
+01 25 05 01 08 007 00 Los Cedros
+01 25 05 01 08 008 00 Llano del Jobo
+01 25 05 01 08 009 00 Copey
+01 25 05 01 08 010 00 Loma al Medio
+01 25 05 01 08 011 00 La Peña
+01 25 05 01 08 012 00 Higua
+01 25 05 01 08 013 00 El Limpio
+01 25 05 01 08 014 00 El Naranjo
+01 25 05 01 08 015 00 Los Corrales
+01 25 05 01 08 016 00 Cerro Malo
+01 25 05 01 08 017 00 Arroyo Hondo
+01 25 05 01 08 018 00 El Mamey
+01 25 05 01 08 019 00 Jaquey
+01 25 05 01 08 020 00 Quebradita
+01 25 05 01 08 021 00 Hoyo de Ramón
+01 25 05 01 08 022 00 Cañada del Caimito
+01 25 05 01 08 023 00 Inoa Arriba
+01 25 05 02 00 000 00 El Rubio (DM)
+01 25 05 02 01 000 00 El Rubio (Zona urbana)
+01 25 05 02 01 001 00 El rubio
+01 25 05 02 01 001 01 El Rubio
+01 25 05 02 01 001 02 Las Tres Esquinas
+01 25 05 02 01 001 03 El Alto
+01 25 05 02 01 001 04 Las Peñitas Azules
+01 25 05 02 01 001 05 Proyecto Azcona
+01 25 05 02 02 000 00 Cañafístol
+01 25 05 02 02 001 00 El Córbano
+01 25 05 02 02 002 00 Cañafístol
+01 25 05 02 02 003 00 Los Borno o La Vieja Mea
+01 25 05 02 02 004 00 Los Ramones o Bulla
+01 25 05 02 03 000 00 celestina
+01 25 05 02 03 001 00 El Orégano
+01 25 05 02 03 002 00 Bohío Viejo
+01 25 05 02 03 003 00 Las Cuevas
+01 25 05 02 03 004 00 Los Fogones
+01 25 05 02 03 005 00 Los Corralitos
+01 25 05 02 03 006 00 Los Hoyitos
+01 25 05 02 03 007 00 Las Altamisas
+01 25 05 02 03 008 00 Sabana Abajo
+01 25 05 02 03 009 00 Los Cacaos
+01 25 05 02 03 010 00 Cañada Grande
+01 25 05 02 03 011 00 La Penda
+01 25 05 02 03 012 00 Sierrecita
+01 25 05 02 03 013 00 Los Helechos
+01 25 05 02 03 014 00 Celestina
+01 25 05 02 03 015 00 La Batea
+01 25 05 02 03 016 00 Los Jicacos
+01 25 05 02 03 017 00 Los Espatiles
+01 25 05 02 03 018 00 Don Domingo
+01 25 05 02 04 000 00 Corocito
+01 25 05 02 04 001 00 Cañada Bonita
+01 25 05 02 04 002 00 Corocito
+01 25 05 02 04 003 00 Loma de las Canas
+01 25 05 02 04 004 00 Los Naranjos
+01 25 05 02 04 005 00 Los Ramones
+01 25 05 02 04 006 00 El Polvazo
+01 25 05 02 04 007 00 Las Minas
+01 25 05 02 04 008 00 Las Guajacas
+01 25 05 02 04 009 00 Loma Llana
+01 25 05 02 04 010 00 Corocito Abajo
+01 25 05 02 04 011 00 El Atacador
+01 25 05 02 05 000 00 Diferencia
+01 25 05 02 05 001 00 Rancho del Cojo
+01 25 05 02 05 002 00 Río los Palos
+01 25 05 02 05 003 00 Cerro Negro
+01 25 05 02 05 004 00 Monte Llano
+01 25 05 02 05 005 00 Los Arroyos
+01 25 05 02 05 006 00 Mata de Palma
+01 25 05 02 05 007 00 Marilope
+01 25 05 02 05 008 00 Diferencia
+01 25 05 02 05 009 00 Paso del Ganado
+01 25 05 02 05 010 00 Sierrecita
+01 25 05 02 05 011 00 Paredes Prietas
+01 25 05 02 05 012 00 El Dajao
+01 25 05 02 05 013 00 El Crucero
+01 25 05 02 05 014 00 Cerrito Pelado
+01 25 05 02 05 015 00 Loma de Guayabo
+01 25 05 02 06 000 00 Jicomé
+01 25 05 02 06 001 00 Bañaderos
+01 25 05 02 06 002 00 Roncador
+01 25 05 02 06 003 00 Sonador
+01 25 05 02 06 004 00 La Sierrecita
+01 25 05 02 06 005 00 El Guayabo
+01 25 05 02 06 006 00 Jicomé
+01 25 05 02 06 007 00 Loma del Medio
+01 25 05 02 06 008 00 Juan Fino
+01 25 05 02 06 009 00 La Piña
+01 25 05 02 06 010 00 Loma Bajita
+01 25 05 02 06 011 00 Calimetal
+01 25 05 02 06 012 00 El Gallo
+01 25 05 02 06 013 00 Loma Vieja
+01 25 05 02 06 014 00 Rincón de Higüero
+01 25 05 02 06 015 00 Vallecito
+01 25 05 02 06 016 00 Palero
+01 25 05 02 07 000 00 Maguá
+01 25 05 02 07 001 00 Los Limones
+01 25 05 02 07 002 00 La Guaranita
+01 25 05 02 07 003 00 Maguá Arriba
+01 25 05 02 07 004 00 La Mina
+01 25 05 02 07 005 00 Palmarito
+01 25 05 02 07 006 00 Las Auyamas
+01 25 05 02 07 007 00 Maguá al Medio
+01 25 05 02 07 008 00 La Hoya
+01 25 05 02 07 009 00 Maguá Abajo
+01 25 05 02 07 010 00 Cerro Bonito
+01 25 05 02 07 011 00 Hoyo de Los Corozos
+01 25 05 02 07 012 00 Mata de Tuna
+01 25 05 02 07 013 00 El Estribo
+01 25 05 02 07 014 00 El Centro
+01 25 05 02 07 015 00 Los Cercadillos
+01 25 05 02 07 016 00 El Crucero
+01 25 05 02 08 000 00 Manacla
+01 25 05 02 08 001 00 Paso del Ganado
+01 25 05 02 08 002 00 Manacla
+01 25 05 02 08 003 00 Racho de La Cana
+01 25 05 02 08 004 00 Cabismal
+01 25 05 02 08 005 00 El Manaclar
+01 25 05 02 08 006 00 Los Malcotes
+01 25 05 02 08 007 00 La Navaja
+01 25 05 02 09 000 00 Mata del Dajao
+01 25 05 02 09 001 00 Palo Amarillo
+01 25 05 02 09 002 00 Mata del Dajao
+01 25 05 02 09 003 00 Los Cacaos
+01 25 05 02 09 004 00 El Dajao
+01 25 05 02 09 005 00 Los Mosquitos
+01 25 05 02 09 006 00 Cabuya
+01 25 05 02 09 007 00 La Ceiba
+01 25 05 02 09 008 00 Cerro de la Cana
+01 25 05 02 09 009 00 La Ciénaga
+01 25 05 02 09 010 00 El Cajuil
+01 25 05 02 09 011 00 El Anisetal
+01 25 05 02 09 012 00 La Guárana
+01 25 05 02 09 013 00 La Isleta
+01 25 05 02 10 000 00 Naranjo Bojón
+01 25 05 02 10 001 00 Bojón
+01 25 05 02 10 002 00 Naranjo
+01 25 05 02 10 003 00 Naranjo Bojón
+01 25 05 02 10 004 00 Mata de Cana
+01 25 05 02 10 005 00 Valeonor
+01 25 05 02 10 006 00 Caña Llana
+01 25 05 02 10 007 00 Recodo
+01 25 05 02 10 008 00 Los Baos
+01 25 05 02 10 009 00 Naranjo Abajo
+01 25 05 02 11 000 00 Pananao
+01 25 05 02 11 001 00 Las Auyamas
+01 25 05 02 11 002 00 Pananao Arriba
+01 25 05 02 11 003 00 La Potranca
+01 25 05 02 11 004 00 Los Sillones
+01 25 05 02 11 005 00 Pananao
+01 25 05 02 11 006 00 Pananao al Medio
+01 25 05 02 11 007 00 La Toza
+01 25 05 02 11 008 00 Los Rincones
+01 25 05 02 11 009 00 La Estrechura de la Negra
+01 25 05 02 11 010 00 El Córbano
+01 25 05 02 11 011 00 Pananao Abajo
+01 25 05 02 11 012 00 La Sábana
+01 25 05 02 11 013 00 La Vereda
+01 25 05 02 11 014 00 La Sabaneta
+01 25 05 02 11 015 00 Bajo del Pino
+01 25 05 02 11 016 00 Los Cajuiles
+01 25 05 02 12 000 00 El rubio
+01 25 05 02 12 001 00 Cuatro Esquinas
+01 25 05 02 12 002 00 Las Guáranas
+01 25 05 02 12 003 00 Rincón Llano
+01 25 05 02 12 004 00 La Culata
+01 25 05 02 12 005 00 El Cabrejito
+01 25 05 02 12 006 00 El Naranjito
+01 25 05 02 12 007 00 Los Guayuyos
+01 25 05 02 12 008 00 La Palmita
+01 25 05 02 12 009 00 La Laguna
+01 25 05 02 12 010 00 Cabreja
+01 25 05 02 12 011 00 Rubio Adentro
+01 25 05 02 12 012 00 El Pinar
+01 25 05 02 12 013 00 El Bambú
+01 25 05 02 12 014 00 Los Hornilos
+01 25 05 02 12 015 00 El Corralito
+01 25 05 02 12 016 00 Los Higos Gordos
+01 25 05 03 00 000 00 La Cuesta (DM)
+01 25 05 03 01 000 00 La Cuesta (Zona urbana)
+01 25 05 03 01 001 00 la cuesta
+01 25 05 03 01 001 01 La Cuesta
+01 25 05 03 01 001 02 San Ramón
+01 25 05 03 01 002 00 Guaralbana o Guanalbana
+01 25 05 03 01 002 01 Guaralbana o Guanalbana
+01 25 05 03 01 003 00 El Cruce
+01 25 05 03 01 003 01 El Cruce
+01 25 05 03 01 004 00 Hipólito Peralta
+01 25 05 03 01 004 01 Hipólito Peralta
+01 25 05 03 02 000 00 Jaiqui Picado
+01 25 05 03 02 001 00 Arroyo Hondo
+01 25 05 03 02 002 00 Albanita o La Boca de Albanita
+01 25 05 03 02 003 00 El Corozo
+01 25 05 03 02 004 00 Jaiqui Picao Arriba (Ají Picao Arriba)
+01 25 05 03 02 005 00 Jaiqui Picao Abajo (Ají Picao Abajo)
+01 25 05 03 02 006 00 Los Rancheros
+01 25 05 03 02 007 00 Pozo Colorado (Hoyito San Lorenzo)
+01 25 05 03 03 000 00 Eugenio Perdomo
+01 25 05 03 03 001 00 Albana
+01 25 05 03 03 002 00 Eugenio Perdomo
+01 25 05 03 03 003 00 La Cueva
+01 25 05 03 03 004 00 La Guanita
+01 25 05 03 03 005 00 La Tuna
+01 25 05 03 03 006 00 Loma Albanita
+01 25 05 03 03 007 00 Lo Melmonto
+01 25 05 03 03 008 00 Pared Limpia
+01 25 05 03 03 009 00 Sabaneta
+01 25 05 03 04 000 00 Guama
+01 25 05 03 04 001 00 El Molino
+01 25 05 03 04 002 00 Loma Sucia
+01 25 05 03 04 003 00 El Chorrerón
+01 25 05 03 04 004 00 Guama Arriba o La Guama
+01 25 05 03 04 005 00 Guamita o Guama Abajo
+01 25 05 03 04 006 00 Hoya Bellaca
+01 25 05 03 04 007 00 La Chorrera
+01 25 05 03 04 008 00 Lorenzo
+01 25 05 03 04 009 00 Los Calabozos o La Calabaza
+01 25 05 03 04 010 00 Los Ciruelos
+01 25 05 03 05 000 00 Loma de los Palos
+01 25 05 03 05 001 00 Las Auyamas
+01 25 05 03 05 002 00 Loma del Toro
+01 25 05 03 05 003 00 Loma de los Palos
+01 25 05 03 05 004 00 Pueblo Nuevo
+01 25 05 03 05 005 00 Sierra del Guano
+01 25 05 03 06 000 00 loma Quemada
+01 25 05 03 06 001 00 El Limpio
+01 25 05 03 06 002 00 Loma Quemada
+01 25 05 03 06 003 00 Los Ciruelos
+01 25 05 03 07 000 00 Cuesta Abajo
+01 25 05 03 07 001 00 Anayo
+01 25 05 03 07 002 00 Cañada de la Tabla
+01 25 05 03 07 003 00 Cañete
+01 25 05 03 07 004 00 Cuesta Arriba
+01 25 05 03 07 005 00 Cueto
+01 25 05 03 07 006 00 Caimonal
+01 25 05 03 07 007 00 El Pinal
+01 25 05 03 07 008 00 Gurabo
+01 25 05 03 07 009 00 La Anacahuíta
+01 25 05 03 07 010 00 Loma Amarilla
+01 25 05 03 07 011 00 Loma del Pinal
+01 25 05 03 07 012 00 Loma del Viento
+01 25 05 03 07 013 00 Los Paleros
+01 25 05 03 07 014 00 Los Positos
+01 25 05 03 07 015 00 Ojo de Agua
+01 25 05 03 07 016 00 La Sierrecita
+01 25 05 03 07 017 00 Aciba
+01 25 05 03 07 018 00 La Bozúa
+01 25 05 04 00 000 00 Las Placetas (DM)
+01 25 05 04 01 000 00 Las Placetas (Zona urbana)
+01 25 05 04 01 001 00 Las Placetas
+01 25 05 04 01 001 01 Las Placetas
+01 25 05 04 01 001 02 Los Manguitos
+01 25 05 04 01 001 03 Los Cerros de Los Petigres o La Yaguita
+01 25 05 04 01 001 04 El Manguito
+01 25 05 04 02 000 00 Damajagua
+01 25 05 04 02 001 00 Bohío Viejo
+01 25 05 04 02 002 00 Damajagua Adentro
+01 25 05 04 02 003 00 Guayabales
+01 25 05 04 02 004 00 La Bija
+01 25 05 04 02 005 00 La Cabirma
+01 25 05 04 02 006 00 La Jagua
+01 25 05 04 02 007 00 Las Carreras
+01 25 05 04 02 008 00 Los Corrales
+01 25 05 04 02 009 00 Manaclar
+01 25 05 04 02 010 00 Palero
+01 25 05 04 02 011 00 Palmarito
+01 25 05 04 02 012 00 Rincón Largo
+01 25 05 04 02 013 00 Río Arriba
+01 25 05 04 02 014 00 Damajagua
+01 25 05 04 03 000 00 los limones
+01 25 05 04 03 001 00 Arroyo Hondo
+01 25 05 04 03 002 00 Las Placetas al Medio
+01 25 05 04 03 003 00 Las Placetas Arriba
+01 25 05 04 03 004 00 Loma El Colorado
+01 25 05 04 03 005 00 Los Limones
+01 25 05 04 03 006 00 Piedra Partida
+01 25 05 04 03 007 00 Rincón del Junco
+01 25 05 04 04 000 00 Jamamú
+01 25 05 04 04 001 00 Calimetal
+01 25 05 04 04 002 00 Cercadillo
+01 25 05 04 04 003 00 Jamamú
+01 25 05 04 04 004 00 Jamamucito
+01 25 05 04 05 000 00 las lagunas
+01 25 05 04 05 001 00 Donajá
+01 25 05 04 05 002 00 Laguna Arriba
+01 25 05 04 05 003 00 Las Lagunas
+01 25 05 04 05 004 00 Loma los Ríos
+01 25 05 04 05 005 00 Parte Bellaca
+01 25 05 04 05 006 00 Ranchito Postrero
+01 25 06 00 00 000 00 tamboril
+01 25 06 01 00 000 00 tamboril
+01 25 06 01 01 000 00 Tamboril (Zona urbana)
+01 25 06 01 01 001 00 Hico Martínez
+01 25 06 01 01 001 01 Hico Martínez
+01 25 06 01 01 001 02 Los Martínez
+01 25 06 01 01 002 00 Centro del Pueblo
+01 25 06 01 01 002 01 Centro del Pueblo
+01 25 06 01 01 002 02 El Calientísimo
+01 25 06 01 01 003 00 Valentín
+01 25 06 01 01 003 01 Valentín
+01 25 06 01 01 004 00 Manolo Dájer
+01 25 06 01 01 004 01 Manolo Dájer
+01 25 06 01 01 004 02 Los Cerros de Tamboril
+01 25 06 01 01 005 00 Los Recio
+01 25 06 01 01 005 01 Los Recio
+01 25 06 01 01 006 00 Haina (El Coquito)
+01 25 06 01 01 006 01 Haina (El Coquito)
+01 25 06 01 01 007 00 Vista alegre
+01 25 06 01 01 007 01 Vista Alegre
+01 25 06 01 01 008 00 Boca de Licey
+01 25 06 01 01 008 01 Boca de Licey
+01 25 06 01 01 009 00 Moncada
+01 25 06 01 01 009 01 Moncada
+01 25 06 01 01 010 00 Don Manuel
+01 25 06 01 01 010 01 Don Manuel
+01 25 06 01 01 011 00 Carlos Díaz (Alfonso de Jesús )
+01 25 06 01 01 011 01 Carlos Díaz (Alfonso de Jesús )
+01 25 06 01 01 011 02 Los Cacaos
+01 25 06 01 01 012 00 La Cacata
+01 25 06 01 01 012 01 La Cacata
+01 25 06 01 01 013 00 Los Polanco
+01 25 06 01 01 013 01 Los Polanco
+01 25 06 01 01 014 00 la Ermita de tamboril
+01 25 06 01 01 014 01 La Ermita de Tamboril
+01 25 06 01 01 015 00 Buenos Aires Maizal
+01 25 06 01 01 015 01 Buenos Aires Maizal
+01 25 06 01 01 016 00 Vista del Valle
+01 25 06 01 01 016 01 Vista del Valle
+01 25 06 01 02 000 00 Boca de Maizal
+01 25 06 01 02 001 00 El Caño
+01 25 06 01 02 002 00 El Molino
+01 25 06 01 02 003 00 Ojo de Agua
+01 25 06 01 02 004 00 Maizal
+01 25 06 01 02 005 00 Haina
+01 25 06 01 02 006 00 Niño de Antorcha
+01 25 06 01 02 007 00 Boca de Maizal
+01 25 06 01 02 008 00 Guazumal Abajo
+01 25 06 01 03 000 00 Guazumal arriba
+01 25 06 01 03 001 00 Los Leones
+01 25 06 01 03 002 00 Gurabo
+01 25 06 01 03 003 00 La China
+01 25 06 01 03 004 00 El Coco
+01 25 06 01 03 005 00 Canturria Abajo
+01 25 06 01 03 006 00 Guazumal Arriba
+01 25 06 01 03 007 00 Los Rieles
+01 25 06 01 03 008 00 El Caño
+01 25 06 01 03 009 00 Guazumal Licey (Guazumal Abajo)
+01 25 06 01 04 000 00 Las Bocas del Licey
+01 25 06 01 04 001 00 Boca de Licey
+01 25 06 01 04 002 00 Los Liceyes
+01 25 06 01 04 003 00 Arroyo las Bellacas
+01 25 06 01 04 004 00 La Sabana
+01 25 06 01 04 005 00 Miguel Sánchez
+01 25 06 01 04 006 00 Los Cacaos
+01 25 06 01 04 007 00 Los Guineos
+01 25 06 01 05 000 00 Licey al Medio
+01 25 06 01 05 001 00 Kilómetro 1
+01 25 06 01 05 002 00 Licey al Medio
+01 25 06 01 05 003 00 Los Marcano
+01 25 06 01 05 004 00 Los Santana
+01 25 06 01 06 000 00 Pontezuela
+01 25 06 01 06 001 00 Pontezuela
+01 25 06 01 06 002 00 Don Pedro Abajo
+01 25 06 01 06 003 00 Don Pedro Arriba Licey
+01 25 06 01 06 004 00 Pontezuela Arriba
+01 25 06 02 00 000 00 Canca La Piedra (DM)
+01 25 06 02 01 000 00 Canca La Piedra (Zona urbana)
+01 25 06 02 01 001 00 la Hoya
+01 25 06 02 01 001 01 La Hoya
+01 25 06 02 01 002 00 La Piedra
+01 25 06 02 01 002 01 La Piedra
+01 25 06 02 01 003 00 los rieles
+01 25 06 02 01 003 01 Los Rieles
+01 25 06 02 01 004 00 arenoso
+01 25 06 02 01 004 01 Arenoso
+01 25 06 02 01 005 00 Pueblo Nuevo
+01 25 06 02 01 005 01 Pueblo Nuevo
+01 25 06 02 02 000 00 Canca Abajo
+01 25 06 02 02 001 00 El Molino
+01 25 06 02 02 002 00 El Palmar
+01 25 06 02 02 003 00 Juan Antonio Alix
+01 25 06 02 02 004 00 Canca Abajo
+01 25 06 02 03 000 00 Los Amaceyes Arriba
+01 25 06 02 03 001 00 Amaceyes Arriba 
+01 25 06 02 03 002 00 Amaceyes Abajo 
+01 25 06 02 03 003 00 La Lomita
+01 25 06 02 03 004 00 Palma Picada de Los Amaceyes
+01 25 06 02 03 005 00 La Boca del Sonador
+01 25 06 02 03 006 00 El Alto
+01 25 06 02 04 000 00 Carlos Díaz
+01 25 06 02 04 001 00 Los Factores o Carlos Díaz
+01 25 06 02 04 002 00 Seboruco
+01 25 06 02 04 003 00 La Hoya
+01 25 06 02 04 004 00 Palma Picada de Carlos Díaz
+01 25 06 02 04 005 00 Guatemala
+01 25 06 02 05 000 00 Canca Las Aromas
+01 25 06 02 05 001 00 Canca Arriba
+01 25 06 02 05 002 00 Canca Las Aromas
+01 25 06 02 05 003 00 Canca Arriba la Nueva
+01 25 06 02 05 004 00 Alto del Aguacate
+01 25 06 02 05 005 00 Nigua
+01 25 07 00 00 000 00 Villa González
+01 25 07 01 00 000 00 Villa González
+01 25 07 01 01 000 00 Villa González (Zona urbana)
+01 25 07 01 01 001 00 cementerio
+01 25 07 01 01 001 01 Cementerio
+01 25 07 01 01 001 02 Alba Rosa
+01 25 07 01 01 002 00 Espaillat
+01 25 07 01 01 002 01 Espaillat
+01 25 07 01 01 003 00 Centro del Pueblo
+01 25 07 01 01 003 01 Centro del Pueblo
+01 25 07 01 01 004 00 Arrenquillo
+01 25 07 01 01 004 01 Arrenquillo
+01 25 07 01 01 005 00 Nueva Esperanza
+01 25 07 01 01 005 01 Nueva Esperanza
+01 25 07 01 01 005 02 Los Vineles
+01 25 07 01 01 006 00 la lomita
+01 25 07 01 01 006 01 La Lomita
+01 25 07 01 01 006 02 La Jabilla
+01 25 07 01 01 006 03 El Paraíso
+01 25 07 01 01 007 00 Vidal Guillén
+01 25 07 01 01 007 01 Vidal Guillén
+01 25 07 01 02 000 00 las lavas
+01 25 07 01 02 001 00 Las Lavas
+01 25 07 01 02 002 00 Palmarejo
+01 25 07 01 02 003 00 El Boquerón
+01 25 07 01 02 004 00 El Martillo
+01 25 07 01 02 005 00 La Lomita del Palmar Abajo
+01 25 07 01 02 006 00 Arrenquillo
+01 25 07 01 03 000 00 Palmar Abajo
+01 25 07 01 03 001 00 Loma Mata Puercos
+01 25 07 01 03 002 00 El Jamo
+01 25 07 01 03 003 00 La Lomita
+01 25 07 01 03 004 00 Palmar Abajo
+01 25 07 01 03 005 00 El Rincón
+01 25 07 01 03 006 00 La Breña
+01 25 07 01 03 007 00 Villa Duarte
+01 25 07 01 04 000 00 Quinigua
+01 25 07 01 04 001 00 Ingenio Abajo
+01 25 07 01 04 002 00 Cruce de Quinigua
+01 25 07 01 04 003 00 Quinigua de La Yuca (La Yuca)
+01 25 07 01 04 004 00 Villa del Yaque
+01 25 07 01 04 005 00 Banegas
+01 25 07 01 04 006 00 Quinigua
+01 25 07 02 00 000 00 Palmar Arriba (DM)
+01 25 07 02 01 000 00 Palmar Arriba (Zona urbana)
+01 25 07 02 01 001 00 Palmar Arriba
+01 25 07 02 01 001 01 Palmar Arriba
+01 25 07 02 01 002 00 El Pozo
+01 25 07 02 01 002 01 El Pozo
+01 25 07 02 01 003 00 lindo
+01 25 07 02 01 003 01 Lindo
+01 25 07 02 02 000 00 Palmar Arriba
+01 25 07 02 02 001 00 La Piedra
+01 25 07 02 02 002 00 Loma de La Llanada
+01 25 07 02 02 003 00 Arroyo del Agua
+01 25 07 02 02 004 00 Quebrada Honda
+01 25 07 02 02 005 00 El Pozo
+01 25 07 02 02 006 00 Los Manantiales
+01 25 07 03 00 000 00 El Limón (DM)
+01 25 07 03 01 000 00 El Limón (Zona urbana)
+01 25 07 03 01 001 00 El Limón
+01 25 07 03 01 001 01 El Limón
+01 25 07 03 01 002 00 la cuesta
+01 25 07 03 01 002 01 La Cuesta
+01 25 07 03 01 003 00 la Sabana
+01 25 07 03 01 003 01 La Sabana
+01 25 07 03 02 000 00 Macorís del Limón
+01 25 07 03 02 001 00 Llano Grande
+01 25 07 03 02 002 00 Macorís
+01 25 07 03 02 003 00 Los Pérez
+01 25 07 03 02 004 00 Higo de Agua
+01 25 07 03 02 005 00 La Aguaíta 
+01 25 07 03 02 006 00 Pérez de Los Mates
+01 25 07 03 02 007 00 Los Mates
+01 25 07 03 02 008 00 Mata Puercos
+01 25 07 03 02 009 00 Altos de Los Mates
+01 25 07 03 02 010 00 Los Jobos
+01 25 07 03 02 011 00 Los Lebrillos (La 14)
+01 25 07 03 02 012 00 La U
+01 25 07 03 03 000 00 El Aguacate
+01 25 07 03 03 001 00 El Aguacate
+01 25 07 03 03 002 00 La Cumbre
+01 25 07 03 03 003 00 Palo Blanco
+01 25 07 03 03 004 00 Ranchito
+01 25 07 03 04 000 00 Los Jardines del Limón
+01 25 07 03 04 001 00 La Pocilguita
+01 25 07 03 04 002 00 Barrio Lindo o La Finquita
+01 25 07 03 04 003 00 Vuelta Larga
+01 25 07 03 04 004 00 Las Aromas
+01 25 07 03 04 005 00 Los Uveros
+01 25 07 03 05 000 00 El Limón
+01 25 07 03 05 001 00 Caracol
+01 25 07 03 05 002 00 La Calabaza
+01 25 07 03 05 003 00 Los Robles
+01 25 08 00 00 000 00 Puñal
+01 25 08 01 00 000 00 Puñal
+01 25 08 01 01 000 00 Puñal (Zona urbana)
+01 25 08 01 01 001 00 Puñal Adentro o San José
+01 25 08 01 01 001 01 Puñal Adentro o San José
+01 25 08 01 01 001 02 Los Adames
+01 25 08 01 01 001 03 Los Roques
+01 25 08 01 01 001 04 Los Vásquez
+01 25 08 01 01 001 05 Lourdes
+01 25 08 01 01 001 06 La Javilla
+01 25 08 01 01 002 00 Puñal Afuera
+01 25 08 01 01 002 01 Puñal Afuera
+01 25 08 01 01 002 02 Puñal Los Cocos de Chino
+01 25 08 01 01 002 03 Residencial El Paraíso
+01 25 08 01 02 000 00 Puñal
+01 25 08 01 02 001 00 Los Cocos
+01 25 08 01 03 000 00 arenoso
+01 25 08 01 03 001 00 Arenoso o Arenoso Arriba
+01 25 08 01 03 002 00 Los Albinos
+01 25 08 01 03 003 00 Los González
+01 25 08 01 03 004 00 Los Cabral
+01 25 08 01 03 005 00 Los Rodríguez
+01 25 08 01 03 006 00 Los Estrella
+01 25 08 01 03 007 00 Tierra Blanca
+01 25 08 01 04 000 00 la Jabilla
+01 25 08 01 04 001 00 La Jabilla
+01 25 08 01 04 002 00 Los Cercadillos
+01 25 08 01 04 003 00 San Antonio
+01 25 08 01 05 000 00 Matanzas
+01 25 08 01 05 001 00 Monte Adentro
+01 25 08 01 05 002 00 Matanzas Adentro
+01 25 08 01 05 003 00 Mantanzas Afuera
+01 25 08 01 05 004 00 Alto de Matanzas
+01 25 08 01 06 000 00 Laguna Prieta
+01 25 08 01 06 001 00 Laguna Prieta al Centro
+01 25 08 01 06 002 00 Monte Adentro
+01 25 08 01 06 003 00 Laguna Prieta Abajo
+01 25 08 01 06 004 00 Laguna Prieta Arriba
+01 25 08 02 00 000 00 Guayabal (DM)
+01 25 08 02 01 000 00 Guayabal (Zona urbana)
+01 25 08 02 01 001 00 Guayabal
+01 25 08 02 01 001 01 Guayabal
+01 25 08 02 01 001 02 Guayabal Afuera
+01 25 08 02 01 001 03 Guayabal al Medio o Centro
+01 25 08 02 01 001 04 Residencial Nono
+01 25 08 02 01 001 05 Residencial Arturo Grullón
+01 25 08 02 01 001 06 Los Delgadillos
+01 25 08 02 02 000 00 Estancia Nueva
+01 25 08 02 02 001 00 Estancia Nueva
+01 25 08 02 02 002 00 Estancia Nueva Arriba
+01 25 08 02 02 003 00 Estancia Nueva Abajo
+01 25 08 02 02 004 00 Mora
+01 25 08 02 02 005 00 La Guázara
+01 25 08 02 03 000 00 Palo Amarillo
+01 25 08 02 03 001 00 Palo Amarillo
+01 25 08 02 03 002 00 La Angostura
+01 25 08 02 03 003 00 El Guano
+01 25 08 02 03 004 00 La Jagua Abajo
+01 25 08 02 04 000 00 Guayabal
+01 25 08 02 04 001 00 La Guázara
+01 25 08 02 04 002 00 Guayabal Arriba
+01 25 08 03 00 000 00 Canabacoa (DM)
+01 25 08 03 01 000 00 Canabacoa (Zona urbana)
+01 25 08 03 01 001 00 Canabacoa Abajo
+01 25 08 03 01 001 01 Canabacoa Abajo
+01 25 08 03 01 001 02 Residencial Harmoni
+01 25 08 03 01 001 03 Residencial Samantha
+01 25 08 03 02 000 00 Canabacoa
+01 25 08 03 02 001 00 Canabacoa
+01 25 08 03 02 002 00 La Capilla
+01 25 08 03 03 000 00 colorado
+01 25 08 03 03 001 00 Colorado
+01 25 08 03 03 002 00 Los Castillos
+01 25 08 03 03 003 00 Sabaneta de las Palomas
+01 25 08 03 03 004 00 Limonal Abajo
+01 25 08 03 03 005 00 La Freiduría o Fardiquera
+01 25 09 00 00 000 00 Sabana iglesia 
+01 25 09 01 00 000 00 Sabana iglesia 
+01 25 09 01 01 000 00 Sabana Iglesia (Zona urbana)
+01 25 09 01 01 001 00 La Arcilla
+01 25 09 01 01 001 01 La Arcilla
+01 25 09 01 01 001 02 Los Mamoneros
+01 25 09 01 01 001 03 Los Gringos
+01 25 09 01 01 001 04 Villa Estebanía
+01 25 09 01 01 001 05 Zona Centro
+01 25 09 01 01 002 00 La Corporación
+01 25 09 01 01 002 01 La Corporación
+01 25 09 01 01 002 02 La Piedra
+01 25 09 01 01 002 03 El Llano
+01 25 09 01 01 002 04 Monte de la Zanja
+01 25 09 01 01 003 00 San Pedro 
+01 25 09 01 01 003 01 San Pedro 
+01 25 09 01 01 003 02 Paraíso
+01 25 09 01 01 004 00 El Típico
+01 25 09 01 01 004 01 El Típico
+01 25 09 01 01 005 00 lindo
+01 25 09 01 01 005 01 Lindo
+01 25 09 01 02 000 00 Sabana iglesia
+01 25 09 01 02 001 00 Boca de Bao
+01 25 09 01 02 002 00 El Hoyo del Cercado
+01 25 09 01 02 003 00 La Barranca
+01 25 09 01 02 004 00 La Furnia (La Boca)
+01 25 09 01 02 005 00 La Galeta o La Goleta
+01 25 09 01 03 000 00 Los Ranchos
+01 25 09 01 03 001 00 Los Ranchos de Babosico Abajo
+01 25 09 01 03 002 00 Los Ranchos de Babosico Arriba
+01 25 09 01 03 003 00 Palo Amarillo
+01 25 09 01 03 004 00 La Joya (Rincón)
+01 25 09 01 03 005 00 Rancho Abajo (Vuelta Larga)
+01 25 09 01 03 006 00 Sabaneta
+01 25 09 01 03 007 00 Terrero
+01 25 09 01 03 008 00 Zalaya
+01 25 09 01 04 000 00 La Zanja
+01 25 09 01 04 001 00 Guardarraya
+01 25 09 01 04 002 00 La Caoba o Caobeta
+01 25 09 01 04 003 00 Boca de Corral
+01 25 09 01 04 004 00 Cañaveral
+01 25 09 01 04 005 00 El Fraile
+01 25 09 01 04 006 00 La Zanja
+01 25 09 01 04 007 00 Piedra Gorda
+01 25 09 01 04 008 00 Yerba de Culebra
+01 25 10 00 00 000 00 Baitoa
+01 25 10 01 00 000 00 Baitoa 
+01 25 10 01 01 000 00 Baitoa Centro (Zona urbana)
+01 25 10 01 01 001 00 Boca de Los Ríos
+01 25 10 01 01 001 01 Boca de Los Ríos
+01 25 10 01 01 002 00 la loma 
+01 25 10 01 01 002 01 La Loma 
+01 25 10 01 01 003 00 camboya 
+01 25 10 01 01 003 01 Camboya 
+01 25 10 01 01 004 00 ciudad Nueva
+01 25 10 01 01 004 01 Ciudad Nueva 
+01 25 10 01 01 005 00 Los Prados 
+01 25 10 01 01 005 01 Los Prados 
+01 25 10 01 01 006 00 Los Sánchez 
+01 25 10 01 01 006 01 Los Sanchéz 
+01 25 10 01 01 007 00 Cañada Bonita
+01 25 10 01 01 007 01 Cañada Bonita 
+01 25 10 01 01 008 00 El Paraíso 
+01 25 10 01 01 008 01 El Paraíso 
+01 25 10 01 01 009 00 La Cruz Roja 
+01 25 10 01 01 009 01 La Cruz Roja 
+01 25 10 01 01 010 00 La Lima Abajo 
+01 25 10 01 01 010 01 La Lima Abajo 
+01 25 10 01 01 011 00 Los Peña
+01 25 10 01 01 011 01 Los Peñas 
+01 25 10 01 01 012 00 Los Platanitos
+01 25 10 01 01 012 01 Los Platanitos 
+01 25 10 01 01 013 00 la Jagua 
+01 25 10 01 01 013 01 La Jagua 
+01 25 10 01 01 014 00 lima adentro
+01 25 10 01 01 014 01 Lima Adentro
+01 25 10 01 02 000 00 la Jagua
+01 25 10 01 02 001 00 El Callejón De Guano 
+01 25 10 01 02 002 00 Los Picos
+01 25 10 01 02 003 00 Doña Águeda
+01 25 10 01 02 004 00 La Jagua 
+01 25 10 01 03 000 00 López
+01 25 10 01 03 001 00 La Colmena 
+01 25 10 01 03 002 00 López
+01 25 10 01 03 003 00 La Angostura
+01 25 10 01 03 004 00 Los Melaos Arriba 
+01 25 10 01 03 005 00 Los Melaos Abajo 
+01 25 10 01 03 006 00 Los Limones
+01 25 10 01 03 007 00 Los Campeches
+01 25 10 01 03 008 00 López Abajo 
+01 25 10 01 03 009 00 Boca De López
+01 25 10 01 03 010 00 Loma De Cana
+01 25 10 01 04 000 00 San José adentro
+01 25 10 01 04 001 00 San José Adentro 
+01 25 10 01 04 002 00 Guardarraya Abajo (Guardarraya De Baitoa)
+01 25 10 01 04 003 00 Los Cedros
+01 25 10 01 04 004 00 La Mina Del 4 
+01 25 10 01 04 005 00 La Lomita
+01 25 10 01 04 006 00 Mocán De San José
+01 25 10 01 04 007 00 Kilómetro 5
+01 25 10 01 04 008 00 Kilómetro 6
+01 25 10 01 04 009 00 Cruce De Gaspar
+01 25 10 01 05 000 00 San José afuera
+01 25 10 01 05 001 00 San José Afuera 
+01 25 10 01 05 002 00 Los Alto 
+01 25 10 01 05 003 00 Doña María (Cruce De Doña María)
+01 25 10 01 05 004 00 La Sabana
+01 25 10 01 05 005 00 Los Indios
+01 25 10 01 06 000 00 los ciruelos
+01 25 10 01 06 001 00 Castillo Arriba
+01 25 10 01 06 002 00 Don Juan
+01 25 10 01 06 003 00 Castillo Abajo
+01 25 10 01 06 004 00 La Estancia (Estancia Nueva Abajo) 
+01 25 10 01 06 005 00 Kilómetro 13
+01 25 10 01 06 006 00 Kilómetro 12 
+01 25 10 01 06 007 00 Los Ciruelos O Los Ciruelitos
+01 25 10 01 06 008 00 La Jagua Arriba
+01 25 10 01 07 000 00 la lima
+01 25 10 01 07 001 00 La Lima
+01 25 10 01 07 002 00 Loma Del Coco
+01 25 10 01 07 003 00 Loma Quemada
+01 25 10 01 07 004 00 Arroyo Arriba
+01 25 10 01 07 005 00 La Capilla
+01 25 10 01 07 006 00 Lima Adentro 
+01 25 10 01 07 007 00 Santa Rosa

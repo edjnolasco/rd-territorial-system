@@ -1,0 +1,352 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o Nombre
+10 01 00 00 00 000 00 Distrito Nacional
+10 01 01 00 00 000 00 Santo Domingo de Guzmán
+10 01 01 01 00 000 00 Santo Domingo de Guzmán
+10 01 01 01 01 000 00 Santo Domingo de Guzmán (Zona urbana)
+10 01 01 01 01 001 00 Los Peralejos
+10 01 01 01 01 001 01 Los Peralejos
+10 01 01 01 01 001 02 Los Ángeles
+10 01 01 01 01 001 03 Brisas del Norte
+10 01 01 01 01 002 00 Palma Real
+10 01 01 01 01 002 01 Palma Real
+10 01 01 01 01 002 02 Los Girasoles I
+10 01 01 01 01 002 03 Los Girasoles II
+10 01 01 01 01 002 04 Los Girasoles III
+10 01 01 01 01 002 05 Colinas de Arroyo Hondo
+10 01 01 01 01 002 06 Don Panchito
+10 01 01 01 01 002 07 Villa María
+10 01 01 01 01 002 08 Fundación
+10 01 01 01 01 003 00 Arroyo Manzano
+10 01 01 01 01 003 01 Arroyo Manzano
+10 01 01 01 01 003 02 La Meseta
+10 01 01 01 01 003 03 Villa Progreso
+10 01 01 01 01 003 04 Cuesta Brava
+10 01 01 01 01 003 05 Urbanización Arroyo Manzano
+10 01 01 01 01 003 06 Buena Vista
+10 01 01 01 01 003 07 Puerta de Hierro
+10 01 01 01 01 003 08 Madre Vieja
+10 01 01 01 01 003 09 Residencial Colina Bella
+10 01 01 01 01 003 10 Residencial Irene
+10 01 01 01 01 003 11 Residencial San Francisco de Asís
+10 01 01 01 01 004 00 Altos de Arroyo Hondo
+10 01 01 01 01 004 01 Altos de Arroyo Hondo
+10 01 01 01 01 004 02 Ciudad Real
+10 01 01 01 01 004 03 Carmen María
+10 01 01 01 01 004 04 Reparto Miguelina
+10 01 01 01 01 004 05 Villa Claudia
+10 01 01 01 01 004 06 Villa Isabel
+10 01 01 01 01 004 07 Villa Amanda
+10 01 01 01 01 004 08 La Ceiba
+10 01 01 01 01 004 09 Kilómetro XI
+10 01 01 01 01 004 10 Residencial Condado
+10 01 01 01 01 004 11 Don Honorio
+10 01 01 01 01 004 12 Pinos Norte
+10 01 01 01 01 004 13 Los Guayuyos
+10 01 01 01 01 004 14 El Ducado
+10 01 01 01 01 004 15 Las Colinas del Seminario I
+10 01 01 01 01 004 16 Las Ochocientas
+10 01 01 01 01 004 17 Mirador de Girasoles
+10 01 01 01 01 004 18 Residencial Madelaine
+10 01 01 01 01 004 19 Residencial Nueva Terraza
+10 01 01 01 01 004 20 Residencial Amapola
+10 01 01 01 01 004 21 Ciudad Real II
+10 01 01 01 01 005 00 Los Ríos
+10 01 01 01 01 005 01 Los Ríos
+10 01 01 01 01 005 02 Colinas de Los Ríos
+10 01 01 01 01 005 03 Residencial Colinas del Seminario
+10 01 01 01 01 005 04 Pradera Hermosa
+10 01 01 01 01 005 05 Residencial Yuca de Los Ríos
+10 01 01 01 01 005 06 El Caliche
+10 01 01 01 01 005 07 Los Pinos
+10 01 01 01 01 005 08 Villa Marina
+10 01 01 01 01 005 09 Esperanza
+10 01 01 01 01 006 00 Puerto Isabela
+10 01 01 01 01 006 01 Puerto Isabela
+10 01 01 01 01 006 02 La Goya
+10 01 01 01 01 007 00 Honduras del oeste
+10 01 01 01 01 007 01 Honduras del Oeste
+10 01 01 01 01 007 02 Aesa
+10 01 01 01 01 007 03 Luz Consuelo Sur
+10 01 01 01 01 007 04 Atlántida
+10 01 01 01 01 007 05 16 de Agosto
+10 01 01 01 01 007 06 Los Olmos
+10 01 01 01 01 007 07 INVI Sur
+10 01 01 01 01 008 00 Honduras del Norte
+10 01 01 01 01 008 01 Honduras del Norte
+10 01 01 01 01 008 02 Sandra I
+10 01 01 01 01 008 03 Sandra II
+10 01 01 01 01 008 04 Luz Consuelo Norte
+10 01 01 01 01 008 05 Proyecto José Contreras
+10 01 01 01 01 008 06 Gacela
+10 01 01 01 01 009 00 Paseo de Los Indios ó Parque Mirador Sur
+10 01 01 01 01 009 01 Paseo de Los Indios ó Parque Mirador Sur
+10 01 01 01 01 009 02 Manresa ó Altagracia
+10 01 01 01 01 010 00 Los Cacicazgos
+10 01 01 01 01 010 01 Los Cacicazgos
+10 01 01 01 01 011 00 Renacimiento
+10 01 01 01 01 011 01 Renacimiento
+10 01 01 01 01 011 02 Urbanización Real
+10 01 01 01 01 012 00 los restauradores
+10 01 01 01 01 012 01 Los Restauradores
+10 01 01 01 01 012 02 Residencial Rosmil
+10 01 01 01 01 012 03 Manganagua
+10 01 01 01 01 012 04 Milloncito
+10 01 01 01 01 013 00 San Jerónimo
+10 01 01 01 01 013 01 San Jerónimo
+10 01 01 01 01 013 02 Estancia Nueva
+10 01 01 01 01 013 03 Ciudad Moderna
+10 01 01 01 01 013 04 Los Pinos
+10 01 01 01 01 013 05 Las Praderas
+10 01 01 01 01 013 06 Los Laureles
+10 01 01 01 01 014 00 los Jardines
+10 01 01 01 01 014 01 Los Jardines
+10 01 01 01 01 014 02 Los Próceres
+10 01 01 01 01 014 03 Galá
+10 01 01 01 01 014 04 Constelación
+10 01 01 01 01 014 05 Country Club
+10 01 01 01 01 014 06 La Yagüita
+10 01 01 01 01 015 00 Jardín Botánico
+10 01 01 01 01 015 01 Jardín Botánico
+10 01 01 01 01 016 00 Nuevo Arroyo Hondo
+10 01 01 01 01 016 01 Nuevo Arroyo Hondo
+10 01 01 01 01 016 02 Perantuén 
+10 01 01 01 01 016 03 Nuevo Arroyo Hondo III
+10 01 01 01 01 016 04 Los Ramírez
+10 01 01 01 01 016 05 Los Galíndez
+10 01 01 01 01 016 06 Cuba
+10 01 01 01 01 016 07 Cuesta Hermosa I
+10 01 01 01 01 016 08 Lomas de Arroyo Hondo
+10 01 01 01 01 016 09 La Puya
+10 01 01 01 01 016 10 Azul
+10 01 01 01 01 016 11 Colinas de Arroyo Hondo
+10 01 01 01 01 016 12 Residencial Karla
+10 01 01 01 01 016 13 El Aguacate
+10 01 01 01 01 016 14 Altos de Arroyo Hondo II
+10 01 01 01 01 016 15 Residencial Sebastián III
+10 01 01 01 01 016 16 Residencial Milenium V-IX
+10 01 01 01 01 016 17 Residencial Sebastián
+10 01 01 01 01 016 18 Residencial La Rama
+10 01 01 01 01 016 19 Residencial QD
+10 01 01 01 01 016 20 Residencial Riveras del Arroyo
+10 01 01 01 01 017 00 Cerros de Arroyo Hondo
+10 01 01 01 01 017 01 Cerros de Arroyo Hondo
+10 01 01 01 01 017 02 Cuesta Hermosa III
+10 01 01 01 01 017 03 Los Totumos
+10 01 01 01 01 017 04 Isabel Vilas
+10 01 01 01 01 017 05 Cuesta Hermosa II
+10 01 01 01 01 018 00 Viejo Arroyo Hondo
+10 01 01 01 01 018 01 Viejo Arroyo Hondo
+10 01 01 01 01 018 02 San Rafael
+10 01 01 01 01 018 03 Puerto Rico
+10 01 01 01 01 018 04 El Pino
+10 01 01 01 01 018 05 El Cerro
+10 01 01 01 01 019 00 Paraíso
+10 01 01 01 01 019 01 Paraíso
+10 01 01 01 01 019 02 Los Platanitos
+10 01 01 01 01 019 03 Churchill
+10 01 01 01 01 020 00 Julieta Morales
+10 01 01 01 01 020 01 Julieta Morales
+10 01 01 01 01 020 02 Los Praditos
+10 01 01 01 01 020 03 La Jabilla
+10 01 01 01 01 020 04 La Carmelita
+10 01 01 01 01 020 05 Urbanización Fernández
+10 01 01 01 01 021 00 Los Prados
+10 01 01 01 01 021 01 Los Prados
+10 01 01 01 01 021 02 La Castellana
+10 01 01 01 01 022 00 El Millón
+10 01 01 01 01 022 01 El Millón
+10 01 01 01 01 023 00 Mirador Norte
+10 01 01 01 01 023 01 Mirador Norte
+10 01 01 01 01 024 00 Mirador Sur
+10 01 01 01 01 024 01 Mirador Sur
+10 01 01 01 01 024 02 Los Maestros
+10 01 01 01 01 025 00 Buenos Aires Mirador
+10 01 01 01 01 025 01 Buenos Aires Mirador
+10 01 01 01 01 025 02 María Josefina
+10 01 01 01 01 025 03 Enriquillo
+10 01 01 01 01 025 04 San Gabriel
+10 01 01 01 01 025 05 Marién
+10 01 01 01 01 025 06 Ofelia
+10 01 01 01 01 025 07 Nordesa I
+10 01 01 01 01 025 08 Semillero
+10 01 01 01 01 025 09 San Miguel
+10 01 01 01 01 025 10 Enriquillo
+10 01 01 01 01 025 11 Alfimar
+10 01 01 01 01 025 12 Enriquillo III
+10 01 01 01 01 026 00 Miramar
+10 01 01 01 01 026 01 Miramar
+10 01 01 01 01 026 02 Velazcasa
+10 01 01 01 01 026 03 Gildamar
+10 01 01 01 01 026 04 Costa Caribe
+10 01 01 01 01 026 05 Beta
+10 01 01 01 01 026 06 Solimar
+10 01 01 01 01 026 07 Urbanización Independencia
+10 01 01 01 01 026 08 Nordesa III
+10 01 01 01 01 027 00 Tropical Metaldom
+10 01 01 01 01 027 01 Tropical Metaldom
+10 01 01 01 01 027 02 Villa Diana
+10 01 01 01 01 027 03 Dominicanos Ausentes
+10 01 01 01 01 027 04 Jardines del Caribe
+10 01 01 01 01 028 00 Jardines del Sur
+10 01 01 01 01 028 01 Jardines del Sur
+10 01 01 01 01 028 02 Alfimar
+10 01 01 01 01 028 03 Las Acacias
+10 01 01 01 01 028 04 Las Auroras
+10 01 01 01 01 028 05 Residencial Kg
+10 01 01 01 01 028 06 San José
+10 01 01 01 01 029 00 atala
+10 01 01 01 01 029 01 Atala
+10 01 01 01 01 029 02 Roca del Mar
+10 01 01 01 01 029 03 Kg
+10 01 01 01 01 029 04 El Portal
+10 01 01 01 01 030 00 Bella Vista
+10 01 01 01 01 030 01 Bella Vista
+10 01 01 01 01 030 02 El Semillero
+10 01 01 01 01 030 03 Chichiguao
+10 01 01 01 01 030 04 Los Jardines del Embajador
+10 01 01 01 01 031 00 Quisqueya
+10 01 01 01 01 031 01 Quisqueya
+10 01 01 01 01 031 02 Evaristo Morales
+10 01 01 01 01 032 00 Piantini
+10 01 01 01 01 032 01 Piantini
+10 01 01 01 01 032 02 Ensanche Serrallés
+10 01 01 01 01 033 00 la Julia
+10 01 01 01 01 033 01 La Julia
+10 01 01 01 01 033 02 Seminario
+10 01 01 01 01 033 03 El Manguito
+10 01 01 01 01 034 00 Nuestra Señora de La Paz
+10 01 01 01 01 034 01 Nuestra Señora de La Paz
+10 01 01 01 01 035 00 General antonio Duvergé
+10 01 01 01 01 035 01 General Antonio Duvergé
+10 01 01 01 01 035 02 Honduras
+10 01 01 01 01 035 03 Maripili
+10 01 01 01 01 036 00 30 de Mayo
+10 01 01 01 01 036 01 30 de Mayo
+10 01 01 01 01 036 02 Villa Alejandrina II
+10 01 01 01 01 036 03 Las Piedras
+10 01 01 01 01 037 00 Cacique
+10 01 01 01 01 037 01 Brisa del Mar
+10 01 01 01 01 037 02 Mar Azul
+10 01 01 01 01 037 03 Plaza
+10 01 01 01 01 037 04 Cq I
+10 01 01 01 01 037 05 Cq 2
+10 01 01 01 01 037 06 Cq 3
+10 01 01 01 01 037 07 Antillas
+10 01 01 01 01 037 08 Costa Brava
+10 01 01 01 01 038 00 centro de los Héroes
+10 01 01 01 01 038 01 Centro de Los Héroes
+10 01 01 01 01 039 00 Mata Hambre
+10 01 01 01 01 039 01 Mata Hambre
+10 01 01 01 01 039 02 La Feria
+10 01 01 01 01 040 00 ciudad Universitaria
+10 01 01 01 01 040 01 Ciudad Universitaria
+10 01 01 01 01 040 02 La Julia
+10 01 01 01 01 041 00 La Esperilla
+10 01 01 01 01 041 01 La Esperilla
+10 01 01 01 01 041 02 El Vergel
+10 01 01 01 01 042 00 Ensanche Naco
+10 01 01 01 01 042 01 Ensanche Naco
+10 01 01 01 01 042 02 La Yuca
+10 01 01 01 01 043 00 Centro Olímpico Juan Pablo Duarte
+10 01 01 01 01 043 01 Centro Olímpico Juan Pablo Duarte
+10 01 01 01 01 044 00 La Fe
+10 01 01 01 01 044 01 La Fe
+10 01 01 01 01 044 02 Cachimán
+10 01 01 01 01 044 03 Ensanche Kennedy
+10 01 01 01 01 045 00 la agustina
+10 01 01 01 01 045 01 La Agustina
+10 01 01 01 01 045 02 La Cementera
+10 01 01 01 01 045 03 Lanna Gautier
+10 01 01 01 01 045 04 La Agustinita
+10 01 01 01 01 046 00 cristo rey
+10 01 01 01 01 046 01 Cristo Rey
+10 01 01 01 01 046 02 El Caliche
+10 01 01 01 01 046 03 Las Flores
+10 01 01 01 01 046 04 Paravel
+10 01 01 01 01 046 05 Residencial Ortega y Gasset
+10 01 01 01 01 046 06 El Yaquito
+10 01 01 01 01 046 07 La 40
+10 01 01 01 01 046 08 La Lechuga
+10 01 01 01 01 046 09 La Chivera
+10 01 01 01 01 047 00 Jardín Zoológico
+10 01 01 01 01 047 01 Jardín Zoológico
+10 01 01 01 01 048 00 La Zurza
+10 01 01 01 01 048 01 La Zurza
+10 01 01 01 01 048 02 Residencial Rivera de la Isabela
+10 01 01 01 01 048 03 Los Coquitos
+10 01 01 01 01 049 00 Villas Agrícolas
+10 01 01 01 01 049 01 Villas Agrícolas
+10 01 01 01 01 049 02 Proyecto Habitacional La Zurza
+10 01 01 01 01 049 03 La Laguna
+10 01 01 01 01 050 00 Villa Juana
+10 01 01 01 01 050 01 Villa Juana
+10 01 01 01 01 050 02 El Ensanchito
+10 01 01 01 01 051 00 Miraflores
+10 01 01 01 01 051 01 Miraflores
+10 01 01 01 01 052 00 San Juan Bosco
+10 01 01 01 01 052 01 San Juan Bosco
+10 01 01 01 01 053 00 Gascue
+10 01 01 01 01 053 01 Gascue
+10 01 01 01 01 053 02 Reparto Aguedita
+10 01 01 01 01 053 03 Ensanche Independencia
+10 01 01 01 01 053 04 La Primavera
+10 01 01 01 01 053 05 Ensanche Lugo
+10 01 01 01 01 054 00 ciudad Nueva
+10 01 01 01 01 054 01 Ciudad Nueva
+10 01 01 01 01 055 00 San carlos
+10 01 01 01 01 055 01 San Carlos
+10 01 01 01 01 056 00 Villa consuelo
+10 01 01 01 01 056 01 Villa Consuelo
+10 01 01 01 01 056 02 Villa María
+10 01 01 01 01 057 00 Ensanche Luperón
+10 01 01 01 01 057 01 Ensanche Luperón
+10 01 01 01 01 057 02 Libertad
+10 01 01 01 01 057 03 Villa Colores
+10 01 01 01 01 058 00 Ensanche Capotillo
+10 01 01 01 01 058 01 Ensanche Capotillo
+10 01 01 01 01 058 02 Los Manguitos
+10 01 01 01 01 058 03 La Caridad
+10 01 01 01 01 059 00 Simón Bolívar
+10 01 01 01 01 059 01 Simón Bolívar
+10 01 01 01 01 059 02 Las Cañitas
+10 01 01 01 01 060 00 24 de abril
+10 01 01 01 01 060 01 24 de Abril
+10 01 01 01 01 060 02 Las Cañitas 
+10 01 01 01 01 061 00 Ensanche Espaillat
+10 01 01 01 01 061 01 Ensanche Espaillat
+10 01 01 01 01 062 00 María Auxiliadora
+10 01 01 01 01 062 01 María Auxiliadora
+10 01 01 01 01 062 02 27 de Febrero
+10 01 01 01 01 062 03 Domingo Savio
+10 01 01 01 01 062 04 Guachupita
+10 01 01 01 01 062 05 San Martín de Porres
+10 01 01 01 01 062 06 Loma del Chivo
+10 01 01 01 01 063 00 Mejoramiento Social
+10 01 01 01 01 063 01 Mejoramiento Social
+10 01 01 01 01 063 02 Villa Fontana
+10 01 01 01 01 063 03 Samaná
+10 01 01 01 01 063 04 La Fuente
+10 01 01 01 01 063 05 Villa María
+10 01 01 01 01 064 00 Villa Francisca
+10 01 01 01 01 064 01 Villa Francisca
+10 01 01 01 01 064 02 Borojol
+10 01 01 01 01 065 00 ciudad colonial
+10 01 01 01 01 065 01 Ciudad Colonial
+10 01 01 01 01 065 02 San Miguel
+10 01 01 01 01 065 03 Santa Bárbara
+10 01 01 01 01 065 04 San Lázaro
+10 01 01 01 01 065 05 La Atarazana
+10 01 01 01 01 066 00 Domingo Savio
+10 01 01 01 01 066 01 Los Guandules
+10 01 01 01 01 066 02 La Ciénaga
+10 01 01 01 01 066 03 Guachupita
+10 01 01 01 01 067 00 Gualey
+10 01 01 01 01 067 01 Gualey
+10 01 01 01 01 068 00 la isabela
+10 01 01 01 01 068 01 La Isabela
+10 01 01 01 01 069 00 la Hondonada
+10 01 01 01 01 069 01 La Hondonada
+10 01 01 01 01 070 00 San Diego
+10 01 01 01 01 070 01 San Diego

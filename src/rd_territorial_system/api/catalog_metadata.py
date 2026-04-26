@@ -1,38 +1,39 @@
 import json
+from functools import lru_cache
 from pathlib import Path
-from typing import Any
+from typing import Any, Dict
 
-from rd_territorial_system.api.settings import get_settings
-
-
-class CatalogMetadataError(Exception):
-    pass
+_METADATA_PATH = Path("metadata/catalog_metadata.json")
 
 
-def load_catalog_metadata(metadata_path: Path | None = None) -> dict[str, Any]:
-    path = metadata_path or get_settings().metadata_path
-
-    if not path.exists():
-        raise CatalogMetadataError(f"Metadata file not found at {path}")
-
-    try:
-        with path.open("r", encoding="utf-8") as f:
-            data: dict[str, Any] = json.load(f)
-    except Exception as exc:
-        raise CatalogMetadataError(f"Failed to read metadata: {exc}") from exc
-
-    required_fields = {
-        "catalog_version",
-        "generated_at",
-        "entity_count",
-        "province_count",
-        "source_of_truth",
-    }
-
-    missing = required_fields - data.keys()
-    if missing:
-        raise CatalogMetadataError(
-            f"Missing required metadata fields: {sorted(missing)}"
+@lru_cache
+def load_catalog_metadata() -> dict:
+    if not _METADATA_PATH.exists():
+        raise FileNotFoundError(
+            f"No se encontró metadata del catálogo en {_METADATA_PATH}"
         )
 
-    return data
+    with open(_METADATA_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+@lru_cache
+def get_catalog_version() -> str:
+    metadata = load_catalog_metadata()
+    version = metadata.get("catalog_version")
+
+    if not version:
+        raise ValueError("catalog_version no definido en metadata")
+
+    return version
+
+
+def inject_catalog_version(response: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Devuelve una nueva respuesta con catalog_version inyectado.
+    No muta el objeto original.
+    """
+    return {
+        **response,
+        "catalog_version": get_catalog_version(),
+    }

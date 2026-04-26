@@ -1,0 +1,151 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+06 16 00 00 00 000 00 Pedernales
+06 16 01 00 00 000 00 Pedernales
+06 16 01 01 00 000 00 Pedernales
+06 16 01 01 01 000 00 Pedernales (Zona urbana)
+06 16 01 01 01 001 00 Miramar
+06 16 01 01 01 001 01 Miramar
+06 16 01 01 01 002 00 Las Mercedes
+06 16 01 01 01 002 01 Las Mercedes
+06 16 01 01 01 003 00 Centro del Pueblo
+06 16 01 01 01 003 01 Centro del Pueblo
+06 16 01 01 01 004 00 Verde
+06 16 01 01 01 004 01 Verde
+06 16 01 01 01 005 00 Inés
+06 16 01 01 01 005 01 Inés
+06 16 01 01 01 006 00 Alcoa
+06 16 01 01 01 006 01 Alcoa
+06 16 01 01 01 007 00 Militar
+06 16 01 01 01 007 01 Militar
+06 16 01 01 01 008 00 Villa del Mar
+06 16 01 01 01 008 01 Villa del Mar
+06 16 01 01 01 009 00 Nicolás Féliz
+06 16 01 01 01 009 01 Nicolás Féliz
+06 16 01 01 01 010 00 Los Cayucos
+06 16 01 01 01 010 01 Los Cayucos
+06 16 01 01 01 011 00 Campo de Aviación Viejo
+06 16 01 01 01 011 01 Campo de Aviación Viejo
+06 16 01 01 01 012 00 Campo de Aviación Nuevo
+06 16 01 01 01 012 01 Campo de Aviación Nuevo
+06 16 01 01 01 013 00 Los Guayacanes
+06 16 01 01 01 013 01 Los Guayacanes
+06 16 01 01 01 014 00 Los Coquitos
+06 16 01 01 01 014 01 Los Coquitos
+06 16 01 01 01 015 00 Los Altagracianos
+06 16 01 01 01 015 01 Los Altagracianos
+06 16 01 01 01 015 02 Víctor Cheche
+06 16 01 01 01 015 03 La Mina
+06 16 01 01 01 016 00 Cabo Muelle
+06 16 01 01 01 016 01 Cabo Muelle (Los Altagracianos)
+06 16 01 01 01 017 00 La Cuarenta
+06 16 01 01 01 017 01 La Cuarenta
+06 16 01 01 01 018 00 José Francisco Peña Gómez
+06 16 01 01 01 018 01 José Francisco Peña Gómez
+06 16 01 01 01 019 00 Las Flores
+06 16 01 01 01 019 01 Las Flores
+06 16 01 01 01 019 02 Domingo Ortíz
+06 16 01 01 01 020 00 Savica
+06 16 01 01 01 020 01 Savica
+06 16 01 01 01 021 00 Nuevo Amanecer
+06 16 01 01 01 021 01 Nuevo Amanecer
+06 16 01 01 01 022 00 Última Esperanza
+06 16 01 01 01 022 01 Última Esperanza
+06 16 01 01 02 000 00 Cabo Rojo
+06 16 01 01 02 001 00 Cabo Rojo
+06 16 01 01 02 002 00 La Cueva
+06 16 01 01 02 003 00 Isla Beata
+06 16 01 01 03 000 00 Las Mercedes
+06 16 01 01 03 001 00 El Yayal (Campo Amor)
+06 16 01 01 03 002 00 Las Mercedes
+06 16 01 01 03 003 00 Sumbú
+06 16 01 01 03 004 00 Toro Arriba (Sitio Quemao)
+06 16 01 01 03 005 00 Sitio Nuevo
+06 16 01 01 03 006 00 El Mogote
+06 16 01 01 03 007 00 Olivar
+06 16 01 01 03 008 00 Jurungo
+06 16 01 01 03 009 00 Pasucena (Paso de Sena)
+06 16 01 02 00 000 00 José Francisco Peña Gómez (DM)
+06 16 01 02 01 000 00 La Altagracia (Zona urbana)
+06 16 01 02 01 001 00 La Altagracia o Centro del Pueblo
+06 16 01 02 01 001 01 La Altagracia o Centro del Pueblo
+06 16 01 02 01 002 00 Jarro Sucio
+06 16 01 02 01 002 01 Jarro Sucio
+06 16 01 02 01 003 00 Canta la Rana
+06 16 01 02 01 003 01 Canta la Rana
+06 16 01 02 02 000 00 Aguas Negras
+06 16 01 02 02 001 00 Aguas Negras
+06 16 01 02 02 002 00 Higo Grande
+06 16 01 02 02 002 00 Manacle
+06 16 01 02 03 000 00 Mencía
+06 16 01 02 03 001 00 La Manigua
+06 16 01 02 03 002 00 Cabo Duarte
+06 16 01 02 03 003 00 La Rosa
+06 16 01 02 03 004 00 Colonia Mencía
+06 16 01 02 03 005 00 La Altagracia
+06 16 01 02 04 000 00 Altagracia
+06 16 01 02 04 001 00 La Canoa
+06 16 01 02 04 002 00 Bella Vista
+06 16 01 02 04 003 00 San Isidro
+06 16 01 02 04 004 00 Cabeza de Agua
+06 16 01 02 04 005 00 La Altagracia
+06 16 01 02 04 006 00 Don Juan
+06 16 01 02 05 000 00 Los Arroyos
+06 16 01 02 05 001 00 Boca Tanjón
+06 16 01 02 05 002 00 La Joya
+06 16 01 02 05 003 00 El Bambú
+06 16 01 02 05 004 00 Colonia los Arroyos
+06 16 01 02 06 000 00 Ávila
+06 16 01 02 06 001 00 Los Corrales
+06 16 01 02 06 002 00 El Manguito
+06 16 01 02 06 003 00 Ávila
+06 16 02 00 00 000 00 oviedo
+06 16 02 01 00 000 00 Oviedo
+06 16 02 01 01 000 00 Oviedo (Zona urbana)
+06 16 02 01 01 001 00 Centro del Pueblo
+06 16 02 01 01 001 01 Centro del Pueblo
+06 16 02 01 01 002 00 Nuevo
+06 16 02 01 01 002 01 Nuevo
+06 16 02 01 01 003 00 La Policia
+06 16 02 01 01 003 01 La Policia
+06 16 02 01 01 004 00 Pangola
+06 16 02 01 01 004 01 Pangola
+06 16 02 01 01 005 00 Macanatillo
+06 16 02 01 01 005 01 Macanatillo
+06 16 02 01 01 006 00 Polvorín o Las Flores
+06 16 02 01 01 006 01 Polvorín o Las Flores
+06 16 02 01 01 007 00 Las Palmas
+06 16 02 01 01 007 01 Las Palmas
+06 16 02 01 02 000 00 Los Tres Charcos
+06 16 02 01 02 001 00 Los Tres Charcos
+06 16 02 01 02 002 00 Manuel Goya
+06 16 02 01 02 003 00 Nueva Rosa
+06 16 02 01 02 004 00 El Tocón o Fogón de los Perros
+06 16 02 01 02 005 00 Palo el Número
+06 16 02 01 02 006 00 Porvenir
+06 16 02 01 02 007 00 Tierra Colorada
+06 16 02 02 00 000 00 Juancho (DM)
+06 16 02 02 01 000 00 Juancho (Zona urbana)
+06 16 02 02 01 001 00 Las Palmas
+06 16 02 02 01 001 01 Las Palmas
+06 16 02 02 01 002 00 Lindo
+06 16 02 02 01 002 01 Lindo
+06 16 02 02 01 003 00 Nuevo
+06 16 02 02 01 003 01 Nuevo
+06 16 02 02 01 004 00 El Centro
+06 16 02 02 01 004 01 El Centro
+06 16 02 02 01 005 00 Las Malvinas
+06 16 02 02 01 005 01 Las Malvinas
+06 16 02 02 02 000 00 La Colonia Villa Esperanza
+06 16 02 02 02 001 00 Colonia Villa Esperanza
+06 16 02 02 02 002 00 El Bucaral
+06 16 02 02 02 003 00 Macandela
+06 16 02 02 02 004 00 Mambí
+06 16 02 02 02 005 00 Gromá
+06 16 02 02 02 006 00 Charco Blanco
+06 16 02 02 02 007 00 Mapioró
+06 16 02 02 02 008 00 Arroyo Salado
+06 16 02 02 02 009 00 El Cajuil
+06 16 02 02 02 010 00 Payano
+06 16 02 02 02 011 00 Pedro Mota

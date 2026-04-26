@@ -1,0 +1,716 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+08 11 00 00 00 000 00 La Altagracia
+08 11 01 00 00 000 00 Higüey
+08 11 01 01 00 000 00 Higüey
+08 11 01 01 01 000 00 Salvaleón de Higüey (Zona urbana)
+08 11 01 01 01 001 00 San Martín de Porres
+08 11 01 01 01 001 01 San Martín de Porres
+08 11 01 01 01 002 00 El tamarindo
+08 11 01 01 01 002 01 El Tamarindo
+08 11 01 01 01 003 00 Mamá Tingó
+08 11 01 01 01 003 01 Mamá Tingó
+08 11 01 01 01 004 00 El cementerio
+08 11 01 01 01 004 01 El Cementerio
+08 11 01 01 01 004 02 Lotificación Berta María
+08 11 01 01 01 005 00 EL Naranjo (La Basílica)
+08 11 01 01 01 005 01 EL Naranjo (La Basílica)
+08 11 01 01 01 006 00 Centro (Centro de la Ciudad)
+08 11 01 01 01 006 01 Centro (Centro de la Ciudad)
+08 11 01 01 01 007 00 la antena o la torre
+08 11 01 01 01 007 01 La Antena o La Torre
+08 11 01 01 01 007 02 La Gallera
+08 11 01 01 01 008 00 San José
+08 11 01 01 01 008 01 San José
+08 11 01 01 01 009 00 Pueblo Nuevo
+08 11 01 01 01 009 01 Pueblo Nuevo
+08 11 01 01 01 010 00 Nazaret
+08 11 01 01 01 010 01 Nazaret
+08 11 01 01 01 011 00 Los Platanitos
+08 11 01 01 01 011 01 Los Platanitos
+08 11 01 01 01 012 00 Los Coquitos
+08 11 01 01 01 012 01 Los Coquitos
+08 11 01 01 01 013 00 Brisas del Llano
+08 11 01 01 01 013 01 Brisas del Llano
+08 11 01 01 01 013 02 Lotificación Don Amado
+08 11 01 01 01 013 03 El Llano
+08 11 01 01 01 013 04 Vista Hermosa o Villa Hermosa
+08 11 01 01 01 013 05 El Mamey
+08 11 01 01 01 014 00 Savica
+08 11 01 01 01 014 01 Savica
+08 11 01 01 01 015 00 Don Antonio Guzmán Fernández
+08 11 01 01 01 015 01 Don Antonio Guzmán Fernández
+08 11 01 01 01 016 00 la imagen
+08 11 01 01 01 016 01 La Imagen
+08 11 01 01 01 017 00 las caobas
+08 11 01 01 01 017 01 Las Caobas
+08 11 01 01 01 017 02 El Proyecto Manuel Tavárez
+08 11 01 01 01 017 03 Las Caobas II
+08 11 01 01 01 018 00 Residencial Doña Rosa
+08 11 01 01 01 018 01 Residencial Doña Rosa
+08 11 01 01 01 018 02 Residencial La Arboleda
+08 11 01 01 01 018 03 Residencial Monte Alto (En Construcción)
+08 11 01 01 01 019 00 Chillo Poueriet
+08 11 01 01 01 019 01 Chillo Poueriet
+08 11 01 01 01 020 00 21 de Enero
+08 11 01 01 01 020 01 21 de Enero
+08 11 01 01 01 021 00 Residencial Ana Amelia
+08 11 01 01 01 021 01 ‘Residencial Ana Amelia
+08 11 01 01 01 022 00 San Pedro
+08 11 01 01 01 022 01 San Pedro
+08 11 01 01 01 022 02 Loma Santa María
+08 11 01 01 01 023 00 Monte Santa María 
+08 11 01 01 01 023 01 Monte Santa María 
+08 11 01 01 01 023 02 Los Burgos (Urbanización Las Colinas)
+08 11 01 01 01 024 00 Doña Fema
+08 11 01 01 01 024 01 Doña Fema
+08 11 01 01 01 025 00 los Soto
+08 11 01 01 01 025 01 Los Soto Arriba
+08 11 01 01 01 025 02 Los Soto al Medio
+08 11 01 01 01 025 03 Los Soto Abajo
+08 11 01 01 01 026 00 Haití Chiquito
+08 11 01 01 01 026 01 Haití Chiquito
+08 11 01 01 01 027 00 Pepe Rosario
+08 11 01 01 01 027 01 Pepe Rosario
+08 11 01 01 01 028 00 Villa cerro
+08 11 01 01 01 028 01 El Centro (El Cerro)
+08 11 01 01 01 028 02 Brisas del Duey
+08 11 01 01 01 028 03 Villa Palmera o La Islita
+08 11 01 01 01 028 04 Bella Vista
+08 11 01 01 01 028 05 Villa Progreso
+08 11 01 01 01 028 06 La Encantada
+08 11 01 01 01 028 07 Lindo
+08 11 01 01 01 028 08 Cerro Lindo
+08 11 01 01 01 028 09 Villa Francisca
+08 11 01 01 01 028 10 Urbanización Brisas de Las Colinas
+08 11 01 01 01 028 11 Colinas del Llano (Las Colinas de Villa Cerro)
+08 11 01 01 01 028 12 Los Manguitos
+08 11 01 01 01 028 13 Villa Progreso I
+08 11 01 01 01 028 14 Villa Cerro II
+08 11 01 01 01 028 15 La Pangola 
+08 11 01 01 01 028 16 Villa Cerro Arriba
+08 11 01 01 01 028 17 Aguadilla
+08 11 01 01 01 028 18 La Palma
+08 11 01 01 01 028 19 Villa Jardín
+08 11 01 01 01 028 20 Villa Graciela
+08 11 01 01 01 029 00 Sanjoul
+08 11 01 01 01 029 01 Sanjour (Parte Delante)
+08 11 01 01 01 029 02 Los Rosales I
+08 11 01 01 01 029 03 Los Rosales II
+08 11 01 01 01 029 04 Los Rosales III
+08 11 01 01 01 029 05 Sanjour (Parte Atrás)
+08 11 01 01 01 030 00 Luisa Perla
+08 11 01 01 01 030 01 Luisa Perla Primera Etapa
+08 11 01 01 01 030 02 Luisa Perla Segunda Etapa
+08 11 01 01 01 031 00 Residencial Villa Progreso
+08 11 01 01 01 031 01 Residencial Villa Progreso
+08 11 01 01 01 032 00 la Malena
+08 11 01 01 01 032 01 La Malena
+08 11 01 01 01 032 02 Don Sergio
+08 11 01 01 01 032 03 Villa Guerrero
+08 11 01 01 01 033 00 Juan Pablo Duarte o Nuevo
+08 11 01 01 01 033 01 Juan Pablo Duarte o Nuevo
+08 11 01 01 01 033 02 Urbanización Doña Catalina
+08 11 01 01 01 033 03 Urbanización Morales
+08 11 01 01 01 034 00 la cabrera
+08 11 01 01 01 034 01 La Cabrera
+08 11 01 01 01 034 02 Villa María
+08 11 01 01 01 034 03 Las Siete Lagunas
+08 11 01 01 01 034 04 Progreso
+08 11 01 01 01 034 05 Villa Esperanza
+08 11 01 01 01 034 06 Ensanche La Fe
+08 11 01 01 01 035 00 cambelén
+08 11 01 01 01 035 01 Cambelén
+08 11 01 01 01 036 00 Campo de Aviación
+08 11 01 01 01 036 01 Campo de Aviación
+08 11 01 01 01 037 00 San Francisco
+08 11 01 01 01 037 01 San Francisco
+08 11 01 01 01 037 02 La Florida
+08 11 01 01 01 038 00 El Obispado
+08 11 01 01 01 038 01 El Obispado
+08 11 01 01 01 039 00 Los Caraballos (urbanización Camelia Caraballo)
+08 11 01 01 01 039 01 Los Caraballos (Urbanización Camelia Caraballo)
+08 11 01 01 01 040 00 Villa cristal
+08 11 01 01 01 040 01 Villa Cristal I
+08 11 01 01 01 040 02 Villa Cristal II
+08 11 01 01 01 041 00 la Matilla
+08 11 01 01 01 041 01 La Matilla
+08 11 01 01 01 041 02 Residencial 5º Centenario
+08 11 01 01 01 041 03 Higuey City Home
+08 11 01 01 01 041 04 Urbanización Juan Morales Teófilo Pion
+08 11 01 01 01 041 05 Proyecto S/N (En Construcción)
+08 11 01 01 01 041 06 Urbanización Doña Aida
+08 11 01 01 01 041 07 Ciudad Monte Verde
+08 11 01 01 01 041 08 Residencial Anamelia
+08 11 01 01 01 042 00 Los Limones (Los Prados)
+08 11 01 01 01 042 01 ‘Los Limones (Los Prados)
+08 11 01 01 01 043 00 anamuya
+08 11 01 01 01 043 01 Anamuya
+08 11 01 01 01 043 02 Lotificación Los Ríos
+08 11 01 01 01 043 03 Proyecto INVI - Villa Progreso Recuperación El Cuey
+08 11 01 01 01 044 00 la Manzana
+08 11 01 01 01 044 01 La Manzana
+08 11 01 01 01 045 00 La Altagracia
+08 11 01 01 01 045 01 La Altagracia
+08 11 01 01 01 046 00 El laurel
+08 11 01 01 01 046 01 El Laurel
+08 11 01 01 01 047 00 Garrido
+08 11 01 01 01 047 01 Garrido
+08 11 01 01 02 000 00 Bejucal
+08 11 01 01 02 001 00 Los Guineos
+08 11 01 01 02 002 00 Los Botados
+08 11 01 01 02 003 00 Los García
+08 11 01 01 02 004 00 La Vegana
+08 11 01 01 02 005 00 Bejucalito
+08 11 01 01 02 006 00 Chavoncito
+08 11 01 01 02 007 00 Cruce de Morales
+08 11 01 01 02 008 00 Enea
+08 11 01 01 02 009 00 Primer Sabana
+08 11 01 01 02 010 00 Sabana Gloria
+08 11 01 01 02 011 00 Cruce Jovina
+08 11 01 01 02 012 00 Arroyo Seco
+08 11 01 01 02 013 00 Camino Real
+08 11 01 01 02 014 00 Maní Blanco
+08 11 01 01 02 015 00 Guanito
+08 11 01 01 02 016 00 San Cristóbal
+08 11 01 01 02 017 00 Calichal
+08 11 01 01 02 018 00 Los Montes
+08 11 01 01 02 019 00 Las Limas
+08 11 01 01 02 020 00 Jobitos
+08 11 01 01 02 021 00 Cuesta La Piña
+08 11 01 01 02 022 00 Don Francisco
+08 11 01 01 02 023 00 Güízara
+08 11 01 01 02 024 00 Guaniábano Arriba (La Ceiba)
+08 11 01 01 02 025 00 El Junco
+08 11 01 01 02 026 00 Hoyo de Luis
+08 11 01 01 02 027 00 Charco Azul
+08 11 01 01 02 028 00 Potrero Central Romana
+08 11 01 01 02 029 00 Sanate
+08 11 01 01 02 030 00 Piedra Blanca
+08 11 01 01 02 031 00 Guaniábano
+08 11 01 01 02 032 00 Chavón Abajo
+08 11 01 01 02 033 00 Chavón Arriba
+08 11 01 01 02 034 00 Bejucal
+08 11 01 01 02 035 00 Sanate Abajo
+08 11 01 01 03 000 00 Santana
+08 11 01 01 03 001 00 Cañafístola
+08 11 01 01 03 002 00 El Rancho
+08 11 01 01 03 003 00 La Rejolla
+08 11 01 01 03 004 00 Centro Santana
+08 11 01 01 03 005 00 La Yayas
+08 11 01 01 03 006 00 Los Palitos - Los Naranjos
+08 11 01 01 03 007 00 Los Mangos
+08 11 01 01 03 008 00 El Mamey
+08 11 01 01 03 009 00 Cajero
+08 11 01 01 03 010 00 Rincón Frío
+08 11 01 01 03 011 00 La Media Luna
+08 11 01 01 03 012 00 La Cuchilla
+08 11 01 01 03 013 00 Santana
+08 11 01 01 03 014 00 López
+08 11 01 01 03 015 00 Reselezuela
+08 11 01 01 03 016 00 La Paloma
+08 11 01 01 03 017 00 Azafrán
+08 11 01 01 03 018 00 Martín
+08 11 01 01 03 019 00 33 de Santana Cerrá
+08 11 01 01 03 020 00 Martínez
+08 11 01 01 03 021 00 Guarapito
+08 11 01 01 03 022 00 Puerto Escondido
+08 11 01 01 03 023 00 Arroyo Seco
+08 11 01 01 03 024 00 Los Cerritos
+08 11 01 01 03 025 00 Maná Abajo
+08 11 01 01 03 026 00 Sabana de Palmarejo
+08 11 01 01 03 027 00 El Puerto
+08 11 01 01 03 028 00 Naranjo de China
+08 11 01 01 03 029 00 Arroyo Rico
+08 11 01 01 03 030 00 Guaconejo
+08 11 01 01 03 031 00 Peñón
+08 11 01 01 03 032 00 Congo
+08 11 01 01 03 033 00 Sabana el Piñal
+08 11 01 01 03 034 00 Jobo Largo
+08 11 01 01 03 035 00 Ahoga Perro
+08 11 01 01 03 036 00 Hato de Maná
+08 11 01 01 03 037 00 La Boya
+08 11 01 01 03 038 00 La Zarza
+08 11 01 01 03 039 00 Los Cacaos
+08 11 01 01 03 040 00 La Plaza
+08 11 01 01 03 041 00 Los Tomates
+08 11 01 01 03 042 00 La Caya
+08 11 01 01 03 043 00 Los Husos o Jusos
+08 11 01 01 03 044 00 Las Estancias
+08 11 01 01 03 045 00 Sabana de Jina
+08 11 01 01 03 046 00 Toro Prieto
+08 11 01 01 03 047 00 Los Brazos
+08 11 01 01 03 048 00 Las Auyamas
+08 11 01 01 03 049 00 La Colorada
+08 11 01 01 03 050 00 Boca de Guanche
+08 11 01 01 03 051 00 El Caimito
+08 11 01 01 03 052 00 Los Carpinteros
+08 11 01 01 03 053 00 Batey Genaro Quino
+08 11 01 01 03 054 00 La Culebra
+08 11 01 01 03 055 00 Duyey
+08 11 01 01 04 000 00 Jina Jaragua
+08 11 01 01 04 001 00 La Cruz
+08 11 01 01 04 002 00 Peligro
+08 11 01 01 04 003 00 Monte Claro
+08 11 01 01 04 004 00 Jina Jaragua
+08 11 01 01 04 005 00 Caña Brava
+08 11 01 01 04 006 00 Limonal
+08 11 01 01 04 007 00 Ojo de Agua
+08 11 01 01 04 008 00 Batey Campo Nuevo
+08 11 01 01 04 009 00 El Aguacate
+08 11 01 01 04 010 00 Batey San Germán
+08 11 01 01 04 011 00 Bocama
+08 11 01 01 04 012 00 El Peñón
+08 11 01 01 04 013 00 Pileta Verde
+08 11 01 01 04 014 00 Batey El Block
+08 11 01 01 04 015 00 Los Indios
+08 11 01 01 04 016 00 Batey los Lirios
+08 11 01 01 04 017 00 El Jobo
+08 11 01 01 04 018 00 La Ladrillada
+08 11 01 01 04 019 00 Palo Bonito
+08 11 01 01 04 020 00 Los Yayales
+08 11 01 01 04 021 00 Batey Guayabo
+08 11 01 01 04 022 00 El Quemado
+08 11 01 01 04 023 00 Batey la Ñapita
+08 11 01 01 04 024 00 Las Albahacas
+08 11 01 01 04 025 00 El Chacaro
+08 11 01 01 04 026 00 Valle de los Algarrobos
+08 11 01 01 04 027 00 Colorado
+08 11 01 01 04 028 00 El Tapión
+08 11 01 01 04 029 00 José Leta
+08 11 01 01 04 030 00 El 25 (El Quemado)
+08 11 01 01 04 031 00 Hoyo Claro
+08 11 01 01 04 032 00 Los Corozos
+08 11 01 01 04 033 00 La Jarda de los Lirios
+08 11 01 01 04 034 00 Batey los Caños
+08 11 01 01 04 035 00 La Jardita
+08 11 01 01 04 036 00 Batey Mirada
+08 11 01 01 04 037 00 Chinchín
+08 11 01 01 04 038 00 Batey la Pangola (Prop. Ml. De León)
+08 11 01 01 05 000 00 Los Ríos
+08 11 01 01 05 001 00 Quisibaní
+08 11 01 01 05 002 00 El Blanco
+08 11 01 01 05 003 00 Anamuyita
+08 11 01 01 05 004 00 Cabirma Clara
+08 11 01 01 05 005 00 Los Plátanos
+08 11 01 01 05 006 00 La Majagua
+08 11 01 01 05 007 00 Blandino
+08 11 01 01 05 008 00 La Ceiba
+08 11 01 01 05 009 00 El Brazo
+08 11 01 01 05 010 00 Los Cacaos
+08 11 01 01 05 011 00 El Naranjo
+08 11 01 01 05 012 00 Los Ríos
+08 11 01 01 05 013 00 Los Asientos
+08 11 01 01 05 014 00 El Cerro
+08 11 01 01 05 015 00 La Llanada
+08 11 01 01 05 016 00 El Barrero
+08 11 01 01 05 017 00 Sabaneta
+08 11 01 01 05 018 00 Los Corozos
+08 11 01 01 05 019 00 Las Abras
+08 11 01 01 05 020 00 Mata Ají
+08 11 01 01 05 021 00 Arroyo Grande
+08 11 01 01 05 022 00 Viejo Goyo
+08 11 01 01 05 023 00 Cambelén
+08 11 01 01 05 024 00 Serra o Cerrada
+08 11 01 01 06 000 00 Mata Chalupe
+08 11 01 01 06 001 00 Los Mancornados
+08 11 01 01 06 002 00 Santa Clara
+08 11 01 01 06 003 00 Las Limas
+08 11 01 01 06 004 00 La Cana
+08 11 01 01 06 005 00 La Piña
+08 11 01 01 06 006 00 Mata Chalupe
+08 11 01 01 06 007 00 Hoyo Bonito
+08 11 01 01 06 008 00 Peñoncito
+08 11 01 01 06 009 00 La Tranquera
+08 11 01 01 06 010 00 El Mameyito
+08 11 01 01 06 011 00 Batey Siete Puertas
+08 11 01 01 06 012 00 Batey Cuya
+08 11 01 01 06 013 00 Batey Pestaña
+08 11 01 01 06 014 00 Batey Estante Alto
+08 11 01 01 06 015 00 Capá
+08 11 01 01 06 016 00 Jagua Mocha
+08 11 01 01 06 017 00 María Ruiz
+08 11 01 01 06 018 00 Jobo Dulce
+08 11 01 01 06 019 00 La Malenita
+08 11 01 01 06 020 00 La Matilla
+08 11 01 01 06 021 00 La Malena
+08 11 01 01 06 022 00 La Cabirma
+08 11 01 02 00 000 00 Las Lagunas de Nisibón (DM)
+08 11 01 02 01 000 00 Las Lagunas de Nisibón (Zona urbana)
+08 11 01 02 01 001 00 la Mina
+08 11 01 02 01 001 01 La Mina
+08 11 01 02 01 002 00 Centro del Pueblo
+08 11 01 02 01 002 01 Centro del Pueblo
+08 11 01 02 01 002 02 Ramón Ramírez
+08 11 01 02 01 003 00 El Peñón
+08 11 01 02 01 003 01 El Peñón
+08 11 01 02 01 004 00 la Gallera
+08 11 01 02 01 004 01 La Gallera
+08 11 01 02 01 004 02 Jardines Verdes
+08 11 01 02 01 004 03 Bort (Quija Quieta)
+08 11 01 02 01 004 04 Vista Mar
+08 11 01 02 01 005 00 Los Callejones
+08 11 01 02 01 005 01 Los Callejones
+08 11 01 02 01 005 02 Las Redes
+08 11 01 02 01 005 03 La Nueva Gallera
+08 11 01 02 01 005 04 Los Gonzalez Prieto
+08 11 01 02 01 006 00 Buenos Aires
+08 11 01 02 01 006 01 Buenos Aires
+08 11 01 02 01 006 02 Puerto Rico
+08 11 01 02 01 007 00 Suizo
+08 11 01 02 01 007 01 Suizo
+08 11 01 02 01 008 00 Brisas del Mar
+08 11 01 02 01 008 01 Brisas del Mar
+08 11 01 02 02 000 00 cañada Honda
+08 11 01 02 02 001 00 Cañada Honda
+08 11 01 02 02 002 00 Las Zanjas
+08 11 01 02 02 003 00 Las Vacamas
+08 11 01 02 02 004 00 La Culatica
+08 11 01 02 02 005 00 Los Sumideros
+08 11 01 02 02 006 00 Los Tocones
+08 11 01 02 02 007 00 El Maicillo
+08 11 01 02 02 008 00 Los Manguitos
+08 11 01 02 02 009 00 La Tranquera
+08 11 01 02 02 010 00 Entrada de la Zanja
+08 11 01 02 02 011 00 Arroyo Rancho
+08 11 01 02 02 012 00 Boca de Mamón
+08 11 01 02 02 013 00 La Laguna
+08 11 01 02 02 014 00 El Peñón
+08 11 01 02 02 015 00 Los Helechos
+08 11 01 02 03 000 00 El Barrero
+08 11 01 02 03 001 00 Las Cañas
+08 11 01 02 03 002 00 El Barrero
+08 11 01 02 03 003 00 Los Yagrumos
+08 11 01 02 03 004 00 Guanchi
+08 11 01 02 03 005 00 Río Llano
+08 11 01 02 03 006 00 La Lisita (La Luisita)
+08 11 01 02 03 007 00 El Guayabo
+08 11 01 02 03 008 00 Los Bajos de Maimón
+08 11 01 02 03 009 00 Chirino o Himiro
+08 11 01 02 03 010 00 Miraflores
+08 11 01 02 03 011 00 Punta de Coco
+08 11 01 02 03 012 00 Batey Papagayo
+08 11 01 02 03 013 00 La Ceibita
+08 11 01 02 03 014 00 Palo Amargo
+08 11 01 02 03 015 00 La Culata
+08 11 01 02 03 016 00 Cuerecito
+08 11 01 02 03 017 00 El Cucutyo
+08 11 01 02 04 000 00 las Guamas
+08 11 01 02 04 001 00 Palma Panda
+08 11 01 02 04 002 00 Bonilla
+08 11 01 02 04 003 00 El Algarrobo
+08 11 01 02 04 004 00 Los Mogotes
+08 11 01 02 04 005 00 El Hicoteo
+08 11 01 02 04 006 00 Batey las Guamas
+08 11 01 02 04 007 00 Yonú
+08 11 01 02 04 008 00 El Higüero
+08 11 01 02 04 009 00 La Jabilla
+08 11 01 02 04 010 00 El Jobo
+08 11 01 02 04 011 00 Las Cabirmas
+08 11 01 02 04 012 00 Las Lajas
+08 11 01 02 04 013 00 El Fuerte
+08 11 01 02 04 014 00 La Silverita
+08 11 01 02 04 015 00 Yonú Arriba
+08 11 01 02 04 016 00 Yonú Abajo
+08 11 01 02 04 017 00 Proyecto Yonú
+08 11 01 02 04 018 00 Arroyo Rico
+08 11 01 02 04 019 00 El Hierro
+08 11 01 03 00 000 00 La Otra Banda (DM)
+08 11 01 03 01 000 00 La Otra Banda (Zona urbana)
+08 11 01 03 01 001 00 Jobo Jagüey
+08 11 01 03 01 001 01 Jobo Jagüey
+08 11 01 03 01 002 00 Línea Nueva
+08 11 01 03 01 002 01 Línea Nueva
+08 11 01 03 01 002 02 Los Robles
+08 11 01 03 01 003 00 Los Martínez o La Cancha
+08 11 01 03 01 003 01 Los Martínez o La Cancha
+08 11 01 03 01 004 00 Los Palos (Los Polos)
+08 11 01 03 01 004 01 Los Palos (Los Polos)
+08 11 01 03 01 005 00 los castillo
+08 11 01 03 01 005 01 Los Castillo
+08 11 01 03 01 005 02 El Tamarindo
+08 11 01 03 01 006 00 Villa Juana o Los Pilotos
+08 11 01 03 01 006 01 Villa Juana o Los Pilotos
+08 11 01 03 01 006 02 Las Flores
+08 11 01 03 01 007 00 laguna Verde
+08 11 01 03 01 007 01 Laguna Verde
+08 11 01 03 01 007 02 Ocoeño
+08 11 01 03 01 008 00 La Palmilla
+08 11 01 03 01 008 01 La Palmilla
+08 11 01 03 01 009 00 Centro del Pueblo
+08 11 01 03 01 009 01 Centro del Pueblo
+08 11 01 03 02 000 00 El Bonao
+08 11 01 03 02 001 00 El Bonao
+08 11 01 03 02 002 00 Villa Pión
+08 11 01 03 02 003 00 Anamuya
+08 11 01 03 02 004 00 Palo Amargo
+08 11 01 03 02 005 00 Hoyo Campo
+08 11 01 03 02 006 00 Puente Anamuya
+08 11 01 03 03 000 00 Duyey
+08 11 01 03 03 001 00 Duyey
+08 11 01 03 03 002 00 El Hilo
+08 11 01 03 03 003 00 El Placer
+08 11 01 03 03 004 00 Honduras
+08 11 01 03 03 005 00 La Curtiembre
+08 11 01 03 03 006 00 La Rinconada
+08 11 01 03 03 007 00 Mi Lola
+08 11 01 03 03 008 00 Paliza Buena
+08 11 01 03 03 009 00 Vista Alegre
+08 11 01 03 03 010 00 Pueblo Nuevo
+08 11 01 03 04 000 00 cruz de isleño
+08 11 01 03 04 001 00 Cruce de Isleño (Antiguo Cruz de Isleño)
+08 11 01 03 04 002 00 Cruz de Isleño (Antiguo Los Dajaos)
+08 11 01 03 04 003 00 Pinta Pico
+08 11 01 03 04 004 00 Valle Jina
+08 11 01 03 04 005 00 Yabiqui
+08 11 01 03 04 006 00 Cerro Gordo
+08 11 01 03 04 007 00 Los Palos
+08 11 01 03 04 008 00 Las Cejas
+08 11 01 03 04 009 00 La Cuchilla
+08 11 01 03 04 010 00 Jobo Jagüey
+08 11 01 03 04 011 00 Batey San Francisco
+08 11 01 03 04 012 00 Batey Romanita
+08 11 01 03 04 013 00 Las Tres Casitas
+08 11 01 03 04 014 00 La Zafra
+08 11 01 03 04 015 00 El Cuya
+08 11 01 03 04 016 00 Los Vicini
+08 11 01 03 04 017 00 El Cinco
+08 11 01 03 04 018 00 Los Higos o El Higo
+08 11 01 03 04 019 00 Zafarraya
+08 11 01 03 04 020 00 Batey los Caños
+08 11 01 03 04 021 00 Campo Nuevo
+08 11 01 03 04 022 00 Ojo de Agua
+08 11 01 03 04 023 00 El Peñón de los Reyes
+08 11 01 03 04 024 00 Batey Mirador
+08 11 01 04 00 000 00 Verón Punta Cana (DM)
+08 11 01 04 01 000 00 Verón (Zona urbana)
+08 11 01 04 01 001 00 Lotificación Verón
+08 11 01 04 01 001 01 Lotificación Verón
+08 11 01 04 01 001 02 Resdencial Campo Lindo
+08 11 01 04 01 001 03 Residencial Perla Caribe
+08 11 01 04 01 001 04 Residencial Villa del Mar
+08 11 01 04 01 002 00 Villa La Fe
+08 11 01 04 01 002 01 Villa La Fe
+08 11 01 04 01 002 02 Residencial Prados de Verón
+08 11 01 04 01 003 00 la Gallera o los redimidos
+08 11 01 04 01 003 01 La Gallera o Los Redimidos
+08 11 01 04 01 004 00 Villa Progreso
+08 11 01 04 01 004 01 Villa Progreso
+08 11 01 04 01 004 02 Ensanche La Caoba
+08 11 01 04 01 004 03 Ciudad del Rey
+08 11 01 04 01 005 00 Verón
+08 11 01 04 01 005 01 Verón
+08 11 01 04 01 005 02 Villa Europa
+08 11 01 04 01 006 00 urbanización Punta Cana
+08 11 01 04 01 006 01 Urbanización Punta Cana
+08 11 01 04 01 006 02 Villa Shell
+08 11 01 04 01 007 00 cristinita
+08 11 01 04 01 007 01 Cristinita
+08 11 01 04 01 008 00 Bello Amanecer
+08 11 01 04 01 008 01 Bello Amanecer
+08 11 01 04 01 009 00 El Samaritano
+08 11 01 04 01 009 01 El Samaritano
+08 11 01 04 01 009 02 El Samaritano II
+08 11 01 04 01 010 00 las dos Jardas
+08 11 01 04 01 010 01 Las Jardas
+08 11 01 04 01 010 02 El Guateque
+08 11 01 04 01 011 00 Bávaro
+08 11 01 04 01 011 01 Pueblo Bávaro
+08 11 01 04 01 011 02 Pueblo Nuevo
+08 11 01 04 01 011 03 Residencial Bávaro Punta-Cana
+08 11 01 04 01 011 04 Bávaro
+08 11 01 04 01 012 00 la Jarda de Hoyo claro
+08 11 01 04 01 012 01 La Misericordia de Dios o Los Manantiales
+08 11 01 04 01 012 02 Villa Playwood
+08 11 01 04 01 012 03 Residencial Lantigua
+08 11 01 04 01 012 04 Residencial Juan Yilda
+08 11 01 04 01 012 05 Los Guandules
+08 11 01 04 01 012 06 Villa Cosobo
+08 11 01 04 01 012 07 Don Agustin (Proyecto S/N)
+08 11 01 04 01 013 00 los Manantiales
+08 11 01 04 01 013 01 Los Manantiales
+08 11 01 04 01 013 02 Residencial Don Rogelio
+08 11 01 04 01 013 03 Residencial La Encantada
+08 11 01 04 01 014 00 Lotificación Verón II
+08 11 01 04 01 014 01 Lotificación Verón II
+08 11 01 04 02 000 00 Juanillo
+08 11 01 04 02 001 00 Cabo Engaño
+08 11 01 04 02 002 00 El Suero
+08 11 01 04 02 003 00 Arraiján
+08 11 01 04 02 004 00 Los Manantiales
+08 11 01 04 02 005 00 Borrachón
+08 11 01 04 02 006 00 Pantanal
+08 11 01 04 02 007 00 Punta Cana
+08 11 01 04 02 008 00 La Trocha
+08 11 01 04 02 009 00 La Salina
+08 11 01 04 02 010 00 Juanillo
+08 11 01 04 02 011 00 La Curva o La Culata
+08 11 01 04 02 012 00 Cabo San Rafael
+08 11 01 04 02 013 00 Los Ranchitos (Arena Gorda)
+08 11 01 04 02 014 00 Caracolito
+08 11 01 04 03 000 00 El Salado
+08 11 01 04 03 001 00 El Caño
+08 11 01 04 03 002 00 José León
+08 11 01 04 03 003 00 El Espino
+08 11 01 04 03 004 00 Cañada Honda
+08 11 01 04 03 005 00 La Jina
+08 11 01 04 03 006 00 Jagua Mocha
+08 11 01 04 03 007 00 El Peñón
+08 11 01 04 03 008 00 La Ceiba
+08 11 01 04 03 009 00 El Salado
+08 11 01 04 03 010 00 Los Hoyos
+08 11 01 04 03 011 00 Los Naranjos
+08 11 01 04 03 012 00 La Safra
+08 11 01 04 03 013 00 Maricao (El Jobován)
+08 11 01 04 03 014 00 La Pileta
+08 11 01 04 03 015 00 Uvero Alto
+08 11 01 04 03 016 00 El Macao
+08 11 01 04 03 017 00 Güiri Güiri
+08 11 01 04 03 018 00 El Burén de Tres Piezas
+08 11 01 04 03 019 00 La Jarda u Hoyo Claro 
+08 11 01 04 03 020 00 Caoba
+08 11 01 04 03 021 00 La Jarda
+08 11 01 04 03 022 00 Cabeza de Toro
+08 11 01 04 03 023 00 Islabón
+08 11 01 04 03 024 00 Tres Piezas (El Caracol)
+08 11 01 04 03 025 00 Sabana de los Martínez
+08 11 01 04 03 026 00 El Alemán
+08 11 01 04 03 027 00 Zona Turística de Bávaro
+08 11 01 04 03 028 00 Cortecito
+08 11 02 00 00 000 00 San rafael del Yuma
+08 11 02 01 00 000 00 San rafael del Yuma
+08 11 02 01 01 000 00 San Rafael del Yuma (Zona urbana)
+08 11 02 01 01 001 00 lavador
+08 11 02 01 01 001 01 Lavador
+08 11 02 01 01 001 02 El Matadero
+08 11 02 01 01 002 00 Alma Rosa o El Bronx
+08 11 02 01 01 002 01 Alma Rosa o El Bronx
+08 11 02 01 01 003 00 la lomita
+08 11 02 01 01 003 01 La Lomita
+08 11 02 01 01 004 00 Centro del Pueblo
+08 11 02 01 01 004 01 Centro del Pueblo
+08 11 02 01 01 005 00 la Gallera o El Multiuso
+08 11 02 01 01 005 01 La Gallera o El Multiuso
+08 11 02 01 01 006 00 Las Flores
+08 11 02 01 01 006 01 Las Flores
+08 11 02 01 01 007 00 Nuevo
+08 11 02 01 01 007 01 Nuevo
+08 11 02 01 01 008 00 Los Profesores
+08 11 02 01 01 008 01 Los Profesores
+08 11 02 01 01 008 02 La Lila
+08 11 02 01 01 009 00 Oscar
+08 11 02 01 01 009 01 Oscar
+08 11 02 01 01 010 00 Inespre
+08 11 02 01 01 010 01 Inespre
+08 11 02 01 01 011 00 Villa Progreso
+08 11 02 01 01 011 01 Villa Progreso
+08 11 02 01 02 000 00 Boca de Yuma
+08 11 02 01 02 001 00 El Naranjo (Naranjal)
+08 11 02 01 02 002 00 Caño Prieto o La Jardita
+08 11 02 01 02 003 00 El Jobito
+08 11 02 01 02 004 00 Leonardo (El Bañadero)
+08 11 02 01 02 005 00 El Guano (Los Yagrumos)
+08 11 02 01 02 006 00 Yagüey
+08 11 02 01 02 007 00 Guano o Los Muertos
+08 11 02 01 02 008 00 La Guarapa
+08 11 02 01 02 009 00 Agapito
+08 11 02 01 02 010 00 Los López
+08 11 02 01 02 011 00 La Malagueta
+08 11 02 01 02 012 00 El Carril
+08 11 02 01 02 013 00 El Cascajal
+08 11 02 01 02 014 00 El Dalmao
+08 11 02 01 02 015 00 La Estrelladora
+08 11 02 01 02 016 00 Los Negros
+08 11 02 01 02 017 00 Los Sánchez
+08 11 02 01 02 018 00 Central Romana
+08 11 02 01 02 019 00 Pileta Honda
+08 11 02 01 02 020 00 Cabo San Rafael
+08 11 02 01 02 021 00 La Cueva de Luis
+08 11 02 01 02 022 00 El Aguacate
+08 11 02 01 03 000 00 Gato
+08 11 02 01 03 001 00 Batey Ramón Gordo
+08 11 02 01 03 002 00 Batey Cuesta Caribe
+08 11 02 01 03 003 00 El Junco
+08 11 02 01 03 004 00 Batey Montecarlo
+08 11 02 01 03 005 00 Nazario
+08 11 02 01 03 006 00 El Arraiján
+08 11 02 01 03 007 00 El Guayacán
+08 11 02 01 03 008 00 Los Valles
+08 11 02 01 03 009 00 Venezuela (El Valle)
+08 11 02 01 03 010 00 Marota
+08 11 02 01 03 011 00 Los Cinco Caminos
+08 11 02 01 03 012 00 El Pozo
+08 11 02 01 03 013 00 Batey las Cejas
+08 11 02 01 03 014 00 Batey Cinco
+08 11 02 01 03 015 00 Santa Cruz de Gato
+08 11 02 01 03 016 00 Cañada de la Jina
+08 11 02 01 03 017 00 Ballestero
+08 11 02 01 03 018 00 El Limón
+08 11 02 01 03 019 00 Benerito
+08 11 02 01 03 020 00 Hato Bonito
+08 11 02 01 03 021 00 Batey Magdalena
+08 11 02 01 04 000 00 La Piñita
+08 11 02 01 04 001 00 El Arroyo
+08 11 02 01 04 002 00 La Guázuma
+08 11 02 01 04 003 00 Batey Guázuma
+08 11 02 01 04 004 00 Batey 412
+08 11 02 01 04 005 00 La Piñita
+08 11 02 01 04 006 00 Los Valles
+08 11 02 01 04 007 00 Los Charcos
+08 11 02 01 04 008 00 Guaitabón
+08 11 02 01 04 009 00 Batey Palo Bonito
+08 11 02 01 04 010 00 Batey Los Higos
+08 11 02 01 04 011 00 Batey Los Tocones
+08 11 02 01 04 012 00 Batey Maragua
+08 11 02 01 04 013 00 Batey Verde
+08 11 02 01 04 014 00 La Cruz de los Rondones
+08 11 02 01 04 015 00 Cruce de la Piñita
+08 11 02 02 00 000 00 Boca de Yuma (DM)
+08 11 02 02 01 000 00 Boca de Yuma (Zona urbana)
+08 11 02 02 01 001 00 Centro del Pueblo
+08 11 02 02 01 001 01 Centro del Pueblo
+08 11 02 02 01 002 00 Los Cocos
+08 11 02 02 01 002 01 Los Cocos
+08 11 02 02 01 002 02 Miramar
+08 11 02 02 01 003 00 Vista Mar (Zona Turística) 
+08 11 02 02 01 003 01 Vista Mar (Zona Turística) 
+08 11 02 02 01 003 02 Nuevo
+08 11 02 02 01 004 00 La Playa
+08 11 02 02 01 004 01 La Playa
+08 11 02 02 01 005 00 La Piedra
+08 11 02 02 01 005 01 La Piedra
+08 11 02 02 02 000 00 Boca de Yuma
+08 11 02 02 02 001 00 Las Playitas
+08 11 02 02 02 002 00 Atajadizo
+08 11 02 02 02 003 00 La Gran Chorra
+08 11 02 02 02 004 00 El Maté (El Marte)
+08 11 02 02 02 005 00 Liborio
+08 11 02 02 02 006 00 La Bruja
+08 11 02 02 02 007 00 El Caracol
+08 11 02 02 02 008 00 Boca de Yuma (Rural)
+08 11 02 02 02 009 00 La Cueva
+08 11 02 02 02 010 00 Bartolo
+08 11 02 02 02 011 00 Valle de los Algarrobos
+08 11 02 02 02 012 00 Parque Nacional del Este (Cotubanamá)
+08 11 02 03 00 000 00 Bayahíbe (DM)
+08 11 02 03 01 000 00 Bayahíbe (Zona urbana)
+08 11 02 03 01 001 00 Centro del Pueblo Bayahíbe
+08 11 02 03 01 001 01 Centro del Pueblo Bayahíbe
+08 11 02 03 01 002 00 Flor de Bayahíbe
+08 11 02 03 01 002 01 Flor de Bayahíbe
+08 11 02 03 01 003 00 Nuevo Bayahibe
+08 11 02 03 01 003 01 Nuevo Bayahibe
+08 11 02 03 01 004 00 La Punta
+08 11 02 03 01 004 01 La Punta
+08 11 02 03 02 000 00 Bayahíbe
+08 11 02 03 02 001 00 Valle de la Orquesta
+08 11 02 03 02 002 00 La Botijuela
+08 11 02 03 02 003 00 Boca de Chavón
+08 11 02 03 02 004 00 El Infinito
+08 11 02 03 02 005 00 Parque Nacional del Este
+08 11 02 03 02 006 00 Padre Nuestro
+08 11 02 03 02 007 00 El Valle
+08 11 02 03 02 008 00 Dominicus
+08 11 02 03 02 009 00 El Valle Francés
+08 11 02 03 02 009 00 El Valle Francés

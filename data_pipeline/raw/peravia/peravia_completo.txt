@@ -1,0 +1,561 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+05 17 00 00 00 000 00 Peravia
+05 17 01 00 00 000 00 Baní
+05 17 01 01 00 000 00 Baní
+05 17 01 01 01 000 00 Baní (Zona urbana)
+05 17 01 01 01 001 00 Centro del Pueblo
+05 17 01 01 01 001 01 Centro del Pueblo
+05 17 01 01 01 001 02 Los Melones
+05 17 01 01 01 001 03 Urbanización Anabel
+05 17 01 01 01 001 04 La Jabilla
+05 17 01 01 01 001 05 Urbanización Máximo Gómez
+05 17 01 01 01 001 06 Los Morenos
+05 17 01 01 01 001 07 El Parral
+05 17 01 01 01 001 08 Urbanización Ribera del Sur
+05 17 01 01 01 002 00 30 de Mayo
+05 17 01 01 01 002 01 30 de Mayo
+05 17 01 01 01 002 02 19 de Marzo
+05 17 01 01 01 003 00 Brisas de Guázuma
+05 17 01 01 01 003 01 Brisas de Guázuma
+05 17 01 01 01 003 02 Altos de Guázuma
+05 17 01 01 01 003 03 Brisas del Sur
+05 17 01 01 01 004 00 Los Cajuilitos
+05 17 01 01 01 004 01 Los Cajuilitos
+05 17 01 01 01 005 00 El Fundo
+05 17 01 01 01 005 01 El Fundo
+05 17 01 01 01 006 00 Pueblo Nuevo
+05 17 01 01 01 006 01 Pueblo Nuevo
+05 17 01 01 01 006 02 24 de Abril
+05 17 01 01 01 007 00 El INVI
+05 17 01 01 01 007 01 El INVI
+05 17 01 01 01 007 02 Los Tiburones
+05 17 01 01 01 007 03 Las Arepas
+05 17 01 01 01 008 00 Santa Cruz
+05 17 01 01 01 008 01 Santa Cruz
+05 17 01 01 01 009 00 Villa Majeca
+05 17 01 01 01 009 01 Villa Majeca
+05 17 01 01 01 009 02 Villa Carmen
+05 17 01 01 01 009 03 El Meneo
+05 17 01 01 01 009 04 Hoyo Prieto
+05 17 01 01 01 010 00 Los Pescadores
+05 17 01 01 01 010 01 Los Pescadores
+05 17 01 01 01 010 02 Santa Elena
+05 17 01 01 01 010 03 Residencial Claudia
+05 17 01 01 01 010 04 Urbanización José del Carmen
+05 17 01 01 01 011 00 Las Marías
+05 17 01 01 01 011 01 Las Marías
+05 17 01 01 01 011 02 Jardines del Sur
+05 17 01 01 01 012 00 Santa Rosa
+05 17 01 01 01 012 01 Santa Rosa
+05 17 01 01 01 012 02 Los Robles
+05 17 01 01 01 013 00 Los Barrancones
+05 17 01 01 01 013 01 Los Barrancones
+05 17 01 01 01 013 02 Villa David
+05 17 01 01 01 013 03 Las 20 Casitas
+05 17 01 01 01 013 04 Máximo Gómez
+05 17 01 01 01 013 05 Villa La Colina
+05 17 01 01 01 014 00 Mejoramiento Social
+05 17 01 01 01 014 01 Mejoramiento Social
+05 17 01 01 01 014 02 Los Cartones o María Carlita
+05 17 01 01 01 014 03 Residencial Los Agrónomos
+05 17 01 01 01 015 00 El Fundo (Mirador Norte)
+05 17 01 01 01 015 01 El Fundo (Mirador Norte)
+05 17 01 01 01 015 02 El Padre
+05 17 01 01 01 015 03 Los Cayuquitos
+05 17 01 01 01 016 00 La Saona
+05 17 01 01 01 016 01 La Saona
+05 17 01 01 01 017 00 El Maní
+05 17 01 01 01 017 01 El Maní
+05 17 01 01 01 017 02 El Sifoncito
+05 17 01 01 01 018 00 El Llano
+05 17 01 01 01 018 01 El Llano
+05 17 01 01 01 018 02 Urbanización Erneisa
+05 17 01 01 01 018 03 Urbanización Villa Real I Y II
+05 17 01 01 01 018 04 Urbanización Los Maestros
+05 17 01 01 01 019 00 Urbanización María del Carmen
+05 17 01 01 01 019 01 Urbanización María del Carmen
+05 17 01 01 01 020 00 Urbanización Palo Alto (Palo Blanco)
+05 17 01 01 01 020 01 Urbanización Palo Alto (Palo Blanco)
+05 17 01 01 01 020 02 Residencial Luz María
+05 17 01 01 01 021 00 Urbanización Brisas del Canal
+05 17 01 01 01 021 01 Urbanización Brisas del Canal
+05 17 01 01 01 021 02 Urbanización Brisas del Canal II
+05 17 01 01 01 021 03 Hermanos Serret
+05 17 01 01 01 022 00 Urbanización Valera Guzmán
+05 17 01 01 01 022 01 Urbanización Valera Guzmán
+05 17 01 01 01 022 02 Hermanos Medina
+05 17 01 01 01 022 03 Urbanización Costa Sur
+05 17 01 01 01 022 04 Residencial Margarita
+05 17 01 01 01 023 00 Boca Canasta
+05 17 01 01 01 023 01 Boca Canasta
+05 17 01 01 01 023 02 Villas Country Club
+05 17 01 01 01 023 03 Nuevo Milenium
+05 17 01 01 02 000 00 Boca Canasta
+05 17 01 01 02 001 00 Boca Canasta
+05 17 01 01 02 002 00 Corbanal
+05 17 01 01 02 003 00 Los Almendros
+05 17 01 01 03 000 00 Las Calderas
+05 17 01 01 03 001 00 Las Salinas
+05 17 01 01 03 002 00 Las Calderas
+05 17 01 01 04 000 00 El Cañafístol
+05 17 01 01 04 001 00 Cañafístol
+05 17 01 01 05 000 00 Los Cateyes
+05 17 01 01 05 001 00 Monte Bonito
+05 17 01 01 05 002 00 Los Cateyes
+05 17 01 01 05 003 00 Monteada de Javier
+05 17 01 01 05 004 00 Hoyo Nuevo
+05 17 01 01 05 005 00 La Manaclas
+05 17 01 01 05 006 00 Los Fondos de Jigüey
+05 17 01 01 05 007 00 El Aguacate
+05 17 01 01 05 008 00 Los Jobos
+05 17 01 01 05 009 00 La Malanga
+05 17 01 01 05 010 00 La Cabirma
+05 17 01 01 05 011 00 Las Palmas
+05 17 01 01 05 012 00 La Telanza
+05 17 01 01 05 013 00 Calderón
+05 17 01 01 05 014 00 La Guama
+05 17 01 01 06 000 00 Fundación de Peravia
+05 17 01 01 06 001 00 Fundación de Peravia
+05 17 01 01 06 002 00 Peravia
+05 17 01 01 07 000 00 Honduras
+05 17 01 01 07 001 00 Honduras
+05 17 01 01 07 002 00 El Matadero
+05 17 01 01 07 003 00 El Montazo
+05 17 01 01 07 004 00 Firme en Medio
+05 17 01 01 07 005 00 La Mala Pasada
+05 17 01 01 07 006 00 El Hoyo
+05 17 01 01 07 007 00 La Cuaba
+05 17 01 01 07 008 00 El Bañadero
+05 17 01 01 07 009 00 Los Naranjales
+05 17 01 01 07 010 00 El Embalsadero o Sabana Roble
+05 17 01 01 07 011 00 Sabina
+05 17 01 01 07 012 00 Los Cedros
+05 17 01 01 07 013 00 La Botija
+05 17 01 01 07 014 00 Los Ranchos
+05 17 01 01 07 015 00 La Tayota
+05 17 01 01 07 016 00 Segundo Río
+05 17 01 01 08 000 00 Río Arriba
+05 17 01 01 08 001 00 Río Arriba
+05 17 01 01 08 002 00 La Vuelta de La Barranca
+05 17 01 01 08 003 00 Los Guatapanales
+05 17 01 01 08 004 00 La Lana
+05 17 01 01 08 005 00 El Almirante
+05 17 01 01 08 006 00 Montero
+05 17 01 01 08 007 00 Arroyo Seco
+05 17 01 01 08 008 00 Agua Clara
+05 17 01 01 08 009 00 El Alto de los Papita
+05 17 01 01 08 010 00 El Alto de Los Gabriela
+05 17 01 01 08 011 00 La Altagracia
+05 17 01 01 08 012 00 El Ojo de Agua
+05 17 01 01 08 013 00 Portezuelo
+05 17 01 01 08 014 00 El Genaré
+05 17 01 01 08 015 00 La Gina
+05 17 01 01 08 016 00 El Copey (Arroyo Salado)
+05 17 01 01 08 017 00 Los Ramones
+05 17 01 01 08 018 00 El Agua del Limón
+05 17 01 01 08 019 00 El Bejucal
+05 17 01 01 08 020 00 Los Naranjos
+05 17 01 01 08 021 00 Barranca Colorá
+05 17 01 01 08 022 00 La Jobita o La Jubita
+05 17 01 01 08 023 00 La Mora
+05 17 01 01 09 000 00 El Llano
+05 17 01 01 09 001 00 El Llano
+05 17 01 01 10 000 00 La Montería
+05 17 01 01 10 001 00 El Manaclar
+05 17 01 01 10 002 00 El Naranjal
+05 17 01 01 10 003 00 Hoyo Sánchez
+05 17 01 01 10 004 00 Sabana Indio
+05 17 01 01 10 005 00 La Montería
+05 17 01 01 10 006 00 Los Yaguarizos
+05 17 01 01 10 007 00 La Majagua
+05 17 01 01 10 008 00 Las Auyamas
+05 17 01 01 10 009 00 Cabeza de Toro
+05 17 01 01 10 010 00 La Piedra
+05 17 01 01 10 011 00 La Tuna
+05 17 01 01 10 012 00 La Ciénaga
+05 17 01 01 11 000 00 Monte Llano
+05 17 01 01 11 001 00 La Lechuza
+05 17 01 01 11 002 00 El Caimito
+05 17 01 01 11 003 00 Monte Llano
+05 17 01 01 11 004 00 Rancho de Matos
+05 17 01 01 11 005 00 El Toro
+05 17 01 01 11 006 00 El Aguacate
+05 17 01 01 11 007 00 Sonador
+05 17 01 01 12 000 00 El Recodo
+05 17 01 01 12 001 00 El Recodo
+05 17 01 01 12 002 00 El Barro
+05 17 01 01 12 003 00 Monte del Maniel
+05 17 01 01 12 004 00 Cerro Prieto
+05 17 01 01 12 005 00 Las Yayas
+05 17 01 01 12 006 00 Bartolo
+05 17 01 01 12 007 00 El Salto
+05 17 01 01 12 008 00 La Perdiz
+05 17 01 01 12 009 00 El Picao
+05 17 01 01 12 010 00 Loma Los Pinos
+05 17 01 01 12 011 00 La Yayita
+05 17 01 01 12 012 00 La Uvita
+05 17 01 01 12 013 00 Rancho Agustín
+05 17 01 01 12 014 00 Cañada Honda
+05 17 01 01 12 015 00 El Riíto
+05 17 01 01 12 016 00 El Mamey
+05 17 01 01 12 017 00 Cañaveral
+05 17 01 01 12 018 00 El Rincón
+05 17 01 01 13 000 00 Valdesia
+05 17 01 01 13 001 00 Caminero
+05 17 01 01 13 002 00 La Laguna
+05 17 01 01 13 003 00 El Montazo
+05 17 01 01 13 004 00 Valdesia
+05 17 01 01 13 005 00 Arroyo Blanco
+05 17 01 01 13 006 00 Los Ramones
+05 17 01 01 13 007 00 La Bejuquera
+05 17 01 01 13 008 00 Ermitaño
+05 17 01 01 13 009 00 Los Rodríguez
+05 17 01 01 13 010 00 El Hoyito
+05 17 01 01 13 011 00 Buena Vista
+05 17 01 01 13 012 00 La Cuaba o Cubana
+05 17 01 01 13 013 00 Palo Bonito
+05 17 01 01 14 000 00 Villa Güera
+05 17 01 01 14 001 00 Villa Güera
+05 17 01 01 14 002 00 El Fundo
+05 17 01 01 14 003 00 Boca de Güera
+05 17 01 01 14 004 00 Los Estamos
+05 17 01 03 00 000 00 Villa Fundación (DM)
+05 17 01 03 01 000 00 Villa Fundación (Zona urbana)
+05 17 01 03 01 001 00 Centro del Pueblo
+05 17 01 03 01 001 01 Centro del Pueblo
+05 17 01 03 01 001 02 La Rotonda
+05 17 01 03 01 001 03 Proyecto La Laguna (Francisco del Rosario Sánchez)
+05 17 01 03 01 001 04 Juan Pablo Duarte
+05 17 01 03 01 001 06 Cañada Linda
+05 17 01 03 01 002 00 El Millón
+05 17 01 03 01 002 01 El Millón
+05 17 01 03 01 002 02 Villa Rosa
+05 17 01 03 01 003 00 La Cuesta
+05 17 01 03 01 003 01 La Cuesta
+05 17 01 03 01 003 02 La Granja
+05 17 01 03 02 000 00 Las Carreras
+05 17 01 03 02 001 00 El Abey
+05 17 01 03 02 002 00 Las Mallitas (Las Bocainas)
+05 17 01 03 02 003 00 Las Carreras
+05 17 01 03 02 004 00 El Cruce de Ocoa
+05 17 01 03 02 005 00 El Rastrillo
+05 17 01 03 02 006 00 Monte Mamón
+05 17 01 03 02 007 00 Cerrito Limón
+05 17 01 03 02 008 00 Cañada Arriba
+05 17 01 03 02 009 00 Escondido
+05 17 01 03 03 000 00 Los Ranchitos
+05 17 01 03 03 001 00 Los Ranchitos
+05 17 01 04 00 000 00 Sabana Buey (DM)
+05 17 01 04 01 000 00 Sabana Buey (Zona urbana)
+05 17 01 04 01 001 00 Centro del Pueblo
+05 17 01 04 01 001 01 Centro del Pueblo
+05 17 01 04 01 002 00 Nuevo
+05 17 01 04 01 002 01 Nuevo
+05 17 01 04 01 003 00 Los Corbanitos
+05 17 01 04 01 003 01 Los Corbanitos
+05 17 01 04 02 000 00 El Palmarito
+05 17 01 04 02 001 00 El Palmarito
+05 17 01 04 02 002 00 Sabana de La Cruz
+05 17 01 04 03 000 00 Sabana Buey
+05 17 01 04 03 001 00 Sabana Buey
+05 17 01 05 00 000 00 Paya (DM)
+05 17 01 05 01 000 00 Paya (Zona urbana)
+05 17 01 05 01 001 00 Paya Arriba
+05 17 01 05 01 001 01 Paya Arriba
+05 17 01 05 01 001 02 Saona
+05 17 01 05 01 001 03 Jarro Sucio
+05 17 01 05 01 001 04 El Rincón
+05 17 01 05 01 001 05 Las Margaritas
+05 17 01 05 01 001 06 Urbanización El Tanque
+05 17 01 05 01 001 07 El Manguito
+05 17 01 05 01 001 08 La Berma
+05 17 01 05 01 002 00 Paya en Medio
+05 17 01 05 01 002 01 Paya en Medio
+05 17 01 05 01 002 02 Centro del Pueblo
+05 17 01 05 01 003 00 Paya Abajo
+05 17 01 05 01 003 01 Paya Abajo
+05 17 01 05 01 003 02 Las Cañitas
+05 17 01 05 01 004 00 Los Quemados
+05 17 01 05 01 004 01 Los Quemados
+05 17 01 05 02 000 00 Escondido
+05 17 01 05 02 001 00 Escondido
+05 17 01 05 02 002 00 Las Bayonas
+05 17 01 05 02 003 00 La Javilla
+05 17 01 05 03 000 00 Mata Gorda
+05 17 01 05 03 001 00 Mata Gorda
+05 17 01 05 03 002 00 Sabana Chiquita
+05 17 01 05 04 000 00 Paya Rural
+05 17 01 05 04 001 00 Paya Rural
+05 17 01 05 04 002 00 Sabana Jovero
+05 17 01 05 04 003 00 Ojo de Agua
+05 17 01 05 04 004 00 La Vereda
+05 17 01 05 04 005 00 El Voladero
+05 17 01 05 04 006 00 Agua Mala
+05 17 01 05 04 007 00 El Retiro
+05 17 01 06 00 000 00 Villa Sombrero (DM)
+05 17 01 06 01 000 00 Villa Sombrero (Zona urbana)
+05 17 01 06 01 001 00 El Pozo
+05 17 01 06 01 001 01 El Pozo
+05 17 01 06 01 002 00 Ocoa
+05 17 01 06 01 002 01 Ocoa
+05 17 01 06 01 003 00 Naco
+05 17 01 06 01 003 01 Naco
+05 17 01 06 01 004 00 El Brisal
+05 17 01 06 01 004 01 El Brisal
+05 17 01 06 01 005 00 La Altagracia (Ramoncito)
+05 17 01 06 01 005 01 La Altagracia (Ramoncito)
+05 17 01 06 01 005 02 Residencial Karina
+05 17 01 06 01 006 00 Urbanización Karina
+05 17 01 06 01 006 01 Urbanización Karina
+05 17 01 06 01 007 00 Papatino (Villa Luz)
+05 17 01 06 01 007 01 Papatino (Villa Luz)
+05 17 01 06 01 008 00 Urbanización Saona
+05 17 01 06 01 008 01 Urbanización Saona
+05 17 01 06 01 009 00 Las Casitas
+05 17 01 06 01 009 01 Las Casitas
+05 17 01 06 01 010 00 Los Cartones
+05 17 01 06 01 010 01 Los Cartones
+05 17 01 06 01 011 00 Urbanización Patria Minerva
+05 17 01 06 01 011 01 Urbanización Patria Minerva
+05 17 01 06 01 012 00 Marcial Peña
+05 17 01 06 01 012 01 Marcial Peña
+05 17 01 06 01 013 00 Guayacanes
+05 17 01 06 01 013 01 Guayacanes
+05 17 01 06 01 013 02 Los Alberto
+05 17 01 06 01 013 03 Los Robles
+05 17 01 06 01 013 04 Las Flores
+05 17 01 06 01 014 00 Pueblo Nuevo
+05 17 01 06 01 014 01 Pueblo Nuevo
+05 17 01 06 01 014 02 Guatapaná
+05 17 01 06 01 015 00 Mamá Gina
+05 17 01 06 01 015 01 Mamá Gina
+05 17 01 06 01 015 02 Las Arepas
+05 17 01 06 02 000 00 Villa Sombrero Rural
+05 17 01 06 02 001 00 El Jobo
+05 17 01 06 02 002 00 La Raqueta
+05 17 01 07 00 000 00 El Carretón (DM)
+05 17 01 07 01 000 00 El Carretón (Zona urbana)
+05 17 01 07 01 001 00 Carretón (El Centro)
+05 17 01 07 01 001 01 Carretón (El Centro)
+05 17 01 07 01 002 00 El Aguacate
+05 17 01 07 01 002 01 El Aguacate
+05 17 01 07 01 003 00 Los Almendros
+05 17 01 07 01 003 01 Los Almendros
+05 17 01 07 01 004 00 Los Cabrera
+05 17 01 07 01 004 01 Los Cabrera
+05 17 01 07 02 000 00 El Carretón
+05 17 01 07 02 001 00 Sabana Larga
+05 17 01 07 02 002 00 El Guano
+05 17 01 07 02 003 00 Los Mayales
+05 17 01 07 02 004 00 Los Pinos
+05 17 01 07 02 005 00 La Loma del Chivo
+05 17 01 07 02 006 00 La Clínica
+05 17 01 07 02 007 00 Arroyo Mingo
+05 17 01 08 00 000 00 Catalina (DM)
+05 17 01 08 01 000 00 Catalina (Zona urbana)
+05 17 01 08 01 001 00 El Rincón o Catalina
+05 17 01 08 01 001 01 El Rincón o Catalina
+05 17 01 08 01 002 00 Los Polanco
+05 17 01 08 01 002 01 Los Polanco
+05 17 01 08 01 003 00 Los Jardines
+05 17 01 08 01 003 01 Los Jardines
+05 17 01 08 01 004 00 Eriberto Lugo
+05 17 01 08 01 004 01 Eriberto Lugo
+05 17 01 08 01 005 00 Los Claveles
+05 17 01 08 01 005 01 Los Claveles
+05 17 01 08 01 006 00 Los Cables o Carreta Linda
+05 17 01 08 01 006 01 Los Cables o Carreta Linda
+05 17 01 08 01 007 00 La Delicia
+05 17 01 08 01 007 01 La Delicia
+05 17 01 08 02 000 00 Catalina
+05 17 01 08 02 001 00 Batey la Noria
+05 17 01 08 02 002 00 San José
+05 17 01 08 02 003 00 Carretalina
+05 17 01 08 02 004 00 La Delicia
+05 17 01 08 02 005 00 Colonia Catalina
+05 17 01 09 00 000 00 El Limonal (DM)
+05 17 01 09 01 000 00 El Limonal (Zona urbana)
+05 17 01 09 01 001 00 Limonal
+05 17 01 09 01 001 01 Limonal
+05 17 01 09 01 002 00 Alto del Limonal
+05 17 01 09 01 002 01 Alto del Limonal
+05 17 01 09 01 003 00 Los Campeches
+05 17 01 09 01 003 01 Los Campeches
+05 17 01 09 01 004 00 Los Cajuilitos
+05 17 01 09 01 004 01 Los Cajuilitos
+05 17 01 09 01 005 00 Las Flores
+05 17 01 09 01 005 01 Las Flores
+05 17 01 09 01 006 00 La Cachimba
+05 17 01 09 01 006 01 La Cachimba
+05 17 01 09 01 007 00 Los Acostados
+05 17 01 09 01 007 01 Los Acostados
+05 17 01 09 02 000 00 La Iguana
+05 17 01 09 02 001 00 La Iguana
+05 17 01 09 02 002 00 Palo Bonito
+05 17 01 09 02 003 00 Iguana Arriba
+05 17 01 09 02 004 00 Iguana Abajo
+05 17 01 09 02 005 00 Corte Nuevo
+05 17 01 09 02 006 00 Los Córbanos
+05 17 01 09 02 007 00 Las Lagunas
+05 17 01 09 02 008 00 La Rinconada
+05 17 01 09 02 009 00 Rinconcito
+05 17 01 09 02 010 00 La Manaclita
+05 17 01 09 03 000 00 La Cabria
+05 17 01 09 03 001 00 La Cabria
+05 17 01 09 03 002 00 La Vereda
+05 17 01 09 04 000 00 Arroyo Salado
+05 17 01 09 04 001 00 Arroyo Salado
+05 17 01 09 04 002 00 Las Yaguas
+05 17 01 09 04 003 00 La Palma Herrada
+05 17 01 09 04 004 00 El Desecho
+05 17 01 09 04 005 00 Cañada de los Puercos
+05 17 01 09 05 000 00 Los Jobitos
+05 17 01 09 05 001 00 Los Jobitos
+05 17 01 09 05 002 00 Los Guanábanos
+05 17 01 09 05 003 00 Buena Vista
+05 17 01 09 05 004 00 Cañada Grande
+05 17 01 10 00 000 00 Las Barías (DM)
+05 17 01 10 01 000 00 Las Barías (Zona urbana)
+05 17 01 10 01 001 00 Las Barías
+05 17 01 10 01 001 01 Las Barías
+05 17 01 10 01 002 00 Arroyo Cano
+05 17 01 10 01 002 01 Arroyo Cano
+05 17 01 10 01 003 00 Los Dormilones
+05 17 01 10 01 003 01 Los Dormilones
+05 17 01 10 01 004 00 Juan Decena
+05 17 01 10 01 004 01 Juan Decena
+05 17 01 10 01 005 00 Arroyo Mingo
+05 17 01 10 01 005 01 Arroyo Mingo
+05 17 01 10 01 005 02 La Tablita
+05 17 01 10 01 006 00 La Caña o La Cañada Prieta
+05 17 01 10 01 006 01 La Caña o La Cañada Prieta
+05 17 01 10 01 007 00 El Alto de Las Flores
+05 17 01 10 01 007 01 El Alto de Las Flores
+05 17 01 10 02 000 00 El Roblegar
+05 17 01 10 02 001 00 El Roblegar
+05 17 01 10 02 002 00 Contraembalse
+05 17 01 10 02 003 00 Cruz de Marcos
+05 17 01 10 02 004 00 Arroyo Hondo
+05 17 01 10 02 005 00 Arroyo Canoa
+05 17 01 10 02 006 00 Loma del Guano
+05 17 01 10 02 007 00 Cañada Prieta
+05 17 01 10 02 008 00 Arroyo Mingo
+05 17 01 10 02 009 00 Los Sitios de Juan Decena
+05 17 02 00 00 000 00 Nizao
+05 17 02 01 00 000 00 Nizao
+05 17 02 01 01 000 00 Nizao (Zona urbana)
+05 17 02 01 01 001 00 Media Blanca
+05 17 02 01 01 001 01 Media Blanca
+05 17 02 01 01 002 00 Centro del Pueblo
+05 17 02 01 01 002 01 Centro del Pueblo
+05 17 02 01 01 003 00 Zapotal
+05 17 02 01 01 003 01 Zapotal
+05 17 02 01 01 004 00 Maco Verde
+05 17 02 01 01 004 01 Maco Verde
+05 17 02 01 01 005 00 Ciudad Nueva
+05 17 02 01 01 005 01 Ciudad Nueva
+05 17 02 01 01 006 00 Las Mercedes
+05 17 02 01 01 006 01 Las Mercedes
+05 17 02 01 02 000 00 Don Gregorio
+05 17 02 01 02 001 00 Don Gregorio
+05 17 02 01 02 002 00 Los Salados
+05 17 02 01 02 003 00 Alto de La Estancia
+05 17 02 02 00 000 00 Pizarrete (DM)
+05 17 02 02 01 000 00 Pizarrete (Zona urbana)
+05 17 02 02 01 001 00 Centro del Pueblo
+05 17 02 02 01 001 01 Centro del Pueblo
+05 17 02 02 01 001 02 Pizarrete Arriba
+05 17 02 02 01 001 03 Los Puello
+05 17 02 02 01 002 00 Brisas del Canal
+05 17 02 02 01 002 01 Brisas del Canal
+05 17 02 02 01 002 02 Blanco Mateo
+05 17 02 02 01 003 00 Sabana Abajo
+05 17 02 02 01 003 01 Sabana Abajo
+05 17 02 02 01 004 00 Los Martínez
+05 17 02 02 01 004 01 Los Martínez
+05 17 02 02 01 005 00 Los Nina
+05 17 02 02 01 005 01 Los Nina
+05 17 02 02 02 000 00 Gualey
+05 17 02 02 02 001 00 Gualey
+05 17 02 02 02 002 00 Los Roche
+05 17 02 02 02 003 00 Compuerta de Lico
+05 17 02 03 00 000 00 Santana (DM)
+05 17 02 03 01 000 00 Santana (Zona urbana)
+05 17 02 03 01 001 00 Santana Arriba
+05 17 02 03 01 001 01 Santana Arriba
+05 17 02 03 01 001 02 Los Piantini
+05 17 02 03 01 001 03 Las Barías o Los Cocos
+05 17 02 03 01 002 00 Buenas Nuevas
+05 17 02 03 01 002 01 Buenas Nuevas
+05 17 02 03 01 002 02 La Cerca
+05 17 02 03 01 002 03 Cenaci
+05 17 02 03 01 002 04 Brisas del Río
+05 17 02 03 01 003 00 Batey María Consuelo
+05 17 02 03 01 003 01 Batey María Consuelo (El Quilombo)
+05 17 02 03 01 004 00 Santana Abajo
+05 17 02 03 01 004 01 Las Flores
+05 17 02 03 01 004 02 San Antonio
+05 17 02 03 01 004 03 Los Jardines
+05 17 02 03 01 005 00 Los Lora o Los Lara
+05 17 02 03 01 005 01 Los Lora o Los Lara
+05 17 02 03 01 005 02 Los Garcia (Cruce de Nizao)
+05 17 02 03 01 006 00 Lucas Díaz
+05 17 02 03 01 006 01 Lucas Díaz
+05 17 02 03 01 007 00 Lindo
+05 17 02 03 01 007 01 Lindo Norte
+05 17 02 03 01 007 02 Lindo Sur
+05 17 02 03 02 000 00 Lucas Díaz
+05 17 02 03 02 001 00 Ramón Chalas
+05 17 02 03 02 002 00 Boca del Arroyo
+05 17 02 03 02 003 00 Barrio Lindo
+05 17 02 03 02 004 00 La Estancia
+05 17 02 03 02 005 00 María Consuelo
+05 17 02 03 03 000 00 Yiyo Gómez
+05 17 02 03 03 001 00 Yiyo Gómez
+05 17 02 03 03 002 00 Alto de los Melones
+05 17 02 03 03 003 00 Los Franco
+05 17 03 00 00 000 00 Matanzas
+05 17 03 01 00 000 00 Matanzas
+05 17 03 01 01 000 00 Matanzas (Zona Urbana)
+05 17 03 01 01 001 00 Matanzas Arriba
+05 17 03 01 01 001 01 Matanzas Arriba
+05 17 03 01 01 001 02 Santo Domingo
+05 17 03 01 01 001 03 Ana Lucila I
+05 17 03 01 01 001 04 Carrucho
+05 17 03 01 01 002 00 Matanzas Abajo
+05 17 03 01 01 002 01 Matanzas Abajo
+05 17 03 01 01 002 02 Máximo Gómez
+05 17 03 01 01 002 03 El Coco
+05 17 03 01 01 002 04 Las Casitas
+05 17 03 01 01 002 05 Alto de Las Flores
+05 17 03 01 01 002 06 Luis María Martínez
+05 17 03 01 01 003 00 Ana Lucila II
+05 17 03 01 01 003 01 Ana Lucila II
+05 17 03 01 01 004 00 Los Jobos
+05 17 03 01 01 004 01 Los Jobos
+05 17 03 01 01 005 00 Villa Campo Mar
+05 17 03 01 01 005 01 VillaCampo Mar
+05 17 03 01 01 006 00 La Bellaca
+05 17 03 01 01 006 01 La Bellaca
+05 17 03 01 01 007 00 El Bajito
+05 17 03 01 01 007 01 El Bajito
+05 17 03 01 02 000 00 Arroyo Hondo
+05 17 03 01 02 001 00 Arroyo Hondo
+05 17 03 01 02 002 00 Matanzas Rural
+05 17 03 01 03 000 00 Quijá Quieta
+05 17 03 01 03 001 00 Quijá Quieta
+05 17 03 01 04 000 00 Las Tablas
+05 17 03 01 04 001 00 Las Tablas
+05 17 03 01 05 000 00 Galión (Galeón)
+05 17 03 01 05 001 00 Galión (Galeón)
+05 17 03 01 05 002 00 Las Calabazas
+05 17 03 01 05 003 00 Angostura
+05 17 03 01 06 000 00 San José
+05 17 03 01 06 001 00 San José
+05 17 03 01 06 002 00 Los Rieles
+05 17 03 01 06 003 00 Hato Fino
+05 17 03 01 07 000 00 Los Tumbaos
+05 17 03 01 07 001 00 Agusadera
+05 17 03 01 07 002 00 Los Tumbaos

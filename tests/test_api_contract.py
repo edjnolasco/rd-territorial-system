@@ -134,3 +134,36 @@ def test_openapi_declares_expected_tags():
     }
 
     assert expected_tags.issubset(declared_tags)
+    
+def test_resolve_includes_catalog_version():
+    r = client.post(
+        "/api/v1/resolve",
+        json={"text": "SDE"},
+    )
+
+    assert r.status_code == 200
+
+    data = r.json()
+
+    assert "catalog_version" in data
+    assert isinstance(data["catalog_version"], str)
+    assert data["catalog_version"]
+
+
+def test_batch_resolve_includes_catalog_version():
+    r = client.post(
+        "/api/v1/batch-resolve",
+        json={"items": ["SDE", "Villa Mella"]},
+    )
+
+    assert r.status_code == 200
+
+    data = r.json()
+
+    assert isinstance(data, list)
+    assert data, "Batch response should not be empty"
+
+    for item in data:
+        assert "catalog_version" in item
+        assert isinstance(item["catalog_version"], str)
+        assert item["catalog_version"]

@@ -1,0 +1,774 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+05 02 00 00 00 000 00 Azua
+05 02 01 00 00 000 00 Azua
+05 02 01 01 00 000 00 Azua
+05 02 01 01 01 000 00 Azua de Compostela (Zona urbana)
+05 02 01 01 01 001 00 Los cartones
+05 02 01 01 01 001 01 Los Cartones
+05 02 01 01 01 001 02 Villa Palmarejo
+05 02 01 01 01 001 03 La Bomba
+05 02 01 01 01 002 00 Simón Striddels
+05 02 01 01 01 002 01 Simón Striddels
+05 02 01 01 01 003 00 La Bombita
+05 02 01 01 01 003 01 La Bombita
+05 02 01 01 01 003 02 Los Solares
+05 02 01 01 01 003 03 Villa Esperanza
+05 02 01 01 01 003 04 Los Acostados
+05 02 01 01 01 003 05 Canta La Rana
+05 02 01 01 01 003 06 San Miguel
+05 02 01 01 01 004 00 Villa Esperanza
+05 02 01 01 01 004 01 Villa Esperanza
+05 02 01 01 01 004 02 Camboya
+05 02 01 01 01 004 03 Restaurador
+05 02 01 01 01 004 04 Militar (La Cuchilla)
+05 02 01 01 01 004 05 Resolí
+05 02 01 01 01 005 00 Centro de la ciudad
+05 02 01 01 01 005 01 Centro de la Ciudad
+05 02 01 01 01 006 00 Pueblo Abajo
+05 02 01 01 01 006 01 Pueblo Abajo
+05 02 01 01 01 007 00 Savica
+05 02 01 01 01 007 01 Savica
+05 02 01 01 01 007 02 Urbanización Framboyán
+05 02 01 01 01 008 00 Los Mangos
+05 02 01 01 01 008 01 Los Mangos
+05 02 01 01 01 009 00 Buenos Aires
+05 02 01 01 01 009 01 Buenos Aires
+05 02 01 01 01 009 02 Cañada del Concón o Altos del Cacheo
+05 02 01 01 01 010 00 Los Parceleros
+05 02 01 01 01 010 01 Los Parceleros
+05 02 01 01 01 011 00 Mejoramiento Social
+05 02 01 01 01 011 01 Mejoramiento Social
+05 02 01 01 01 011 02 La Colonia Española
+05 02 01 01 01 012 00 Pajarito
+05 02 01 01 01 012 01 Pajarito
+05 02 01 01 01 013 00 La Nevera
+05 02 01 01 01 013 01 La Nevera
+05 02 01 01 01 014 00 La Frontera
+05 02 01 01 01 014 01 La Frontera
+05 02 01 01 01 015 00 El Prado
+05 02 01 01 01 015 01 El Prado
+05 02 01 01 01 016 00 Alto de las Flores
+05 02 01 01 01 016 01 Alto de las Flores
+05 02 01 01 01 017 00 Urbanización Quisqueya
+05 02 01 01 01 017 01 Urbanización Quisqueya I
+05 02 01 01 01 017 02 Urbanización Quisqueya II
+05 02 01 01 01 018 00 Juan Pablo Duarte
+05 02 01 01 01 018 01 Juan Pablo Duarte
+05 02 01 01 01 019 00 Acapulco
+05 02 01 01 01 019 01 Acapulco
+05 02 01 02 00 000 00 Barro Arriba (DM)
+05 02 01 02 01 000 00 Barro Arriba (Zona urbana)
+05 02 01 02 01 001 00 La Sabana
+05 02 01 02 01 001 01 La Sabana
+05 02 01 02 01 002 00 la Golondrina
+05 02 01 02 01 002 01 La Golondrina
+05 02 01 02 02 000 00 Villa Corazón de Jesús
+05 02 01 02 02 001 00 Los Lirios
+05 02 01 02 02 002 00 El Higüerito
+05 02 01 02 03 000 00 Barro en Medio
+05 02 01 02 03 001 00 Aguaelico
+05 02 01 02 03 002 00 Barro en Medio
+05 02 01 02 03 003 00 Los Conuquitos
+05 02 01 02 03 004 00 La Golondrina
+05 02 01 02 03 005 00 Gurabo
+05 02 01 02 04 000 00 El Puerto
+05 02 01 02 04 001 00 El Prado
+05 02 01 02 04 002 00 La Vereda
+05 02 01 02 04 003 00 Barro Arriba
+05 02 01 02 04 004 00 La Sabana
+05 02 01 02 04 005 00 Los Magaleños
+05 02 01 03 00 000 00 Las Barías-La Estancia (DM)
+05 02 01 03 01 000 00 Las Barías-La Estancia (Zona urbana)
+05 02 01 03 01 001 00 Las Barías
+05 02 01 03 01 001 01 Las Barías
+05 02 01 03 01 002 00 La Estancia
+05 02 01 03 01 002 01 La Estancia
+05 02 01 03 01 002 02 La Cu 
+05 02 01 03 01 002 03 Urbanización Nueva
+05 02 01 03 02 000 00 La Ceiba Vieja
+05 02 01 03 02 001 00 La Ceiba Vieja
+05 02 01 03 03 000 00 la ceiba Nueva
+05 02 01 03 03 001 00 La Ceiba Nueva
+05 02 01 04 00 000 00 Los Jovillos (DM)
+05 02 01 04 01 000 00 Los Jovillos (Zona urbana)
+05 02 01 04 01 001 00 Los Jovillos
+05 02 01 04 01 001 01 Los Jovillos
+05 02 01 04 01 002 00 6to (Kilómetro 6)
+05 02 01 04 01 002 01 6to (Kilómetro 6)
+05 02 01 04 01 003 00 Los Españoles
+05 02 01 04 01 003 01 Los Españoles
+05 02 01 04 01 004 00 Kilómetro 7
+05 02 01 04 01 004 01 Kilómetro 7
+05 02 01 04 02 000 00 La Altagracia
+05 02 01 04 02 001 00 La Altagracia
+05 02 01 04 02 002 00 Betania
+05 02 01 04 02 003 00 Caña Piedra (Cañada de Piedra)
+05 02 01 04 02 004 00 Jura
+05 02 01 04 02 005 00 Maleno La Mina
+05 02 01 04 02 006 00 Arroyo Copey
+05 02 01 04 03 000 00 Kilómetro 7
+05 02 01 04 03 001 00 Kilómetro 8
+05 02 01 04 03 002 00 Los Jovillos
+05 02 01 05 00 000 00 Puerto Viejo (DM)
+05 02 01 05 01 000 00 Puerto Viejo (Zona urbana) 
+05 02 01 05 01 001 00 Los Negros
+05 02 01 05 01 001 01 Los Negros
+05 02 01 05 01 001 02 INVI-Villa Progreso
+05 02 01 05 02 000 00 Ranchería
+05 02 01 05 02 001 00 Ranchería
+05 02 01 05 02 002 00 El Puerto
+05 02 01 05 02 003 00 Palmar de Buena Vista
+05 02 01 05 02 004 00 Los Negros
+05 02 01 06 00 000 00 Barreras (DM)
+05 02 01 06 01 000 00 Barreras (Zona urbana)
+05 02 01 06 01 001 00 Barreras
+05 02 01 06 01 001 01 Barreras
+05 02 01 06 01 001 02 El 84
+05 02 01 06 02 000 00 Mordán
+05 02 01 06 02 001 00 Mordán
+05 02 01 06 02 002 00 El Alto
+05 02 01 07 00 000 00 Doña Emma Balaguer Viuda Vallejo (DM)
+05 02 01 07 01 000 00 Doña Emma Balaguer Viuda Vallejo (Zona urbana)
+05 02 01 07 01 001 00 Doña Emma Balaguer Viuda Vallejo
+05 02 01 07 01 001 01 Doña Emma Balaguer Viuda Vallejo
+05 02 01 07 02 000 00 Monte Río
+05 02 01 07 02 001 00 Monte Río
+05 02 01 08 00 000 00 Clavellina (DM)
+05 02 01 08 01 000 00 Clavellina (Zona urbana)
+05 02 01 08 01 001 00 Centro del Pueblo
+05 02 01 08 01 001 01 Centro del Pueblo
+05 02 01 08 01 001 02 El Córbano
+05 02 01 08 02 000 00 Clavellina
+05 02 01 08 02 001 00 Terreros
+05 02 01 08 02 002 00 Guazábara
+05 02 01 08 02 003 00 Palmarejo
+05 02 01 08 03 000 00 Los Tramojos
+05 02 01 08 03 001 00 Los Tramojos
+05 02 01 08 04 000 00 Los Barrancones
+05 02 01 08 04 001 00 Los Barrancones
+05 02 01 09 00 000 00 Las Lomas (DM)
+05 02 01 09 01 000 00 Las Lomas (Zona urbana)
+05 02 01 09 01 001 00 Las lomas
+05 02 01 09 01 001 01 Las Lomas
+05 02 01 09 01 001 02 Los Cocos
+05 02 01 09 01 001 03 La 40 (La Cuarenta)
+05 02 01 09 01 001 04 Las Clavellinas
+05 02 01 09 02 000 00 La cabuyita
+05 02 01 09 02 001 00 Cañetín
+05 02 01 09 02 002 00 Cerro de los Cacheos
+05 02 01 09 02 003 00 El Cachón
+05 02 01 09 02 004 00 El Caño
+05 02 01 09 02 005 00 Río Vía
+05 02 01 09 02 006 00 Gajo del Toro
+05 02 01 09 02 007 00 El Papayo
+05 02 01 09 02 008 00 Tito Mina
+05 02 01 09 02 009 00 Gajo Irabón
+05 02 01 09 02 010 00 Gajo Largo
+05 02 01 09 02 011 00 Loma Agua Fría
+05 02 01 09 02 012 00 Gajo de Majagua
+05 02 01 09 02 013 00 Ganzú
+05 02 01 09 02 014 00 Kilómetro 2 y Medio
+05 02 01 09 02 015 00 Las Cañitas
+05 02 01 09 02 016 00 La Cuarenta
+05 02 01 09 02 017 00 La Cueva
+05 02 01 09 02 018 00 Rancho Arriba
+05 02 01 09 02 019 00 La Cruz de los Calabozos
+05 02 01 09 02 020 00 La Guajaca
+05 02 01 09 02 021 00 Peñaló
+05 02 01 09 02 022 00 La Llanada
+05 02 01 09 02 023 00 La Mina
+05 02 01 09 02 024 00 Las Yayitas
+05 02 01 09 02 025 00 Loma Arroyo Guayabo
+05 02 01 09 02 026 00 Los Cacaos
+05 02 01 09 02 027 00 Los Candelones
+05 02 01 09 02 028 00 Los Cocos
+05 02 01 09 02 029 00 Los Lazos
+05 02 01 09 02 030 00 Los Palmaritos
+05 02 01 09 02 031 00 Los Paniagua
+05 02 01 09 02 032 00 Los Tablones
+05 02 01 09 02 033 00 Cañada Majagua
+05 02 01 09 02 034 00 Monte Grande
+05 02 02 00 00 000 00 Las Charcas
+05 02 02 01 00 000 00 Las Charcas
+05 02 02 01 01 000 00 Las Charcas (Zona urbana)
+05 02 02 01 01 001 00 Las Charcas
+05 02 02 01 01 001 01 Pueblo Nuevo
+05 02 02 01 01 001 02 El Naco
+05 02 02 01 01 001 03 Pueblo Nuevo Abajo
+05 02 02 01 01 001 04 Los Meniseros
+05 02 02 01 02 000 00 Hatillo
+05 02 02 01 02 001 00 Hatillo
+05 02 02 01 02 002 00 Playa Chiquita
+05 02 02 01 02 003 00 La Cienaguita
+05 02 02 01 02 004 00 Arroyo Hatillo
+05 02 02 01 02 005 00 La Delicia
+05 02 02 01 02 006 00 Caña Rafé
+05 02 02 01 02 007 00 Loma Vieja
+05 02 02 01 03 000 00 Cañada cimarrona
+05 02 02 01 03 001 00 Cañada Cimarrona
+05 02 02 01 03 002 00 Barranca
+05 02 02 01 03 003 00 Las Baitoas
+05 02 02 01 03 004 00 Los Naranjos
+05 02 02 01 03 005 00 Los Limones
+05 02 02 01 03 006 00 La Palma
+05 02 02 01 03 007 00 Los Barrancos
+05 02 02 01 03 008 00 La Peñita
+05 02 02 01 03 009 00 Los Guanábanos
+05 02 02 01 03 010 00 Arroyo Naranjo
+05 02 02 01 04 000 00 Boquerón
+05 02 02 01 04 001 00 Monte La Guardia
+05 02 02 01 04 002 00 El Número
+05 02 02 01 04 003 00 Boquerón
+05 02 02 01 04 004 00 Los Ciruelos
+05 02 02 01 05 000 00 Caracoles
+05 02 02 01 05 001 00 Caracoles
+05 02 02 01 05 002 00 El Salado
+05 02 02 01 05 003 00 La Acequia
+05 02 02 01 05 004 00 Boca Cachón
+05 02 02 01 05 005 00 Las Tejas
+05 02 02 01 05 006 00 El Cruce
+05 02 02 01 05 007 00 Los Algodones
+05 02 02 02 00 000 00 Palmar de Ocoa (DM)
+05 02 02 02 01 000 00 Palmar de Ocoa (Zona urbana)
+05 02 02 02 01 001 00 Palmar de Ocoa
+05 02 02 02 01 001 01 Residencial Norte
+05 02 02 02 01 001 02 Enriquillo
+05 02 02 02 01 001 03 Residencial Sur
+05 02 02 02 01 001 04 La Pulla
+05 02 02 02 01 001 05 Residencial Arturo Gigante
+05 02 02 02 02 000 00 Duvergé
+05 02 02 02 02 001 00 El Golfo
+05 02 02 02 02 002 00 El Batey
+05 02 02 02 02 003 00 Duvergé
+05 02 02 02 02 004 00 Las Paredes o Los Paredones
+05 02 02 02 02 005 00 Palmar de Ocoa
+05 02 03 00 00 000 00 Las Yayas de Viajama
+05 02 03 01 00 000 00 Las Yayas de Viajama
+05 02 03 01 01 000 00 Las Yayas de Viajama (Zona urbana)
+05 02 03 01 01 001 00 Las Yayas Abajo
+05 02 03 01 01 001 01 Las Yayas Abajo
+05 02 03 01 01 002 00 La ceiba
+05 02 03 01 01 002 01 La Ceiba
+05 02 03 01 01 003 00 Los candelones
+05 02 03 01 01 003 01 Los Candelones
+05 02 03 01 01 004 00 La cueva
+05 02 03 01 01 004 01 La Cueva
+05 02 03 01 01 005 00 Las Yayas arriba
+05 02 03 01 01 005 01 Las Yayas Arriba
+05 02 03 01 01 006 00 San Joaquín
+05 02 03 01 01 006 01 San Joaquín
+05 02 03 01 01 007 00 Vietnam
+05 02 03 01 01 007 01 Vietnam
+05 02 03 01 01 008 00 la tunita
+05 02 03 01 01 008 01 La Tunita
+05 02 03 01 01 009 00 Blanco
+05 02 03 01 01 009 01 Blanco
+05 02 03 01 02 000 00 Viajama
+05 02 03 01 02 001 00 Viajama
+05 02 03 01 02 002 00 Los Gajos
+05 02 03 01 02 003 00 La Pocilga
+05 02 03 01 02 004 00 Agua Amarga
+05 02 03 01 02 005 00 Los Naranjos (Pozo del Naranjo)
+05 02 03 02 00 000 00 Villarpando (DM)
+05 02 03 02 01 000 00 Villarpando (Zona urbana)
+05 02 03 02 01 001 00 Villarpando
+05 02 03 02 01 001 01 Villarpando
+05 02 03 02 01 001 02 La Cuchilla
+05 02 03 02 01 001 03 Los Haitises
+05 02 03 02 02 000 00 Canoa
+05 02 03 02 02 001 00 Las Canoas
+05 02 03 02 02 002 00 Los Corozos
+05 02 03 02 02 003 00 Juan Sánchez
+05 02 03 02 03 000 00 Bastidas
+05 02 03 02 03 001 00 Bastidas
+05 02 03 02 03 002 00 Villarpando
+05 02 03 02 04 000 00 Arroyo Salado
+05 02 03 02 04 001 00 Arroyo Salado
+05 02 03 02 04 002 00 La Trinchera
+05 02 03 02 04 003 00 El 40 (La Cuarenta)
+05 02 03 02 04 004 00 Loma del Guano (Los Jobos)
+05 02 03 03 00 000 00 Hato Nuevo Cortés (DM)
+05 02 03 03 01 000 00 Hato Nuevo Cortés (Zona urbana)
+05 02 03 03 01 001 00 Hato Nuevo Cortés
+05 02 03 03 01 001 01 Hato Nuevo Cortés
+05 02 03 03 02 000 00 Orégano Grande
+05 02 03 03 02 001 00 Orégano Grande
+05 02 03 03 03 000 00 El Cruce de Las Yayas
+05 02 03 03 03 001 00 El Cruce de Las Yayas
+05 02 03 03 03 002 00 Boca de la Mula
+05 02 03 03 03 003 00 Monte Grande
+05 02 03 03 03 004 00 Las Hormigas
+05 02 03 03 03 005 00 Los Güiros
+05 02 03 03 03 006 00 Corbanal
+05 02 03 03 04 000 00 Magüeyal
+05 02 03 03 04 001 00 Magüeyal
+05 02 04 00 00 000 00 Padre Las Casas
+05 02 04 01 00 000 00 Padre Las Casas
+05 02 04 01 01 000 00 Padre Las Casas (Zona urbana)
+05 02 04 01 01 001 00 Buena Vista
+05 02 04 01 01 001 01 Buena Vista
+05 02 04 01 01 002 00 Centro del Pueblo
+05 02 04 01 01 002 01 Centro del Pueblo
+05 02 04 01 01 003 00 Basilio Linia
+05 02 04 01 01 003 01 Basilio Linia
+05 02 04 01 01 004 00 Santa ana
+05 02 04 01 01 004 01 Santa Ana
+05 02 04 01 01 005 00 Los Magino
+05 02 04 01 01 005 01 Los Magino
+05 02 04 01 01 006 00 Villa Ocoa o Los Suburbios
+05 02 04 01 01 006 01 Villa Ocoa o Los Suburbios
+05 02 04 01 02 000 00 Viejo Sabana Yegua
+05 02 04 01 02 001 00 La Cucarita
+05 02 04 01 02 002 00 Los Avelles
+05 02 04 01 02 003 00 El Cajuil
+05 02 04 01 02 004 00 Palomino
+05 02 04 01 02 005 00 La Frontera
+05 02 04 01 02 006 00 Los Caños
+05 02 04 01 02 007 00 Los Cucuses
+05 02 04 01 02 008 00 Boca de los Ríos
+05 02 04 01 02 009 00 Ojo de Agua
+05 02 04 01 02 010 00 Pata de Gallina
+05 02 04 02 00 000 00 Las Lagunas (DM)
+05 02 04 02 01 000 00 Las Lagunas (Zona urbana)
+05 02 04 02 01 001 00 Las lagunas
+05 02 04 02 01 001 01 Las Lagunas
+05 02 04 02 01 001 02 Las Flores
+05 02 04 02 01 001 03 Los Curines
+05 02 04 02 01 001 04 La Chapita
+05 02 04 02 02 000 00 Las lagunas
+05 02 04 02 02 001 00 La Meseta
+05 02 04 02 02 002 00 El Cocho
+05 02 04 02 02 003 00 Juan Luciano
+05 02 04 02 02 004 00 Las Lagunas
+05 02 04 02 03 000 00 Caña castillo
+05 02 04 02 03 001 00 Cañada C.
+05 02 04 02 03 002 00 El Gramaso
+05 02 04 02 03 003 00 Laguna Castilla
+05 02 04 02 04 000 00 Las cañitas
+05 02 04 02 04 001 00 Las Cañitas
+05 02 04 02 04 002 00 Los Auqueyes
+05 02 04 02 04 003 00 Palero
+05 02 04 02 04 004 00 Los Cedros o Mendoza
+05 02 04 02 04 005 00 Los Pericos
+05 02 04 02 04 006 00 Botoncillo
+05 02 04 02 04 007 00 Gajo del Monte
+05 02 04 02 04 008 00 La Majagüita
+05 02 04 02 04 009 00 Los Pedregones
+05 02 04 02 04 010 00 El Tetero
+05 02 04 02 04 011 00 Vallecitos
+05 02 04 02 04 012 00 El Roblito
+05 02 04 02 04 013 00 La Fortuna
+05 02 04 02 04 014 00 Cedro Sabina
+05 02 04 02 04 015 00 Los Fogoncitos
+05 02 04 02 04 016 00 El Córbano
+05 02 04 02 04 017 00 Los Pinalitos
+05 02 04 02 04 018 00 La Cueva
+05 02 04 02 04 019 00 La Sabina
+05 02 04 02 04 020 00 La Tasajera
+05 02 04 02 04 021 00 Mata de Café o Loma del Café
+05 02 04 02 04 022 00 El Corozo
+05 02 04 02 04 023 00 Fondo Viejo
+05 02 04 02 04 024 00 Los Rodríguez
+05 02 04 02 04 025 00 Hondo Valle
+05 02 04 02 04 026 00 La Palmita
+05 02 04 02 04 027 00 El Joval
+05 02 04 02 04 028 00 Rosa
+05 02 04 03 00 000 00 La Siembra (DM)
+05 02 04 03 01 000 00 La Siembra (Zona urbana)
+05 02 04 03 01 001 00 La Siembra
+05 02 04 03 01 001 01 La Siembra
+05 02 04 03 02 000 00 La Siembra
+05 02 04 03 02 001 00 Los Cambrones
+05 02 04 03 03 000 00 Periquito
+05 02 04 03 03 001 00 Periquito
+05 02 04 03 03 002 00 Derrumbado
+05 02 04 03 04 000 00 Los Naranjos
+05 02 04 03 04 001 00 Naranjito
+05 02 04 03 04 002 00 El Gajo
+05 02 04 03 04 003 00 Monte Grande
+05 02 04 03 04 004 00 El Palmar
+05 02 04 03 04 005 00 El Desecho
+05 02 04 04 00 000 00 Monte Bonito (DM)
+05 02 04 04 01 000 00 Monte Bonito (Zona urbana)
+05 02 04 04 01 001 00 Monte Bonito
+05 02 04 04 01 001 01 Monte Bonito
+05 02 04 04 01 001 02 Los Pomos
+05 02 04 04 01 002 00 El Córbano
+05 02 04 04 01 002 01 El Córbano
+05 02 04 04 01 002 02 Las Caobas
+05 02 04 04 01 003 00 El orégano
+05 02 04 04 01 003 01 El Orégano
+05 02 04 04 02 000 00 La cabuya
+05 02 04 04 02 001 00 Los Gajos
+05 02 04 04 02 002 00 Laguna Prieta
+05 02 04 04 02 003 00 Los Pomos
+05 02 04 04 02 004 00 Cañada de Agua
+05 02 04 04 02 005 00 Arroyo la Vaca
+05 02 04 04 02 006 00 Los Mochos
+05 02 04 04 02 007 00 Los Rapaderos
+05 02 04 04 02 008 00 La Finca
+05 02 04 04 02 009 00 Los Quemados
+05 02 04 04 02 010 00 Los Calimetes
+05 02 04 04 02 011 00 Jubero
+05 02 04 04 02 012 00 La Nuez
+05 02 04 04 02 013 00 Palmarito
+05 02 04 04 02 014 00 El Pozo
+05 02 04 04 03 000 00 El Córbano (El Córvano)
+05 02 04 04 03 001 00 El Córbano (El Córvano)
+05 02 04 04 03 002 00 Los Higos
+05 02 04 04 03 003 00 Los Patios
+05 02 04 04 03 004 00 El Novillo
+05 02 04 04 03 005 00 El Jobo
+05 02 04 04 03 006 00 El Cigual (La Concha)
+05 02 04 04 03 007 00 Villa Ocoa
+05 02 04 04 03 008 00 Cerro de Piedra
+05 02 04 04 03 009 00 Los Indios
+05 02 04 04 03 010 00 Las Cañas
+05 02 04 04 03 011 00 Arroyo Yaya
+05 02 04 04 03 012 00 Buena Vista
+05 02 04 04 03 013 00 Palero
+05 02 04 04 03 014 00 Carlos El Pino
+05 02 04 04 03 015 00 El Vallecito
+05 02 04 05 00 000 00 Los Fríos (DM)
+05 02 04 05 01 000 00 Los Fríos (Zona urbana)
+05 02 04 05 01 001 00 Los Haitises
+05 02 04 05 01 001 01 Los Haitises
+05 02 04 05 01 002 00 Villa Armonía
+05 02 04 05 01 002 01 Villa Armonía
+05 02 04 05 01 003 00 Centro del Pueblo
+05 02 04 05 01 003 01 Centro del Pueblo
+05 02 04 05 01 004 00 Los Fríos al Medio
+05 02 04 05 01 004 01 Los Fríos al Medio
+05 02 04 05 02 000 00 La Cucarita
+05 02 04 05 02 001 00 El Hoyito
+05 02 04 05 02 002 00 Mata de los Caballeros
+05 02 04 05 02 003 00 El Sayo
+05 02 04 05 02 004 00 Cucarita
+05 02 04 05 03 000 00 Los Guayuyos
+05 02 04 05 03 001 00 Los Guayuyos
+05 02 04 05 03 002 00 El Estiladero
+05 02 04 05 03 003 00 Boca de la Laja
+05 02 04 05 03 004 00 Boca de Montazo
+05 02 04 05 04 000 00 El Montazo
+05 02 04 05 04 001 00 El Recodo
+05 02 04 05 04 002 00 El Montazo
+05 02 04 05 04 003 00 Los Montes Fríos
+05 02 04 05 04 004 00 La Patiya (La Patilla) 
+05 02 05 00 00 000 00 Peralta
+05 02 05 01 00 000 00 Peralta
+05 02 05 01 01 000 00 Peralta (Zona urbana)
+05 02 05 01 01 001 00 Centro del Pueblo
+05 02 05 01 01 001 01 Centro del Pueblo
+05 02 05 01 01 002 00 Camboya
+05 02 05 01 01 002 01 Camboya
+05 02 05 01 01 003 00 Los Jobos
+05 02 05 01 01 003 01 Los Jobos
+05 02 05 01 01 004 00 Higüero
+05 02 05 01 01 004 01 Higüero
+05 02 05 01 02 000 00 El carrizal
+05 02 05 01 02 001 00 Maleno
+05 02 05 01 02 002 00 San Francisco
+05 02 05 01 02 003 00 Los Ranchitos
+05 02 05 01 02 004 00 Los García
+05 02 05 01 02 005 00 Los Calimetes
+05 02 05 01 02 006 00 El Carrizal
+05 02 05 01 03 000 00 El Majagual
+05 02 05 01 03 001 00 El Majagual
+05 02 05 01 03 002 00 Sonador
+05 02 05 01 03 003 00 Los Guayuyos
+05 02 05 01 03 004 00 Cascajal
+05 02 05 01 03 005 00 Los Chicharrones
+05 02 05 01 04 000 00 Puerto
+05 02 05 01 04 001 00 Puerta Vieja
+05 02 05 01 04 002 00 El Alto
+05 02 05 01 04 003 00 El Higüero
+05 02 05 01 04 004 00 El Pinar
+05 02 05 01 04 005 00 La Vereda Atravesada
+05 02 05 01 04 006 00 El Gajo
+05 02 05 01 04 007 00 Arroyo Seco
+05 02 05 01 04 008 00 La Laguna
+05 02 05 01 04 009 00 Guayuyal
+05 02 05 01 04 010 00 Los Naranjitos
+05 02 05 01 04 011 00 Ventura
+05 02 05 01 04 012 00 El Naranjo o Naranjal
+05 02 05 01 04 013 00 Bañaderos
+05 02 05 01 04 014 00 Cañada de Manaclas
+05 02 05 01 04 015 00 Peralta
+05 02 05 01 04 016 00 El Naranjal
+05 02 06 00 00 000 00 Sabana Yegua
+05 02 06 01 00 000 00 Sabana Yegua
+05 02 06 01 01 000 00 Sabana Yegua (Zona urbana)
+05 02 06 01 01 001 00 Sabana Yegua o Pintao
+05 02 06 01 01 001 01 Sabana Yegua o Pintao
+05 02 06 01 01 002 00 Blanco
+05 02 06 01 01 002 01 Blanco
+05 02 06 01 01 003 00 Los cartones
+05 02 06 01 01 003 01 Los Cartones
+05 02 06 01 01 004 00 Ojo de Agua
+05 02 06 01 01 004 01 Ojo de Agua
+05 02 06 01 01 005 00 El Abanico
+05 02 06 01 01 005 01 El Abanico
+05 02 06 01 01 006 00 San Francisco o San Feo
+05 02 06 01 01 006 01 San Francisco o San Feo
+05 02 06 01 01 007 00 Nuevo
+05 02 06 01 01 007 01 Nuevo
+05 02 06 02 00 000 00 Proyecto 4 (DM)
+05 02 06 02 01 000 00 Proyecto 4 (Zona urbana)
+05 02 06 02 01 001 00 Proyecto 4
+05 02 06 02 01 001 01 Proyecto 4
+05 02 06 02 02 000 00 Proyecto 4
+05 02 06 02 02 001 00 Proyecto 4
+05 02 06 03 00 000 00 Ganadero (DM)
+05 02 06 03 01 000 00 Ganadero (Zona urbana)
+05 02 06 03 01 001 00 Ganadero Viejo
+05 02 06 03 01 001 01 Ganadero Viejo
+05 02 06 03 01 002 00 Ganadero Nuevo
+05 02 06 03 01 002 01 Ganadero Nuevo
+05 02 06 03 01 002 02 Hoyo de Chulín
+05 02 06 03 01 002 03 Los Ladrillos
+05 02 06 03 02 000 00 Proyecto D-1 Ganadero
+05 02 06 03 02 001 00 Proyecto D-1 Ganadero
+05 02 06 04 00 000 00 Proyecto 2-C (DM)
+05 02 06 04 01 000 00 Proyecto 2-C (Zona urbana)
+05 02 06 04 01 001 00 Proyecto 2-C
+05 02 06 04 01 001 01 Proyecto 2-C
+05 02 06 04 02 000 00 Proyecto 2-C
+05 02 06 04 02 001 00 Proyecto 2-C
+05 02 06 04 02 002 00 Galindo
+05 02 06 04 02 003 00 Las Lajas
+05 02 06 04 02 004 00 El Copey
+05 02 07 00 00 000 00 Pueblo Viejo
+05 02 07 01 00 000 00 Pueblo Viejo
+05 02 07 01 01 000 00 Pueblo Viejo (Zona urbana)
+05 02 07 01 01 001 00 Medio o centro 1
+05 02 07 01 01 001 01 Medio o Centro 1
+05 02 07 01 01 002 00 Nuevo
+05 02 07 01 01 002 01 Nuevo
+05 02 07 01 01 003 00 La Cuchilla
+05 02 07 01 01 003 01 La Cuchilla
+05 02 07 01 01 004 00 Buenos Aires
+05 02 07 01 01 004 01 Buenos Aires
+05 02 07 01 01 005 00 Guachupita
+05 02 07 01 01 005 01 Guachupita
+05 02 07 01 01 006 00 Centro 2
+05 02 07 01 01 006 01 Centro 2
+05 02 07 01 01 007 00 Batey
+05 02 07 01 01 007 01 Batey
+05 02 07 01 01 008 00 Enriquillo
+05 02 07 01 01 008 01 Enriquillo
+05 02 07 01 01 009 00 México
+05 02 07 01 01 009 01 México
+05 02 07 01 02 000 00 Las terreras
+05 02 07 01 02 001 00 Las Terreras
+05 02 07 01 03 000 00 Guayacanal
+05 02 07 01 03 001 00 Guayacanal
+05 02 07 01 03 002 00 La Concordia
+05 02 07 01 03 003 00 La Victoria
+05 02 07 01 03 004 00 Palmarejo
+05 02 07 01 03 005 00 Las Auyamas
+05 02 07 02 00 000 00 El Rosario (DM)
+05 02 07 02 01 000 00 El Rosario (Zona urbana)
+05 02 07 02 01 001 00 El rosario
+05 02 07 02 01 001 01 El Rosario
+05 02 07 02 01 001 02 Punta de Garza
+05 02 07 02 01 001 03 El Rosario al Medio
+05 02 07 02 02 000 00 El Nuevo curro
+05 02 07 02 02 001 00 Nuevo Curro
+05 02 07 02 03 000 00 La ciénaga
+05 02 07 02 03 001 00 La Ciénaga
+05 02 08 00 00 000 00 Tábara arriba
+05 02 08 01 00 000 00 Tábara arriba
+05 02 08 01 01 000 00 Tábara Arriba (Zona urbana)
+05 02 08 01 01 001 00 Quisqueya
+05 02 08 01 01 001 01 Quisqueya
+05 02 08 01 01 002 00 Las Mercedes
+05 02 08 01 01 002 01 Las Mercedes
+05 02 08 01 01 003 00 El Cerro (Guayacanal)
+05 02 08 01 01 003 01 El Cerro (Guayacanal)
+05 02 08 01 01 004 00 La Palmita
+05 02 08 01 01 004 01 La Palmita
+05 02 08 01 01 004 02 San Vicente
+05 02 08 01 01 005 00 Nuevo 
+05 02 08 01 01 005 01 Nuevo 
+05 02 08 01 02 000 00 Tábara arriba
+05 02 08 01 02 001 00 Tábara Arriba
+05 02 08 02 00 000 00 Tábara Abajo (DM)
+05 02 08 02 01 000 00 Tábara Abajo (Zona urbana)
+05 02 08 02 01 001 00 El Plan
+05 02 08 02 01 001 01 El Plan
+05 02 08 02 01 001 02 Tábara Abajo
+05 02 08 02 01 002 00 El Barrio
+05 02 08 02 01 002 01 El Barrio
+05 02 08 02 02 000 00 Orégano Chiquito
+05 02 08 02 02 001 00 Orégano Chiquito
+05 02 08 02 02 002 00 Los Jovillos
+05 02 08 02 03 000 00 Kilómetro 15
+05 02 08 02 03 001 00 Cruce del 15
+05 02 08 02 03 002 00 Tábara Abajo
+05 02 08 02 03 003 00 Los Manantiales
+05 02 08 03 00 000 00 Amiama Gómez (DM)
+05 02 08 03 01 000 00 Amiama Gómez (Zona urbana)
+05 02 08 03 01 001 00 Amiama Gómez
+05 02 08 03 01 001 01 Amiama Gómez
+05 02 08 03 02 000 00 Amiama Gómez
+05 02 08 03 02 001 00 Luperón
+05 02 08 03 02 002 00 Amiama Gómez
+05 02 08 04 00 000 00 Los Toros (DM)
+05 02 08 04 01 000 00 Los Toros (Zona urbana)
+05 02 08 04 01 001 00 Los toros
+05 02 08 04 01 001 01 Los Toros
+05 02 08 04 02 000 00 las Guanábanas
+05 02 08 04 02 001 00 Las Guanábanas
+05 02 08 04 02 002 00 Cuesta Blanca
+05 02 08 04 02 003 00 Rabo la Puerca
+05 02 08 04 02 004 00 Los Cambrones
+05 02 08 04 03 000 00 Sajanoa
+05 02 08 04 03 001 00 Sajanoa
+05 02 08 04 03 002 00 Arroyo Guayabo
+05 02 08 04 03 003 00 La Tasajera
+05 02 09 00 00 000 00 Guayabal
+05 02 09 01 00 000 00 Guayabal
+05 02 09 01 01 000 00 Guayabal (Zona urbana)
+05 02 09 01 01 001 00 Guayabal
+05 02 09 01 01 001 01 Guayabal
+05 02 09 01 01 002 00 las canitas
+05 02 09 01 01 002 01 Las Canitas
+05 02 09 01 01 003 00 Los Taínos
+05 02 09 01 01 003 01 Los Taínos
+05 02 09 01 02 000 00 El Naranjito
+05 02 09 01 02 001 00 El Naranjito
+05 02 09 01 02 002 00 El Recodo
+05 02 09 01 02 003 00 Palma Cana
+05 02 09 01 02 004 00 Arroyo la Vaca
+05 02 09 01 02 005 00 Sabana San Juan
+05 02 09 01 02 006 00 La Cueva
+05 02 09 01 02 007 00 La Finca
+05 02 09 01 02 008 00 Loma Miguel Martín
+05 02 09 01 02 009 00 La Cienaguita o Yuna
+05 02 09 01 02 010 00 Los Naranjales
+05 02 09 01 02 011 00 Paso Cabrera
+05 02 09 01 02 012 00 Hoyo Sin Fin
+05 02 09 01 02 013 00 Las Cayas
+05 02 09 01 02 014 00 Fruta de Paloma
+05 02 09 01 03 000 00 arroyo corozo
+05 02 09 01 03 001 00 Las Cojas
+05 02 09 01 03 002 00 La Gina
+05 02 09 01 03 003 00 Las Cañitas
+05 02 09 01 03 004 00 Arroyo Corozo (El Corozo)
+05 02 09 01 03 005 00 Las Guamas
+05 02 09 01 03 006 00 Las Avispas
+05 02 09 01 03 007 00 Las Lagunitas
+05 02 09 01 03 008 00 El Montazo
+05 02 10 00 00 000 00 Estebanía
+05 02 10 01 00 000 00 Estebanía
+05 02 10 01 01 000 00 Estebanía (Zona urbana)
+05 02 10 01 01 001 00 Centro del Pueblo
+05 02 10 01 01 001 01 Centro del Pueblo
+05 02 10 01 01 002 00 Palero
+05 02 10 01 01 002 01 Palero
+05 02 10 01 01 002 02 San Francisco
+05 02 10 01 01 003 00 Placer Bonito
+05 02 10 01 01 003 01 Placer Bonito
+05 02 10 01 01 004 00 Las Flores
+05 02 10 01 01 004 01 Las Flores
+05 02 10 01 01 005 00 Los cartones
+05 02 10 01 01 005 01 Los Cartones
+05 02 10 01 01 005 02 Manengue
+05 02 10 01 01 006 00 La tunita
+05 02 10 01 01 006 01 La Tunita
+05 02 10 01 01 007 00 Nuevo o Detrás del cementerio
+05 02 10 01 01 007 01 Nuevo o Detrás del Cementerio
+05 02 10 01 01 008 00 Pueblo Abajo
+05 02 10 01 01 008 01 Pueblo Abajo
+05 02 10 01 01 009 00 El Progreso
+05 02 10 01 01 009 01 El Progreso
+05 02 10 01 01 010 00 Alto de Filomena (Altos de Chavón)
+05 02 10 01 01 010 03 Alto de Filomena (Altos de Chavón)
+05 02 10 01 01 011 00 Alto del Hoyo
+05 02 10 01 01 011 05 Alto del Hoyo
+05 02 10 01 02 000 00 El Memiso
+05 02 10 01 02 001 00 El Memiso
+05 02 10 01 02 002 00 Conuco del Río
+05 02 10 01 02 003 00 El Coco
+05 02 10 01 02 004 00 Los Matos (Los Mateos)
+05 02 10 01 02 005 00 Monte Abajo
+05 02 10 01 02 006 00 Las Barías
+05 02 10 01 02 007 00 Río Abajo
+05 02 10 01 02 008 00 Las Palmas
+05 02 10 01 02 009 00 Los Limones
+05 02 10 01 02 010 00 El Barraco
+05 02 10 01 02 011 00 Los Cascajales de Sánchez
+05 02 10 01 03 000 00 Rancho del Pino
+05 02 10 01 03 001 00 Rancho del Pino
+05 02 10 01 03 002 00 Los Caimitos
+05 02 10 01 03 003 00 El Palmar
+05 02 10 01 03 004 00 Paso Hondo
+05 02 10 01 03 005 00 Los Corralitos
+05 02 10 01 03 006 00 La Damajagua
+05 02 10 01 03 007 00 La Fortuna
+05 02 10 01 03 008 00 Arroyo Hondo
+05 02 10 01 03 009 00 Canelilla
+05 02 10 01 03 010 00 Derrico Blanco
+05 02 10 01 03 011 00 La Cumbre
+05 02 10 01 04 000 00 La China
+05 02 10 01 04 001 00 La China
+05 02 10 01 04 002 00 Los Guanos
+05 02 10 01 04 003 00 Rancho Viejo
+05 02 10 01 04 004 00 La Cienaguita
+05 02 10 01 04 005 00 Los Naranjitos
+05 02 10 01 04 006 00 La Peñita
+05 02 10 01 05 000 00 Arroyo colorado
+05 02 10 01 05 001 00 Arroyo Colorado
+05 02 10 01 05 002 00 El Quemao
+05 02 10 01 05 003 00 Arroyo la Chinguita
+05 02 10 01 05 004 00 La Guázuma
+05 02 10 01 06 000 00 El Limón
+05 02 10 01 06 001 00 El Limón
+05 02 10 01 06 002 00 Rancho Arriba Abajo
+05 02 10 01 06 003 00 Rancho Arriba
+05 02 10 01 06 004 00 Agua Fría
+05 02 10 01 06 005 00 Los Maniaderos
+05 02 10 01 06 006 00 Las Tembladeras
+05 02 10 01 07 000 00 Kilómetro 8
+05 02 10 01 07 001 00 Kilómetro 8
+05 02 10 01 07 002 00 El Peñón
+05 02 10 01 07 003 00 La Boca del Arroyo
+05 02 10 01 07 004 00 Arroyo San Francisco
+05 02 10 01 08 000 00 Sabana de Miguel Martín
+05 02 10 01 08 001 00 El Convento
+05 02 10 01 08 002 00 Los Platones
+05 02 10 01 08 003 00 Los Calimetes
+05 02 10 01 08 004 00 Los Corralitos
+05 02 10 01 08 005 00 Sabana Miguel Martín
+05 02 10 01 09 000 00 El Cruce
+05 02 10 01 09 001 00 El Cruce de Estebanía
+05 02 10 01 09 002 00 La Boquita
+05 02 10 01 09 003 00 Río Chiquito
+05 02 10 01 09 004 00 Agua las Palmas
+05 02 10 01 09 005 00 Las Bateas
+05 02 10 01 10 000 00 Río Grande
+05 02 10 01 10 001 00 Río Grande
+05 02 10 01 10 002 00 Cañada Honda
+05 02 10 01 10 003 00 Monte de los Gatos
+05 02 10 01 10 004 00 Cañada El Verraco
+05 02 10 01 10 005 00 Pascual
+05 02 10 01 10 006 00 Arroyo El Pinal
+05 02 10 01 10 007 00 Cañada Casao
+05 02 10 01 10 008 00 Los Naranjitos
+05 02 10 01 10 009 00 Las Cañitas
+05 02 10 01 10 010 00 El Salto
+05 02 10 01 11 000 00 Los Quemados
+05 02 10 01 11 001 00 Los Quemados
+05 02 10 01 11 002 00 Las Malaguetas
+05 02 10 01 11 003 00 Los Palmaritos
+05 02 10 01 11 004 00 Las dos Lomas
+05 02 10 01 11 005 00 Los Portesuelos
+05 02 10 01 12 000 00 El Francés
+05 02 10 01 12 001 00 Monte Plata
+05 02 10 01 12 002 00 El Convento
+05 02 10 01 12 003 00 Loma Arriba
+05 02 10 01 12 004 00 Los Yugos
+05 02 10 01 12 005 00 Los Gajos
+05 02 10 01 12 006 00 Las Manaclas

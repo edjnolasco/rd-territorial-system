@@ -1,0 +1,489 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+08 08 00 00 00 000 00 El Seibo
+08 08 01 00 00 000 00 El Seibo
+08 08 01 01 00 000 00 El Seibo
+08 08 01 01 01 000 00 Santa Cruz de El Seibo (Zona urbana)
+08 08 01 01 01 001 00 El Rincón
+08 08 01 01 01 001 01 El Rincón
+08 08 01 01 01 002 00 Los Cajuiles
+08 08 01 01 01 002 01 Los Cajuiles
+08 08 01 01 01 002 02 Las Quinientas
+08 08 01 01 01 002 03 Los Multi
+08 08 01 01 01 003 00 Villa Nene
+08 08 01 01 01 003 01 Villa Nene
+08 08 01 01 01 004 00 los Hoyitos
+08 08 01 01 01 004 01 Los Hoyitos
+08 08 01 01 01 005 00 Capotillo
+08 08 01 01 01 005 01 Capotillo
+08 08 01 01 01 005 02 Buenos Aires
+08 08 01 01 01 006 00 El retiro
+08 08 01 01 01 006 01 El Retiro
+08 08 01 01 01 006 02 La Manicera
+08 08 01 01 01 007 00 Centro del Pueblo
+08 08 01 01 01 007 01 Centro del Pueblo
+08 08 01 01 01 008 00 Ginandiana
+08 08 01 01 01 008 01 Ginandiana
+08 08 01 01 01 008 02 Canta los Macos
+08 08 01 01 01 008 03 Mirador Sur
+08 08 01 01 01 009 00 El Matadero
+08 08 01 01 01 009 01 El Matadero
+08 08 01 01 01 010 00 Villa Guerrero
+08 08 01 01 01 010 01 Villa Guerrero
+08 08 01 01 01 010 02 Nueva Villa Guerrero
+08 08 01 01 01 011 00 Loma de los Chivos
+08 08 01 01 01 011 01 Loma de los Chivos
+08 08 01 01 01 011 02 Las Colinas de Don Guillermo
+08 08 01 01 01 011 03 Residencial Mamá Nelsi
+08 08 01 01 01 012 00 Ensanche Palo Hincado o Blanco
+08 08 01 01 01 012 01 Ensanche Palo Hincado o Blanco
+08 08 01 01 01 013 00 Cañada Francisca
+08 08 01 01 01 013 01 Cañada Francisca
+08 08 01 01 02 000 00 arroyo Grande
+08 08 01 01 02 001 00 El Llano
+08 08 01 01 02 002 00 Buenas Noches
+08 08 01 01 02 003 00 Guayuyo
+08 08 01 01 02 004 00 Cañada de Cacao
+08 08 01 01 02 005 00 Yaguaque
+08 08 01 01 02 006 00 Sabana de Arroyo Grande
+08 08 01 01 02 007 00 Sal si Puedes
+08 08 01 01 02 008 00 Los Negros Viejos
+08 08 01 01 02 009 00 Hoyo Frío
+08 08 01 01 02 010 00 Santo Espíritu
+08 08 01 01 02 011 00 Dos Bocas
+08 08 01 01 02 012 00 Los Prietos
+08 08 01 01 02 013 00 Arroyón
+08 08 01 01 02 014 00 Cañada te Hundes
+08 08 01 01 03 000 00 Campiña
+08 08 01 01 03 001 00 Colón Salvaleón
+08 08 01 01 03 002 00 Dominica
+08 08 01 01 03 003 00 Hozaro
+08 08 01 01 03 004 00 Los Platanitos
+08 08 01 01 03 005 00 Batey Bejucal
+08 08 01 01 03 006 00 Batey Arroyo Lucas
+08 08 01 01 03 007 00 Los Novillos
+08 08 01 01 03 008 00 Arroyo Lucas Campo
+08 08 01 01 03 009 00 La Guarapa
+08 08 01 01 03 010 00 Barragüeybano
+08 08 01 01 03 011 00 Batey Solano
+08 08 01 01 03 012 00 Batey La Gina
+08 08 01 01 03 013 00 Batey Juan Gil
+08 08 01 01 03 014 00 Batey Bella Cruz
+08 08 01 01 03 015 00 Batey Guayacanes
+08 08 01 01 03 016 00 Batey Albizu
+08 08 01 01 03 017 00 Sabana de Campiña
+08 08 01 01 03 018 00 Batey Plumita
+08 08 01 01 03 019 00 Batey Marchena
+08 08 01 01 03 020 00 Batey Altagracia
+08 08 01 01 03 021 00 Batey Los Martínez
+08 08 01 01 03 022 00 Batey El Higo
+08 08 01 01 03 023 00 Batey Guazabal
+08 08 01 01 03 024 00 Batey Lechuga
+08 08 01 01 03 025 00 Batey Monte Adentro
+08 08 01 01 03 026 00 Batey Copey
+08 08 01 01 03 027 00 Batey Higüeyana
+08 08 01 01 03 028 00 Batey Bermejo
+08 08 01 01 03 029 00 Batey El 28
+08 08 01 01 03 030 00 Batey Tentación 27
+08 08 01 01 03 031 00 Batey El 29
+08 08 01 01 03 032 00 Batey Español
+08 08 01 01 03 033 00 Batey El 30
+08 08 01 01 03 034 00 Batey Agua Blanca
+08 08 01 01 03 035 00 Arroyo Hondo
+08 08 01 01 04 000 00 candelaria
+08 08 01 01 04 001 00 El Grumo
+08 08 01 01 04 002 00 La Zanja
+08 08 01 01 04 003 00 El Copey
+08 08 01 01 04 004 00 Reparadero
+08 08 01 01 04 005 00 Los Verracos
+08 08 01 01 04 006 00 Los Corazones
+08 08 01 01 04 007 00 Los Jengibres
+08 08 01 01 04 008 00 Los Sopaipos
+08 08 01 01 04 009 00 Cerro Naranjo
+08 08 01 01 04 010 00 Batey Kilómetro 2
+08 08 01 01 04 011 00 Palo Hincado
+08 08 01 01 04 012 00 La Tala
+08 08 01 01 04 013 00 San Pablo
+08 08 01 01 04 014 00 Cerro Guamo
+08 08 01 01 04 015 00 Candelaria
+08 08 01 01 04 016 00 Cañada de Jengibre
+08 08 01 01 05 000 00 Las Cuchillas
+08 08 01 01 05 001 00 El Cabao
+08 08 01 01 05 002 00 La Maravilla
+08 08 01 01 05 003 00 Piedra Blanca 1
+08 08 01 01 05 004 00 Arroyo Tabaco
+08 08 01 01 05 005 00 Los Dieguillos
+08 08 01 01 05 006 00 Trepada de Jabilla
+08 08 01 01 05 007 00 Janabo
+08 08 01 01 05 008 00 El Coamo
+08 08 01 01 05 009 00 El Limoncillar
+08 08 01 01 05 010 00 El Lial
+08 08 01 01 05 011 00 Piedra Mala
+08 08 01 01 05 012 00 Arroyo Higuero
+08 08 01 01 05 013 00 El Majagual
+08 08 01 01 05 014 00 Janabito
+08 08 01 01 05 015 00 Soco Arriba
+08 08 01 01 05 016 00 Mata Guineo
+08 08 01 01 05 017 00 Porto
+08 08 01 01 05 018 00 Alto del Jobo (Ant. Las Cuchillas)
+08 08 01 01 05 019 00 Dos Bocas
+08 08 01 01 05 020 00 Los Guzmán
+08 08 01 01 06 000 00 El cuey
+08 08 01 01 06 001 00 La Cabirma
+08 08 01 01 06 002 00 La Parcela
+08 08 01 01 06 003 00 Cañada Honda
+08 08 01 01 06 004 00 Cesteadoro
+08 08 01 01 06 005 00 Los Mameyes
+08 08 01 01 06 006 00 Jobo Claro
+08 08 01 01 06 007 00 Sabaneta
+08 08 01 01 06 008 00 Los Rodríguez
+08 08 01 01 06 009 00 El Palmar
+08 08 01 01 06 010 00 Caciquillo
+08 08 01 01 06 011 00 Cañada de la Vaca
+08 08 01 01 06 012 00 La Meseta
+08 08 01 01 06 013 00 Jobo Dulce
+08 08 01 01 06 014 00 Cuchillita
+08 08 01 01 06 015 00 Rincón Chavón
+08 08 01 01 06 016 00 Sabana del Cuey
+08 08 01 01 06 017 00 Los Vargas
+08 08 01 01 06 018 00 La Viuda
+08 08 01 01 06 019 00 El Prieto
+08 08 01 01 06 020 00 Cal de Piedra
+08 08 01 01 06 021 00 Río Piedras
+08 08 01 01 06 022 00 Sabana Grande
+08 08 01 01 06 023 00 Higua
+08 08 01 01 06 024 00 Alto del Jobo Dulce o Yabana
+08 08 01 01 06 025 00 Cabirmal
+08 08 01 01 06 026 00 Sabana Rodeo
+08 08 01 01 06 027 00 Ceibita (La Cuevita)
+08 08 01 01 06 028 00 Mal Pecao
+08 08 01 01 06 029 00 Chavoncito
+08 08 01 01 07 000 00 Magarín
+08 08 01 01 07 001 00 Los Carlos
+08 08 01 01 07 002 00 Peña Blanca Afuera
+08 08 01 01 07 003 00 Peña Blanca Adentro
+08 08 01 01 07 004 00 Agua Clara
+08 08 01 01 07 005 00 Magarín Abajo
+08 08 01 01 07 006 00 Mancorneta
+08 08 01 01 07 007 00 Bejucal
+08 08 01 01 07 008 00 Jobo Dulce Adentro
+08 08 01 01 07 009 00 Jobo Dulce Afuera
+08 08 01 01 07 010 00 Saguatico
+08 08 01 01 07 011 00 Las Agustinas
+08 08 01 01 07 012 00 Quaiquía
+08 08 01 01 07 013 00 Las Uvas
+08 08 01 01 08 000 00 Mata de Palma
+08 08 01 01 08 001 00 Mata del Toro
+08 08 01 01 08 002 00 La Bija
+08 08 01 01 08 003 00 Batey Castillo
+08 08 01 01 08 004 00 Arroyo Blanco
+08 08 01 01 08 005 00 Batey Carlos Torres
+08 08 01 01 08 006 00 Cañada del Agua
+08 08 01 01 08 007 00 Batey Paraíso Dos
+08 08 01 01 08 008 00 Batey Haití
+08 08 01 01 08 009 00 Batey los Blocks de Haití
+08 08 01 01 08 010 00 Campo Alegre
+08 08 01 01 08 011 00 Batey Bella Vista
+08 08 01 01 08 012 00 Las Yayas
+08 08 01 01 08 013 00 Casabe
+08 08 01 01 08 014 00 Guacaya
+08 08 01 01 08 015 00 Batey Los Riseles o Rieles
+08 08 01 01 08 016 00 Batey El Guaral
+08 08 01 01 08 017 00 San Miguel
+08 08 01 01 08 018 00 Batey Polonio
+08 08 01 01 08 019 00 Alemán
+08 08 01 01 08 020 00 Gorreta
+08 08 01 01 08 021 00 Piedra Grande
+08 08 01 01 08 022 00 Solanito
+08 08 01 01 08 023 00 La Guázuma
+08 08 01 01 08 024 00 El Caimito
+08 08 01 01 08 025 00 Sanabia
+08 08 01 01 08 026 00 Mata de Palma
+08 08 01 01 09 000 00 anamá
+08 08 01 01 09 001 00 Anamá
+08 08 01 01 09 002 00 Matencio
+08 08 01 01 09 003 00 Rincón de Mesa
+08 08 01 01 09 004 00 Las Palmillas
+08 08 01 01 09 005 00 El Prado
+08 08 01 01 09 006 00 Las Matas
+08 08 01 01 09 007 00 El Cerrito
+08 08 01 01 09 008 00 Las dos Bocas
+08 08 01 01 09 009 00 Las Tunas
+08 08 01 01 09 010 00 Lagunita
+08 08 01 01 09 011 00 Kilómetro 7
+08 08 01 01 09 012 00 La Mayita
+08 08 01 01 09 013 00 Batey Guayquía
+08 08 01 01 09 014 00 Loma de Pinto
+08 08 01 01 09 015 00 San Lorenzo
+08 08 01 01 09 016 00 Loma Tabaco
+08 08 01 01 09 017 00 Cibahuete
+08 08 01 01 09 018 00 San Miguel
+08 08 01 01 09 019 00 Las Lajas
+08 08 01 01 09 020 00 Los Chivos
+08 08 01 01 09 021 00 La Jíquima
+08 08 01 01 09 022 00 Los Pajones
+08 08 01 02 00 000 00 Pedro Sánchez (DM)
+08 08 01 02 01 000 00 Pedro Sánchez (Zona urbana)
+08 08 01 02 01 001 00 Pedro Sánchez o Centro del Pueblo
+08 08 01 02 01 001 01 Pedro Sánchez o Centro del Pueblo
+08 08 01 02 01 002 00 Campo de Tiro
+08 08 01 02 01 002 01 Campo de Tiro
+08 08 01 02 01 002 02 Canta Maco
+08 08 01 02 01 003 00 Pavín
+08 08 01 02 01 003 01 Pavín
+08 08 01 02 01 004 00 Julio Güíllamo
+08 08 01 02 01 004 01 Julio Güíllamo
+08 08 01 02 01 004 02 La Cana
+08 08 01 02 01 004 03 Otilia Guzmán
+08 08 01 02 02 000 00 isabelita
+08 08 01 02 02 001 00 Los Botados
+08 08 01 02 02 002 00 Guazumilla
+08 08 01 02 02 003 00 Buenos Aires
+08 08 01 02 02 004 00 Los Bejucos
+08 08 01 02 02 005 00 Los Cafés
+08 08 01 02 02 006 00 La Piedra
+08 08 01 02 02 007 00 Caciquillo
+08 08 01 02 02 008 00 Piedra Blanca
+08 08 01 02 02 009 00 Los Altos Grandes
+08 08 01 02 02 010 00 La Jina
+08 08 01 02 02 011 00 Los Corsos
+08 08 01 02 02 012 00 Higo Barbú
+08 08 01 02 02 013 00 Sabana de Pedro Sánchez
+08 08 01 02 02 014 00 La Ceibita
+08 08 01 02 02 015 00 Los Rincones
+08 08 01 02 02 016 00 Isabelita
+08 08 01 02 02 017 00 Cienagatuamo
+08 08 01 02 02 018 00 Ceiba del Agua (Cañada Honda)
+08 08 01 02 03 000 00 Pedro Sánchez
+08 08 01 02 03 001 00 La Troncha
+08 08 01 02 03 002 00 Kilómetro 2
+08 08 01 02 03 003 00 Kilómetro 8
+08 08 01 02 03 004 00 Cocuyo
+08 08 01 02 03 005 00 El Grumo
+08 08 01 02 03 006 00 Hato Santiago
+08 08 01 02 03 007 00 Las 13
+08 08 01 02 03 008 00 Lomas de Limón
+08 08 01 02 03 009 00 Florencio
+08 08 01 02 03 010 00 Maguá o Majagua
+08 08 01 02 03 011 00 Kilómetro 9
+08 08 01 02 03 012 00 Kilómetro 14
+08 08 01 02 03 013 00 La Puerta Blanca
+08 08 01 02 03 014 00 Gimió el Buey
+08 08 01 02 03 015 00 Cabirma Clara
+08 08 01 02 03 016 00 Arroyo Piedra
+08 08 01 02 03 017 00 Hoyo de la Cigua
+08 08 01 02 03 018 00 El Batey Isabelita
+08 08 01 02 03 019 00 Loma La Herradura
+08 08 01 02 03 020 00 Los Plátanos
+08 08 01 02 03 021 00 Kilómetro 3
+08 08 01 02 03 022 00 Kilómetro 1
+08 08 01 03 00 000 00 San Francisco-Vicentillo (DM)
+08 08 01 03 01 000 00 Vicentillo (Zona urbana)
+08 08 01 03 01 001 00 Vicentillo
+08 08 01 03 01 001 01 Vicentillo
+08 08 01 03 01 001 02 Caña Honda
+08 08 01 03 02 000 00 Yabón
+08 08 01 03 02 001 00 La Pocilga
+08 08 01 03 02 002 00 Palma el Gallo
+08 08 01 03 02 003 00 Palo Seco
+08 08 01 03 02 004 00 Los Ranchitos
+08 08 01 03 02 005 00 Limoncillo
+08 08 01 03 02 006 00 Los Mampurrios
+08 08 01 03 02 007 00 Los Brazos
+08 08 01 03 02 008 00 Tedeche
+08 08 01 03 02 009 00 Arroyón
+08 08 01 03 02 010 00 La Culebra
+08 08 01 03 02 011 00 Camarón
+08 08 01 03 02 012 00 Rompe Trapo
+08 08 01 03 02 013 00 Cascajito
+08 08 01 03 02 014 00 El 16
+08 08 01 03 02 015 00 Yabón
+08 08 01 03 03 000 00 El Cercado
+08 08 01 03 03 001 00 El Cercado
+08 08 01 03 03 002 00 La Loreta
+08 08 01 03 03 003 00 Rancho 2
+08 08 01 03 03 004 00 Rancho o Rancho 1
+08 08 01 03 03 005 00 Las Tunas
+08 08 01 03 03 006 00 Rancho Chiquito
+08 08 01 03 03 007 00 Garantía
+08 08 01 03 03 008 00 Doña Ana o Cueva de Doña Ana
+08 08 01 03 03 009 00 El Corozal
+08 08 01 03 03 010 00 El Peñón
+08 08 01 03 03 011 00 Mala Muerte
+08 08 01 03 03 012 00 El Jobo
+08 08 01 03 03 013 00 La Guajaba
+08 08 01 03 03 014 00 Los Macos
+08 08 01 03 03 015 00 Cañada Mala
+08 08 01 03 03 016 00 Bibiana
+08 08 01 03 03 017 00 La Culebra
+08 08 01 03 03 018 00 El Perico
+08 08 01 03 03 019 00 Loma Arenita
+08 08 01 03 03 020 00 Paso Cibao
+08 08 01 04 00 000 00 Santa Lucía (DM)
+08 08 01 04 01 000 00 Santa Lucía (Zona urbana)
+08 08 01 04 01 001 00 Centro del Pueblo (La Higuera)
+08 08 01 04 01 001 01 Centro del Pueblo (La Higuera)
+08 08 01 04 01 002 00 Buenos Aires
+08 08 01 04 01 002 01 Buenos Aires
+08 08 01 04 01 003 00 la ceniza
+08 08 01 04 01 003 01 La Ceniza
+08 08 01 04 01 004 00 Vietnam
+08 08 01 04 01 004 01 Vietnam
+08 08 01 04 01 005 00 la cuadra
+08 08 01 04 01 005 01 La Cuadra
+08 08 01 04 02 000 00 El Pintado
+08 08 01 04 02 001 00 El Pintado
+08 08 01 04 02 002 00 Kilómetro 8
+08 08 01 04 02 003 00 Los Marmolejos
+08 08 01 04 02 004 00 Los Pelao
+08 08 01 04 02 005 00 El Salao o El Salado
+08 08 01 04 02 006 00 El 90
+08 08 01 04 02 007 00 El 91 o Batey La Gina
+08 08 01 04 02 008 00 El 50
+08 08 01 04 02 009 00 El 35
+08 08 01 04 02 010 00 Altos de Peguero
+08 08 01 04 02 011 00 Rincón Bellaco
+08 08 01 04 03 000 00 la Higuera
+08 08 01 04 03 001 00 Santa Rita
+08 08 01 04 03 002 00 Los Aguacaticos
+08 08 01 04 03 003 00 Las Papitas
+08 08 01 04 03 004 00 Los Maguelles
+08 08 01 04 03 005 00 Kilómetro 10
+08 08 01 04 03 006 00 La Higuera
+08 08 01 04 04 000 00 Santa Lucía
+08 08 01 04 04 001 00 Kilómetro 6
+08 08 01 04 04 002 00 Yabana
+08 08 01 04 04 003 00 Morales
+08 08 01 04 04 004 00 Higuera Abajo
+08 08 01 04 04 005 00 Santa Lucía
+08 08 01 04 04 006 00 Batey Victoria
+08 08 01 04 04 007 00 Kilómetro 12
+08 08 01 04 04 008 00 Batey Cascajito
+08 08 01 04 04 009 00 Batey Alcides
+08 08 01 04 04 010 00 Batey Brador 104
+08 08 01 04 04 011 00 Batey 105
+08 08 01 04 04 012 00 Batey 106
+08 08 01 04 04 013 00 Batey La Florida
+08 08 01 04 04 014 00 Batey 107
+08 08 01 04 04 015 00 Batey La Cerca
+08 08 01 04 04 016 00 Sabaneta
+08 08 01 04 04 017 00 Chavón (Batey Cabo Haitiano)
+08 08 01 04 04 018 00 Batey 108
+08 08 01 04 04 019 00 Cañada Barrosa
+08 08 01 04 04 020 00 El Algarrobal
+08 08 01 04 04 021 00 La Palma
+08 08 01 04 04 022 00 Kilómetro 5
+08 08 01 04 04 023 00 Batey Callao
+08 08 01 04 04 024 00 Cruce de Pavón
+08 08 02 00 00 000 00 Miches
+08 08 02 01 00 000 00 Miches
+08 08 02 01 01 000 00 Miches (Zona urbana)
+08 08 02 01 01 001 00 Miramar
+08 08 02 01 01 001 01 Miramar
+08 08 02 01 01 002 00 los Mameyes
+08 08 02 01 01 002 01 Los Mameyes
+08 08 02 01 01 003 00 Pueblo Abajo
+08 08 02 01 01 003 01 Pueblo Abajo
+08 08 02 01 01 004 00 cementerio
+08 08 02 01 01 004 01 Cementerio
+08 08 02 01 01 005 00 la Jabilla
+08 08 02 01 01 005 01 La Jabilla
+08 08 02 01 01 006 00 Borinquen
+08 08 02 01 01 006 01 Borinquen
+08 08 02 01 01 007 00 Pueblo Nuevo
+08 08 02 01 01 007 01 Pueblo Nuevo
+08 08 02 01 01 008 00 Centro del Pueblo
+08 08 02 01 01 008 01 Centro del Pueblo
+08 08 02 01 01 009 00 Pueblo Arriba
+08 08 02 01 01 009 01 Pueblo Arriba
+08 08 02 01 01 010 00 Los Franceses
+08 08 02 01 01 010 01 Los Franceses
+08 08 02 01 01 010 02 Escuela Nueva
+08 08 02 01 01 011 00 Miches o Higüey
+08 08 02 01 01 011 01 Miches o Higüey
+08 08 02 01 01 012 00 La Boca
+08 08 02 01 01 012 01 La Boca
+08 08 02 01 01 013 00 El Matadero
+08 08 02 01 01 013 01 El Matadero
+08 08 02 01 01 014 00 El Hospital
+08 08 02 01 01 014 01 El Hospital
+08 08 02 01 01 015 00 asfalto
+08 08 02 01 01 015 01 Asfalto
+08 08 02 01 02 000 00 El Morro
+08 08 02 01 02 001 00 Kilómetro 1
+08 08 02 01 02 002 00 Kilómetro 7
+08 08 02 01 02 003 00 Los Mameyes
+08 08 02 01 02 004 00 Kilómetro 10
+08 08 02 01 02 005 00 Kilómetro 8
+08 08 02 01 02 006 00 Las Tres Palmas
+08 08 02 01 02 007 00 Arroyo Santiago
+08 08 02 01 02 008 00 Los Franceses
+08 08 02 01 02 009 00 Monte Claro
+08 08 02 01 02 010 00 El Jobo
+08 08 02 01 02 011 00 Kilómetro 6
+08 08 02 01 02 012 00 Kilómetros 11, 12 y 13
+08 08 02 01 02 013 00 El Morro
+08 08 02 01 02 014 00 Las Cuchillas
+08 08 02 01 02 015 00 Kilómetro 14
+08 08 02 01 02 016 00 Kilómetro 2
+08 08 02 01 02 017 00 Kilómetro 3
+08 08 02 01 02 018 00 Kilómetro 4
+08 08 02 02 00 000 00 El Cedro (DM)
+08 08 02 02 01 000 00 El Cedro (Zona urbana)
+08 08 02 02 01 001 00 21 de Enero
+08 08 02 02 01 001 01 21 de Enero
+08 08 02 02 01 002 00 Cuarón
+08 08 02 02 01 002 01 Cuarón
+08 08 02 02 01 003 00 Mono Mojao
+08 08 02 02 01 003 01 Mono Mojao
+08 08 02 02 01 003 02 Yagrumos
+08 08 02 02 01 004 00 Rabo de Chivo
+08 08 02 02 01 004 01 Rabo de Chivo
+08 08 02 02 02 000 00 las lisas
+08 08 02 02 02 001 00 Cuchareta
+08 08 02 02 02 002 00 Guaco
+08 08 02 02 02 003 00 Los Guineos
+08 08 02 02 02 004 00 Las Lisas
+08 08 02 02 02 005 00 Sabana de Nisibón
+08 08 02 02 02 006 00 La Llovedera
+08 08 02 02 02 007 00 El Loro
+08 08 02 02 03 000 00 Guaraguao
+08 08 02 02 03 001 00 El Perro
+08 08 02 02 03 002 00 El Hato
+08 08 02 02 03 003 00 Río Arriba
+08 08 02 02 03 004 00 Las Cabirmas
+08 08 02 02 03 005 00 Los dos Ríos
+08 08 02 02 03 006 00 Los Guayacanes
+08 08 02 02 03 007 00 El Colorao
+08 08 02 02 03 008 00 La Mina
+08 08 02 02 03 009 00 Los Hicacos Blancos
+08 08 02 02 03 010 00 Los Urabos
+08 08 02 02 03 011 00 El Guaraguao
+08 08 02 02 03 012 00 El Oro
+08 08 02 02 03 013 00 Cuarón
+08 08 02 02 03 014 00 El Jovero
+08 08 02 02 03 015 00 Altamira
+08 08 02 02 03 016 00 Los Cuatro Caminos
+08 08 02 03 00 000 00 La Gina (DM)
+08 08 02 03 01 000 00 La Gina (Zona urbana)
+08 08 02 03 01 001 00 Centro del Pueblo o La Gina
+08 08 02 03 01 001 01 Centro del Pueblo o La Gina
+08 08 02 03 01 001 02 De Chivo
+08 08 02 03 01 001 03 Los Aguacaticos
+08 08 02 03 01 001 04 Manomán
+08 08 02 03 01 002 00 Juan Pablo Duarte o La Jagua
+08 08 02 03 01 002 01 Juan Pablo Duarte o La Jagua
+08 08 02 03 01 002 02 Los Guandules
+08 08 02 03 01 003 00 Pueblo Nuevo
+08 08 02 03 01 003 01 Pueblo Nuevo
+08 08 02 03 01 003 02 Los Coquitos
+08 08 02 03 01 004 00 Proyecto Arrocero
+08 08 02 03 01 004 01 Proyecto Arrocero
+08 08 02 03 02 000 00 la culebra
+08 08 02 03 02 001 00 La Culebra
+08 08 02 03 02 002 00 Arroyo Rico
+08 08 02 03 02 003 00 26 de Enero
+08 08 02 03 02 004 00 Jayán
+08 08 02 03 02 005 00 La Mireya
+08 08 02 03 02 006 00 La Gina

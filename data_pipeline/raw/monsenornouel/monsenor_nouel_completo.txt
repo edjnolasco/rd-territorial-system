@@ -1,0 +1,509 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+02 28 00 00 00 000 00 Monseñor Nouel
+02 28 01 00 00 000 00 Bonao
+02 28 01 01 00 000 00 Bonao
+02 28 01 01 01 000 00 Bonao (Zona urbana)
+02 28 01 01 01 001 00 San Pablo
+02 28 01 01 01 001 01 San Pablo
+02 28 01 01 01 002 00 Residencial Granado
+02 28 01 01 01 002 01 Residencial Granado
+02 28 01 01 01 003 00 Brisas del Yuna
+02 28 01 01 01 003 01 Brisas del Yuna
+02 28 01 01 01 004 00 Santa rosa
+02 28 01 01 01 004 01 Santa Rosa
+02 28 01 01 01 004 02 Ensanche Juan Pablo Duarte
+02 28 01 01 01 004 03 Urbanización Los Robles
+02 28 01 01 01 004 04 Residencial Estrella
+02 28 01 01 01 005 00 Simón Bolívar
+02 28 01 01 01 005 01 Simón  Bolívar
+02 28 01 01 01 005 02 Villa Alegre
+02 28 01 01 01 005 03 José Paulino
+02 28 01 01 01 006 00 Las Mercedes
+02 28 01 01 01 006 01 Las Mercedes
+02 28 01 01 01 007 00 Prosperidad
+02 28 01 01 01 007 01 Prosperidad
+02 28 01 01 01 008 00 La Embajada
+02 28 01 01 01 008 01 La Embajada
+02 28 01 01 01 009 00 los transformadores
+02 28 01 01 01 009 01 Los Transformadores
+02 28 01 01 01 010 00 Proyecto Yuna
+02 28 01 01 01 010 01 Proyecto Yuna
+02 28 01 01 01 011 00 Ensanche Libertad
+02 28 01 01 01 011 01 Ensanche Libertad
+02 28 01 01 01 011 02 La Paz
+02 28 01 01 01 011 03 Olímpico
+02 28 01 01 01 012 00 cristo rey
+02 28 01 01 01 012 01 Cristo Rey
+02 28 01 01 01 013 00 Centro del Pueblo
+02 28 01 01 01 013 01 Centro del Pueblo
+02 28 01 01 01 014 00 Ensanche La Fe
+02 28 01 01 01 014 01 Ensanche La Fe
+02 28 01 01 01 015 00 El Fundo o San Pedro
+02 28 01 01 01 015 01 El Fundo o San Pedro
+02 28 01 01 01 015 02 Lino Abreu
+02 28 01 01 01 016 00 Residencial Don Mario
+02 28 01 01 01 016 01 Residencial Don Mario
+02 28 01 01 01 017 00 San José
+02 28 01 01 01 017 01 San José
+02 28 01 01 01 018 00 la Villa
+02 28 01 01 01 018 01 La Villa
+02 28 01 01 01 018 02 Residencial Las Delicias
+02 28 01 01 01 018 03 Residencial Monica
+02 28 01 01 01 018 04 Residencial La Española
+02 28 01 01 01 019 00 la Salvia
+02 28 01 01 01 019 01 La Salvia
+02 28 01 01 01 019 02 Urbanización La Salvia
+02 28 01 01 01 019 03 Urbanización Falconbridge o Los Gringos
+02 28 01 01 01 019 04 Urbanización Renée Klang Vda. Guzmán 
+02 28 01 01 01 019 05 Residencial Los Prados
+02 28 01 01 01 019 06 Residencial Jacaranda
+02 28 01 01 01 019 07 Residencial Sharman
+02 28 01 01 01 019 08 Los Laureles
+02 28 01 01 01 019 09 Los Sauces
+02 28 01 01 01 020 00 Las Flores
+02 28 01 01 01 020 01 Las Flores
+02 28 01 01 01 021 00 Los Platanitos
+02 28 01 01 01 021 01 Los Platanitos
+02 28 01 01 01 022 00 Villa linda i
+02 28 01 01 01 022 01 Villa Linda I
+02 28 01 01 01 023 00 Mejoramiento Social
+02 28 01 01 01 023 01 Mejoramiento Social
+02 28 01 01 01 024 00 Los Tupamaros
+02 28 01 01 01 024 01 Los Tupamaros
+02 28 01 01 01 025 00 Puerto Rico
+02 28 01 01 01 025 01 Puerto Rico
+02 28 01 01 01 026 00 Villa Liberación
+02 28 01 01 01 026 01 Villa Liberación
+02 28 01 01 01 026 02 Villa Progreso
+02 28 01 01 01 027 00 Agrícola
+02 28 01 01 01 027 01 Agrícola
+02 28 01 01 01 028 00 los Jardines
+02 28 01 01 01 028 01 Los Jardines
+02 28 01 01 01 029 00 Máximo Gómez
+02 28 01 01 01 029 01 Máximo Gómez
+02 28 01 01 01 030 00 Quisqueya
+02 28 01 01 01 030 01 Quisqueya
+02 28 01 01 01 031 00 El Ocho
+02 28 01 01 01 031 01 El Ocho
+02 28 01 01 01 031 02 Villa Rosa
+02 28 01 01 01 031 03 San Miguel
+02 28 01 01 01 031 04 Urbanización Los Maestros
+02 28 01 01 01 032 00 los Héroes
+02 28 01 01 01 032 01 Los Héroes
+02 28 01 01 01 032 02 Borojol
+02 28 01 01 01 033 00 Los Amapololos o Las Amapolas
+02 28 01 01 01 033 01 Los Amapololos o Las Amapolas
+02 28 01 01 01 033 02 27 de Febrero
+02 28 01 01 01 034 00 Las Delicias
+02 28 01 01 01 034 01 Las Delicias
+02 28 01 01 02 000 00 El Verde
+02 28 01 01 02 001 00 El Cercadillo
+02 28 01 01 02 002 00 Los Jengibres
+02 28 01 01 02 003 00 Yujo Abajo
+02 28 01 01 02 004 00 Yujo
+02 28 01 01 02 005 00 Caribe
+02 28 01 01 02 006 00 Los Horcones
+02 28 01 01 02 007 00 La Cuchilla
+02 28 01 01 02 008 00 La Yautía
+02 28 01 01 02 009 00 La Ciénaga
+02 28 01 01 02 010 00 Viejo Alejo
+02 28 01 01 02 011 00 El Verde
+02 28 01 01 02 012 00 Las Avispas
+02 28 01 01 02 013 00 El Playón
+02 28 01 01 02 014 00 Caño Claro
+02 28 01 01 02 015 00 Hato Viejo
+02 28 01 01 02 016 00 Arroyo Coral Falso (Los Arroyos)
+02 28 01 01 02 017 00 Barrancón (La Mina)
+02 28 01 01 03 000 00 Los Arroces
+02 28 01 01 03 001 00 Los Arroces Afuera
+02 28 01 01 03 002 00 Los Arroces Adentro
+02 28 01 01 03 003 00 Charco Prieto
+02 28 01 01 03 004 00 Los Humanices o Los Anegadizos
+02 28 01 01 03 005 00 Borojol Humanices
+02 28 01 01 03 006 00 Cabirma Clara
+02 28 01 01 03 007 00 Punta de Pino
+02 28 01 01 03 008 00 Jima
+02 28 01 01 03 009 00 Los Azufres
+02 28 01 01 03 010 00 Loma del Llano
+02 28 01 01 03 011 00 El Jobo
+02 28 01 01 03 012 00 Las Joyas
+02 28 01 02 00 000 00 Sabana del Puerto (DM)
+02 28 01 02 01 000 00 Sabana del Puerto (Zona urbana)
+02 28 01 02 01 001 00 Sabana del Puerto
+02 28 01 02 01 001 01 Sabana del Puerto
+02 28 01 02 02 000 00 Palero
+02 28 01 02 02 001 00 Palero Arriba
+02 28 01 02 02 002 00 Palero Abajo
+02 28 01 02 02 003 00 Los Quemados
+02 28 01 02 02 004 00 Mata Puercos
+02 28 01 02 02 005 00 Arroyo Claro (Hoyo del Toro)
+02 28 01 02 02 006 00 La Manaclita
+02 28 01 02 02 007 00 Hoya Redonda
+02 28 01 02 02 008 00 Arroyo El Pino
+02 28 01 02 02 009 00 Los Aguacates
+02 28 01 02 02 010 00 La Cotorra
+02 28 01 02 02 011 00 Los Platanitos
+02 28 01 02 02 012 00 Pedregal
+02 28 01 02 02 013 00 La Sabana
+02 28 01 02 02 014 00 La Cidra
+02 28 01 02 02 015 00 La Atravesada
+02 28 01 02 02 016 00 El Cruce
+02 28 01 02 02 017 00 Miranda
+02 28 01 02 02 018 00 Jayaquito
+02 28 01 02 02 019 00 Fula
+02 28 01 02 02 020 00 Caño Hondo
+02 28 01 02 02 021 00 Cañabón
+02 28 01 02 02 022 00 La Presa
+02 28 01 02 03 000 00 Jima
+02 28 01 02 03 001 00 La Zapa
+02 28 01 02 03 002 00 La Zapa Arriba
+02 28 01 02 03 003 00 Casabito
+02 28 01 02 03 004 00 Jatubey
+02 28 01 02 03 005 00 Blanco
+02 28 01 02 03 006 00 El Abanico
+02 28 01 02 03 007 00 La Vaca
+02 28 01 02 03 008 00 Pringamosa
+02 28 01 02 03 009 00 El Badén
+02 28 01 02 03 010 00 Loma Prieta
+02 28 01 02 03 011 00 Calle La Piedra
+02 28 01 02 03 012 00 La Jaiba
+02 28 01 02 03 013 00 Los Cacaos
+02 28 01 03 00 000 00 Juma Bejucal (DM)
+02 28 01 03 01 000 00 Juma Bejucal (Zona urbana)
+02 28 01 03 01 001 00 Juma adentro
+02 28 01 03 01 001 01 Juma Adentro
+02 28 01 03 02 000 00 San isidro
+02 28 01 03 02 001 00 San Isidro
+02 28 01 03 02 002 00 Entrada de la Falconbridge
+02 28 01 03 02 003 00 Bonaito
+02 28 01 03 02 004 00 Salsal
+02 28 01 03 02 005 00 Guamar
+02 28 01 03 02 006 00 Cerro Montoso
+02 28 01 03 02 007 00 Callejón Chino
+02 28 01 03 02 008 00 Poblado de Juma
+02 28 01 03 02 009 00 La Berengena (Berenjena)
+02 28 01 03 02 010 00 Bejucal
+02 28 01 03 02 011 00 La Redonda
+02 28 01 03 02 012 00 Plan Grande
+02 28 01 03 02 013 00 Trabajo
+02 28 01 03 02 014 00 Mirador
+02 28 01 03 03 000 00 Boca de Juma
+02 28 01 03 03 001 00 Boca de Juma
+02 28 01 03 03 002 00 Los Barros
+02 28 01 03 03 003 00 Caño Grande
+02 28 01 03 03 004 00 Caracol
+02 28 01 03 03 005 00 Boca de Yuboa
+02 28 01 03 03 006 00 Rancho Viejo
+02 28 01 03 03 007 00 Palmarito
+02 28 01 03 04 000 00 El Ocho
+02 28 01 03 04 001 00 El Ocho
+02 28 01 03 04 002 00 La Trocha
+02 28 01 03 04 003 00 Hatico
+02 28 01 04 00 000 00 Arroyo  Toro - Masipedro (DM)
+02 28 01 04 01 000 00 Arroyo Toro - Masipedro (Zona urbana)
+02 28 01 04 01 001 00 El Cruce
+02 28 01 04 01 001 01 El Cruce
+02 28 01 04 02 000 00 El Cruce
+02 28 01 04 02 001 00 Cañada de Agua
+02 28 01 04 02 002 00 Arroyo Dulce
+02 28 01 04 02 003 00 El Callejón
+02 28 01 04 02 004 00 La Ciénaga
+02 28 01 04 02 005 00 El Rincón
+02 28 01 04 02 006 00 Las Nueces
+02 28 01 04 02 007 00 Los Valerios
+02 28 01 04 02 008 00 Río Piedra
+02 28 01 04 02 009 00 Colorado
+02 28 01 04 02 010 00 El Humen
+02 28 01 04 02 011 00 La Rinconada
+02 28 01 04 02 012 00 Los Anones
+02 28 01 04 02 013 00 Josesito
+02 28 01 04 02 014 00 Piedra Gorda
+02 28 01 04 02 015 00 Jugadero
+02 28 01 04 02 016 00 La Cienaguita
+02 28 01 04 02 017 00 Arroyo Bonito
+02 28 01 04 02 018 00 Arroyo Toro al Medio
+02 28 01 04 02 019 00 Arroyo Toro Abajo
+02 28 01 04 02 020 00 Arroyo Toro Arriba
+02 28 01 04 02 021 00 La Yerba
+02 28 01 04 02 022 00 Los Plátanos
+02 28 01 04 02 023 00 La Balsa
+02 28 01 04 02 024 00 La Meseta
+02 28 01 04 02 025 00 Palo Aboqueteado
+02 28 01 04 02 026 00 La Bija
+02 28 01 04 03 000 00 Los Bleos
+02 28 01 04 03 001 00 Los Bleos
+02 28 01 04 03 002 00 Piyoyo
+02 28 01 04 03 003 00 Higüerito
+02 28 01 04 03 004 00 Mata Puerco
+02 28 01 04 03 005 00 La Sabana (S.D.)
+02 28 01 04 03 006 00 Palma Clara
+02 28 01 04 03 007 00 La Cabirma
+02 28 01 04 03 008 00 Arroyo Corbinato
+02 28 01 04 03 009 00 Alto del Zamo
+02 28 01 04 03 010 00 Arroyo Piyoyo
+02 28 01 04 03 011 00 Masipedro
+02 28 01 04 03 012 00 Yaso
+02 28 01 04 04 000 00 El Coco
+02 28 01 04 04 001 00 El Coco
+02 28 01 04 04 002 00 Yaso Abajo (Arroyo Yaso)
+02 28 01 04 04 003 00 Yaso Arriba Fortino (El Frontino)
+02 28 01 04 04 004 00 Corbinato
+02 28 01 04 04 005 00 Lengua Azul
+02 28 01 05 00 000 00 Jayaco (DM)
+02 28 01 05 01 000 00 Jayaco (Zona urbana)
+02 28 01 05 01 001 00 Jayaco
+02 28 01 05 01 001 01 Los Cocos
+02 28 01 05 01 001 02 Villa Garza
+02 28 01 05 02 000 00 la ceiba
+02 28 01 05 02 001 00 Los Brazos
+02 28 01 05 02 002 00 Cruce de la Ceiba
+02 28 01 05 02 003 00 La Copla
+02 28 01 05 02 004 00 Arroyo Majagual
+02 28 01 05 02 005 00 Jayaco Arriba
+02 28 01 05 02 006 00 El Abanico de la Ceiba
+02 28 01 05 02 007 00 Caño Piedra I
+02 28 01 05 02 008 00 Los Cauchos
+02 28 01 05 02 009 00 Loma Prieta
+02 28 01 05 02 010 00 La Base
+02 28 01 05 02 011 00 Rabo de Chivo
+02 28 01 05 03 000 00 Jayaco Abajo
+02 28 01 05 03 001 00 Jayaco Abajo
+02 28 01 05 03 002 00 Kilómetro 100
+02 28 01 05 03 003 00 Kilómetro 101
+02 28 01 05 03 004 00 El Yujo
+02 28 01 05 03 005 00 El Cercado
+02 28 01 05 03 006 00 Peñaló
+02 28 01 05 03 007 00 Cañabón (Kilómetro 103)
+02 28 01 05 03 008 00 Puerto Rico
+02 28 01 06 00 000 00 La Salvia - Los Quemados (DM)
+02 28 01 06 01 000 00 Los Quemados (Zona urbana)
+02 28 01 06 01 001 00 los Quemados
+02 28 01 06 01 001 01 Los Quemados
+02 28 01 06 01 001 02 Canta la Rana
+02 28 01 06 01 001 03 Los Frios
+02 28 01 06 01 001 04 Los Pomos
+02 28 01 06 01 001 05 La Salvia
+02 28 01 06 01 001 06 La Cueva
+02 28 01 06 02 000 00 los Quemados
+02 28 01 06 02 001 00 Los Pedregones
+02 28 01 06 02 002 00 Pino del Yuna
+02 28 01 06 02 003 00 Piedra de los Veganos
+02 28 01 06 02 004 00 El Torito
+02 28 01 06 02 005 00 El Novillo
+02 28 01 06 02 006 00 El Capaz
+02 28 01 06 02 007 00 El Tanque
+02 28 01 06 02 008 00 Jobobán
+02 28 01 06 02 009 00 Boca de Blanco
+02 28 01 06 02 010 00 Arroyo Avispa
+02 28 01 06 02 011 00 Loma del Medio
+02 28 01 06 02 012 00 Jurungo
+02 28 01 06 02 013 00 El Frío
+02 28 01 06 02 014 00 Los Quemados
+02 28 01 06 02 015 00 La Placeta de Yuna
+02 28 01 06 02 016 00 Loma Monteada (Torito del Yuna)
+02 28 01 06 03 000 00 Cruce de Blanco
+02 28 01 06 03 001 00 Boca de Tireo
+02 28 01 06 03 002 00 El Maco
+02 28 01 06 03 003 00 El Colorado
+02 28 01 06 03 004 00 Cienaguita Arriba
+02 28 01 06 03 005 00 Rodeo
+02 28 01 06 03 006 00 La Ceiba
+02 28 01 06 03 007 00 El Higo
+02 28 01 06 03 008 00 La Cuaba
+02 28 01 06 03 009 00 El Candongo
+02 28 01 06 03 010 00 El Pichón
+02 28 01 06 03 011 00 Arroyo Atravesado al Medio
+02 28 01 06 03 012 00 La Vaca
+02 28 01 06 03 013 00 La Goma
+02 28 01 06 03 014 00 Cienaguita Abajo
+02 28 01 06 03 015 00 Los Guázaros
+02 28 01 06 03 016 00 El Meche
+02 28 01 06 03 017 00 El Mecherito
+02 28 01 06 03 018 00 Los Pinitos
+02 28 01 06 03 019 00 El Libro
+02 28 01 06 03 020 00 Monteada Nueva
+02 28 01 06 03 021 00 Los Cascarones
+02 28 01 06 03 022 00 Blanco
+02 28 01 06 03 023 00 Arroyo Caña
+02 28 01 06 03 024 00 La Gritona
+02 28 01 06 03 025 00 Los Jagueros
+02 28 01 06 03 026 00 Los Capaces
+02 28 01 06 04 000 00 la cueva
+02 28 01 06 04 001 00 La Cueva
+02 28 01 06 04 002 00 Los Pozos Blancos
+02 28 01 06 04 003 00 Bejuco Aplastado
+02 28 01 06 04 004 00 Los Palmaritos
+02 28 01 06 04 005 00 El Chorro
+02 28 02 00 00 000 00 Maimón
+02 28 02 01 00 000 00 Maimón
+02 28 02 01 01 000 00 Maimón (Zona urbana)
+02 28 02 01 01 001 00 Puerto Rico
+02 28 02 01 01 001 01 Puerto Rico
+02 28 02 01 01 002 00 Centro del Pueblo
+02 28 02 01 01 002 01 Centro del Pueblo
+02 28 02 01 01 002 02 Los Macos o Ernesto Roque Frias
+02 28 02 01 01 003 00 Juan Pablo Duarte
+02 28 02 01 01 003 01 Juan Pablo Duarte
+02 28 02 01 01 004 00 Venezuela
+02 28 02 01 01 004 01 Venezuela
+02 28 02 01 01 005 00 Buenos Aires
+02 28 02 01 01 005 01 Buenos Aires I
+02 28 02 01 01 005 02 El Progreso ( Antiguo Los Coquitos)
+02 28 02 01 01 005 03 Buenos Aires II
+02 28 02 01 01 006 00 Los Pinitos
+02 28 02 01 01 006 01 Los Pinitos
+02 28 02 01 01 007 00 los transformadores
+02 28 02 01 01 007 01 Los Transformadores
+02 28 02 01 01 008 00 la Sabana
+02 28 02 01 01 008 01 La Sabana
+02 28 02 01 01 009 00 Vista Hermosa
+02 28 02 01 01 009 01 Vista Hermosa
+02 28 02 01 01 010 00 Bella Vista
+02 28 02 01 01 010 01 Bella Vista
+02 28 02 01 01 011 00 Parceleros
+02 28 02 01 01 011 01 Parceleros
+02 28 02 01 01 012 00 urbanización Maravillas de Hollywood
+02 28 02 01 01 012 01 Urbanización Maravillas de Hollywood
+02 28 02 01 01 013 00 La Raíz
+02 28 02 01 01 013 01 La Raíz
+02 28 02 01 02 000 00 Hato Viejo
+02 28 02 01 02 001 00 Hato Viejo
+02 28 02 01 02 002 00 Batey Guano
+02 28 02 01 02 003 00 Batey Maimón
+02 28 02 01 02 004 00 La Mina
+02 28 02 01 02 005 00 El Zinc
+02 28 02 01 02 006 00 El Zinc Abajo
+02 28 02 01 02 007 00 El Córbano
+02 28 02 01 02 008 00 El Cajuil
+02 28 02 01 03 000 00 Los Martínez
+02 28 02 01 03 001 00 Los Martínez
+02 28 02 01 03 002 00 Los Pinitos
+02 28 02 01 03 003 00 Leonorita
+02 28 02 01 03 004 00 La Sabana
+02 28 02 01 03 005 00 El Pino (Los Mellizos)
+02 28 02 01 03 006 00 La Leonora
+02 28 02 01 03 007 00 La Raíz
+02 28 02 01 03 008 00 Copey
+02 28 02 01 03 009 00 El Corozal
+02 28 02 01 03 010 00 Sabana Enrique de Copey
+02 28 03 00 00 000 00 Piedra Blanca
+02 28 03 01 00 000 00 Piedra Blanca
+02 28 03 01 01 000 00 Piedra Blanca (Zona urbana)
+02 28 03 01 01 001 00 Centro del Pueblo (Pueblo Viejo)
+02 28 03 01 01 001 01 Centro del Pueblo (Pueblo Viejo)
+02 28 03 01 01 002 00 Nuevo o Pueblo Nuevo
+02 28 03 01 01 002 01 Nuevo o Pueblo Nuevo
+02 28 03 01 01 002 02 San Miguel
+02 28 03 01 01 003 00 V centenario
+02 28 03 01 01 003 01 V Centenario
+02 28 03 01 01 003 02 Canta la Rana
+02 28 03 01 01 003 03 Las 12 Casitas
+02 28 03 01 01 004 00 la caridad
+02 28 03 01 01 004 01 La Caridad
+02 28 03 01 01 005 00 San rafael
+02 28 03 01 01 005 01 San Rafael
+02 28 03 01 01 006 00 Buenos Aires
+02 28 03 01 01 006 01 Buenos Aires
+02 28 03 01 01 007 00 Las Flores
+02 28 03 01 01 007 01 Las Flores
+02 28 03 01 01 008 00 los Multi
+02 28 03 01 01 008 01 Los Multi
+02 28 03 01 01 008 02 El Cubano
+02 28 03 01 01 008 03 Quirino o Colombia
+02 28 03 01 02 000 00 arroyo Vuelta
+02 28 03 01 02 001 00 Arroyo Vuelta Arriba
+02 28 03 01 02 002 00 La Cumbre Abajo
+02 28 03 01 02 003 00 La Leonora
+02 28 03 01 02 004 00 La Antena
+02 28 03 01 02 005 00 La Facilidad
+02 28 03 01 02 006 00 La Ceiba
+02 28 03 01 02 007 00 El Algarrobito
+02 28 03 01 02 008 00 Arroyo Majagua
+02 28 03 01 02 009 00 Piedroso (Pedroso)
+02 28 03 01 03 000 00 El 77
+02 28 03 01 03 001 00 Hoja Ancha
+02 28 03 01 03 002 00 La Yabacoa o Batey Yabacoa
+02 28 03 01 03 003 00 El Gaucho
+02 28 03 01 03 004 00 Arroyo Palma
+02 28 03 01 03 005 00 El Cinco (El 5)
+02 28 03 01 03 006 00 El Dos (El 2)
+02 28 03 01 03 007 00 La Lechuza
+02 28 03 01 03 008 00 Madre Vieja
+02 28 03 01 03 009 00 Arroyo Pomo-Paso de la Auyama
+02 28 03 01 03 010 00 Loma Prieta
+02 28 03 01 03 011 00 Yabacoa (El Atajadizo)
+02 28 03 01 03 012 00 El 77
+02 28 03 01 03 013 00 El Córbano
+02 28 03 01 03 014 00 La Jardeta
+02 28 03 01 04 000 00 Rincón de Yuboa
+02 28 03 01 04 001 00 Rincón de Yuboa
+02 28 03 01 04 002 00 Cerro Montoso
+02 28 03 01 04 003 00 Blanco
+02 28 03 01 04 004 00 La Ensenada Abajo - Alto del Naranjo
+02 28 03 01 04 005 00 El Campamento
+02 28 03 01 04 006 00 Munene
+02 28 03 01 04 007 00 Quimbamba
+02 28 03 01 04 008 00 La Ceibita
+02 28 03 01 04 009 00 La Cuesta de la Vaca
+02 28 03 01 04 010 00 Vigía
+02 28 03 02 00 000 00 Villa de Sonador (DM)
+02 28 03 02 01 000 00 Villa de Sonador (Zona urbana)
+02 28 03 02 01 001 00 Sector A
+02 28 03 02 01 001 01 Sector A
+02 28 03 02 01 001 02 Zona Universitaria
+02 28 03 02 01 002 00 Sector B (Pueblo Viejo)
+02 28 03 02 01 002 01 Sector B (Pueblo Viejo)
+02 28 03 02 01 002 02 Las Delicias
+02 28 03 02 01 002 03 El Brisal
+02 28 03 02 01 003 00 las Hortensias
+02 28 03 02 01 003 01 Las Hortensias
+02 28 03 02 01 004 00 los Jardines
+02 28 03 02 01 004 01 Los Jardines
+02 28 03 02 01 004 02 Las Flores
+02 28 03 02 01 005 00 urbanización Los Naranjos
+02 28 03 02 01 003 01 Urbanización Los Naranjos
+02 28 03 02 02 000 00 la colonia
+02 28 03 02 02 001 00 La Colonia
+02 28 03 02 02 002 00 Mirador Arriba
+02 28 03 02 02 003 00 Sonadorcito
+02 28 03 02 02 004 00 Plan Grande
+02 28 03 02 02 005 00 Julián Suardí
+02 28 03 02 02 006 00 Lechoso
+02 28 03 02 02 007 00 Finca Tony Rivera (Arroyo Sonador)
+02 28 03 02 02 008 00 Sonador
+02 28 03 02 02 009 00 Los Almendros
+02 28 03 02 02 010 00 Paso del Capá
+02 28 03 02 03 000 00 la Minita
+02 28 03 02 03 001 00 La Minita
+02 28 03 02 03 002 00 Ingenio
+02 28 03 02 03 003 00 Las Jardetas
+02 28 03 02 03 004 00 El Palmar
+02 28 03 03 00 000 00 Juan Adrián (DM)
+02 28 03 03 01 000 00 Juan Adrián (Zona urbana)
+02 28 03 03 01 001 00 Juan adrián
+02 28 03 03 01 001 01 Juan Adrián
+02 28 03 03 02 000 00 El Zumbador
+02 28 03 03 02 001 00 El Zumbador 
+02 28 03 03 02 002 00 El Salto
+02 28 03 03 02 003 00 Gajo de las Flores
+02 28 03 03 02 004 00 Vista Alegre
+02 28 03 03 02 005 00 Puerto Rico
+02 28 03 03 02 006 00 Los Pedregones
+02 28 03 03 02 007 00 Zumbadorcito
+02 28 03 03 03 000 00 Los Plátanos
+02 28 03 03 03 001 00 Los Plátanos
+02 28 03 03 03 002 00 Zumbador Abajo
+02 28 03 03 03 003 00 La Privada
+02 28 03 03 03 004 00 Sector David
+02 28 03 03 03 005 00 Arroyo del Rancho
+02 28 03 03 03 006 00 El Desvío
+02 28 03 03 03 007 00 Arroyo Pomo
+02 28 03 03 04 000 00 La Yautía
+02 28 03 03 04 001 00 La Yautía
+02 28 03 03 04 002 00 El Cacao
+02 28 03 03 04 003 00 Kilómetro 16
+02 28 03 03 04 004 00 La Ensenada
+02 28 03 03 04 005 00 Los Zanjones
+02 28 03 03 04 006 00 El Llano

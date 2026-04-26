@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from fastapi import APIRouter
 
+from rd_territorial_system.api.catalog_metadata import inject_catalog_version  # 👈 NUEVO
 from rd_territorial_system.api.errors import raise_for_strict_result
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
@@ -40,6 +41,9 @@ def batch_resolve(payload: BatchResolveRequest) -> list[ResolveResponse]:
 
         if payload.strict:
             raise_for_strict_result(result)
+
+        # 👇 INYECCIÓN POR ITEM (CLAVE)
+        result = inject_catalog_version(result)
 
         results.append(result)
 

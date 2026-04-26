@@ -1,0 +1,663 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje
+Sub
+barrio Toponimia o nombre
+09 23 00 00 00 000 00 San Pedro de Macorís
+09 23 01 00 00 000 00 San Pedro de Macorís
+09 23 01 01 00 000 00 San Pedro de Macorís
+09 23 01 01 01 000 00 San Pedro de Macorís (Zona urbana)
+09 23 01 01 01 001 00 La Punta Pescadora
+09 23 01 01 01 001 01 La Punta Pescadora
+09 23 01 01 01 001 02 La Culebra
+09 23 01 01 01 001 03 Los Cangrejitos
+09 23 01 01 01 001 04 Nuevo Amanecer
+09 23 01 01 01 002 00 Blanco
+09 23 01 01 01 002 01 Blanco
+09 23 01 01 01 002 02 El Hoyo
+09 23 01 01 01 002 03 Cementerio Tamarindo
+09 23 01 01 01 002 04 Canta la Rana
+09 23 01 01 01 002 05 Destilería Brugal
+09 23 01 01 01 003 00 Placer Bonito
+09 23 01 01 01 003 01 Placer Bonito
+09 23 01 01 01 003 02 La Primavera
+09 23 01 01 01 003 03 La Barca o La Altagracia
+09 23 01 01 01 003 04 El Silencio
+09 23 01 01 01 003 05 Jaime Brugal
+09 23 01 01 01 003 06 El Retiro
+09 23 01 01 01 004 00 México
+09 23 01 01 01 004 01 México
+09 23 01 01 01 005 00 Las Piedras
+09 23 01 01 01 005 01 Las Piedras
+09 23 01 01 01 005 02 Urbanización Peréz Bernal
+09 23 01 01 01 006 00 Pedro Justo Carrión
+09 23 01 01 01 006 01 Pedro Justo Carrión
+09 23 01 01 01 007 00 El centro o centro de la ciudad
+09 23 01 01 01 007 01 El Centro o Centro de la Ciudad
+09 23 01 01 01 008 00 urbanizacion Evangelina Rodríguez
+09 23 01 01 01 008 01 Urbanizacion Evangelina Rodríguez
+09 23 01 01 01 009 00 Japón
+09 23 01 01 01 009 01 Japón
+09 23 01 01 01 010 00 Juan Pablo Duarte
+09 23 01 01 01 010 01 Juan Pablo Duarte
+09 23 01 01 01 011 00 Filipinas
+09 23 01 01 01 011 01 Filipinas
+09 23 01 01 01 012 00 Toconal
+09 23 01 01 01 012 01 Toconal
+09 23 01 01 01 013 00 La Playa del Muerto
+09 23 01 01 01 013 01 La Playa del Muerto
+09 23 01 01 01 014 00 los Guandules
+09 23 01 01 01 014 01 Los Guandules
+09 23 01 01 01 015 00 Villa Velázquez
+09 23 01 01 01 015 01 Villa Velázquez
+09 23 01 01 01 016 00 Las Flores
+09 23 01 01 01 016 01 Las Flores
+09 23 01 01 01 017 00 Independencia o Los Cuatro Caminos
+09 23 01 01 01 017 01 Independencia o Los Cuatro Caminos
+09 23 01 01 01 018 00 los Maestros
+09 23 01 01 01 018 01 Los Maestros
+09 23 01 01 01 019 00 Kennedy i 
+09 23 01 01 01 019 01 Kennedy I 
+09 23 01 01 01 019 02 Kennedy II
+09 23 01 01 01 019 03 Campus UCE
+09 23 01 01 01 020 00 Villa Progreso I
+09 23 01 01 01 020 01 Villa Progreso I
+09 23 01 01 01 020 02 Kilómetro 3 1/2
+09 23 01 01 01 021 00 Sarmiento i
+09 23 01 01 01 021 01 Sarmiento I
+09 23 01 01 01 021 02 Sarmiento II
+09 23 01 01 01 022 00 las caobas
+09 23 01 01 01 022 01 Las Caobas
+09 23 01 01 01 022 02 La Cervecería
+09 23 01 01 01 023 00 Restauración
+09 23 01 01 01 023 01 Restauración
+09 23 01 01 01 023 02 Ortiz
+09 23 01 01 01 024 00 urbanizacion Mallén
+09 23 01 01 01 024 01 Urbanizacion Mallén
+09 23 01 01 01 025 00 Villa Providencia
+09 23 01 01 01 025 01 Villa Providencia
+09 23 01 01 01 025 02 Villa Providencia II o Libertad
+09 23 01 01 01 026 00 Villa Municipal
+09 23 01 01 01 026 01 Villa Municipal
+09 23 01 01 01 026 02 Urbanizacion Mallén
+09 23 01 01 01 027 00 La Roca
+09 23 01 01 01 027 01 La Roca
+09 23 01 01 01 028 00 lindo i
+09 23 01 01 01 028 01 Lindo I
+09 23 01 01 01 028 02 Lindo II
+09 23 01 01 01 029 00 la arena
+09 23 01 01 01 029 01 La Arena
+09 23 01 01 01 030 00 Villa Magdalena
+09 23 01 01 01 030 01 Villa Magdalena
+09 23 01 01 01 031 00 INVI - CEA
+09 23 01 01 01 031 01 INVI - CEA
+09 23 01 01 01 031 02 Villa Hermosa
+09 23 01 01 01 032 00 Villa Olímpica
+09 23 01 01 01 032 01 Villa Olímpica
+09 23 01 01 01 033 00 Villa central
+09 23 01 01 01 033 01 Villa Central
+09 23 01 01 01 033 02 Ingenio Porvenir
+09 23 01 01 01 034 00 Ingenio Santa Fe (Santa Fe o El Club)
+09 23 01 01 01 034 01 Ingenio Santa Fe (Santa Fe o El Club)
+09 23 01 01 01 035 00 Loma de Cochero
+09 23 01 01 01 035 01 Loma de Cochero
+09 23 01 01 01 036 00 Buenos Aires
+09 23 01 01 01 036 01 Buenos Aires
+09 23 01 01 01 036 02 La Patana
+09 23 01 01 01 037 00 Villa cesarina
+09 23 01 01 01 037 01 Villa Cesarina
+09 23 01 01 01 038 00 Villa Visan
+09 23 01 01 01 038 01 Villa Visan
+09 23 01 01 01 039 00 Miramar
+09 23 01 01 01 039 01 Miramar
+09 23 01 01 01 040 00 Villa orilla 
+09 23 01 01 01 040 01 Villa Orilla 
+09 23 01 01 01 041 00 Villa España
+09 23 01 01 01 041 01 Villa España
+09 23 01 01 01 042 00 San Antón
+09 23 01 01 01 042 01 San Antón
+09 23 01 01 01 043 00 Punta Garza
+09 23 01 01 01 043 01 Punta Garza
+09 23 01 01 01 044 00 Lotificacion CEA (Villa Progreso II)
+09 23 01 01 01 044 01 Lotificacion CEA (Villa Progreso II)
+09 23 01 01 01 045 00 Hato de San Pedro
+09 23 01 01 01 045 01 Hato de San Pedro
+09 23 01 01 01 046 00 urbanizacion Naime
+09 23 01 01 01 046 01 Residencial Naime
+09 23 01 01 01 046 02 Residencial Caribe
+09 23 01 01 01 046 03 Residencial Milenium
+09 23 01 01 01 046 04 Urbanización Cemento Titán
+09 23 01 01 01 047 00 La Belleza
+09 23 01 01 01 047 01 La Belleza
+09 23 01 01 01 048 00 Autoridad Portuaria
+09 23 01 01 01 048 01 Autoridad Portuaria
+09 23 01 01 01 049 00 Villa Faro
+09 23 01 01 01 049 01 Villa Faro
+09 23 01 01 01 050 00 Enriquillo
+09 23 01 01 01 050 01 Enriquillo
+09 23 01 01 01 051 00 Jardines del Este
+09 23 01 01 01 051 01 Jardines del Este
+09 23 01 01 01 052 00 24 de abril
+09 23 01 01 01 052 01 24 de Abril
+09 23 01 01 01 052 02 La Puerta o La Puerta de Santa Ana
+09 23 01 01 01 053 00 azul
+09 23 01 01 01 053 01 Azul
+09 23 01 01 01 054 00 Los Bomberitos
+09 23 01 01 01 054 01 Los Bomberitos
+09 23 01 01 01 055 00 Palo de Azúcar
+09 23 01 01 01 055 01 Palo de Azúcar
+09 23 01 01 01 055 02 Villa Centro
+09 23 01 01 01 056 00 El otro lado
+09 23 01 01 01 056 01 El Otro Lado
+09 23 01 01 01 057 00 Los Cajones
+09 23 01 01 01 057 01 Los Cajones
+09 23 01 01 01 057 02 Pedro Marquéz
+09 23 01 01 01 058 00 urbanización Vicini
+09 23 01 01 01 058 01 Urbanización Vicini
+09 23 01 01 01 059 00 urbanización Oriental
+09 23 01 01 01 059 01 Urbanización Oriental
+09 23 01 01 01 060 00 Proyecto Lotificación 
+09 23 01 01 01 060 01 Proyecto Lotificación 
+09 23 01 01 01 060 02 Residencial San Pedro
+09 23 01 01 01 061 00 colina i
+09 23 01 01 01 061 01 Colina I
+09 23 01 01 01 062 00 colina ii
+09 23 01 01 01 062 01 Colina II
+09 23 01 01 01 063 00 José Blancho (Colina III )
+09 23 01 01 01 063 01 José Blancho ( Colina III )
+09 23 01 01 01 063 02 La Profeciada
+09 23 01 01 01 064 00 ciudad codiana
+09 23 01 01 01 064 01 Ciudad Codiana
+09 23 01 01 01 065 00 El Ocho ( Batey 8 )
+09 23 01 01 01 065 01 El Ocho ( Batey 8 )
+09 23 01 01 01 066 00 Cáscara Jíbara
+09 23 01 01 01 066 01 Cáscara Jíbara
+09 23 01 01 01 066 02 Canta Rana
+09 23 01 01 01 067 00 30 de Mayo
+09 23 01 01 01 067 01 30 de Mayo
+09 23 01 01 01 068 00 urbanización Marina
+09 23 01 01 01 068 01 Urbanización Marina
+09 23 01 01 01 069 00 Puerto Rico
+09 23 01 01 01 069 01 Puerto Rico
+09 23 01 01 01 069 02 Bajo Manhatttan
+09 23 01 01 01 070 00 Cementerio Metrópolis de San Pedro
+09 23 01 01 01 070 01 Cementerio Metrópolis de San Pedro
+09 23 01 01 01 071 00 urbanización La Bendición
+09 23 01 01 01 071 01 Urbanización La Bendición
+09 23 01 01 01 071 02 Vitania
+09 23 01 01 01 071 03 Villa Mexico
+09 23 01 01 01 072 00 urbanización La Hazim
+09 23 01 01 01 072 01 Urbanización La Hazim
+09 23 01 01 01 073 00 Residencial Paraíso de San Pedro
+09 23 01 01 01 073 01 Residencial Paraíso de San Pedro
+09 23 01 01 01 073 02 Alto de Abraham
+09 23 01 01 01 074 00 Villa El coral
+09 23 01 01 01 074 01 Villa El Coral
+09 23 01 01 01 075 00 El Brisal
+09 23 01 01 01 075 01 El Brisal
+09 23 01 01 01 076 00 Santa Clara (Santa Ana)
+09 23 01 01 01 076 01 Santa Clara (Santa Ana)
+09 23 01 01 01 076 02 Los Pinos
+09 23 01 01 01 076 03 Los Tranformadores
+09 23 01 01 01 077 00 Brisas del Este
+09 23 01 01 01 077 01 Brisas del Este
+09 23 01 01 01 077 02 Los Profesionales
+09 23 01 01 01 078 00 Organización (Parque Industrial Zonas Francas)
+09 23 01 01 01 078 01 Organización (Parque Industrial Zonas Francas)
+09 23 01 01 01 079 00 El Golfo
+09 23 01 01 01 079 01 El Golfo
+09 23 01 01 01 080 00 El Patio
+09 23 01 01 01 080 01 El Patio
+09 23 01 01 01 081 00 Petrópolis
+09 23 01 01 01 081 01 Petrópolis
+09 23 01 01 01 081 02 Bienvenido
+09 23 01 01 01 082 00 Mahábharata o Villa Paredes
+09 23 01 01 01 082 01 Mahábharata o Villa Paredes
+09 23 01 01 01 083 00 Nueva Esperanza
+09 23 01 01 01 083 01 Nueva Esperanza
+09 23 01 01 01 083 02 Cristo Rey
+09 23 01 01 01 084 00 urbanización Coral Garden
+09 23 01 01 01 084 01 Urbanización Coral Garden
+09 23 01 01 01 085 00 Paraíso
+09 23 01 01 01 085 01 Paraíso
+09 23 01 01 01 086 00 los Multis
+09 23 01 01 01 086 01 Los Multis
+09 23 01 01 01 087 00 Villa Azucarera
+09 23 01 01 01 087 01 Villa Azucarera
+09 23 01 01 01 087 02 Villa Cañera
+09 23 01 01 01 088 00 Altos de San Pedro ( Villa Progreso )
+09 23 01 01 01 088 01 Altos de San Pedro ( Villa Progreso )
+09 23 01 01 02 000 00 Boca del Soco
+09 23 01 01 02 001 00 El Cruce
+09 23 01 01 02 002 00 Las Piedras
+09 23 01 01 02 003 00 El Palmar
+09 23 01 01 02 004 00 El Peñón
+09 23 01 01 02 005 00 Los Palitos
+09 23 01 01 02 006 00 Miguelucho
+09 23 01 01 02 007 00 Batey Bobadilla
+09 23 01 01 02 008 00 Batey Monte Cristi
+09 23 01 01 02 009 00 La Charca
+09 23 01 01 02 010 00 Batey Olivares
+09 23 01 01 02 011 00 La Balsa
+09 23 01 01 02 012 00 La Americana
+09 23 01 01 02 013 00 La Guinea
+09 23 01 01 02 014 00 San Juan Bautista
+09 23 01 01 02 015 00 Palo Viejo
+09 23 01 01 02 016 00 Batey Alemán
+09 23 01 01 02 017 00 Punta Afuera
+09 23 01 01 02 018 00 Boca del Soco
+09 23 01 01 02 019 00 Batey Esperanza
+09 23 01 01 02 020 00 Batey La Inocencia
+09 23 01 01 02 021 00 La Puerta de Santa Fe
+09 23 01 01 02 022 00 Ingenio Cristóbal Colón
+09 23 01 01 02 023 00 Ingenio Angelina
+09 23 01 01 02 024 00 Batey La Laura
+09 23 01 01 02 025 00 La Punta Pescadora
+09 23 02 00 00 000 00 los llanos
+09 23 02 01 00 000 00 los llanos
+09 23 02 01 01 000 00 San José de Los Llanos (Zona urbana)
+09 23 02 01 01 001 00 Centro del Pueblo
+09 23 02 01 01 001 01 Centro del Pueblo
+09 23 02 01 01 002 00 Los Cocos
+09 23 02 01 01 002 01 Los Cocos
+09 23 02 01 01 003 00 El conde
+09 23 02 01 01 003 01 El Conde
+09 23 02 01 01 004 00 los Multi
+09 23 02 01 01 004 01 Los Multi
+09 23 02 01 01 005 00 Villa Maco
+09 23 02 01 01 005 01 Villa Maco
+09 23 02 01 01 006 00 La Palma
+09 23 02 01 01 006 01 La Palma
+09 23 02 01 01 007 00 la Guázara
+09 23 02 01 01 007 01 La Guázara
+09 23 02 01 01 008 00 rumbamba
+09 23 02 01 01 008 01 Rumbamba
+09 23 02 01 02 000 00 Cayacoa
+09 23 02 01 02 001 00 La Salvadora
+09 23 02 01 02 002 00 El Bronce
+09 23 02 01 02 003 00 Cayacoa o Nuevo Cayacoa
+09 23 02 01 02 004 00 Las Mercedes
+09 23 02 01 02 005 00 Batey Cayacoíta
+09 23 02 01 02 006 00 Los Dos Hermanos
+09 23 02 01 02 007 00 El Magantillo
+09 23 02 01 02 008 00 Hatillo
+09 23 02 01 02 009 00 El Tintero
+09 23 02 01 02 010 00 El Uno
+09 23 02 01 02 011 00 El Corozo
+09 23 02 01 02 012 00 Hermita del Blanco - Ermita
+09 23 02 01 02 013 00 Batey La Mulita
+09 23 02 01 02 014 00 Batey El Blanco
+09 23 02 01 02 015 00 Batey Cayacoíta
+09 23 02 01 03 000 00 El Guayabal
+09 23 02 01 03 001 00 Cachimbito
+09 23 02 01 03 002 00 Sabana Tosa
+09 23 02 01 03 003 00 Canepa Verde
+09 23 02 01 03 004 00 Clavellina
+09 23 02 01 03 005 00 Batey Copeyito
+09 23 02 01 03 006 00 Canarios
+09 23 02 01 03 007 00 Batey Paloma
+09 23 02 01 03 008 00 Las Caobas
+09 23 02 01 03 009 00 La Yeguada
+09 23 02 01 03 010 00 La Rufina
+09 23 02 01 03 011 00 El Guajabo
+09 23 02 01 03 012 00 El Jengibre
+09 23 02 01 03 013 00 Batey Brujuelas
+09 23 02 01 03 014 00 Hatillo
+09 23 02 01 03 015 00 Los Almácigos
+09 23 02 01 03 016 00 El Alto de China o Los Cocos
+09 23 02 01 03 017 00 Victorina
+09 23 02 01 03 018 00 Pañapaña
+09 23 02 01 03 019 00 La Cruz
+09 23 02 01 03 020 00 Batey Contador
+09 23 02 01 03 021 00 El Manguito
+09 23 02 01 03 022 00 San Ildefonso
+09 23 02 01 03 023 00 Los Anones
+09 23 02 01 03 024 00 Gaviota
+09 23 02 01 03 025 00 Batey Nuevo
+09 23 02 01 03 026 00 Batey San Felipe
+09 23 02 01 03 027 00 El Guayabal
+09 23 02 01 03 028 00 Batey Cuquito
+09 23 02 01 03 029 00 La Mulita de Guayabal
+09 23 02 01 03 030 00 San José
+09 23 02 01 03 031 00 Yabacao
+09 23 02 01 03 032 00 Los Botados
+09 23 02 01 03 033 00 Las Mercedes o Los Mella
+09 23 02 01 04 000 00 Los Jíbaros
+09 23 02 01 04 001 00 Batey Ulloa
+09 23 02 01 04 002 00 El Jengibral
+09 23 02 01 04 003 00 Batey Casui
+09 23 02 01 04 004 00 Batey Nuevo
+09 23 02 01 04 005 00 San Marcos
+09 23 02 01 04 006 00 Los Capaces
+09 23 02 01 04 007 00 El Rancho
+09 23 02 01 04 008 00 Los Jíbaros
+09 23 02 01 04 009 00 Batey Naranjo
+09 23 02 01 04 010 00 La Bomba
+09 23 02 01 04 011 00 Batey Estrella
+09 23 02 01 04 012 00 Juana Lorenza (Buena Vista)
+09 23 02 01 04 013 00 Polanco
+09 23 02 01 04 014 00 Las Guáranas
+09 23 02 01 04 015 00 La Altamisa
+09 23 02 01 04 016 00 María Lorenza
+09 23 02 01 04 017 00 Cañada
+09 23 02 01 04 018 00 Batey Canutillo
+09 23 02 01 04 019 00 Batey Tumba
+09 23 02 01 04 020 00 El Coco
+09 23 02 01 04 021 00 Batey Gallareta
+09 23 02 01 04 022 00 Mata Gallina
+09 23 02 01 04 023 00 Batey Consuelito
+09 23 02 01 04 024 00 Botín
+09 23 02 01 04 025 00 Hormigo
+09 23 02 01 04 026 00 Asiento Zapata Botín
+09 23 02 02 00 000 00 El Puerto (DM)
+09 23 02 02 01 000 00 El Puerto (Zona urbana)
+09 23 02 02 01 001 00 El Puerto
+09 23 02 02 01 001 01 Centro del Pueblo
+09 23 02 02 01 001 02 Matica Seca
+09 23 02 02 01 001 03 Proyecto
+09 23 02 02 01 001 04 Santa Fe
+09 23 02 02 01 001 05 El Semillero
+09 23 02 02 01 001 06 La Cancha
+09 23 02 02 01 001 07 La Gallera
+09 23 02 02 01 001 08 Las Quinientas
+09 23 02 02 01 001 09 Las Multis
+09 23 02 02 02 000 00 Plumita
+09 23 02 02 02 001 00 Plumita
+09 23 02 02 02 002 00 Los Mameyes
+09 23 02 02 02 003 00 La Batata
+09 23 02 02 02 004 00 La Sosa
+09 23 02 02 02 005 00 La Trocha
+09 23 02 02 02 006 00 Contreras
+09 23 02 02 02 007 00 Sacaturrón
+09 23 02 02 02 008 00 Sabana Madera
+09 23 02 02 02 009 00 La Infinita
+09 23 02 02 02 010 00 Canfor
+09 23 02 02 02 011 00 Higuereta
+09 23 02 02 02 012 00 El Saco
+09 23 02 02 02 013 00 Los Pacheco
+09 23 02 02 02 014 00 Río Abajo
+09 23 02 02 02 015 00 Arroyo Bernabé
+09 23 02 02 02 016 00 Las Guanábanas
+09 23 02 02 02 017 00 El Fundo
+09 23 02 02 02 018 00 La Loma
+09 23 02 02 02 019 00 San Gerónimo
+09 23 02 02 02 020 00 Batey Caimito
+09 23 02 02 02 021 00 Batey Realidad
+09 23 02 02 02 022 00 Santana
+09 23 02 02 02 023 00 Felipa Pérez
+09 23 02 02 02 024 00 Brujuelas (Asiento Zapata Botín)
+09 23 02 02 02 025 00 El Llano de Guabatico
+09 23 02 02 02 026 00 Yabacao
+09 23 02 02 02 027 00 La Tranca
+09 23 02 02 02 028 00 Sabana de Tosa
+09 23 02 02 02 029 00 El Cable o Peso Uno
+09 23 02 03 00 000 00 Gautier (DM)
+09 23 02 03 01 000 00 Gautier (Zona urbana)
+09 23 02 03 01 001 00 Gautier
+09 23 02 03 01 001 01 Gautier
+09 23 02 03 01 001 02 Centro del Pueblo
+09 23 02 03 01 001 03 Los Platanitos
+09 23 02 03 01 001 04 Quilombo
+09 23 02 03 01 001 05 Mina Vieja
+09 23 02 03 01 001 06 La Loma
+09 23 02 03 01 001 07 Nuevo
+09 23 02 03 01 001 08 Jardines de Gautier
+09 23 02 03 01 001 09 Conjunto Habitacional Invi Progreso
+09 23 02 03 01 001 10 Los Guandules
+09 23 02 03 01 001 11 La Canita
+09 23 02 03 01 001 12 La Maluza
+09 23 02 03 02 000 00 San José
+09 23 02 03 02 001 00 San José
+09 23 02 03 02 002 00 Cruce de Boca Chica
+09 23 02 03 02 003 00 La Mula
+09 23 02 03 02 004 00 La Luisa
+09 23 02 03 02 005 00 La Plumita
+09 23 02 03 02 006 00 La Redonda
+09 23 02 03 02 007 00 Peso al Medio
+09 23 02 03 02 008 00 Gautier Rural
+09 23 03 00 00 000 00 Ramón Santana
+09 23 03 01 00 000 00 Ramón Santana
+09 23 03 01 01 000 00 Ramón Santana (Zona urbana)
+09 23 03 01 01 001 00 Centro del Pueblo
+09 23 03 01 01 001 01 Centro del Pueblo
+09 23 03 01 01 002 00 los altos
+09 23 03 01 01 002 01 Los Altos
+09 23 03 01 01 003 00 Nuevo
+09 23 03 01 01 003 01 Nuevo
+09 23 03 01 01 003 02 Hilario Martínez
+09 23 03 01 01 003 03 Paulina Peña
+09 23 03 01 01 003 04 Juan Manuel Valdez
+09 23 03 01 02 000 00 Jagual
+09 23 03 01 02 001 00 Plumita Regajo
+09 23 03 01 02 002 00 Palmarito
+09 23 03 01 02 003 00 Mahoma
+09 23 03 01 02 004 00 Batey Eureka
+09 23 03 01 02 005 00 Kilómetro 14 1/2
+09 23 03 01 02 006 00 Pico Blanco
+09 23 03 01 02 007 00 Boca de Cumayasa
+09 23 03 01 02 008 00 El Gran Peñón
+09 23 03 01 02 009 00 Los Arados
+09 23 03 01 02 010 00 Batey Negro
+09 23 03 01 02 011 00 Las Sardinas
+09 23 03 01 02 012 00 El Soco
+09 23 03 01 02 013 00 Batey Jagual
+09 23 03 01 02 014 00 Laguna Prieta
+09 23 03 01 03 000 00 los lerenes
+09 23 03 01 03 001 00 Paso Al Medio
+09 23 03 01 03 002 00 Pepillo
+09 23 03 01 03 003 00 Batey Verde
+09 23 03 01 03 004 00 Batey Amador
+09 23 03 01 03 005 00 Jabilla Gorda 
+09 23 03 01 03 006 00 Parcela II
+09 23 03 01 03 007 00 La Bomba
+09 23 03 01 03 008 00 Batey La Cubana (La Dominicana)
+09 23 03 01 03 009 00 Los Lerenes
+09 23 03 01 03 010 00 Batey Atilano I
+09 23 03 01 03 011 00 Batey Atilano II
+09 23 03 01 03 012 00 Parcela I
+09 23 03 01 04 000 00 Magarín
+09 23 03 01 04 001 00 Famier
+09 23 03 01 04 002 00 Caballo Viejo
+09 23 03 01 04 003 00 Magarín
+09 23 03 01 04 004 00 Guanábano
+09 23 03 01 04 005 00 Batey Diego
+09 23 03 01 04 006 00 Batey Cabeza de Toro
+09 23 03 01 04 007 00 Batey Campiña
+09 23 03 01 04 008 00 Batey Lima
+09 23 03 01 04 009 00 Batey Regajo
+09 23 03 01 04 010 00 Batey Piñones
+09 23 03 01 04 011 00 Agua Lluvia
+09 23 03 01 04 012 00 Grafis
+09 23 03 01 04 013 00 Jobito
+09 23 03 01 04 014 00 Río Abajo Maga
+09 23 03 01 04 015 00 La Trocha
+09 23 03 01 04 016 00 Concho Primo
+09 23 04 00 00 000 00 consuelo
+09 23 04 01 00 000 00 consuelo
+09 23 04 01 01 000 00 Consuelo (Zona urbana)
+09 23 04 01 01 001 00 central
+09 23 04 01 01 001 01 Central
+09 23 04 01 01 002 00 Santa ana
+09 23 04 01 01 002 01 Santa Ana
+09 23 04 01 01 003 00 Las Palmas
+09 23 04 01 01 003 01 Las Palmas
+09 23 04 01 01 003 02 El CEA
+09 23 04 01 01 004 00 El Cachipero o Villa Progreso
+09 23 04 01 01 004 01 El Cachipero o  Villa Progreso
+09 23 04 01 01 004 02 Las 6 Casitas
+09 23 04 01 01 005 00 Villa Verde
+09 23 04 01 01 005 01 Villa Verde
+09 23 04 01 01 006 00 Guachupita
+09 23 04 01 01 006 01 Guachupita
+09 23 04 01 01 006 02 El Establo
+09 23 04 01 01 007 00 la Guamita
+09 23 04 01 01 007 01 La Guamita
+09 23 04 01 01 008 00 la Habana
+09 23 04 01 01 008 01 La Habana
+09 23 04 01 01 009 00 Hato Mayor
+09 23 04 01 01 009 01 Hato Mayor
+09 23 04 01 01 010 00 La Aviación
+09 23 04 01 01 010 01 La Aviación
+09 23 04 01 01 011 00 Puerto Rico
+09 23 04 01 01 011 01 Puerto Rico
+09 23 04 01 01 012 00 Habitacional Consuelo (George)
+09 23 04 01 01 012 01 Habitacional Consuelo (George)
+09 23 04 01 01 013 00 El Quilombo
+09 23 04 01 01 013 01 El Quilombo
+09 23 04 01 01 014 00 Pueblo Nuevo
+09 23 04 01 01 014 01 Pueblo Nuevo
+09 23 04 01 01 015 00 El iNVi
+09 23 04 01 01 015 01 El INVI
+09 23 04 01 01 016 00 los Jardines
+09 23 04 01 01 016 01 Los Jardines
+09 23 04 01 01 017 00 la carretera
+09 23 04 01 01 017 01 Los Feliú
+09 23 04 01 01 017 02 La Carretera
+09 23 04 01 01 018 00 Enriquillo
+09 23 04 01 01 018 01 Enriquillo
+09 23 04 01 01 018 02 Urbanización Jardines del Maestro Li II
+09 23 04 01 01 019 00 Puerto Príncipe
+09 23 04 01 01 019 01 Puerto Príncipe
+09 23 04 01 01 019 02 Los Guandules
+09 23 04 01 01 020 00 urbanización Maestro II
+09 23 04 01 01 020 01 Urbanización Maestro II
+09 23 04 01 01 021 00 Los Vecinos
+09 23 04 01 01 021 01 Los Vecinos
+09 23 04 01 01 022 00 urbanización Sueño Real
+09 23 04 01 01 022 01 Urbanización Sueño Real
+09 23 04 01 01 023 00 libertad
+09 23 04 01 01 023 01 Libertad
+09 23 04 01 01 024 00 la Mina
+09 23 04 01 01 024 01 La Mina
+09 23 04 01 01 025 00 la Gallera
+09 23 04 01 01 025 01 La Gallera
+09 23 04 01 01 026 00 la loma
+09 23 04 01 01 026 01 La Loma
+09 23 04 01 01 027 00 Los Químicos
+09 23 04 01 01 027 01 Los Químicos
+09 23 04 01 02 000 00 Alejandro Bass
+09 23 04 01 02 001 00 Batey Alejandro Bass
+09 23 04 01 02 002 00 Batey Santo ángel
+09 23 04 01 02 003 00 Batey Ab-4
+09 23 04 01 02 004 00 San Felipe
+09 23 04 01 02 005 00 Batey Euskarduna
+09 23 04 01 02 006 00 Batey Margarita
+09 23 04 01 02 007 00 Batey Amelia
+09 23 04 01 02 008 00 Batey Vasca
+09 23 04 01 02 009 00 Hicotea o Los Cocos
+09 23 04 01 02 010 00 La Grúa
+09 23 04 01 02 011 00 Los Higos
+09 23 04 01 02 012 00 Batey Felipa
+09 23 04 01 02 013 00 Batey Catorce (Batey Ceila)
+09 23 04 01 02 014 00 Batey Doña Lila
+09 23 04 01 02 015 00 El Bembe
+09 23 04 01 03 000 00 las callas
+09 23 04 01 03 001 00 Cañada del Negro
+09 23 04 01 03 002 00 Las Callas
+09 23 04 01 03 003 00 Batey Victoria
+09 23 04 01 03 004 00 Los Chicharrones
+09 23 04 01 03 005 00 Batey Consuelito
+09 23 04 01 03 006 00 Arroyo Seco
+09 23 04 01 03 007 00 Batey Experimental
+09 23 04 01 03 008 00 Batey Don Juan
+09 23 04 01 03 009 00 Batey San Luis
+09 23 04 01 03 010 00 Los Platanitos
+09 23 04 01 03 011 00 Rochona
+09 23 04 01 03 012 00 El Block
+09 23 05 00 00 000 00 Quisqueya
+09 23 05 01 00 000 00 Quisqueya
+09 23 05 01 01 000 00 Quisqueya (Zona urbana)
+09 23 05 01 01 001 00 iNVi i
+09 23 05 01 01 001 01 INVI I
+09 23 05 01 01 002 00 iNVi ii
+09 23 05 01 01 002 01 INVI II
+09 23 05 01 01 003 00 la Higuereta
+09 23 05 01 01 003 01 La Higuereta
+09 23 05 01 01 004 00 la loma
+09 23 05 01 01 004 01 La Loma
+09 23 05 01 01 005 00 Punta Brava
+09 23 05 01 01 005 01 Punta Brava
+09 23 05 01 01 005 02 La Cueva
+09 23 05 01 01 006 00 Pueblo Nuevo
+09 23 05 01 01 006 01 Pueblo Nuevo
+09 23 05 01 01 007 00 La Plaza
+09 23 05 01 01 007 01 La Plaza
+09 23 05 01 01 008 00 San carlos
+09 23 05 01 01 008 01 San Carlos
+09 23 05 01 01 008 02 San Carlos Abajo
+09 23 05 01 01 009 00 Placer Bonito
+09 23 05 01 01 009 01 Placer Bonito
+09 23 05 01 01 010 00 Los Chifles
+09 23 05 01 01 010 01 Los Chifles
+09 23 05 01 01 011 00 Villa Bargabina o El Tanque
+09 23 05 01 01 011 01 Villa Bargabina o El Tanque
+09 23 05 01 01 012 00 El Silencio
+09 23 05 01 01 012 01 El Silencio
+09 23 05 01 01 012 02 Los Palitos
+09 23 05 01 01 013 00 África
+09 23 05 01 01 013 01 África
+09 23 05 01 01 014 00 Guachupita
+09 23 05 01 01 014 01 Guachupita
+09 23 05 01 01 014 02 Hugamba de Guachupita
+09 23 05 01 01 014 03 Sucio de Guachupita o Villa Hermosa
+09 23 05 01 01 014 04 Proyecto Villa Blanca
+09 23 05 01 01 015 00 Villa Verde i
+09 23 05 01 01 015 01 Villa Verde I
+09 23 05 01 01 016 00 Villa Verde ii
+09 23 05 01 01 016 01 Villa Verde II
+09 23 05 01 02 000 00 Pajarito
+09 23 05 01 02 001 00 Pajarito
+09 23 05 01 02 002 00 Batey Taíno (Higuamo I)
+09 23 05 01 02 003 00 La Banca
+09 23 05 01 03 000 00 los Montes
+09 23 05 01 03 001 00 Higuamo
+09 23 05 01 03 002 00 Monte Largo
+09 23 05 01 03 003 00 Los Montes
+09 23 05 01 03 004 00 Batey Higuamo II
+09 23 05 01 04 000 00 Zorra Buena
+09 23 05 01 04 001 00 La Ceiba
+09 23 05 01 04 002 00 Moruno del Guano
+09 23 05 01 04 003 00 Honduras
+09 23 05 01 04 004 00 La Griega
+09 23 05 01 04 005 00 Zorra Buena
+09 23 05 01 05 000 00 Caonabo (Batey Siria)
+09 23 05 01 05 001 00 Batey Moruno de Quisqueya
+09 23 05 01 05 002 00 Caonabo (Batey Siria)
+09 23 05 01 05 003 00 Batey Marién (Higuamo Tres)
+09 23 05 01 06 000 00 Malulani
+09 23 05 01 06 001 00 Batey Algodón
+09 23 05 01 06 002 00 Malulani
+09 23 05 01 06 003 00 Iguaniona (Muelle de Quisqueya)
+09 23 05 01 07 000 00 los Montones
+09 23 05 01 07 001 00 Los Montones
+09 23 05 01 07 002 00 Mata Caliche
+09 23 05 01 07 003 00 Barbadillo
+09 23 05 01 07 004 00 Batey Los Medina
+09 23 05 01 07 005 00 La Jagua
+09 23 05 01 07 006 00 Las Mercedes
+09 23 05 01 07 007 00 Los Fundos
+09 23 05 01 07 008 00 Palmarito
+09 23 06 00 00 000 00 Guayacanes
+09 23 06 01 00 000 00 Guayacanes
+09 23 06 01 01 000 00 Guayacanes (Zona urbana)
+09 23 06 01 01 001 00 Guayacanes
+09 23 06 01 01 001 01 Guayacanes
+09 23 06 01 02 000 00 El Conuco
+09 23 06 01 02 001 00 Banco de Arena
+09 23 06 01 02 002 00 El Conuco
+09 23 06 01 02 003 00 Juan Dolio
+09 23 06 01 02 004 00 Villa del Mar
+09 23 06 01 02 005 00 La Habitación
+09 23 06 01 02 006 00 El Callito o El Caimito
+09 23 06 01 02 007 00 La Tumba
+09 23 06 01 02 008 00 Cruce de Cayacoa
+09 23 06 01 02 009 00 Batey La Fe
+09 23 06 01 02 010 00 Batey 5
+09 23 06 01 02 011 00 El Higüero
+09 23 06 01 03 000 00 La Punta
+09 23 06 01 03 001 00 Las Cabuyas
+09 23 06 01 03 002 00 Batey Dos
+09 23 06 01 03 003 00 Honduras
+09 23 06 01 03 004 00 Hoyo del Toro
+09 23 06 01 03 005 00 Los Solares (Ant. Juan Pedro)
+09 23 06 01 03 006 00 Los Solares I (Ant. Juan Eugenio-La Jaja)

@@ -4,6 +4,7 @@ from typing import Any
 
 from fastapi import APIRouter, Request
 
+from rd_territorial_system.api.catalog_metadata import inject_catalog_version  # 👈 NUEVO
 from rd_territorial_system.api.errors import raise_for_strict_result
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
@@ -49,7 +50,6 @@ def enrich_resolve_payload(
     return payload
 
 
-# 🔥 NUEVO: inferir tipo de resultado
 def infer_result_type(payload: dict[str, Any]) -> str:
     entity = payload.get("entity")
     candidates = payload.get("candidates", [])
@@ -104,10 +104,10 @@ def resolve(payload: ResolveRequest, request: Request) -> ResolveResponse:
             )
         )
     except Exception:
-        # 🔒 nunca romper endpoint por métricas
         pass
 
     if payload.strict:
         raise_for_strict_result(result)
 
-    return result
+    # 👇 INYECCIÓN FINAL (ÚNICO CAMBIO REAL)
+    return inject_catalog_version(result)

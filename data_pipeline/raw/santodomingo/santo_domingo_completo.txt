@@ -1,0 +1,1152 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+10 32 00 00 00 000 00 Santo Domingo
+10 32 01 00 00 000 00 Santo Domingo Este
+10 32 01 01 00 000 00 Santo Domingo Este
+10 32 01 01 01 000 00 Santo Domingo Este (Zona urbana)
+10 32 01 01 01 001 00 Villa Duarte
+10 32 01 01 01 001 01 Calero
+10 32 01 01 01 001 02 Pueblo Nuevo
+10 32 01 01 01 001 03 Simonico
+10 32 01 01 01 001 04 Los Molinos
+10 32 01 01 01 001 05 Monumento a la Caña
+10 32 01 01 01 001 06 Maquiteria
+10 32 01 01 01 001 07 Villa Duarte Viejo o La Francia
+10 32 01 01 01 002 00 Ensanche Ozama
+10 32 01 01 01 002 01 Ensanche Ozama
+10 32 01 01 01 002 02 Molinuevo
+10 32 01 01 01 002 03 El Dique
+10 32 01 01 01 002 04 Oxígeno
+10 32 01 01 01 002 05 Ramón Matías Mella (Lengua Azul)
+10 32 01 01 01 003 00 los Mina Norte
+10 32 01 01 01 003 01 Los Cartones o  San Pablo II
+10 32 01 01 01 003 02 Las Frutas
+10 32 01 01 01 003 03 Puerto Rico
+10 32 01 01 01 003 04 Katanga
+10 32 01 01 01 003 05 La Barquita
+10 32 01 01 01 003 06 Vietnam
+10 32 01 01 01 003 07 San Antonio
+10 32 01 01 01 004 00 los Mina Sur
+10 32 01 01 01 004 01 Los Mina Viejo
+10 32 01 01 01 004 02 Los Mina Centro
+10 32 01 01 01 004 03 Las Enfermeras
+10 32 01 01 01 004 04 Ámbar
+10 32 01 01 01 004 05 Pidoca
+10 32 01 01 01 004 06 Ensanche Felicidad
+10 32 01 01 01 004 07 La Milagrosa
+10 32 01 01 01 004 08 El INVI
+10 32 01 01 01 004 09 Los Barrancones
+10 32 01 01 01 005 00 alma rosa
+10 32 01 01 01 005 01 Jardines de Alma Rosa
+10 32 01 01 01 005 02 Reparto Patria Mella o El Hoyo
+10 32 01 01 01 005 03 Alma Rosa II
+10 32 01 01 01 005 04 Reparto Alma Rosa
+10 32 01 01 01 005 05 Alma Rosa I
+10 32 01 01 01 005 06 El Rosal
+10 32 01 01 01 006 00 Las Américas
+10 32 01 01 01 006 01 Las Américas
+10 32 01 01 01 006 02 Villa Olímpica
+10 32 01 01 01 007 00 Sans Soucí
+10 32 01 01 01 007 01 Sans Soucí
+10 32 01 01 01 008 00 Los Tres Brazos-Jardines del Ozama
+10 32 01 01 01 008 01 Los Tres Brazos-Jardines del Ozama
+10 32 01 01 01 008 02 Génesis
+10 32 01 01 01 008 03 Cerros del Ozama
+10 32 01 01 01 008 04 Ramón Matías Mella
+10 32 01 01 01 008 05 Moisés
+10 32 01 01 01 008 06 Jardines del Ozama I
+10 32 01 01 01 008 07 Jardines del Ozama II
+10 32 01 01 01 008 08 Las Lilas
+10 32 01 01 01 008 09 Los Multi
+10 32 01 01 01 008 10 Ribera del Ozama
+10 32 01 01 01 008 11 Canta la Rana o Santo Tomás de Aquino
+10 32 01 01 01 008 12 Mil Flores
+10 32 01 01 01 008 13 Francisco del Rosario Sánchez
+10 32 01 01 01 008 14 Mirador del Ozama
+10 32 01 01 01 009 00 Faro a Colón
+10 32 01 01 01 009 01 Residencial Flor del Faro
+10 32 01 01 01 009 02 Parque del Este Ill
+10 32 01 01 01 009 03 Mirador del Este
+10 32 01 01 01 009 04 Parque del Este I
+10 32 01 01 01 009 05 Boulevard del Faro
+10 32 01 01 01 009 06 La Tablita
+10 32 01 01 01 010 00 los Mameyes
+10 32 01 01 01 010 01 Los Mameyes
+10 32 01 01 01 010 02 Parque del Este Il
+10 32 01 01 01 010 03 Urbanización Brisas del Mar
+10 32 01 01 01 010 04 Los Coquitos
+10 32 01 01 01 010 05 Residencial Acuario
+10 32 01 01 01 010 06 Residencial Mar Azul
+10 32 01 01 01 011 00 isabelita
+10 32 01 01 01 011 01 Los Farallones
+10 32 01 01 01 011 02 Urbanización Antare
+10 32 01 01 01 011 03 Isabelita I
+10 32 01 01 01 011 04 Ensanche Isabelita II
+10 32 01 01 01 012 00 Los Tres Ojos
+10 32 01 01 01 012 01 Los Tres Ojos
+10 32 01 01 01 012 02 Paraíso Oriental
+10 32 01 01 01 012 03 Residencial Madelyn I
+10 32 01 01 01 012 04 Urbanización Franconia
+10 32 01 01 01 012 05 Residencial Los Tres Ojos
+10 32 01 01 01 012 06 Residencial Los ángeles
+10 32 01 01 01 012 07 Reparto Los Tres Ojos
+10 32 01 01 01 013 00 Villa Faro
+10 32 01 01 01 013 01 Villa Faro
+10 32 01 01 01 013 02 Urbanización Italia
+10 32 01 01 01 013 03 Savica
+10 32 01 01 01 013 04 Ralma
+10 32 01 01 01 013 05 Urbanización Capotillo
+10 32 01 01 01 013 06 El Chucho
+10 32 01 01 01 013 07 Anacaona
+10 32 01 01 01 013 08 Urbanización Los Alpes II
+10 32 01 01 01 013 09 Urbanización Marlín o Higüey
+10 32 01 01 01 013 10 Savica Lotería I y II
+10 32 01 01 01 013 11 Residencial Nuevo Sol Naciente
+10 32 01 01 01 013 12 Vecinos Unidos
+10 32 01 01 01 013 13 Residencial Amanda I
+10 32 01 01 01 013 14 Residencial Amanda II
+10 32 01 01 01 013 15 Residencial Oasis
+10 32 01 01 01 013 16 La Esperanza o Villa Esperanza
+10 32 01 01 01 013 17 Savica Principal
+10 32 01 01 01 013 18 Villa María Mercedes
+10 32 01 01 01 013 19 Residencial Mendoza II
+10 32 01 01 01 013 20 Tito III
+10 32 01 01 01 014 00 Mendoza
+10 32 01 01 01 014 01 Mendoza
+10 32 01 01 01 014 02 Las Palmas de Alma Rosa
+10 32 01 01 01 014 03 Mi Hogar
+10 32 01 01 01 014 04 Urbanización El Brisal
+10 32 01 01 01 014 05 Urbanización Hamarap
+10 32 01 01 01 014 06 Urbanización Carolina
+10 32 01 01 01 014 07 Residencial del Este
+10 32 01 01 01 014 08 Cancino
+10 32 01 01 01 015 00 Cancino
+10 32 01 01 01 015 01 Altos de Cancino
+10 32 01 01 01 015 02 Residencial Amapola
+10 32 01 01 01 015 03 Vista Hermosa
+10 32 01 01 01 015 04 Colina del Este
+10 32 01 01 01 015 05 Urbanización Real Cancino
+10 32 01 01 01 015 06 Urbanización Lucerna
+10 32 01 01 01 015 07 Prados del Cachón
+10 32 01 01 01 015 08 Residencial Idalia
+10 32 01 01 01 015 09 Residencial Oriente
+10 32 01 01 01 015 10 Residencial Lomisa
+10 32 01 01 01 015 11 Cabirma del Este
+10 32 01 01 01 016 00 los trinitarios
+10 32 01 01 01 016 01 Los Trinitarios
+10 32 01 01 01 016 02 Cancino I
+10 32 01 01 01 016 03 Cancino II
+10 32 01 01 01 016 04 Luz de Luna
+10 32 01 01 01 016 05 Juan Pablo Duarte
+10 32 01 01 01 016 06 Narcisa
+10 32 01 01 01 016 07 Urbanización Sol Naciente
+10 32 01 01 01 016 08 Urbanización Isabel
+10 32 01 01 01 016 09 Mi Sueño
+10 32 01 01 01 016 10 Las Estrellas
+10 32 01 01 01 016 11 Residencial Oriente
+10 32 01 01 01 016 12 Residencial Bello Campo
+10 32 01 01 01 016 13 Mandinga
+10 32 01 01 01 016 14 Residencial Inés o Villa Faro
+10 32 01 01 01 016 15 Los Alpes
+10 32 01 01 01 016 16 La Campana
+10 32 01 01 01 016 17 Residencial Arcoiris
+10 32 01 01 01 017 00 El Cachón de la Rubia
+10 32 01 01 01 017 01 El Cachón de la Rubia
+10 32 01 01 01 017 02 Residencial Don Oscar
+10 32 01 01 01 018 00 Cancino Afuera
+10 32 01 01 01 018 01 Cancino Afuera
+10 32 01 01 01 018 02 Belleza de Los Altos o Residencial Don Miguel
+10 32 01 01 01 018 03 Canaán
+10 32 01 01 01 019 00 Cancino Adentro
+10 32 01 01 01 019 01 Cancino Adentro
+10 32 01 01 01 019 02 Paraíso
+10 32 01 01 01 020 00 El tamarindo
+10 32 01 01 01 020 01 El Tamarindo
+10 32 01 01 01 020 02 Real Tamarindo o Los Rosales
+10 32 01 01 01 020 03 Urbanización Flor del Tamarindo
+10 32 01 01 01 020 04 John F. Kennedy
+10 32 01 01 01 020 05 Margara
+10 32 01 01 01 020 06 Residencial Paseo de las Rosas
+10 32 01 01 01 020 07 Tamarindo Adentro
+10 32 01 01 01 020 08 Villa Tropicalia
+10 32 01 01 01 020 09 Perla Antillana
+10 32 01 01 01 020 10 Villa Liberación
+10 32 01 01 01 020 11 Proyecto José Francisco Peña Gómez
+10 32 01 01 01 020 12 Urbanización Las Acacias
+10 32 01 01 01 020 13 Residencial Rosa del Este
+10 32 01 01 01 021 00 San José de Mendoza
+10 32 01 01 01 021 01 Buenaventura
+10 32 01 01 01 021 02 Brisas de la Charles
+10 32 01 01 01 021 03 Residencial Reyoli
+10 32 01 01 01 021 04 Residencial Nancy Nabesha
+10 32 01 01 01 021 05 Residencial Clarinel
+10 32 01 01 01 021 06 Residencial Monti I
+10 32 01 01 01 021 07 Residencial María Salomé
+10 32 01 01 01 021 08 Los Coquitos
+10 32 01 01 01 021 09 Brisas de Mendoza
+10 32 01 01 01 022 00 Prado Oriental
+10 32 01 01 01 022 01 Residencial Altagracia II
+10 32 01 01 01 022 02 Prado Oriental I
+10 32 01 01 01 022 03 Prado Oriental II
+10 32 01 01 01 022 04 Prado Oriental III
+10 32 01 01 01 022 05 Residencial Radiante Amanecer
+10 32 01 01 01 022 06 Residencial Los Maestros
+10 32 01 01 01 022 07 M.O I
+10 32 01 01 01 022 08 M.O Il
+10 32 01 01 01 022 09 Residencial Los Leones
+10 32 01 01 01 023 00 Brisa Oriental
+10 32 01 01 01 023 01 Residencial Altagracia I
+10 32 01 01 01 023 02 Residencial Brisa Oriental I
+10 32 01 01 01 023 03 Residencial Brisa Oriental II
+10 32 01 01 01 023 04 Residencial Brisa Oriental III
+10 32 01 01 01 023 05 Residencial Brisa Oriental IV
+10 32 01 01 01 023 06 Residencial Brisa Oriental V
+10 32 01 01 01 023 07 Residencial Brisa Oriental VI
+10 32 01 01 01 023 08 Residencial Brisa Oriental VII
+10 32 01 01 01 024 00 Juan López
+10 32 01 01 01 024 01 Residencial La Moneda
+10 32 01 01 01 024 02 Residencial Los Triunfadores
+10 32 01 01 01 024 03 Residencial Regina
+10 32 01 01 01 024 04 Residencial Nuevo Amanecer
+10 32 01 01 01 024 05 Residencial Josué
+10 32 01 01 01 024 06 Residencial Praderas Oriental
+10 32 01 01 01 024 07 Residencial Amarilis III
+10 32 01 01 01 024 08 Residencial Amarilis IV
+10 32 01 01 01 024 09 Residencial Mirador del Este
+10 32 01 01 01 025 00 Hainamosa
+10 32 01 01 01 025 01 Hainamosa
+10 32 01 01 01 025 02 Respaldo Villa Carmen
+10 32 01 01 01 025 03 Mendoza
+10 32 01 01 01 025 04 Invivienda
+10 32 01 01 01 025 05 Villa Esperanza
+10 32 01 01 01 025 06 Ciudad de los Trabajadores
+10 32 01 01 01 025 07 Eugenio María de Hostos
+10 32 01 01 01 025 08 Los Trinitarios II
+10 32 01 01 01 025 09 ISSFAPOL
+10 32 01 01 01 025 10 Los Molinos
+10 32 01 01 01 025 11 Villa Carmen
+10 32 01 01 01 025 12 INVIMOSA
+10 32 01 01 01 025 13 Ana Teresa Balaguer
+10 32 01 01 01 025 14 Los Pinos
+10 32 01 01 01 025 15 Zona Franca de Hainamosa
+10 32 01 01 01 025 16 INVI CEA
+10 32 01 01 01 026 00 El almirante
+10 32 01 01 01 026 01 Ciudad del Almirante
+10 32 01 01 01 026 02 Batey Monserrat
+10 32 01 01 01 026 03 La Corporanea
+10 32 01 01 01 026 04 Almirante II o Los Solares
+10 32 01 01 01 026 05 Las Toronjas
+10 32 01 01 01 026 06 El Progreso
+10 32 01 01 01 026 07 Villa Esfuerzo
+10 32 01 01 01 026 08 El Mango
+10 32 01 01 01 026 09 La Caña
+10 32 01 01 01 026 10 Las Enfermeras
+10 32 01 01 01 026 11 Los Restauradores
+10 32 01 01 01 026 12 John F. Kennedy
+10 32 01 01 01 026 13 Ramón Matías Mella
+10 32 01 01 01 026 14 Urbanización Buenaventura
+10 32 01 01 01 026 15 Residencial Los Corales
+10 32 01 01 01 026 16 Brisas del Este
+10 32 01 01 01 027 00 Los Frailes
+10 32 01 01 01 027 01 Los Frailes
+10 32 01 01 01 027 02 Urbanización Marbella III
+10 32 01 01 01 027 03 Nuevo
+10 32 01 01 01 027 04 Los Frailes II
+10 32 01 01 01 027 05 Kilómetro 11
+10 32 01 01 01 027 06 San Bartolo
+10 32 01 01 01 027 07 Residencial Las Américas
+10 32 01 01 01 027 08 Kilómetro 12
+10 32 01 01 01 027 09 Respaldo Caribe o San Bartolo
+10 32 01 01 01 027 10 Francisco del Rosario Sánchez
+10 32 01 01 01 027 11 Los Molinos
+10 32 01 01 01 027 12 Urbanización Argentina
+10 32 01 01 01 027 13 Marbella II
+10 32 01 01 01 027 14 Lotificación del Este
+10 32 01 01 01 027 15 Las Flores
+10 32 01 01 01 027 16 Residencial INVI-DOREX
+10 32 01 01 01 028 00 las canas
+10 32 01 01 01 028 01 Kilómetro 10
+10 32 01 01 01 028 02 Corales del Sur
+10 32 01 01 01 028 03 Tropical del Este
+10 32 01 01 01 028 04 Los Frailes I
+10 32 01 01 01 028 05 Urbanización Arismar
+10 32 01 01 01 028 06 Brisas del Este
+10 32 01 01 01 028 07 Villa Eloisa
+10 32 01 01 02 000 00 Cancino
+10 32 01 01 02 001 00 Cancino Adentro
+10 32 01 01 02 002 00 El Cuatro
+10 32 01 01 03 000 00 Mendoza
+10 32 01 01 03 001 00 Los Paredones
+10 32 01 01 03 002 00 San Miguel
+10 32 01 01 03 003 00 La Grúa
+10 32 01 01 03 004 00 El Valiente
+10 32 01 01 03 005 00 La Ureña
+10 32 01 01 03 006 00 San Isidro Adentro
+10 32 01 02 00 000 00 San Luis (DM)
+10 32 01 02 01 000 00 San Luis (Zona urbana)
+10 32 01 02 01 001 00 San luis
+10 32 01 02 01 001 01 Proyecto Celeste I
+10 32 01 02 01 001 02 La Colonial
+10 32 01 02 01 001 03 Lotificación Caña Linda
+10 32 01 02 01 001 04 El INVI
+10 32 01 02 01 001 05 Agapito Sánchez (La Gallera)
+10 32 01 02 01 001 06 Sabaneta
+10 32 01 02 01 001 07 Bella Vista
+10 32 01 02 01 001 08 Las Flores
+10 32 01 02 01 001 09 Villa Verde
+10 32 01 02 01 001 10 Los Girasoles
+10 32 01 02 01 001 11 Casitas de Madera
+10 32 01 02 01 001 12 El Establo
+10 32 01 02 01 001 13 La Piragua
+10 32 01 02 01 001 14 La Esperanza
+10 32 01 02 01 001 15 La Empanada
+10 32 01 02 01 001 16 Corto Bolo I y II
+10 32 01 02 01 001 17 Villas de San Luis
+10 32 01 02 02 000 00 San isidro
+10 32 01 02 02 001 00 El Bonito
+10 32 01 02 02 002 00 San Isidro Afuera
+10 32 01 02 03 000 00 El Naranjo
+10 32 01 02 03 001 00 Batey El Naranjo
+10 32 01 02 03 002 00 El Puente
+10 32 01 02 03 003 00 El Cabreto
+10 32 01 02 04 000 00 San luis
+10 32 01 02 04 001 00 El Muelle
+10 32 01 02 04 002 00 Piragua
+10 32 02 00 00 000 00 Santo Domingo oeste
+10 32 02 01 00 000 00 Santo Domingo oeste
+10 32 02 01 01 000 00 Santo Domingo Oeste (Zona urbana)
+10 32 02 01 01 001 00 Santo Domingo country club
+10 32 02 01 01 001 01 Santo Domingo Country Club
+10 32 02 01 01 001 02 Nuevo
+10 32 02 01 01 001 03 Muelle de Haina
+10 32 02 01 01 001 04 El Castillo o Manresa Oriental
+10 32 02 01 01 001 05 La Placeta (Las Tres Casitas)
+10 32 02 01 01 001 06 Mirador del Oeste
+10 32 02 01 01 001 07 12 de Haina
+10 32 02 01 01 001 08 Café I, II, III y IV
+10 32 02 01 01 001 09 Flor de Café
+10 32 02 01 01 001 10 Casas de Canaán
+10 32 02 01 01 001 11 El Café Central
+10 32 02 01 01 001 12 Café V y VI
+10 32 02 01 01 001 13 El Café
+10 32 02 01 01 002 00 La Altagracia
+10 32 02 01 01 002 01 La Altagracia
+10 32 02 01 01 002 02 Residencial Santo Domingo
+10 32 02 01 01 002 03 El Café
+10 32 02 01 01 002 04 La Mina
+10 32 02 01 01 002 05 Guajimía
+10 32 02 01 01 002 06 Paraíso
+10 32 02 01 01 002 07 Condominio Santo Domingo
+10 32 02 01 01 003 00 Engombe
+10 32 02 01 01 003 01 Residencial Ivan Guzmán
+10 32 02 01 01 003 02 El Abanico
+10 32 02 01 01 003 03 El Palmar
+10 32 02 01 01 003 04 Colinas de Engombe
+10 32 02 01 01 003 05 Residencial Loyola
+10 32 02 01 01 003 06 Residencial Ureña
+10 32 02 01 01 004 00 la rosa
+10 32 02 01 01 004 01 La Rosa
+10 32 02 01 01 004 02 Respaldo La Rosa
+10 32 02 01 01 004 03 Las Canelas
+10 32 02 01 01 004 04 Las Galaxias
+10 32 02 01 01 004 05 Residencial 27 de Febrero
+10 32 02 01 01 004 06 Los Olivos
+10 32 02 01 01 004 07 Residencial Vanessa
+10 32 02 01 01 005 00 las caobas
+10 32 02 01 01 005 01 Las Caobas
+10 32 02 01 01 005 02 Villa Aura
+10 32 02 01 01 005 03 El Caliche
+10 32 02 01 01 005 04 Residencial Herrera
+10 32 02 01 01 005 05 Urbanización Olimpo
+10 32 02 01 01 005 06 Urbanización Las Palmas
+10 32 02 01 01 006 00 alameda
+10 32 02 01 01 006 01 Alameda
+10 32 02 01 01 006 02 Residencial Michell
+10 32 02 01 01 006 03 Residencial álamo
+10 32 02 01 01 006 04 Leonor I y II
+10 32 02 01 01 006 05 La Venta
+10 32 02 01 01 006 06 Antillano
+10 32 02 01 01 006 07 Villa Peravia
+10 32 02 01 01 006 08 Residencial Alameda
+10 32 02 01 01 006 09 Residencial Don Bolívar
+10 32 02 01 01 006 10 Residencial San Benito
+10 32 02 01 01 007 00 Enriquillo
+10 32 02 01 01 007 01 Enriquillo
+10 32 02 01 01 007 02 Holguín
+10 32 02 01 01 008 00 Buenos Aires de Herrera
+10 32 02 01 01 008 01 Buenos Aires de Herrera
+10 32 02 01 01 008 02 La Hora de Dios
+10 32 02 01 01 009 00 Herrera
+10 32 02 01 01 009 01 Herrera
+10 32 02 01 01 009 02 Las Malvinas
+10 32 02 01 01 009 03 Josué
+10 32 02 01 01 009 04 Urbanización Colinas del Oeste
+10 32 02 01 01 009 05 La Rosa
+10 32 02 01 01 009 06 Luz Divina
+10 32 02 01 01 009 07 Holguín
+10 32 02 01 01 009 08 Paraíso
+10 32 02 01 01 009 09 Libertador
+10 32 02 01 01 009 10 Urbanización Miosotis
+10 32 02 01 01 010 00 Zona Industrial Herrera
+10 32 02 01 01 010 01 Zona Industrial Herrera
+10 32 02 01 01 010 02 Residencial Anacaona
+10 32 02 01 01 011 00 Juan Pablo Duarte
+10 32 02 01 01 011 01 Juan Pablo Duarte
+10 32 02 01 01 011 02 Las Palmas de Herrera
+10 32 02 01 01 012 00 Finca de Engombe
+10 32 02 01 01 012 01 Finca de Engombe
+10 32 02 01 01 013 00 San Miguel
+10 32 02 01 01 013 01 San Miguel
+10 32 02 01 01 013 02 Cristal
+10 32 02 01 01 013 03 Residencial San José
+10 32 02 01 01 013 04 Pueblo Chico
+10 32 02 01 01 013 05 Las Colinas
+10 32 02 01 01 013 06 Villa Naco
+10 32 02 01 01 013 07 Arroyo Bonito
+10 32 02 01 01 013 08 Residencial Alameda Oeste
+10 32 02 01 01 013 09 Bella Colina
+10 32 02 01 01 014 00 Bayona
+10 32 02 01 01 014 01 Bayona
+10 32 02 01 01 014 02 Urbanización Paraíso del Caribe
+10 32 02 01 01 014 03 Proyecto Bisonó
+10 32 02 01 01 014 04 Villa Nazaret
+10 32 02 01 01 014 05 Urbanización Engombe
+10 32 02 01 01 014 06 Urbanización Lorena María
+10 32 02 01 01 014 07 Las Caobitas
+10 32 02 01 01 014 08 Residencial Rosa María
+10 32 02 01 01 014 09 Las Caobas
+10 32 02 01 01 014 10 Jardines de Engombe
+10 32 02 01 01 015 00 Manoguayabo
+10 32 02 01 01 015 01 Manoguayabo
+10 32 02 01 01 015 02 Ciudad Agraria
+10 32 02 01 01 016 00 costa Verde
+10 32 02 01 01 016 01 Costa Verde
+10 32 02 01 01 016 02 Costa Azul
+10 32 02 01 02 000 00 Manoguayabo
+10 32 02 01 02 001 00 La Ciénaga
+10 32 02 01 02 002 00 Caballona
+10 32 02 01 02 003 00 Palavé
+10 32 02 01 02 004 00 Buenas Noches
+10 32 02 01 02 005 00 Hato Nuevo
+10 32 02 01 02 006 00 Bienvenido
+10 32 03 00 00 000 00 Santo Domingo Norte
+10 32 03 01 00 000 00 Santo Domingo Norte
+10 32 03 01 01 000 00 Santo Domingo Norte (Zona urbana)
+10 32 03 01 01 001 00 Villa Mella
+10 32 03 01 01 001 01 Urbanización Eugenio María de Hostos
+10 32 03 01 01 001 02 Villa Nueva
+10 32 03 01 01 001 03 Villa Verde
+10 32 03 01 01 001 04 Valle Hermoso
+10 32 03 01 01 001 05 Villa del Norte o Campechito I
+10 32 03 01 01 001 06 Padre Segura o El Fundo
+10 32 03 01 01 001 07 Urbanización Los Pinos o Villa Marbón
+10 32 03 01 01 001 08 Residencial María 2000
+10 32 03 01 01 001 09 Urbanización Sarah Gabriela
+10 32 03 01 01 001 10 Residencial Paseo del Llano
+10 32 03 01 01 001 11 El Bonito
+10 32 03 01 01 001 12 Monte Adentro
+10 32 03 01 01 001 13 Marañón I
+10 32 03 01 01 001 14 Residencial Carmela
+10 32 03 01 01 001 15 Residencial Bambú III
+10 32 03 01 01 001 16 Residencial Jardines de Genoveva
+10 32 03 01 01 001 17 Vista Bella
+10 32 03 01 01 001 18 Residencial La Jabilla
+10 32 03 01 01 001 19 El Mamey
+10 32 03 01 01 001 20 Ciudad Satélite
+10 32 03 01 01 001 21 Haras Nacionales
+10 32 03 01 01 001 22 Residencial Diego II
+10 32 03 01 01 001 23 Residencial San Felipe
+10 32 03 01 01 001 24 Ensanche Luz y Vida
+10 32 03 01 01 001 25 María Auxiliadora
+10 32 03 01 01 001 26 Villa Jerusalén
+10 32 03 01 01 001 27 Carlos Álvarez
+10 32 03 01 01 001 28 Paraíso
+10 32 03 01 01 001 29 Los Arquéanos
+10 32 03 01 01 001 30 Urbanización El Remanso
+10 32 03 01 01 001 31 Quilombo
+10 32 03 01 01 001 32 Reparto Villa María
+10 32 03 01 01 001 33 Marañón II
+10 32 03 01 01 001 34 Villa Martina
+10 32 03 01 01 001 35 Residencial Mayagui
+10 32 03 01 01 001 36 Residencial Palmares de Haras
+10 32 03 01 01 001 37 Mata los Indios
+10 32 03 01 01 001 38 Residencial Maribel
+10 32 03 01 01 002 00 Santa cruz
+10 32 03 01 01 002 01 Santa Cruz
+10 32 03 01 01 002 02 Las Malvinas
+10 32 03 01 01 002 03 Residencial Máximo Gómez
+10 32 03 01 01 002 04 Cachimán
+10 32 03 01 01 002 05 Zona Industrial La Isabela
+10 32 03 01 01 002 06 Altos de Sol de Luz
+10 32 03 01 01 002 07 Cerros de Buena Vista I
+10 32 03 01 01 002 08 Residencial Jardines de Buena Vista
+10 32 03 01 01 002 09 Radiante
+10 32 03 01 01 002 10 Cerros de Buena Vista II
+10 32 03 01 01 002 11 Campamento Militar
+10 32 03 01 01 002 12 Sol de Luz
+10 32 03 01 01 002 13 Zona Franca Industrial de Villa Mella
+10 32 03 01 01 003 00 Sabana Perdida
+10 32 03 01 01 003 01 La Jabilla
+10 32 03 01 01 003 02 La Barquita
+10 32 03 01 01 003 03 Los Manguitos
+10 32 03 01 01 003 04 Los Coordinadores
+10 32 03 01 01 003 05 Residencial Sara Gabriela
+10 32 03 01 01 003 06 Moscú
+10 32 03 01 01 003 07 2 de Enero
+10 32 03 01 01 003 08 Las Colinas del Ozama
+10 32 03 01 01 003 09 Cerros de Sabana Perdida
+10 32 03 01 01 003 10 Barceló
+10 32 03 01 01 003 11 Costa Linda
+10 32 03 01 01 003 12 INVI
+10 32 03 01 01 003 13 La Cucaracha
+10 32 03 01 01 003 14 Altos de Sabana
+10 32 03 01 01 003 15 Ensanche Cristal
+10 32 03 01 01 003 16 Salome Ureña
+10 32 03 01 01 003 17 Villa Blanca I
+10 32 03 01 01 003 18 Villa Blanca II
+10 32 03 01 01 003 19 El Cachón
+10 32 03 01 01 003 20 Villa Emilia
+10 32 03 01 01 003 21 Luis Manuel Caraballo
+10 32 03 01 01 003 22 Monterey
+10 32 03 01 01 003 23 Residencial Elio Franco
+10 32 03 01 01 003 24 Altagracia I
+10 32 03 01 01 003 25 Altagracia II
+10 32 03 01 01 003 26 Sabana Centro
+10 32 03 01 01 003 27 La Lotería
+10 32 03 01 01 003 28 Enriquillo
+10 32 03 01 01 003 29 La Libertad
+10 32 03 01 01 003 30 La Restauración
+10 32 03 01 01 003 31 Los Palmares I
+10 32 03 01 01 003 32 Los Palmares II
+10 32 03 01 01 003 33 Residencial Pinar del Norte
+10 32 03 01 01 003 34 Residencial Marañón
+10 32 03 01 01 003 35 Residencial Claribel
+10 32 03 01 01 003 36 Urbanización Los Pinos
+10 32 03 01 01 003 37 Residencial Charles de Gaulle
+10 32 03 01 01 003 38 Campechito II
+10 32 03 01 01 003 39 La Esperanza
+10 32 03 01 01 003 40 La Jabilla
+10 32 03 01 01 003 41 Cruz Grande
+10 32 03 01 01 003 42 Residencial Elsa Patricia
+10 32 03 01 01 003 43 Brisas del Este
+10 32 03 01 01 003 44 Lotes y Servicios
+10 32 03 01 01 003 45 El Majagual
+10 32 03 01 01 003 46 Las Antillas (Lotes y Servicios II)
+10 32 03 01 01 003 47 El Milloncito I
+10 32 03 01 01 003 48 El Milloncito II
+10 32 03 01 01 003 49 Nuevo
+10 32 03 01 01 003 50 Los Cerros del Yuca
+10 32 03 01 01 003 51 Villa Pompa
+10 32 03 01 01 003 52 Villa Esperanza I
+10 32 03 01 01 003 53 Villa Esperanza II
+10 32 03 01 01 003 54 Residencial Noelia
+10 32 03 01 01 003 55 Villa Germán
+10 32 03 01 01 003 56 Altos de Chavón
+10 32 03 01 01 003 57 Las Colinas
+10 32 03 01 01 003 58 Los Pinos
+10 32 03 01 01 003 59 Villa Morada
+10 32 03 01 01 003 60 Agrario
+10 32 03 01 01 003 61 Miraflores
+10 32 03 01 01 003 62 La Mina
+10 32 03 01 01 003 63 Brisa de Los Palmares
+10 32 03 01 01 003 64 Progreso
+10 32 03 01 01 003 65 Marañón
+10 32 03 01 01 003 66 Bello Amanecer
+10 32 03 01 01 003 67 Urbanización Cerros del Paraíso
+10 32 03 01 01 003 68 Residencial sin nombre en construcción
+10 32 03 01 01 003 69 Nuevo
+10 32 03 01 01 003 70 Brisas del Ozama
+10 32 03 01 01 003 71 Altos de los Cerros
+10 32 03 01 01 004 00 El Edén
+10 32 03 01 01 004 01 El Edén
+10 32 03 01 01 004 02 Respaldo El Edén
+10 32 03 01 01 004 03 Cerros del Edén
+10 32 03 01 01 004 04 Colinas del Edén
+10 32 03 01 01 004 05 Ceuta
+10 32 03 01 01 004 06 Residencial Micón
+10 32 03 01 01 004 07 Colinas del Edén III
+10 32 03 01 01 004 08 Villa Hermosa
+10 32 03 01 01 004 09 Villa Laura
+10 32 03 01 01 004 10 Residencial Rumina
+10 32 03 01 01 004 11 Residencial El Paso
+10 32 03 01 01 004 12 El Morro
+10 32 03 01 01 004 13 Residencial Las Palmeras
+10 32 03 01 01 004 14 La Antena
+10 32 03 01 01 005 00 Guaricano
+10 32 03 01 01 005 01 Guaricano Central
+10 32 03 01 01 005 02 Colinas del Arroyo II
+10 32 03 01 01 005 03 El Batey
+10 32 03 01 01 005 04 26 de Enero
+10 32 03 01 01 005 05 Ciudad Modelo o Satélite
+10 32 03 01 01 005 06 La Mina
+10 32 03 01 01 005 07 La Esperanza
+10 32 03 01 01 005 08 José Francisco Peña Gómez
+10 32 03 01 01 005 09 Hermanas Mirabal
+10 32 03 01 01 005 10 Mirador Norte
+10 32 03 01 01 005 11 Ponce
+10 32 03 01 01 005 12 Brisa del Norte o Ponce
+10 32 03 01 01 005 13 Las Palmeras
+10 32 03 01 01 005 14 Altos del Parque
+10 32 03 01 01 005 15 Parque Mirador Norte
+10 32 03 01 01 005 16 Colinas del Arroyo
+10 32 03 01 01 005 17 Mirador Isabela o El Dorado
+10 32 03 01 01 005 18 Urbanización Primaveral
+10 32 03 01 01 005 19 Residencial Colonia de los Doctores
+10 32 03 01 01 005 20 Tamarindo
+10 32 03 01 01 005 21 La Torre o Imbert
+10 32 03 01 01 005 22 El Fundo o Casa Vieja
+10 32 03 01 01 005 23 Santa Cruz
+10 32 03 01 01 005 24 La Esperanza o Moscú
+10 32 03 01 01 005 25 Norte
+10 32 03 01 01 005 26 Nueva Isabela
+10 32 03 01 01 005 27 Paseo del Parque o Villa María
+10 32 03 01 01 005 28 Los Conucos o Los Caciques
+10 32 03 01 01 005 29 Vista del Parque
+10 32 03 01 01 005 30 Urbanización Santa Cruz
+10 32 03 01 01 005 31 Roberto Suriel
+10 32 03 01 01 005 32 Nueva América
+10 32 03 01 01 005 33 Cerros del Norte
+10 32 03 01 01 005 34 Nuevo
+10 32 03 01 01 005 35 Residencial Maribel I
+10 32 03 01 01 005 36 Urbanización la Carpa
+10 32 03 01 01 005 37 Residencial Gran Vereda
+10 32 03 01 01 005 38 Residencial Villa del Parque II-A
+10 32 03 01 01 005 39 Residencial Ciudad de los Jardines
+10 32 03 01 01 005 40 Residencial Mira Valle
+10 32 03 01 01 006 00 San Felipe
+10 32 03 01 01 006 01 San Felipe
+10 32 03 01 01 006 02 La Esperanza
+10 32 03 01 01 006 03 Las Flores
+10 32 03 01 01 006 04 La Paz o La China
+10 32 03 01 01 006 05 Canaán I
+10 32 03 01 01 006 06 Canaán II
+10 32 03 01 01 006 07 Paraíso
+10 32 03 01 01 006 08 Mata Los Indios
+10 32 03 01 01 006 09 Urbanización Sol
+10 32 03 01 01 006 10 Vietnam
+10 32 03 01 01 006 11 Urbanización San Felipe
+10 32 03 01 01 006 12 Residencial Diómedes
+10 32 03 01 01 006 13 Punta
+10 32 03 01 01 006 14 Residencial Las Auroras
+10 32 03 01 01 006 15 El Play
+10 32 03 01 02 000 00 Licey
+10 32 03 01 02 001 00 Licey
+10 32 03 01 02 002 00 Mancebo
+10 32 03 01 02 003 00 Mata Gorda
+10 32 03 01 02 004 00 Mata San Juan
+10 32 03 01 02 005 00 Limonal
+10 32 03 01 02 006 00 Punta
+10 32 03 01 02 007 00 Cercadillo
+10 32 03 01 03 000 00 Sierra Prieta
+10 32 03 01 03 001 00 Sierra Prieta
+10 32 03 01 03 002 00 Los Vizcaíno
+10 32 03 01 03 003 00 Buenos Aires
+10 32 03 01 03 004 00 Hoyos Oscuros
+10 32 03 01 03 005 00 Kilómetro 26
+10 32 03 01 03 006 00 Jubileo
+10 32 03 01 03 007 00 Juan Dinga
+10 32 03 01 04 000 00 Duquesa
+10 32 03 01 04 001 00 Duquesa
+10 32 03 01 04 002 00 La Jacagua
+10 32 03 01 04 003 00 Los Cazabes
+10 32 03 01 05 000 00 Higüero
+10 32 03 01 05 001 00 Higüero Abajo
+10 32 03 01 05 002 00 Cajuilito
+10 32 03 01 05 003 00 La Sabana del Hato
+10 32 03 01 05 004 00 La Gina
+10 32 03 01 05 005 00 Los Llanos
+10 32 03 01 05 006 00 Rincón Yaco
+10 32 03 01 06 000 00 la Jagua
+10 32 03 01 06 001 00 La Jagua
+10 32 03 01 06 002 00 Loma de Mateo
+10 32 03 01 06 003 00 La Joya o Los Goya
+10 32 03 01 06 004 00 Los Callejones
+10 32 03 01 06 005 00 Los Mameyes
+10 32 03 01 06 006 00 Amor a Dios
+10 32 03 01 06 007 00 Los Cocos
+10 32 03 01 06 008 00 Los Peralejos
+10 32 03 01 06 009 00 Rincón
+10 32 03 02 00 000 00 La Victoria (DM)
+10 32 03 02 01 000 00 La Victoria (Zona urbana)
+10 32 03 02 01 001 00 La Victoria
+10 32 03 02 01 001 01 La Victoria
+10 32 03 02 01 001 02 Los Guandules
+10 32 03 02 01 001 03 Gualey
+10 32 03 02 01 001 04 Los Militares
+10 32 03 02 01 001 05 La Cacata o La Unión
+10 32 03 02 01 001 06 La Vuelta
+10 32 03 02 01 001 07 Las Cañitas
+10 32 03 02 01 001 08 Los Solanos
+10 32 03 02 01 001 09 Los Mañones
+10 32 03 02 01 001 10 Los Redimidos
+10 32 03 02 02 000 00 Mal Nombre
+10 32 03 02 02 001 00 Mal Nombre
+10 32 03 02 02 002 00 Punta Larga
+10 32 03 02 02 003 00 Maricao
+10 32 03 02 02 004 00 El Dajao
+10 32 03 02 02 005 00 La Caoba
+10 32 03 02 02 006 00 Palmilla
+10 32 03 02 02 007 00 Primavera
+10 32 03 02 02 008 00 El Corozo
+10 32 03 02 02 009 00 Juan Tomás
+10 32 03 02 02 010 00 El Jobo
+10 32 03 02 03 000 00 la Virgen
+10 32 03 02 03 001 00 La Virgen
+10 32 03 02 03 002 00 San Joaquín
+10 32 03 02 03 003 00 Verdúm
+10 32 03 02 03 004 00 Ferregús
+10 32 03 02 03 005 00 La Culata
+10 32 03 02 04 000 00 Mata Mamón
+10 32 03 02 04 001 00 Mata Mamón
+10 32 03 02 04 002 00 San Mateo
+10 32 03 02 04 003 00 La Guabina
+10 32 03 02 04 004 00 Los Tapia (El Ocho)
+10 32 03 02 04 005 00 Los Potrazos
+10 32 03 02 04 006 00 Rincón Dorado
+10 32 03 02 04 007 00 Los Rosario
+10 32 03 02 04 008 00 Los Genaro
+10 32 03 02 04 009 00 El Siete
+10 32 03 02 04 010 00 Cabón
+10 32 03 02 04 011 00 Santana
+10 32 03 02 04 012 00 Aguacate Adentro
+10 32 03 02 04 013 00 El Higüerito
+10 32 03 02 04 014 00 El Ocho
+10 32 03 02 05 000 00 La Bomba
+10 32 03 02 05 001 00 La Bomba
+10 32 03 02 05 002 00 Guayabo
+10 32 03 02 06 000 00 Guanuma
+10 32 03 02 06 001 00 Batey Guanuma
+10 32 03 02 06 002 00 Mata Redonda
+10 32 03 02 06 003 00 La Gina (La Tita)
+10 32 03 02 06 004 00 El Hato de Sanguíneo
+10 32 03 02 07 000 00 Hacienda Estrella
+10 32 03 02 07 001 00 Hacienda Estrella
+10 32 03 02 07 002 00 El 11 de Hacienda Estrella
+10 32 03 02 07 003 00 San Mateo
+10 32 03 02 07 004 00 El 10 de Hacienda Estrella
+10 32 03 02 07 005 00 La Campaña
+10 32 03 02 07 006 00 Los Morenos
+10 32 03 02 08 000 00 la ceiba
+10 32 03 02 08 001 00 La Ceiba
+10 32 03 02 08 002 00 La Piña
+10 32 03 02 08 003 00 Los Castillos 
+10 32 03 02 08 004 00 Los Mercedes
+10 32 03 02 08 005 00 Los Mambruses
+10 32 03 02 08 006 00 La Jaiba
+10 32 03 02 08 007 00 Rancho Arriba-Cabón
+10 32 03 02 08 008 00 Cruce de Gina
+10 32 04 00 00 000 00 Boca Chica
+10 32 04 01 00 000 00 Boca Chica
+10 32 04 01 01 000 00 Boca Chica (Zona urbana)
+10 32 04 01 01 001 00 Boca Chica
+10 32 04 01 01 001 01 Boca Chica
+10 32 04 01 01 001 02 Los Coquitos
+10 32 04 01 01 001 03 Urbanización Europa
+10 32 04 01 01 001 04 Altos de Chavón
+10 32 04 01 01 001 05 Jardines de Boca Chica
+10 32 04 01 01 001 06 Bella Vista
+10 32 04 01 01 001 07 Altos de Monterrey
+10 32 04 01 01 001 08 Boca Chica Centro
+10 32 04 01 01 001 09 Los Tanquecitos
+10 32 04 01 01 001 10 Monterey (Nuevo)
+10 32 04 01 01 001 11 Cristo Rey
+10 32 04 01 01 001 12 Reparto Ibarra
+10 32 04 01 01 001 13 La Loma
+10 32 04 01 01 002 00 andrés
+10 32 04 01 01 002 01 Andrés
+10 32 04 01 01 002 02 La Bobina
+10 32 04 01 01 002 03 Los Tanquecitos
+10 32 04 01 01 002 04 Las Mercedes
+10 32 04 01 01 002 05 La Libertad
+10 32 04 01 01 002 06 Altagracia
+10 32 04 01 01 002 07 María Estela
+10 32 04 01 01 002 08 Urbanización Brisas del Norte o Los Botados
+10 32 04 01 01 002 09 Respaldo María Estela o Villa Andrés
+10 32 04 01 01 002 10 Sinaí o de Las Américas
+10 32 04 01 01 002 11 INVI CEA
+10 32 04 01 01 002 12 Mi Hogar del Este
+10 32 04 01 01 002 13 El Higo o Brisas
+10 32 04 01 01 002 14 Respaldo El Brisal
+10 32 04 01 01 002 15 Azul o Andrés
+10 32 04 01 01 002 16 Miramar
+10 32 04 01 01 002 17 La Cachaza
+10 32 04 01 01 002 18 Monte Adentro
+10 32 04 01 01 002 19 La Ceiba
+10 32 04 01 01 002 20 El Brisal
+10 32 04 01 01 002 21 San Ramón
+10 32 04 01 01 002 22 Andrés Centro
+10 32 04 01 01 002 23 La Vigía
+10 32 04 01 01 002 24 Guaraguao
+10 32 04 01 02 000 00 Cruce de Boca Chica
+10 32 04 01 02 001 00 Cruce de Boca Chica
+10 32 04 01 02 002 00 El Limón
+10 32 04 01 02 003 00 Kilómetro 36, Carretera Mella
+10 32 04 01 02 004 00 Los Paredones de Andrés
+10 32 04 01 02 005 00 Batey Jubey
+10 32 04 01 03 000 00 la Malena
+10 32 04 01 03 001 00 La Malena
+10 32 04 01 03 002 00 La Cucama
+10 32 04 01 03 003 00 La Tumba
+10 32 04 01 03 004 00 La Ciguapa
+10 32 04 01 03 005 00 La Bocaina
+10 32 04 01 03 006 00 Los Bancos de Arena
+10 32 04 01 03 007 00 La Borda
+10 32 04 02 00 000 00 La Caleta (DM)
+10 32 04 02 01 000 00 La Caleta (Zona urbana)
+10 32 04 02 01 001 00 la caleta
+10 32 04 02 01 001 01 La Caleta
+10 32 04 02 01 001 02 Progreso
+10 32 04 02 01 001 03 El Caliche
+10 32 04 02 01 001 04 La Penca
+10 32 04 02 01 001 05 Monte Adentro
+10 32 04 02 01 001 06 Paraíso
+10 32 04 02 01 001 07 Residencial Panamericano
+10 32 04 02 02 000 00 El Valiente
+10 32 04 02 02 001 00 El Valiente
+10 32 04 02 02 002 00 Torre B
+10 32 04 02 03 000 00 Campo Lindo
+10 32 04 02 03 001 00 Campo Lindo
+10 32 04 02 03 002 00 La Cien Mil-La Piedra
+10 32 04 02 04 000 00 la caleta
+10 32 04 02 04 001 00 Aeropuerto Internacional
+10 32 04 02 04 002 00 El Cachimbo
+10 32 05 00 00 000 00 San antonio de Guerra
+10 32 05 01 00 000 00 San antonio de Guerra
+10 32 05 01 01 000 00 San Antonio de Guerra (Zona urbana)
+10 32 05 01 01 001 00 Guerra centro
+10 32 05 01 01 001 01 Guerra Centro
+10 32 05 01 01 001 02 Guachupita
+10 32 05 01 01 001 03 Ravelo
+10 32 05 01 01 001 04 La Esperanza
+10 32 05 01 01 001 05 V Centenario
+10 32 05 01 01 001 06 La Cancha
+10 32 05 01 01 001 07 INVI
+10 32 05 01 01 001 08 Respaldo La Cancha
+10 32 05 01 01 001 09 Marcos del Rosario
+10 32 05 01 01 001 10 José Francisco Peña Gómez
+10 32 05 01 01 001 11 San Antonio
+10 32 05 01 01 001 12 Los Guandules o Las Mercedes
+10 32 05 01 01 001 13 San José
+10 32 05 01 01 001 14 Residencial San Antonio
+10 32 05 01 01 001 15 Proyecto INVI CEA I
+10 32 05 01 01 001 16 Barrio sin Nombre
+10 32 05 01 02 000 00 El toro
+10 32 05 01 02 001 00 El Toro
+10 32 05 01 02 002 00 La Piedra
+10 32 05 01 02 003 00 El Fao
+10 32 05 01 02 004 00 El Mamón
+10 32 05 01 02 005 00 La Mujarra (Mojarra)
+10 32 05 01 02 006 00 La Corcobada (Corcovada)
+10 32 05 01 02 007 00 El Viso
+10 32 05 01 02 008 00 Concordia
+10 32 05 01 02 009 00 La Filipina
+10 32 05 01 02 010 00 El Mamey
+10 32 05 01 03 000 00 la Joya
+10 32 05 01 03 001 00 La Joya
+10 32 05 01 03 002 00 Los Barreros
+10 32 05 01 03 003 00 La Guama
+10 32 05 01 03 004 00 Mata Barraco
+10 32 05 01 03 005 00 Santa Lucía
+10 32 05 01 03 006 00 Tierra Blanca
+10 32 05 01 03 007 00 El Alto
+10 32 05 01 03 008 00 El Cachón (Los Cachones)
+10 32 05 01 03 009 00 La Batata
+10 32 05 01 03 010 00 El Peje
+10 32 05 01 03 011 00 Ahorca los Perros
+10 32 05 01 04 000 00 Enjuagador
+10 32 05 01 04 001 00 Cruce de Guerra
+10 32 05 01 04 002 00 La Estancia
+10 32 05 01 04 003 00 Bejucal
+10 32 05 01 04 004 00 Los Berroa
+10 32 05 01 04 005 00 La Caoba
+10 32 05 01 04 006 00 El Fao
+10 32 05 01 04 007 00 La Pluma
+10 32 05 01 04 008 00 El Cajuilito
+10 32 05 01 04 009 00 El Coquito
+10 32 05 01 04 010 00 La Culebra
+10 32 05 01 04 011 00 Proyecto Cabreto
+10 32 05 01 05 000 00 Mata de Palma
+10 32 05 01 05 001 00 Los Cocos
+10 32 05 01 05 002 00 Cuenca
+10 32 05 01 05 003 00 La Jagüita
+10 32 05 01 05 004 00 Valentín
+10 32 05 01 05 005 00 Las Parras
+10 32 05 01 05 006 00 La Reforma
+10 32 05 01 05 007 00 El Porrito o Pomito
+10 32 05 01 05 008 00 La Granja
+10 32 05 01 05 009 00 La Barías
+10 32 05 01 05 010 00 Cerro Cabra
+10 32 05 01 05 011 00 El CEA
+10 32 05 01 05 012 00 Santa María
+10 32 05 01 05 013 00 Poco Agua
+10 32 05 01 05 014 00 La Picadora
+10 32 05 01 05 015 00 Capacito
+10 32 05 01 06 000 00 Bella Vista
+10 32 05 01 06 001 00 Bella Vista
+10 32 05 01 06 002 00 Mata Vaca
+10 32 05 01 06 003 00 Los Marenos
+10 32 05 01 06 004 00 La Piña
+10 32 05 02 00 000 00 Hato Viejo (DM)
+10 32 05 02 01 000 00 Estorga (Zona urbana)
+10 32 05 02 01 001 00 Estorga
+10 32 05 02 01 001 01 Estorga
+10 32 05 02 02 000 00 Batey II
+10 32 05 02 02 001 00 Batey II o Hato Viejo II
+10 32 05 02 02 002 00 El Limón
+10 32 05 02 02 003 00 Hato Viejo
+10 32 05 02 02 004 00 La Gina
+10 32 05 02 03 000 00 Kilómetro 36B
+10 32 05 02 03 001 00 Kilómetro 36B
+10 32 05 02 04 000 00 Estorga
+10 32 05 02 04 001 00 Batey Amelia
+10 32 05 02 04 002 00 Mata la Piedra
+10 32 05 02 04 003 00 Juana Jico
+10 32 05 02 04 004 00 La Catalina
+10 32 05 02 04 005 00 Ismael Jiménez o Las Garzas
+10 32 05 02 04 006 00 Los Urbanos
+10 32 05 02 04 007 00 Estorga
+10 32 06 00 00 000 00 Los Alcarrizos
+10 32 06 01 00 000 00 Los Alcarrizos
+10 32 06 01 01 000 00 Los Alcarrizos (Zona urbana)
+10 32 06 01 01 001 00 Savica
+10 32 06 01 01 001 01 Savica
+10 32 06 01 01 002 00 Canta la Rana o Barriolandia
+10 32 06 01 01 002 01 Canta la Rana o Barriolandia
+10 32 06 01 01 002 02 Los Barrancones
+10 32 06 01 01 002 03 El INVI
+10 32 06 01 01 002 04 Obras Públicas
+10 32 06 01 01 003 00 Pueblo Nuevo
+10 32 06 01 01 003 01 Pueblo Nuevo
+10 32 06 01 01 003 02 Puerto Rico
+10 32 06 01 01 003 03 Arenoso
+10 32 06 01 01 003 04 El Progreso
+10 32 06 01 01 003 05 Savica
+10 32 06 01 01 003 06 Guachupita
+10 32 06 01 01 003 07 Alcarrizos Viejo
+10 32 06 01 01 003 08 El Chucho o La Yuca
+10 32 06 01 01 004 00 Las Mercedes
+10 32 06 01 01 004 01 Las Mercedes I
+10 32 06 01 01 004 02 Las Mercedes II
+10 32 06 01 01 005 00 los libertadores
+10 32 06 01 01 005 01 Los Libertadores
+10 32 06 01 01 005 02 24 de Abril
+10 32 06 01 01 006 00 Altos de Chavón
+10 32 06 01 01 006 01 Altos de Chavón
+10 32 06 01 01 007 00 Los Americanos (Los Ángeles)
+10 32 06 01 01 007 01 Los Americanos (Los ángeles)
+10 32 06 01 01 007 02 Los Americanos II
+10 32 06 01 01 007 03 Gran Poder de Dios
+10 32 06 01 01 007 04 Villa San Felipe
+10 32 06 01 01 007 05 Los Patos
+10 32 06 01 01 007 06 Villa Colina
+10 32 06 01 01 007 07 San Miguel
+10 32 06 01 01 008 00 Nuevo Amanecer
+10 32 06 01 01 008 01 Nuevo Amanecer
+10 32 06 01 01 009 00 Nazareno o Manzanero
+10 32 06 01 01 009 01 Nazareno o Manzanero
+10 32 06 01 01 009 02 Nuevos Horizontes
+10 32 06 01 01 010 00 Lebrón
+10 32 06 01 01 010 01 Lebrón
+10 32 06 01 01 010 02 Lebroncito
+10 32 06 01 01 010 03 La Torre
+10 32 06 01 01 011 00 La unión
+10 32 06 01 01 011 01 La Unión
+10 32 06 01 01 011 02 El Tamarindo
+10 32 06 01 01 011 03 La Compuerta
+10 32 06 01 01 011 04 Zona Franca Industrial Los Alcarrizos
+10 32 06 01 01 012 00 La Fe
+10 32 06 01 01 012 01 La Fe
+10 32 06 01 01 012 02 Villa Progreso
+10 32 06 01 01 012 03 La Gloria
+10 32 06 01 01 012 04 Los Coquitos
+10 32 06 01 01 012 05 Los Cocos
+10 32 06 01 01 012 06 Horizonte
+10 32 06 01 01 013 00 La Piña
+10 32 06 01 01 013 01 La Piña
+10 32 06 01 01 013 02 La Piñita
+10 32 06 01 01 013 03 Juana Saltitopa
+10 32 06 01 01 014 00 Valle Encantado
+10 32 06 01 01 014 01 Valle Encantado
+10 32 06 01 01 014 02 Canaán
+10 32 06 01 01 015 00 Residencial Los Cerros
+10 32 06 01 01 015 01 Residencial Los Cerros
+10 32 06 01 01 015 02 Kilómetro 18
+10 32 06 01 01 015 03 Residencial La Gloria
+10 32 06 01 01 016 00 La Esperanza
+10 32 06 01 01 016 01 La Esperanza
+10 32 06 01 01 017 00 Residencial Los Hidalgos
+10 32 06 01 01 017 01 Residencial Los Hidalgos
+10 32 06 01 01 018 00 Paraíso
+10 32 06 01 01 018 01 Paraíso
+10 32 06 01 01 018 02 Urbanización Las Mercedes
+10 32 06 01 02 000 00 Santa rosa
+10 32 06 01 02 001 00 Santa Rosa
+10 32 06 02 00 000 00 Palmarejo-Villa Linda (DM)
+10 32 06 02 01 000 00 Palmarejo Villa Linda (Zona urbana)
+10 32 06 02 01 001 00 Palmarejo
+10 32 06 02 01 001 01 Palmarejo
+10 32 06 02 02 000 00 Palmarejito
+10 32 06 02 02 001 00 Santa Rosa
+10 32 06 02 02 002 00 Palmarejito
+10 32 06 02 03 000 00 Santa Bárbara
+10 32 06 02 03 001 00 Las Flores
+10 32 06 02 03 002 00 Santa Bárbara
+10 32 06 02 04 000 00 Villa linda
+10 32 06 02 04 001 00 Los Coquitos
+10 32 06 02 04 002 00 Cerinca
+10 32 06 02 04 003 00 Villa Linda
+10 32 06 03 00 000 00 Pantoja (DM)
+10 32 06 03 01 000 00 Pantoja (Zona urbana)
+10 32 06 03 01 001 00 Pantoja
+10 32 06 03 01 001 01 Pantoja
+10 32 06 03 01 001 02 Los Humildes
+10 32 06 03 01 001 03 Residencial Prados de Pantoja
+10 32 06 03 01 001 04 Residencial Los Jardines de Pantoja
+10 32 06 03 01 001 05 Residencial Don Gregorio
+10 32 06 03 01 001 06 Residencial Pantoja
+10 32 06 03 01 001 07 Residencial Don Gregorio III
+10 32 06 03 01 001 08 Residencial Carmen Renata I
+10 32 06 03 01 001 09 Residencial Carmen Renata II
+10 32 06 03 01 001 10 Residencial Carmen Renata III
+10 32 06 03 01 001 11 Residencial Rosa America
+10 32 06 03 01 001 12 Residencial Brisa del Norte
+10 32 06 03 01 002 00 urbanización Don Gregorio
+10 32 06 03 01 002 01 Urbanización Don Gregorio
+10 32 06 03 01 002 02 Residencial Punta Arena
+10 32 06 03 01 003 00 Villa El Palmar
+10 32 06 03 01 003 01 Villa El Palmar
+10 32 06 03 01 004 00 urbanización Proyecto INVI-CEA
+10 32 06 03 01 004 01 Urbanización Proyecto INVI-CEA
+10 32 06 03 01 005 00 Villa Morada
+10 32 06 03 01 005 01 Villa Morada
+10 32 06 03 01 006 00 urbanización Villa Pantoja
+10 32 06 03 01 006 01 Urbanización Villa Pantoja
+10 32 06 03 01 007 00 La Redención
+10 32 06 03 01 007 01 La Redención
+10 32 06 03 01 007 02 El Fuiri
+10 32 06 03 01 007 03 Residencial Alan VI
+10 32 06 03 01 007 04 Residencial Ciudad del sol
+10 32 06 03 01 007 05 Los Platanitos
+10 32 06 03 01 008 00 Las Colinas o Los Cocos
+10 32 06 03 01 008 01 Las Colinas o Los Cocos
+10 32 06 03 01 009 00 Pantoja I
+10 32 06 03 01 009 01 Pantoja I
+10 32 06 03 01 010 00 Vista Verde
+10 32 06 03 01 010 01 Vista Verde
+10 32 06 03 01 010 02 Paraiso
+10 32 06 03 01 010 03 Cerro del Oeste
+10 32 06 03 01 011 00 José contreras
+10 32 06 03 01 011 01 José Contreras
+10 32 06 03 01 012 00 Reparto Samaria
+10 32 06 03 01 012 01 Reparto Samaria
+10 32 06 03 01 012 02 Los Almendros
+10 32 06 03 01 013 00 Residencial Don Miguel
+10 32 06 03 01 013 01 Residencial Don Miguel
+10 32 07 00 00 000 00 Pedro Brand
+10 32 07 01 00 000 00 Pedro Brand
+10 32 07 01 01 000 00 Pedro Brand (Zona urbana)
+10 32 07 01 01 001 00 Pedro Brand
+10 32 07 01 01 001 01 Azul
+10 32 07 01 01 001 02 Mejoramiento Social
+10 32 07 01 01 001 03 Residencial Marién
+10 32 07 01 01 001 04 Inca
+10 32 07 01 01 001 05 Campamento Cimarrón
+10 32 07 01 01 001 06 Residencial Parque del Sol
+10 32 07 01 01 001 07 Eduardo Brito
+10 32 07 01 01 001 08 Residencial Flor de Liz
+10 32 07 01 01 001 09 Residencial Flor de Loto
+10 32 07 01 01 001 10 Bella Vista
+10 32 07 01 01 001 11 Paraíso
+10 32 07 01 01 001 12 La Esperanza II
+10 32 07 01 01 001 13 Las Mercedes I
+10 32 07 01 01 001 14 Brisas de Pedro Brand
+10 32 07 01 01 001 15 Salomé Ureña
+10 32 07 01 01 001 16 La Unión
+10 32 07 01 01 001 17 Kilómetro 28
+10 32 07 01 01 001 18 Detrás de La Avena o La Isabela
+10 32 07 01 01 002 00 Los Cocos (Kilómetro 28)
+10 32 07 01 01 002 01 Los Cocos (Kilómetro 28)
+10 32 07 01 01 002 02 El Tanque
+10 32 07 01 01 002 03 Oxígeno Dominicano
+10 32 07 01 01 002 04 La Loma
+10 32 07 01 01 002 05 Nuevo
+10 32 07 01 01 002 06 Los Pabellones
+10 32 07 01 01 002 07 Los Cartones
+10 32 07 01 01 002 08 Loma Linda
+10 32 07 01 02 000 00 los corozos
+10 32 07 01 02 001 00 El Catalán
+10 32 07 01 02 002 00 Los Corozos
+10 32 07 01 03 000 00 San Miguel
+10 32 07 01 03 001 00 San Miguel
+10 32 07 01 03 002 00 Mata de Iglesia
+10 32 07 01 04 000 00 Piedra Gorda
+10 32 07 01 04 001 00 Piedra Gorda
+10 32 07 01 04 002 00 La Montosa
+10 32 07 01 05 000 00 La Polonia
+10 32 07 01 05 001 00 La Polonia
+10 32 07 01 05 002 00 El Platón
+10 32 07 01 06 000 00 Frasquito Gómez
+10 32 07 01 06 001 00 Frasquito Gómez
+10 32 07 01 06 002 00 El Puerto
+10 32 07 01 07 000 00 Santa cruz
+10 32 07 01 07 001 00 Santa Cruz
+10 32 07 01 07 002 00 Hato Viejo
+10 32 07 02 00 000 00 La Guáyiga (DM)
+10 32 07 02 01 000 00 La Guáyiga (Zona urbana)
+10 32 07 02 01 001 00 la Guáyiga
+10 32 07 02 01 001 01 La Guáyiga
+10 32 07 02 01 001 02 La Penca (Kilómetro 20 de la Autopista Duarte)
+10 32 07 02 01 001 03 El Brisal
+10 32 07 02 01 001 04 Los Coquitos
+10 32 07 02 01 001 05 Las Flores
+10 32 07 02 01 001 06 La Yagüita
+10 32 07 02 01 001 07 San José o Respaldo El Brisal
+10 32 07 02 01 001 08 Paraíso
+10 32 07 02 01 001 09 Kilómetro 22
+10 32 07 02 01 001 10 Ciudad Satélite
+10 32 07 02 01 001 11 Puerto Rico
+10 32 07 02 01 001 12 Los Coquitos 2
+10 32 07 02 01 001 13 Los Coquitos 3
+10 32 07 02 02 000 00 Los García
+10 32 07 02 02 001 00 Batey Palamara
+10 32 07 02 02 002 00 Los García
+10 32 07 02 03 000 00 El Pedregal
+10 32 07 02 03 001 00 El Pedregal
+10 32 07 02 04 000 00 Yacó
+10 32 07 02 04 001 00 Yacó
+10 32 07 02 04 002 00 Proyecto Los Guardias
+10 32 07 03 00 000 00 La Cuaba (DM)
+10 32 07 03 01 000 00 La Cuaba (Zona urbana)
+10 32 07 03 01 001 00 la cuaba
+10 32 07 03 01 001 01 La Cuaba
+10 32 07 03 02 000 00 Los Aguacates
+10 32 07 03 02 001 00 Los Aguacates
+10 32 07 03 02 002 00 Salamanca
+10 32 07 03 02 003 00 Arroyo Indio
+10 32 07 03 02 004 00 La Piña
+10 32 07 03 03 000 00 La Estancia
+10 32 07 03 03 001 00 El Convento
+10 32 07 03 03 002 00 La Maleza
+10 32 07 03 03 003 00 La Estancia
+10 32 07 03 03 004 00 Sabana al Medio
+10 32 07 03 03 005 00 Higüero
+10 32 07 03 03 006 00 Los Jobos de Matúa
+10 32 07 03 03 007 00 Higuamo
+10 32 07 03 03 008 00 Suardí
+10 32 07 03 03 009 00 Hojas Anchas
+10 32 07 03 04 000 00 El Limón
+10 32 07 03 04 001 00 El Limón
+10 32 07 03 04 002 00 La Isabela Arriba
+10 32 07 03 04 003 00 Bañadero
+10 32 07 03 04 004 00 El Cachón
+10 32 07 03 04 005 00 Los Genaro
+10 32 07 03 04 006 00 Sabana Mina
+10 32 07 03 04 007 00 El Cachimbo
+10 32 07 03 04 008 00 Mala Vuelta
+10 32 07 03 04 009 00 Victoriano
+10 32 07 03 04 010 00 Arroyo Mina
+10 32 07 03 04 011 00 Loma de Galán
+10 32 07 03 04 012 00 La Malenita
+10 32 07 03 04 013 00 La Malena
+10 32 07 03 04 014 00 Los Pilones o Los Pilares

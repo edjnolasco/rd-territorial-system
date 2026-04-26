@@ -1,0 +1,737 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+06 04 00 00 00 000 00 Barahona
+06 04 01 00 00 000 00 Barahona
+06 04 01 01 00 000 00 Barahona
+06 04 01 01 01 000 00 Santa Cruz de Barahona (Zona urbana)
+06 04 01 01 01 001 00 Enriquillo
+06 04 01 01 01 001 01 Enriquillo
+06 04 01 01 01 002 00 Los Altos de Blaquizales
+06 04 01 01 01 002 01 Los Altos de Blaquizales
+06 04 01 01 01 003 00 Baitoíta
+06 04 01 01 01 003 01 Baitoíta
+06 04 01 01 01 004 00 Pueblo Nuevo
+06 04 01 01 01 004 01 Pueblo Nuevo
+06 04 01 01 01 004 02 Imbert Barreras
+06 04 01 01 01 005 00 Los Calieses
+06 04 01 01 01 005 01 Los Calieses
+06 04 01 01 01 006 00 Palmarito
+06 04 01 01 01 006 01 Palmarito
+06 04 01 01 01 006 02 Los Guandules
+06 04 01 01 01 006 03 Los Barrancones de Palmarito
+06 04 01 01 01 007 00 Savica
+06 04 01 01 01 007 01 Savica
+06 04 01 01 01 008 00 Las Flores
+06 04 01 01 01 008 01 Las Flores
+06 04 01 01 01 009 00 Villa Estela
+06 04 01 01 01 009 01 Villa Estela
+06 04 01 01 01 009 02 Los Callejones
+06 04 01 01 01 010 00 La Playa
+06 04 01 01 01 010 01 La Playa
+06 04 01 01 01 011 00 Mejoramiento Social
+06 04 01 01 01 011 01 Mejoramiento Social
+06 04 01 01 01 012 00 30 de Mayo o La Policía
+06 04 01 01 01 012 01 30 de Mayo o La Policía
+06 04 01 01 01 013 00 Cañada de Papoy
+06 04 01 01 01 013 01 Cañada de Papoy
+06 04 01 01 01 014 00 El Naco
+06 04 01 01 01 014 01 El Naco
+06 04 01 01 01 014 02 Punta Palma
+06 04 01 01 01 015 00 El Cacique o Canta La Rana
+06 04 01 01 01 015 01 El Cacique o Canta La Rana
+06 04 01 01 01 016 00 La Raqueta
+06 04 01 01 01 016 01 La Raqueta
+06 04 01 01 01 017 00 Alto Velo
+06 04 01 01 01 017 01 Alto Velo
+06 04 01 01 01 018 00 Los Maestros
+06 04 01 01 01 018 01 Los Maestros
+06 04 01 01 01 019 00 Don Bosco
+06 04 01 01 01 019 01 Don Bosco
+06 04 01 01 01 019 02 El Alfa
+06 04 01 01 01 020 00 Blanquizales
+06 04 01 01 01 020 01 Blanquizales
+06 04 01 01 01 021 00 Camboya
+06 04 01 01 01 021 01 Camboya
+06 04 01 01 01 021 02 Los Barrancones de Camboya
+06 04 01 01 01 022 00 Centro de la ciudad
+06 04 01 01 01 022 01 Centro de la Ciudad
+06 04 01 01 01 022 02 La Fortaleza
+06 04 01 01 01 023 00 Cerro de Saladillos o Río Chir
+06 04 01 01 01 023 01 Cerro de Saladillos o Río Chir
+06 04 01 01 01 024 00 Casandra
+06 04 01 01 01 024 01 Casandra
+06 04 01 01 01 025 00 Villa Chavá o Las Flores (Antiguo Blanquizal)
+06 04 01 01 01 025 01 Villa Chavá o Las Flores (Antiguo Blanquizal)
+06 04 01 01 02 000 00 Manuel Díaz
+06 04 01 01 02 001 00 Manantial
+06 04 01 01 02 002 00 Palmingo
+06 04 01 01 02 003 00 Manuel Díaz
+06 04 01 01 02 004 00 Melen
+06 04 01 01 02 005 00 Candelaria
+06 04 01 01 02 006 00 Ralo
+06 04 01 01 02 007 00 Jeño
+06 04 01 01 02 008 00 Mundito
+06 04 01 01 02 009 00 La Raqueta
+06 04 01 01 02 010 00 Canta la Rana
+06 04 01 01 03 000 00 Payaso
+06 04 01 01 03 001 00 Santa Elena
+06 04 01 01 03 002 00 El Fundo
+06 04 01 01 03 003 00 Las Mercedes-Finca
+06 04 01 01 03 004 00 La Elba
+06 04 01 01 03 005 00 Tres Pies
+06 04 01 01 03 006 00 El Petaquero
+06 04 01 01 03 007 00 Cañada del Agua
+06 04 01 01 03 008 00 Las Caritas
+06 04 01 01 03 009 00 El Cajuil
+06 04 01 01 03 010 00 La Saladilla
+06 04 01 02 00 000 00 El Cachón (DM)
+06 04 01 02 01 000 00 El Cachón (Zona urbana)
+06 04 01 02 01 001 00 Centro del Pueblo o Sector A
+06 04 01 02 01 001 01 Centro del Pueblo o Sector A
+06 04 01 02 01 002 00 Los Gómez
+06 04 01 02 01 002 01 Los Gómez
+06 04 01 02 01 002 02 El Cerro
+06 04 01 02 01 002 03 El Abanico
+06 04 01 02 01 002 04 Los Almendros
+06 04 01 02 01 003 00 Los Papiteros
+06 04 01 02 01 003 01 Los Papiteros
+06 04 01 02 01 003 02 Nuevo
+06 04 01 02 01 003 03 Los Tocones
+06 04 01 02 02 000 00 Los Callejones
+06 04 01 02 02 001 00 Los Callejones (Sur)
+06 04 01 02 02 002 00 Charco Colorado
+06 04 01 02 02 003 00 Pandié
+06 04 01 02 02 004 00 Sulí
+06 04 01 02 02 005 00 Cruce de Cabral (Sur)
+06 04 01 02 02 006 00 Carpinteros
+06 04 01 03 00 000 00 La Guázara (DM)
+06 04 01 03 01 000 00 La Guázara (Zona urbana)
+06 04 01 03 01 001 00 La Guázara o Centro del Pueblo
+06 04 01 03 01 001 01 La Guázara o Centro del Pueblo
+06 04 01 03 01 002 00 El 3
+06 04 01 03 01 002 01 El 3
+06 04 01 03 01 003 00 El 5
+06 04 01 03 01 003 01 El 5
+06 04 01 03 01 004 00 Los Mameyes
+06 04 01 03 01 004 01 Los Mameyes
+06 04 01 03 01 005 00 El Barrio
+06 04 01 03 01 005 01 El Barrio
+06 04 01 03 01 006 00 Villa Abajo
+06 04 01 03 01 006 01 Villa Abajo
+06 04 01 03 01 007 00 Villa arriba
+06 04 01 03 01 007 01 Villa Arriba
+06 04 01 03 02 000 00 La Guázara
+06 04 01 03 02 001 00 El Hoyo
+06 04 01 03 02 002 00 Pablo Bonito (Palo Bonito)
+06 04 01 03 02 003 00 Palo Veinte
+06 04 01 03 02 004 00 José Joaquín
+06 04 01 03 02 005 00 El Montazo
+06 04 01 03 02 006 00 Villa Hortensia
+06 04 01 03 02 007 00 Cobo (El Cabo)
+06 04 01 03 02 008 00 Los Angelitos
+06 04 01 03 02 009 00 Charco Prieto
+06 04 01 04 00 000 00 Villa Central (DM)
+06 04 01 04 01 000 00 Villa Central (Zona urbana)
+06 04 01 04 01 001 00 Villa Olímpica
+06 04 01 04 01 001 01 Villa Olímpica
+06 04 01 04 01 002 00 INVI-CEA
+06 04 01 04 01 002 01 INVI-CEA
+06 04 01 04 01 003 00 Marginal Oeste
+06 04 01 04 01 003 01 Marginal Oeste
+06 04 01 04 01 004 00 Las Avenidas
+06 04 01 04 01 004 01 Las Avenidas
+06 04 01 04 01 005 00 La Octava
+06 04 01 04 01 005 01 La Octava
+06 04 01 04 01 006 00 La Factoría
+06 04 01 04 01 006 01 La Factoría
+06 04 01 04 01 007 00 Los Blocks
+06 04 01 04 01 007 01 Los Blocks
+06 04 01 04 01 007 02 El Batey
+06 04 01 04 01 008 00 La Salina
+06 04 01 04 01 008 01 La Salina
+06 04 01 04 01 009 00 La Montañita
+06 04 01 04 01 009 01 La Montañita
+06 04 01 04 01 009 02 El Play de Duarte
+06 04 01 04 01 010 00 Miramar
+06 04 01 04 01 010 01 Miramar
+06 04 01 04 01 011 00 Perpetuo Socorro
+06 04 01 04 01 011 01 Perpetuo Socorro
+06 04 01 04 01 012 00 Jarro Sucio
+06 04 01 04 01 012 01 Jarro Sucio
+06 04 01 04 01 012 02 Nuevo Amparo
+06 04 01 04 01 013 00 Balaguer
+06 04 01 04 01 013 01 Balaguer
+06 04 01 04 01 014 00 Los Agrónomos
+06 04 01 04 01 014 01 Los Agrónomos
+06 04 01 04 01 015 00 Solares de Milton o María Montez
+06 04 01 04 01 015 01 Solares de Milton o María Montez
+06 04 01 04 01 016 00 Vista al Mar
+06 04 01 04 01 016 01 Vista al Mar
+06 04 01 04 01 017 00 Valle Encantado
+06 04 01 04 01 017 01 Valle Encantado
+06 04 01 04 01 018 00 Juan Pablo Duarte
+06 04 01 04 01 018 01 Juan Pablo Duarte
+06 04 01 04 01 018 02 Respaldo Juan Pablo Duarte
+06 04 02 00 00 000 00 Cabral
+06 04 02 01 00 000 00 Cabral
+06 04 02 01 01 000 00 Cabral (Zona urbana)
+06 04 02 01 01 001 00 Abajo
+06 04 02 01 01 001 01 Abajo
+06 04 02 01 01 002 00 Centro del Pueblo
+06 04 02 01 01 002 01 Centro del Pueblo
+06 04 02 01 01 003 00 El llano
+06 04 02 01 01 003 01 El Llano
+06 04 02 01 01 003 02 Savica
+06 04 02 01 01 004 00 Arriba
+06 04 02 01 01 004 01 Arriba
+06 04 02 01 01 005 00 El Majagual
+06 04 02 01 01 005 01 El Majagual
+06 04 02 01 01 006 00 Nueva York Chiquito
+06 04 02 01 01 006 01 Nueva York Chiquito
+06 04 02 01 01 007 00 La Peñuela
+06 04 02 01 01 007 01 La Peñuela
+06 04 02 01 01 008 00 El Guayuyo
+06 04 02 01 01 008 01 El Guayuyo
+06 04 02 01 01 009 00 16 de agosto
+06 04 02 01 01 009 01 16 de Agosto
+06 04 02 01 02 000 00 Tierra Blanca
+06 04 02 01 02 001 00 Tierra Blanca
+06 04 02 01 02 002 00 La Lista
+06 04 02 01 02 003 00 El Naranjo
+06 04 02 01 02 004 00 El Fundo
+06 04 02 01 02 005 00 El Majagual
+06 04 02 01 02 006 00 Boca Naranjo
+06 04 02 01 02 007 00 El Guayuyo
+06 04 02 01 02 008 00 La Cueva
+06 04 02 01 02 009 00 La Péndula
+06 04 02 01 02 010 00 Los Hierros
+06 04 02 01 02 011 00 Revolcadero
+06 04 02 01 02 012 00 Garo
+06 04 02 01 02 013 00 El Aguacate
+06 04 02 01 02 014 00 El Firme
+06 04 02 01 02 015 00 El Brisal
+06 04 02 01 02 016 00 Laguna Rincón (Parte)
+06 04 03 00 00 000 00 Enriquillo
+06 04 03 01 00 000 00 Enriquillo
+06 04 03 01 01 000 00 Enriquillo (Zona urbana)
+06 04 03 01 01 001 00 Luperón
+06 04 03 01 01 001 01 Luperón
+06 04 03 01 01 002 00 Los Multis
+06 04 03 01 01 002 01 Los Multis
+06 04 03 01 01 003 00 El Mamonal
+06 04 03 01 01 003 01 El Mamonal
+06 04 03 01 01 003 02 El Otro Lado
+06 04 03 01 01 004 00 Villa Progreso
+06 04 03 01 01 004 01 Villa Progreso
+06 04 03 01 01 005 00 Centro del Pueblo
+06 04 03 01 01 005 01 Centro del Pueblo
+06 04 03 01 01 006 00 Tamayo
+06 04 03 01 01 006 01 Tamayo
+06 04 03 01 01 007 00 Mercedes Alta
+06 04 03 01 01 007 01 Mercedes Alta
+06 04 03 01 02 000 00 Buena Vista
+06 04 03 01 02 001 00 Buena Vista
+06 04 03 01 02 002 00 Juan Isidro
+06 04 03 01 02 003 00 Los Cocos
+06 04 03 01 02 004 00 Las Cuatro Bocas
+06 04 03 01 03 000 00 Caletón
+06 04 03 01 03 001 00 Los Blancos
+06 04 03 01 03 002 00 Hondo Valle
+06 04 03 01 03 003 00 Palmarito
+06 04 03 01 03 004 00 María Teresa
+06 04 03 01 03 005 00 Peñalva
+06 04 03 01 03 006 00 Caletón
+06 04 03 01 03 007 00 Las Merceditas
+06 04 03 01 04 000 00 El Pino
+06 04 03 01 04 001 00 Solera
+06 04 03 01 04 002 00 Charco del Higo
+06 04 03 01 04 003 00 Clavellina
+06 04 03 01 04 004 00 La Paz
+06 04 03 01 04 005 00 Chene
+06 04 03 01 04 006 00 La Torre
+06 04 03 01 04 007 00 El Valle
+06 04 03 02 00 000 00 Arroyo Dulce (DM)
+06 04 03 02 01 000 00 Arroyo Dulce (Zona urbana)
+06 04 03 02 01 001 00 Arroyo Dulce
+06 04 03 02 01 001 01 Arroyo Dulce
+06 04 03 02 02 000 00 Arroyo Dulce
+06 04 03 02 02 001 00 Mencía
+06 04 03 02 02 002 00 Charco Blanco
+06 04 03 02 02 003 00 Bella Vista
+06 04 03 02 02 004 00 Paradero en Medio
+06 04 03 02 02 005 00 Maniel Viejo
+06 04 03 02 02 006 00 La Sabana de Maniel
+06 04 03 02 02 007 00 Arroyo Dulce Rural
+06 04 03 02 03 000 00 El Higüero
+06 04 03 02 03 001 00 El Higüero
+06 04 03 02 03 002 00 Las Palmas
+06 04 03 02 03 003 00 La Jaiba
+06 04 03 02 03 004 00 Los Candelones
+06 04 03 02 03 005 00 Sabana de las Primeras Yerbas
+06 04 03 02 03 006 00 Masacó
+06 04 03 02 04 000 00 El Pino
+06 04 03 02 04 001 00 Charco Prieto
+06 04 03 02 04 002 00 Las Palmas
+06 04 03 02 04 003 00 La Vaca
+06 04 03 02 04 004 00 El Toro
+06 04 03 02 04 005 00 La Isleta
+06 04 03 02 04 006 00 La Guácima (La Guázuma)
+06 04 03 02 04 007 00 El Pino
+06 04 03 02 05 000 00 El Naranjal
+06 04 03 02 05 001 00 El Naranjal
+06 04 03 02 05 002 00 La Habitación
+06 04 03 02 05 003 00 La Cueva de Luis
+06 04 04 00 00 000 00 Paraíso
+06 04 04 01 00 000 00 Paraíso
+06 04 04 01 01 000 00 Paraíso (Zona urbana)
+06 04 04 01 01 001 00 La Yagua o la caya
+06 04 04 01 01 001 01 La Yagua o La Caya
+06 04 04 01 01 002 00 Centro del Pueblo
+06 04 04 01 01 002 01 Centro del Pueblo
+06 04 04 01 01 003 00 Altagracia
+06 04 04 01 01 003 01 Altagracia
+06 04 04 01 01 004 00 Mejoramiento Social o Los Multi
+06 04 04 01 01 004 01 Mejoramiento Social o Los Multi
+06 04 04 01 01 005 00 La Lajita o Alto Velo
+06 04 04 01 01 005 01 La Lajita o Alto Velo
+06 04 04 01 01 006 00 La caoba
+06 04 04 01 01 006 01 La Caoba
+06 04 04 01 01 007 00 El Play
+06 04 04 01 01 007 01 El Play
+06 04 04 01 02 000 00 El Platón
+06 04 04 01 02 001 00 Cortico
+06 04 04 01 02 002 00 El Platón
+06 04 04 01 02 003 00 Charco Blanco
+06 04 04 01 02 004 00 Villa Nizao
+06 04 04 01 03 000 00 La Lanza Arriba
+06 04 04 01 03 001 00 La Lanza Arriba
+06 04 04 01 03 002 00 La Lanza Abajo
+06 04 04 01 03 003 00 Agüita Blanca
+06 04 04 01 03 004 00 Gajo de Toro
+06 04 04 01 04 000 00 Leonardo
+06 04 04 01 04 001 00 Leonardo
+06 04 04 01 04 002 00 Rancho Antonio
+06 04 04 01 04 003 00 Malanga
+06 04 04 01 04 004 00 Chorro de Oro
+06 04 04 01 04 005 00 Dominica
+06 04 04 01 04 006 00 El Palo 30
+06 04 04 01 04 007 00 Coco (Caco)
+06 04 04 01 04 008 00 La Caoba
+06 04 04 01 04 009 00 Gachito
+06 04 04 01 04 010 00 Los Guineos
+06 04 04 01 04 011 00 Charco Prieto
+06 04 04 01 04 012 00 Riosito
+06 04 04 01 04 013 00 La Cabirma
+06 04 04 01 04 014 00 Bisán
+06 04 04 01 05 000 00 San Rafael
+06 04 04 01 05 001 00 San Rafael
+06 04 04 01 05 002 00 Café las Mujeres
+06 04 04 02 00 000 00 Los Patos (DM)
+06 04 04 02 01 000 00 Los Patos (Zona urbana)
+06 04 04 02 01 001 00 Los Patos
+06 04 04 02 01 001 01 Los Patos
+06 04 04 02 01 001 02 San Miguel
+06 04 04 02 02 000 00 El Maniel
+06 04 04 02 02 001 00 Los Patos
+06 04 04 02 02 002 00 Bejuquero
+06 04 04 02 02 003 00 El Fondo
+06 04 04 02 02 004 00 Cresteliando
+06 04 04 02 02 005 00 El Maniel
+06 04 04 02 02 006 00 Audón
+06 04 04 02 02 007 00 Yaurumal
+06 04 04 02 02 008 00 Laguneta
+06 04 04 02 03 000 00 Ojeda
+06 04 04 02 03 001 00 Ojeda
+06 04 04 02 03 002 00 Barrio Nuevo
+06 04 04 02 03 003 00 La Víbora
+06 04 05 00 00 000 00 Vicente Noble
+06 04 05 01 00 000 00 Vicente Noble
+06 04 05 01 01 000 00 Vicente Noble (Zona urbana)
+06 04 05 01 01 001 00 Las Auyamas
+06 04 05 01 01 001 01 Las Auyamas
+06 04 05 01 01 002 00 Placer Bonito
+06 04 05 01 01 002 01 Placer Bonito
+06 04 05 01 01 003 00 centro Hermoso
+06 04 05 01 01 003 01 Centro Hermoso
+06 04 05 01 01 004 00 Los Maquitos
+06 04 05 01 01 004 01 Los Maquitos
+06 04 05 01 01 005 00 La cuarenta
+06 04 05 01 01 005 01 La Cuarenta
+06 04 05 01 01 006 00 Pueblo Arriba
+06 04 05 01 01 006 01 Pueblo Arriba
+06 04 05 01 01 007 00 Centro del Pueblo
+06 04 05 01 01 007 01 Centro del Pueblo
+06 04 05 01 01 008 00 Batey Paja
+06 04 05 01 01 008 01 Batey Paja
+06 04 05 01 01 009 00 Galindo
+06 04 05 01 01 009 01 Galindo
+06 04 05 01 01 010 00 Guatapanal o Guayacanal (La Puerca)
+06 04 05 01 01 010 01 Guatapanal o Guayacanal (Ant. La Puerca)
+06 04 05 01 01 011 00 Viejo
+06 04 05 01 01 011 01 Viejo
+06 04 05 01 01 011 02 El Capa
+06 04 05 01 01 012 00 Nuevo
+06 04 05 01 01 012 01 Nuevo
+06 04 05 01 01 013 00 Los Multi 
+06 04 05 01 01 013 01 Los Multi
+06 04 05 01 01 014 00 Los Agrónomos
+06 04 05 01 01 014 01 Los Agrónomos
+06 04 05 02 00 000 00 Canoa (DM)
+06 04 05 02 01 000 00 Canoa (Zona urbana)
+06 04 05 02 01 001 00 Canoa
+06 04 05 02 01 001 01 Canoa
+06 04 05 02 01 002 00 Buenos Aires del Yeso
+06 04 05 02 01 002 01 Buenos Aires del Yeso
+06 04 05 02 02 000 00 Bombita
+06 04 05 02 02 001 00 Bombita
+06 04 05 02 02 002 00 Miramar
+06 04 05 02 02 003 00 Mamey
+06 04 05 02 02 004 00 Mameicito (Mameycito)
+06 04 05 02 02 005 00 La Colonia
+06 04 05 02 02 006 00 Hatico de Platanal
+06 04 05 02 02 007 00 Loma del Curro
+06 04 05 02 02 008 00 Charco de Pancho
+06 04 05 02 02 009 00 Paso de Santa
+06 04 05 03 00 000 00 Quita Coraza (DM)
+06 04 05 03 01 000 00 Quita Coraza (Zona urbana)
+06 04 05 03 01 001 00 Coraza o Centro del Pueblo
+06 04 05 03 01 001 01 Coraza o Centro del Pueblo
+06 04 05 03 01 001 02 Sanagua
+06 04 05 03 01 002 00 La Pista
+06 04 05 03 01 002 01 La Pista
+06 04 05 03 01 002 02 El Acueducto
+06 04 05 03 01 003 00 Azul
+06 04 05 03 01 003 01 Azul
+06 04 05 03 01 003 02 El Plan
+06 04 05 03 01 004 00 El Arroyo
+06 04 05 03 01 004 01 El Arroyo
+06 04 05 03 02 000 00 El Higuito
+06 04 05 03 02 001 00 El Higuito
+06 04 05 03 02 002 00 El Memiso
+06 04 05 03 02 003 00 Quita Coraza
+06 04 05 03 03 000 00 Las Minas 
+06 04 05 03 03 001 00 Las Minas
+06 04 05 03 03 002 00 Boca del Bao
+06 04 05 03 03 003 00 La Leona
+06 04 05 04 00 000 00 Fondo Negro (DM)
+06 04 05 04 01 000 00 Fondo Negro (Zona urbana)
+06 04 05 04 01 001 00 El centro
+06 04 05 04 01 001 01 El Centro
+06 04 05 04 01 001 02 Los Almendros
+06 04 05 04 01 001 03 Los Tocones
+06 04 05 04 01 002 00 Cenceres
+06 04 05 04 01 002 01 Cenceres
+06 04 05 04 01 002 02 El Batey
+06 04 05 04 01 003 00 Nuevo
+06 04 05 04 01 003 01 Nuevo
+06 04 05 04 01 004 00 El Abanico
+06 04 05 04 01 004 01 El Abanico
+06 04 05 04 01 005 00 El Cruce
+06 04 05 04 01 005 01 El Cruce
+06 04 05 04 01 005 02 Las Flores
+06 04 05 04 01 005 03 Altos de las Flores o las Arañas
+06 04 05 04 02 000 00 La Cu
+06 04 05 04 02 001 00 Puerto Grande
+06 04 05 04 02 002 00 La Cu
+06 04 05 04 02 003 00 Montazo
+06 04 05 04 02 004 00 El Orégano
+06 04 05 04 03 000 00 arroyo Grande
+06 04 05 04 03 001 00 La Lajita
+06 04 05 04 03 002 00 Arroyo Grande
+06 04 05 04 03 003 00 El Quemado
+06 04 05 04 03 004 00 Uvillita
+06 04 06 00 00 000 00 El Peñón
+06 04 06 01 00 000 00 El Peñón
+06 04 06 01 01 000 00 El Peñón (Zona urbana)
+06 04 06 01 01 001 00 Centro del Pueblo
+06 04 06 01 01 001 01 Centro del Pueblo
+06 04 06 01 01 002 00 Los Ajicitos Sector Arriba
+06 04 06 01 01 002 01 Los Ajicitos Sector Arriba
+06 04 06 01 01 003 00 Valle Encantado
+06 04 06 01 01 003 01 Valle Encantado
+06 04 06 01 01 004 00 La Cú
+06 04 06 01 01 004 01 La Cú
+06 04 06 01 01 005 00 La Gran Parada o Pueblo Abajo
+06 04 06 01 01 005 01 La Gran Parada o Pueblo Abajo
+06 04 06 01 01 006 00 El Play
+06 04 06 01 01 006 01 El Play
+06 04 06 01 02 000 00 El Peñón
+06 04 06 01 02 001 00 Los Arraijanes
+06 04 06 01 02 002 00 Cerro de Richiez
+06 04 06 01 02 003 00 El Barrillar
+06 04 06 01 02 004 00 Los Tomates
+06 04 06 01 02 005 00 La Peronía
+06 04 06 01 02 006 00 La Punta del Cerro
+06 04 06 01 02 007 00 La Guazábara
+06 04 06 01 02 008 00 Los Higos
+06 04 06 01 02 009 00 La Sucesión
+06 04 06 01 02 010 00 Los Guayuyos
+06 04 06 01 02 011 00 El Memisal
+06 04 06 01 02 012 00 Los Caños
+06 04 06 01 02 013 00 Las Guineas
+06 04 06 01 02 014 00 Los Barrancones
+06 04 06 01 02 015 00 El Buey
+06 04 06 01 02 016 00 Arenoso
+06 04 06 01 02 017 00 Laguneta
+06 04 06 01 02 018 00 Los Chicones
+06 04 06 01 02 019 00 Laguna Rincón (Parte)
+06 04 06 01 03 000 00 Peñón Arriba
+06 04 06 01 03 001 00 La Bomba
+06 04 06 01 03 002 00 Los Palmaritos
+06 04 06 01 03 003 00 Peñón Arriba
+06 04 07 00 00 000 00 La Ciénaga
+06 04 07 01 00 000 00 La Ciénaga
+06 04 07 01 01 000 00 La Ciénaga (Zona urbana)
+06 04 07 01 01 001 00 Centro Viejo
+06 04 07 01 01 001 01 Centro Viejo
+06 04 07 01 01 001 02 La Playa
+06 04 07 01 01 001 03 Las Cuatro Cucharas
+06 04 07 01 01 002 00 Nuevo
+06 04 07 01 01 002 01 Nuevo
+06 04 07 01 01 003 00 Cristo Rey o Jarro Sucio
+06 04 07 01 01 003 01 Cristo Rey o Jarro Sucio
+06 04 07 01 01 004 00 Haití
+06 04 07 01 01 004 01 Haití
+06 04 07 01 01 005 00 Fudeco
+06 04 07 01 01 005 01 Fudeco
+06 04 07 01 01 006 00 Bella Vista
+06 04 07 01 01 006 01 Bella Vista
+06 04 07 01 02 000 00 Guayuyal
+06 04 07 01 02 001 00 Guayuyal
+06 04 07 01 02 002 00 Majagualito
+06 04 07 01 02 003 00 La Lajita
+06 04 07 01 02 004 00 Los Helechos
+06 04 07 01 02 005 00 Bejucal
+06 04 07 01 02 006 00 Charco del Toro
+06 04 07 01 02 007 00 Agüita Blanca
+06 04 07 01 02 008 00 Copey
+06 04 07 01 02 009 00 Las Brujas
+06 04 07 01 02 010 00 San Rafael
+06 04 07 01 02 011 00 Charco Blanco
+06 04 07 01 02 012 00 El Cachote
+06 04 07 01 02 013 00 La Canela
+06 04 07 01 02 014 00 La Agujeta
+06 04 07 01 02 015 00 Palmarito
+06 04 07 01 02 016 00 Isleta
+06 04 07 01 02 017 00 Baoruquito
+06 04 07 01 02 018 00 Los Naranjos o Colorados
+06 04 07 02 00 000 00 Baoruco (DM)
+06 04 07 02 01 000 00 Baoruco (Zona urbana)
+06 04 07 02 01 001 00 Baoruco Arriba
+06 04 07 02 01 001 01 Baoruco Arriba
+06 04 07 02 01 002 00 Baoruco Abajo
+06 04 07 02 01 002 01 Baoruco Abajo
+06 04 07 02 01 003 00 La Playa
+06 04 07 02 01 003 01 La Playa
+06 04 07 02 01 004 00 Cañafístola
+06 04 07 02 01 004 01 Cañafístola
+06 04 07 02 01 005 00 El Champán
+06 04 07 02 01 005 01 El Champán
+06 04 07 02 01 006 00 El Cacheo
+06 04 07 02 01 006 01 El Cacheo
+06 04 07 02 02 000 00 El Arroyo
+06 04 07 02 02 001 00 El Arroyo
+06 04 07 02 02 002 00 Machembe (Chembe)
+06 04 07 02 03 000 00 La Filipina
+06 04 07 02 03 001 00 La Filipina
+06 04 07 02 03 002 00 La Trocha
+06 04 07 02 03 003 00 Los Hierros
+06 04 07 02 03 004 00 Travesía
+06 04 07 02 03 005 00 Los Chupaderos
+06 04 07 02 03 006 00 Sibulebo (Si Vuelvo)
+06 04 07 02 04 000 00 Baoruco
+06 04 07 02 04 001 00 Calabazas
+06 04 07 02 04 002 00 Los Morones
+06 04 07 02 04 003 00 Las Auyamas
+06 04 07 02 04 004 00 La Péndula
+06 04 07 02 04 005 00 Guindadero
+06 04 07 02 04 006 00 Tierra Llana
+06 04 07 02 04 007 00 El Membrillo
+06 04 07 02 04 008 00 Guancho (Cuacho)
+06 04 07 02 04 009 00 El Pelú
+06 04 07 02 04 010 00 Vengan a Ver
+06 04 07 02 04 011 00 Las Palmitas
+06 04 07 02 04 012 00 Los Bienientes
+06 04 07 02 04 013 00 El Cacao
+06 04 07 02 04 014 00 Jimbi
+06 04 07 02 05 000 00 Juan Esteban
+06 04 07 02 05 001 00 Juan Esteban
+06 04 07 02 05 002 00 La Vuelta de Gabino
+06 04 07 02 05 003 00 Los Franceses
+06 04 07 02 05 004 00 Los Pájaros
+06 04 07 02 05 005 00 Las Palmitas
+06 04 07 02 05 006 00 Los Checehenes
+06 04 08 00 00 000 00 Fundación
+06 04 08 01 00 000 00 Fundación
+06 04 08 01 01 000 00 Fundación (Zona urbana)
+06 04 08 01 01 001 00 La Cu
+06 04 08 01 01 001 01 La Cu
+06 04 08 01 01 002 00 Nuevo
+06 04 08 01 01 002 01 Nuevo
+06 04 08 01 01 003 00 El Abanico
+06 04 08 01 01 003 01 El Abanico
+06 04 08 01 01 004 00 Centro del Pueblo
+06 04 08 01 01 004 01 Centro del Pueblo
+06 04 08 01 01 005 00 La Cuchilla
+06 04 08 01 01 005 01 La Cuchilla
+06 04 08 01 02 000 00 Fundación
+06 04 08 01 02 001 00 La Isleta-Caño Arenoso
+06 04 08 01 02 002 00 Los Cañitos
+06 04 08 01 02 003 00 El Centro
+06 04 08 01 02 004 00 El Jobo
+06 04 08 01 02 005 00 La Berleta (Las Placetas)
+06 04 08 01 02 006 00 El Botao
+06 04 08 01 02 007 00 Finca de Francisco Matos
+06 04 08 01 04 000 00 La Altagracia
+06 04 08 01 04 001 00 La Altagracia
+06 04 08 01 04 002 00 Los Algodones
+06 04 08 02 00 000 00 Pescadería (DM)
+06 04 08 02 01 000 00 Pescadería (Zona urbana)
+06 04 08 02 01 001 00 El Centro
+06 04 08 02 01 001 01 El Centro
+06 04 08 02 01 002 00 Pueblo Nuevo
+06 04 08 02 01 002 01 Pueblo Nuevo
+06 04 08 02 01 003 00 Colombia (Pekín)
+06 04 08 02 01 003 01 Colombia (Pekín)
+06 04 08 02 01 004 00 Korea
+06 04 08 02 01 004 01 Korea
+06 04 08 02 01 005 00 Viejo
+06 04 08 02 01 005 01 Viejo
+06 04 08 02 02 000 00 La Hoya
+06 04 08 02 02 001 00 La Hoya
+06 04 08 02 02 002 00 Los Tres Puentes
+06 04 08 02 02 003 00 Barrio Nuevo
+06 04 08 02 02 004 00 Palmarito de la Hoya
+06 04 08 02 02 005 00 El Mamón
+06 04 08 02 03 000 00 Hato Viejo
+06 04 08 02 03 001 00 Hato Viejo
+06 04 08 02 03 002 00 Batey Guayacanes
+06 04 08 02 03 003 00 Los Cocos
+06 04 08 02 03 004 00 Las Veras
+06 04 08 02 03 005 00 Finca de Jaime Féliz
+06 04 08 02 04 000 00 Habanero
+06 04 08 02 04 001 00 Habanero
+06 04 08 02 04 002 00 Caballero
+06 04 08 02 04 003 00 Los Callejones (Norte)
+06 04 08 02 04 004 00 Cruce de Cabral (Norte)
+06 04 09 00 00 000 00 Las Salinas
+06 04 09 01 00 000 00 Las Salinas
+06 04 09 01 01 000 00 Las Salinas (Zona urbana)
+06 04 09 01 01 001 00 Cerros de Santa Lucía
+06 04 09 01 01 001 01 Cerros de Santa Lucía
+06 04 09 01 01 001 02 Las 5 Casas
+06 04 09 01 01 002 00 Nuevo
+06 04 09 01 01 002 01 Nuevo
+06 04 09 01 01 002 02 El Millón
+06 04 09 01 01 003 00 Las Flores
+06 04 09 01 01 003 01 Las Flores
+06 04 09 01 01 003 02 Baitoal
+06 04 09 01 01 004 00 Centro del Pueblo
+06 04 09 01 01 004 01 Centro del Pueblo
+06 04 09 01 01 005 00 Las Caobas o Jarro Sucio
+06 04 09 01 01 005 01 Las Caobas o Jarro Sucio
+06 04 09 01 01 006 00 La Esperanza
+06 04 09 01 01 006 01 La Esperanza
+06 04 09 01 01 006 02 Otro Lado
+06 04 09 01 01 007 00 Santa Rosa o Batey Paja
+06 04 09 01 01 007 01 Santa Rosa o Batey Paja
+06 04 09 01 02 000 00 Lemba
+06 04 09 01 02 001 00 Boquerón
+06 04 09 01 02 002 00 Entrada de Lemba
+06 04 09 01 02 003 00 Lemba
+06 04 09 01 02 004 00 Hato Nuevo
+06 04 09 01 02 005 00 Las Salinas
+06 04 09 01 03 000 00 Los Saladillos
+06 04 09 01 03 001 00 Los Saladillos
+06 04 09 01 03 002 00 El Guayabo
+06 04 09 01 04 000 00 La Cu
+06 04 09 01 04 001 00 La Cu
+06 04 10 00 00 000 00 Polo
+06 04 10 01 00 000 00 Polo
+06 04 10 01 01 000 00 Polo (Zona urbana)
+06 04 10 01 01 001 00 La Policía
+06 04 10 01 01 001 01 La Policía
+06 04 10 01 01 002 00 Centro del Pueblo
+06 04 10 01 01 002 01 Centro del Pueblo
+06 04 10 01 01 003 00 Cañada arriba
+06 04 10 01 01 003 01 Cañada Arriba
+06 04 10 01 01 004 00 Las Flores
+06 04 10 01 01 004 01 Las Flores
+06 04 10 01 01 005 00 Nuevo
+06 04 10 01 01 005 01 Nuevo
+06 04 10 01 01 005 02 Nuestra Señora de La Altagracia
+06 04 10 01 01 005 03 San Miguel
+06 04 10 01 02 000 00 Las Auyamas
+06 04 10 01 02 001 00 El Puentecito
+06 04 10 01 02 002 00 Monteada Nueva
+06 04 10 01 02 003 00 Las Auyamas
+06 04 10 01 02 004 00 Los Lirios
+06 04 10 01 02 005 00 El Charco
+06 04 10 01 02 006 00 Cortico
+06 04 10 01 02 007 00 Los Lazos
+06 04 10 01 02 008 00 El Puerto
+06 04 10 01 02 009 00 La Monteada
+06 04 10 01 03 000 00 Los Charquitos
+06 04 10 01 03 001 00 Los Charquitos
+06 04 10 01 03 002 00 La Tayota
+06 04 10 01 03 003 00 La Jo
+06 04 10 01 03 004 00 Los Mosquitos
+06 04 10 01 03 005 00 Charco Naranjo
+06 04 10 01 03 006 00 El Higüero
+06 04 10 01 03 007 00 Río Arriba
+06 04 10 01 03 008 00 El Charcos
+06 04 10 01 04 000 00 Los Arroyos
+06 04 10 01 04 001 00 Los Arroyos
+06 04 10 01 04 002 00 La Poza
+06 04 10 01 04 003 00 Bretoncito
+06 04 10 01 04 004 00 Bretón
+06 04 10 01 04 005 00 La Muda
+06 04 10 01 04 006 00 Polo Arriba
+06 04 10 01 04 007 00 La Cabuya
+06 04 10 01 04 008 00 El Limonal
+06 04 10 01 04 009 00 José Olivares
+06 04 10 01 04 010 00 Los Colorados
+06 04 10 01 05 000 00 Fondo de Agustín
+06 04 10 01 05 001 00 Santa Cruz
+06 04 10 01 05 002 00 Mata de Maíz
+06 04 10 01 05 003 00 Fondo Abajo
+06 04 10 01 05 004 00 Fondo Arriba
+06 04 10 01 05 005 00 Fondo de Aristeo
+06 04 10 01 05 006 00 Fondo de Agustín
+06 04 10 01 05 007 00 Fondo de Benito
+06 04 11 00 00 000 00 Jaquimeyes
+06 04 11 01 00 000 00 Jaquimeyes
+06 04 11 01 01 000 00 Jaquimeyes (Zona urbana)
+06 04 11 01 01 001 00 Jaquimeyes
+06 04 11 01 01 001 01 Jaquimeyes
+06 04 11 01 01 002 00 Rincón Cayao
+06 04 11 01 01 002 01 Rincón Cayao
+06 04 11 01 01 003 00 Bella Vista
+06 04 11 01 01 003 01 Bella Vista
+06 04 11 01 01 004 00 La Salvia
+06 04 11 01 01 004 01 La Salvia
+06 04 11 01 01 005 00 Jerusalem
+06 04 11 01 01 005 01 Jerusalem
+06 04 11 01 02 000 00 Jaquimeyes
+06 04 11 01 02 001 00 Burenes
+06 04 11 01 02 002 00 Campo de Caña del CEA
+06 04 11 01 02 003 00 El Salado de los Cucuses
+06 04 11 01 02 004 00 La Cortadera
+06 04 11 01 02 005 00 Busú
+06 04 11 01 02 006 00 El Limón
+06 04 11 01 02 007 00 El Curro
+06 04 11 01 02 008 00 Puerto Alejandro
+06 04 11 01 02 009 00 Yerba de Guinea
+06 04 11 01 02 010 00 El Babor
+06 04 11 02 00 000 00 Palo Alto (DM)
+06 04 11 02 01 000 00 Palo Alto (Zona urbana)
+06 04 11 02 01 001 00 Centro del Pueblo
+06 04 11 02 01 001 01 Centro del Pueblo
+06 04 11 02 01 001 02 La Arbiñita
+06 04 11 02 01 001 03 Las Palmeras
+06 04 11 02 02 000 00 Las Palmas
+06 04 11 02 02 001 00 Cruce de Palo Alto
+06 04 11 02 02 002 00 La Arbiña
+06 04 11 02 02 003 00 La Arbiñita
+06 04 11 02 02 004 00 Los Tres Puentes

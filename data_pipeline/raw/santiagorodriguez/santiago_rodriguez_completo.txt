@@ -1,0 +1,427 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+04 26 00 00 00 000 00 Santiago Rodríguez
+04 26 01 00 00 000 00 San Ignacio de Sabaneta
+04 26 01 01 00 000 00 San Ignacio de Sabaneta
+04 26 01 01 01 000 00 San Ignacio de Sabaneta (Zona urbana)
+04 26 01 01 01 001 00 cambelén
+04 26 01 01 01 001 01 Cambelén
+04 26 01 01 01 002 00 El cementerio
+04 26 01 01 01 002 01 El Cementerio
+04 26 01 01 01 003 00 Francisco Bueno Zapata
+04 26 01 01 01 003 01 Francisco Bueno Zapata
+04 26 01 01 01 004 00 urbanización INVI
+04 26 01 01 01 004 01 Urbanización INVI
+04 26 01 01 01 005 00 centro
+04 26 01 01 01 005 01 Centro
+04 26 01 01 01 006 00 la Joya
+04 26 01 01 01 006 01 La Joya
+04 26 01 01 01 007 00 E. León Jimenes
+04 26 01 01 01 007 01 E. León Jimenes
+04 26 01 01 01 007 02 Las Flores
+04 26 01 01 01 008 00 Bolsillo
+04 26 01 01 01 008 01 Bolsillo
+04 26 01 01 01 009 00 El Hospital
+04 26 01 01 01 009 01 El Hospital
+04 26 01 01 01 010 00 Felito Bueno
+04 26 01 01 01 010 01 Felito Bueno
+04 26 01 01 01 011 00 Norte
+04 26 01 01 01 011 01 Norte
+04 26 01 01 01 011 02 El Millón
+04 26 01 01 01 011 03 Urbanización Lora
+04 26 01 01 01 012 00 Cerro Dulce
+04 26 01 01 01 012 01 Cerro Dulce
+04 26 01 01 01 013 00 los Maestros
+04 26 01 01 01 013 01 Los Maestros
+04 26 01 01 01 013 02 Urbanización Los Restauradores
+04 26 01 01 01 014 00 tamarindo
+04 26 01 01 01 014 01 Tamarindo
+04 26 01 01 01 015 00 Mejoramiento Social (Bameso)
+04 26 01 01 01 015 01 Mejoramiento Social (Bameso)
+04 26 01 01 01 016 00 tomines arriba
+04 26 01 01 01 016 01 Tomines Arriba
+04 26 01 01 01 017 00 Alejandro Bueno
+04 26 01 01 01 017 01 Alejandro Bueno
+04 26 01 01 01 018 00 urbanización Marién    
+04 26 01 01 01 018 01 Urbanización Marién    
+04 26 01 01 01 019 00 Rodolfo Scheaffler
+04 26 01 01 01 019 01 Rodolfo Scheaffler
+04 26 01 01 01 020 00 Villa Polín 
+04 26 01 01 01 020 01 Villa Polín 
+04 26 01 01 01 021 00 General Santiago Rodriguez (Las Espinas)
+04 26 01 01 01 021 01 General Santiago Rodriguez (Las Espinas)
+04 26 01 01 01 021 02 Urbanización Canada
+04 26 01 01 01 022 00 la Sabana
+04 26 01 01 01 022 01 La Sabana
+04 26 01 01 01 023 00 General José cabrera
+04 26 01 01 01 023 01 General José Cabrera
+04 26 01 01 01 023 02 Residencial Amazonas
+04 26 01 01 01 024 00 Mirador del Sur
+04 26 01 01 01 024 01 Mirador del Sur
+04 26 01 01 01 025 00 Naranjo Chino
+04 26 01 01 01 025 01 Naranjo Chino
+04 26 01 01 02 000 00 Arroyo Blanco
+04 26 01 01 02 001 00 Arroyo Blanco
+04 26 01 01 02 002 00 Arroyo Blanco Abajo
+04 26 01 01 02 003 00 Atrás de Los Cerros
+04 26 01 01 02 004 00 La Lechuza
+04 26 01 01 02 005 00 Alto de Amacey
+04 26 01 01 02 006 00 La Lana
+04 26 01 01 02 007 00 El Rodeo
+04 26 01 01 02 008 00 Loma del Hicacal
+04 26 01 01 02 009 00 Los Cuaos
+04 26 01 01 02 010 00 El Cerrazo
+04 26 01 01 02 011 00 El Anicetal
+04 26 01 01 02 012 00 La Estaca
+04 26 01 01 02 013 00 Los Brazos
+04 26 01 01 02 014 00 La Babosa
+04 26 01 01 02 015 00 El Manglar
+04 26 01 01 02 016 00 El Maniel
+04 26 01 01 02 017 00 El Corral
+04 26 01 01 02 018 00 Arroyo al Medio
+04 26 01 01 02 019 00 Los Magueyes
+04 26 01 01 02 020 00 Boca de Los Ríos
+04 26 01 01 02 021 00 Arroyo Blanco Arriba
+04 26 01 01 02 022 00 El Cantón
+04 26 01 01 02 023 00 Los Corozos
+04 26 01 01 02 024 00 Monte Llano
+04 26 01 01 02 025 00 Agua Clara
+04 26 01 01 02 026 00 Los Higüeros
+04 26 01 01 03 000 00 las caobas
+04 26 01 01 03 001 00 La Estancia
+04 26 01 01 03 002 00 Guamanal o Guamachal
+04 26 01 01 03 003 00 Arroyo Palero
+04 26 01 01 03 004 00 El Orégano
+04 26 01 01 03 005 00 Los Caimoníes
+04 26 01 01 03 006 00 El Mamón
+04 26 01 01 03 007 00 Gurabo Dulce
+04 26 01 01 03 008 00 Loma de Las Caobas
+04 26 01 01 03 009 00 Las Caobas
+04 26 01 01 03 010 00 Cerro Caimoníes
+04 26 01 01 03 011 00 Los Ingenitos
+04 26 01 01 03 012 00 Caobanitas
+04 26 01 01 03 013 00 Cañada Verde
+04 26 01 01 03 014 00 Arroyo Seco
+04 26 01 01 03 015 00 Sánchez
+04 26 01 01 03 016 00 Las Caobas Adentro
+04 26 01 01 03 017 00 El Estrecho
+04 26 01 01 03 018 00 La Loma de Las Caobas
+04 26 01 01 03 019 00 Gurabo Adentro
+04 26 01 01 04 000 00 Los Cercadillos
+04 26 01 01 04 001 00 Rancho de las Mujeres
+04 26 01 01 04 002 00 El Pomo
+04 26 01 01 04 003 00 Los Planes Arriba
+04 26 01 01 04 004 00 Los Planes Abajo
+04 26 01 01 04 005 00 El Corozo Arriba
+04 26 01 01 04 006 00 El Corozo Abajo
+04 26 01 01 04 007 00 Mata Clara
+04 26 01 01 04 008 00 Mata de Limón
+04 26 01 01 04 009 00 Mata Bonita
+04 26 01 01 04 010 00 Pinar Claro
+04 26 01 01 04 011 00 El Romerillo
+04 26 01 01 04 012 00 Quebrada Honda
+04 26 01 01 04 013 00 La Tarana
+04 26 01 01 04 014 00 Los Cercadillos al Medio
+04 26 01 01 04 015 00 El Guanal
+04 26 01 01 04 016 00 El Pozo
+04 26 01 01 04 017 00 Pata de Vaca
+04 26 01 01 04 018 00 Palmarejo
+04 26 01 01 04 019 00 Lázaro
+04 26 01 01 04 020 00 La Laguneta
+04 26 01 01 04 021 00 Higüerito
+04 26 01 01 04 022 00 Los Cercadillos Abajo
+04 26 01 01 04 023 00 Higüerito Arriba
+04 26 01 01 04 024 00 Minaya
+04 26 01 01 04 025 00 Los Cercadillos Arriba
+04 26 01 01 05 000 00 Clavijo
+04 26 01 01 05 001 00 Clavijo
+04 26 01 01 05 002 00 El Guanábano
+04 26 01 01 05 003 00 Cerro de la Estancia
+04 26 01 01 05 004 00 Clavijo Abajo
+04 26 01 01 05 005 00 Los Carderejos
+04 26 01 01 05 006 00 Cañada de Palma
+04 26 01 01 05 007 00 Arroyo del Cuano
+04 26 01 01 05 008 00 Luis Gómez
+04 26 01 01 05 009 00 La Peñita
+04 26 01 01 05 010 00 Sabana de Maguana
+04 26 01 01 05 011 00 Cruce de Maguana
+04 26 01 01 05 012 00 Conuco Lejos
+04 26 01 01 05 013 00 La Maguana
+04 26 01 01 05 014 00 Hundideros
+04 26 01 01 05 015 00 Los García
+04 26 01 01 05 016 00 Copeyal
+04 26 01 01 05 017 00 La Piña
+04 26 01 01 05 018 00 Mesa
+04 26 01 01 06 000 00 Coqui
+04 26 01 01 06 001 00 Coqui
+04 26 01 01 06 002 00 Los Guayubines
+04 26 01 01 06 003 00 La Ceiba
+04 26 01 01 06 004 00 Palo Amarillo
+04 26 01 01 07 000 00 Estancia Vieja
+04 26 01 01 07 001 00 Pastor
+04 26 01 01 07 002 00 Cerro Chino
+04 26 01 01 07 003 00 Sebastián
+04 26 01 01 07 004 00 Barrigón
+04 26 01 01 07 005 00 Cordero
+04 26 01 01 07 006 00 La Reforma
+04 26 01 01 07 007 00 El Capacito
+04 26 01 01 07 008 00 Estancita
+04 26 01 01 07 009 00 Estancia Vieja
+04 26 01 01 08 000 00 Mata de Jobo
+04 26 01 01 08 001 00 Naranjo de China
+04 26 01 01 08 002 00 Hato Viejo
+04 26 01 01 08 003 00 El Guano
+04 26 01 01 08 004 00 Mata de Jobo
+04 26 01 01 08 005 00 Los Bambúes
+04 26 01 01 08 006 00 Cañada de Palma
+04 26 01 01 08 007 00 El Limón
+04 26 01 01 08 008 00 Mata Macey
+04 26 01 01 08 009 00 Los Candelones
+04 26 01 01 08 010 00 La Castilla
+04 26 01 01 08 011 00 Alto de Cana
+04 26 01 01 08 012 00 La Puerta del Mulo
+04 26 01 01 08 013 00 Palo Blanco
+04 26 01 01 08 014 00 El Rodeo o Mata de Tuna
+04 26 01 01 08 015 00 Juan Becerro
+04 26 01 01 08 016 00 El Candelón
+04 26 01 01 08 017 00 María García
+04 26 01 01 08 018 00 Cabezada del Caimito
+04 26 01 01 09 000 00 Palmarejo
+04 26 01 01 09 001 00 La Maguanita
+04 26 01 01 09 002 00 La Lima
+04 26 01 01 09 003 00 La Cabirmita
+04 26 01 01 09 004 00 Amacey Picado
+04 26 01 01 09 005 00 Nizay
+04 26 01 01 09 006 00 Los Ramones
+04 26 01 01 09 007 00 Brazo Chiquito
+04 26 01 01 09 008 00 La Patilla
+04 26 01 01 09 009 00 Rincón Llano
+04 26 01 01 09 010 00 La Jagua
+04 26 01 01 09 011 00 Piedra Blanca
+04 26 01 01 09 012 00 Los Jobos
+04 26 01 01 09 013 00 El Jobo
+04 26 01 01 09 014 00 El Llano
+04 26 01 01 09 015 00 La Guama
+04 26 01 01 09 016 00 Palmarejo
+04 26 01 01 09 017 00 Rincón Alto
+04 26 01 01 09 018 00 La Osúa
+04 26 01 01 09 019 00 El Naranjito
+04 26 01 01 09 020 00 Los Palmaritos
+04 26 01 01 09 021 00 El Guayabo
+04 26 01 01 09 022 00 Revolcaderos
+04 26 01 01 09 023 00 El Bebedero
+04 26 01 01 09 024 00 Los Castilo (Los Castillo)
+04 26 01 01 10 000 00 San José
+04 26 01 01 10 001 00 La Breña Abajo
+04 26 01 01 10 002 00 El Guayabito
+04 26 01 01 10 003 00 Baboso
+04 26 01 01 10 004 00 La Tuatúa
+04 26 01 01 10 005 00 Pastor
+04 26 01 01 10 006 00 El Rincón
+04 26 01 01 10 007 00 Sabana Abajo
+04 26 01 01 10 008 00 El Café
+04 26 01 01 10 009 00 Las Ánimas
+04 26 01 01 10 010 00 Los Cerros
+04 26 01 01 10 011 00 La Enramada
+04 26 01 01 10 012 00 Los Bombones
+04 26 01 01 10 013 00 San José
+04 26 01 01 10 014 00 El Orégano
+04 26 01 01 10 015 00 Sabana Arriba
+04 26 01 01 10 016 00 El Candejón
+04 26 01 01 10 017 00 La Baitoa
+04 26 01 01 10 018 00 Los Tocones
+04 26 01 01 10 019 00 Zamba Arriba
+04 26 01 01 10 020 00 Los Cajuiles
+04 26 01 01 10 021 00 Los Tomines
+04 26 01 01 10 022 00 Los Indios
+04 26 01 01 10 023 00 El Caimito
+04 26 01 01 10 024 00 Sabaneta Redonda
+04 26 01 01 10 025 00 Los Puentes de Tomines
+04 26 01 01 10 026 00 Los Tomines Abajo
+04 26 01 01 10 027 00 Los Pravieles
+04 26 01 01 10 028 00 Zamba
+04 26 01 01 11 000 00 toma
+04 26 01 01 11 001 00 El Poblado
+04 26 01 01 11 002 00 La Leonor
+04 26 01 01 11 003 00 Toma - Pinar Sucio
+04 26 01 01 11 004 00 La Bija
+04 26 01 01 11 005 00 El Aguacate
+04 26 01 01 11 006 00 Loma Escondida
+04 26 01 01 11 007 00 Loma Vieja
+04 26 01 01 11 008 00 Arroyo Montazo
+04 26 01 01 11 009 00 El Cerrazo
+04 26 01 01 11 010 00 Los Amaceyes (Cadillo)
+04 26 01 01 11 011 00 Los Anquelles
+04 26 01 01 11 012 00 La Cabirma
+04 26 01 01 11 013 00 Cenoví
+04 26 01 01 11 014 00 La Cidra
+04 26 01 01 11 015 00 La Cidrita
+04 26 01 01 11 016 00 Loma de Cana
+04 26 01 01 11 017 00 Los Alzafraz
+04 26 01 01 11 018 00 Fuquete
+04 26 01 01 11 019 00 Loma de Copey
+04 26 01 01 11 020 00 Hoya Grande
+04 26 01 01 11 021 00 La Peonía
+04 26 01 01 11 022 00 Los Hundideros
+04 26 01 01 11 023 00 El Montazo
+04 26 01 01 11 024 00 El Vallecito
+04 26 01 01 11 025 00 Los Higos
+04 26 01 01 11 026 00 Loma los Palos de Escoba
+04 26 01 01 11 027 00 Palo de Burro
+04 26 01 01 11 028 00 Loma Cenoví
+04 26 01 01 11 029 00 Parque Nacional
+04 26 02 00 00 000 00 Villa Los Almácigos
+04 26 02 01 00 000 00 Villa Los Almácigos
+04 26 02 01 01 000 00 Villa Los Almácigos (Zona urbana)
+04 26 02 01 01 001 00 Baldemiro Carreras
+04 26 02 01 01 001 01 Baldemiro Carreras
+04 26 02 01 01 002 00 la ceiba
+04 26 02 01 01 002 01 La Ceiba
+04 26 02 01 01 003 00 San isidro
+04 26 02 01 01 003 01 San Isidro
+04 26 02 01 01 004 00 El Fundo
+04 26 02 01 01 004 01 El Fundo
+04 26 02 01 01 005 00 Enriquillo o La Gallera
+04 26 02 01 01 005 01 Enriquillo o La Gallera
+04 26 02 01 01 005 02 El Liceo
+04 26 02 01 02 000 00 Ceiba de Bonet
+04 26 02 01 02 001 00 Yaya Picada
+04 26 02 01 02 002 00 Los Naranjos
+04 26 02 01 02 003 00 El Jengibre
+04 26 02 01 02 004 00 Musú
+04 26 02 01 02 005 00 La Ceiba de Bonet
+04 26 02 01 02 006 00 La Luisa
+04 26 02 01 03 000 00 El Dajao
+04 26 02 01 03 001 00 Los Aguacates
+04 26 02 01 03 002 00 Cerro El Dajao
+04 26 02 01 03 003 00 Loma Llana
+04 26 02 01 03 004 00 El Cabirmal
+04 26 02 01 03 005 00 Los Carmoníes
+04 26 02 01 03 006 00 Loma de Tomás
+04 26 02 01 03 007 00 Los Palmaritos
+04 26 02 01 03 008 00 Loma del Perico
+04 26 02 01 03 009 00 Palo Bonito
+04 26 02 01 03 010 00 Loma de Palo Bonito
+04 26 02 01 03 011 00 Las Berbenas
+04 26 02 01 03 012 00 El Dajao
+04 26 02 01 03 013 00 Los Dajaitos
+04 26 02 01 03 014 00 Julupe
+04 26 02 01 03 015 00 Los Jaiquices
+04 26 02 01 04 000 00 El Fundo
+04 26 02 01 04 001 00 El Caimital Arriba
+04 26 02 01 04 002 00 El Resbaloso
+04 26 02 01 04 003 00 Los Hoyos
+04 26 02 01 04 004 00 Monier
+04 26 02 01 04 005 00 El Algarrobo
+04 26 02 01 04 006 00 El Fundo
+04 26 02 01 04 007 00 La Guásima
+04 26 02 01 04 008 00 La Soya (Soyo)
+04 26 02 01 05 000 00 la Ginita
+04 26 02 01 05 001 00 La Ceiba Abajo
+04 26 02 01 05 002 00 Los Rodríguez
+04 26 02 01 05 003 00 Palo Alto
+04 26 02 01 05 004 00 La Ginita
+04 26 02 01 05 005 00 Palma Larga
+04 26 02 01 05 006 00 Cerca de La Piña
+04 26 02 01 05 007 00 La Piña
+04 26 02 01 05 008 00 Boca de Vereda
+04 26 02 01 05 009 00 Arroyito Malo
+04 26 02 01 05 010 00 La Canastica o Canastilla
+04 26 02 01 05 011 00 Los Cinco (5) Puercos
+04 26 02 01 05 012 00 La Pionía
+04 26 02 01 05 013 00 El Limón
+04 26 02 01 05 014 00 La Cidra
+04 26 02 01 05 015 00 Burende
+04 26 02 01 05 016 00 La Ceiba Arriba
+04 26 02 01 05 017 00 Colonia El Naranjito
+04 26 02 01 05 018 00 Colonia Los Limones
+04 26 02 01 05 019 00 El Valle
+04 26 02 01 05 020 00 Llano de La Pionía
+04 26 02 01 06 000 00 Inaje
+04 26 02 01 06 001 00 Bohío Viejo
+04 26 02 01 06 002 00 Los Naranjos
+04 26 02 01 06 003 00 Los Candelones
+04 26 02 01 06 004 00 Sabana de Inaje
+04 26 02 01 06 005 00 Higüero
+04 26 02 01 06 006 00 Los Inajitos o Los Najitos
+04 26 02 01 06 007 00 Inaje
+04 26 02 01 06 008 00 Caimital Abajo
+04 26 02 01 06 009 00 Los Cacaos
+04 26 02 01 06 010 00 Los Arroyitos
+04 26 02 01 07 000 00 la lana
+04 26 02 01 07 001 00 La Lana o La Calle de la Bebida
+04 26 02 01 07 002 00 Ceja Larga
+04 26 02 01 07 003 00 Rancho Viejo
+04 26 02 01 07 004 00 Cruce de la Lana
+04 26 02 01 07 005 00 La Madrecita
+04 26 03 00 00 000 00 Monción
+04 26 03 01 00 000 00 Monción
+04 26 03 01 01 000 00 Monción (Zona urbana)
+04 26 03 01 01 001 00 cañada Grande
+04 26 03 01 01 001 01 Cañada Grande
+04 26 03 01 01 001 02 Residencial Ovidio L. Henderson
+04 26 03 01 01 002 00 El Cepillo
+04 26 03 01 01 002 01 El Cepillo
+04 26 03 01 01 003 00 Nuevo
+04 26 03 01 01 003 01 Nuevo
+04 26 03 01 01 004 00 urbanización Peralta
+04 26 03 01 01 004 01 Urbanización Peralta
+04 26 03 01 01 005 00 Los Juncos
+04 26 03 01 01 005 01 Los Juncos
+04 26 03 01 01 006 00 27 Parte Atrás La Noria
+04 26 03 01 01 006 01 27 Parte Atrás La Noria
+04 26 03 01 01 007 00 El centro
+04 26 03 01 01 007 01 El Centro
+04 26 03 01 01 008 00 Plan Sierra
+04 26 03 01 01 008 01 Plan Sierra
+04 26 03 01 01 009 00 El cerro
+04 26 03 01 01 009 01 El Cerro
+04 26 03 01 02 000 00 El Mamoncito
+04 26 03 01 02 001 00 El Mamoncito
+04 26 03 01 02 002 00 Los Juncos
+04 26 03 01 02 003 00 La Pastilla
+04 26 03 01 02 004 00 Veladero
+04 26 03 01 02 005 00 Loma al Medio
+04 26 03 01 02 006 00 Bulla
+04 26 03 01 02 007 00 Hato Viejo
+04 26 03 01 02 008 00 Arroyo Bulla
+04 26 03 01 02 009 00 Arroyo Seco
+04 26 03 01 02 010 00 Las Chorreras
+04 26 03 01 02 011 00 Los Báez
+04 26 03 01 03 000 00 Gurabo
+04 26 03 01 03 001 00 Gurabito
+04 26 03 01 03 002 00 Gurabo
+04 26 03 01 03 003 00 Los Bañaderos
+04 26 03 01 03 004 00 Los Barrancones
+04 26 03 01 03 005 00 Alto de Gurabo
+04 26 03 01 03 006 00 Cruce de Durán
+04 26 03 01 03 007 00 Maguanita
+04 26 03 01 03 008 00 El Guayabal
+04 26 03 01 03 009 00 Monte Higüero
+04 26 03 01 03 010 00 El Ranchito
+04 26 03 01 03 011 00 Guamacha
+04 26 03 01 03 012 00 La Estancia
+04 26 03 01 03 013 00 Las Rejoyas
+04 26 03 01 03 014 00 Botoncillo
+04 26 03 01 03 015 00 El Hoyo de los Toros
+04 26 03 01 03 016 00 Cañada Grande
+04 26 03 01 03 017 00 Loma del Dajao
+04 26 03 01 03 018 00 Llano de La Meseta (La Meseta Arriba)
+04 26 03 01 03 019 00 Arroyo Los Dajaos
+04 26 03 01 04 000 00 La Cacique
+04 26 03 01 04 001 00 La Cacique
+04 26 03 01 04 002 00 Los Pinos
+04 26 03 01 04 003 00 Arroyo de Agua
+04 26 03 01 04 004 00 Los Calabozos
+04 26 03 01 04 005 00 Mata Grande
+04 26 03 01 05 000 00 rodeo
+04 26 03 01 05 001 00 Arroyo El Dajao
+04 26 03 01 05 002 00 Sabaneta
+04 26 03 01 05 003 00 Durán
+04 26 03 01 05 004 00 El Cacao
+04 26 03 01 05 005 00 El Rodeo
+04 26 03 01 05 006 00 Los Ranchos
+04 26 03 01 05 007 00 Los Cercadillos
+04 26 03 01 05 008 00 Loma de Tanque (Botoncillo)
+04 26 03 01 05 009 00 El Hoyazo

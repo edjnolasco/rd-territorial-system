@@ -1,0 +1,280 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+06 10 00 00 00 000 00 Independencia
+06 10 01 00 00 000 00 Jimaní
+06 10 01 01 00 000 00 Jimaní
+06 10 01 01 01 000 00 Jimaní (Zona urbana)
+06 10 01 01 01 001 00 cuarenta
+06 10 01 01 01 001 01 Cuarenta
+06 10 01 01 01 002 00 Jimaní Viejo
+06 10 01 01 01 002 01 Jimaní Viejo
+06 10 01 01 01 002 02 Espartillo
+06 10 01 01 01 002 03 INVI
+06 10 01 01 01 003 00 Militar
+06 10 01 01 01 003 01 Militar
+06 10 01 01 01 004 00 Jimaní Nuevo o Centro del Pueblo
+06 10 01 01 01 004 01 Jimaní Nuevo o Centro del Pueblo
+06 10 01 01 01 005 00 Villa Armonía o Nuevo
+06 10 01 01 01 005 01 Villa Armonía o Nuevo
+06 10 01 01 01 006 00 El cerro
+06 10 01 01 01 006 01 El Cerro
+06 10 01 01 01 007 00 la Q
+06 10 01 01 01 007 01 La Q
+06 10 01 01 01 008 00 La Cincuenta
+06 10 01 01 01 008 01 La Cincuenta
+06 10 01 01 01 009 00 Villa Solidaridad
+06 10 01 01 01 009 01 Villa Solidaridad
+06 10 01 01 02 000 00 Arroyo Blanco
+06 10 01 01 02 001 00 Arroyo Blanco
+06 10 01 01 02 002 00 Mal Paso
+06 10 01 01 02 003 00 Las Peñas
+06 10 01 01 02 004 00 Jimaní Viejo
+06 10 01 02 00 000 00 El Limón (DM)
+06 10 01 02 01 000 00 El Limón (Zona urbana)
+06 10 01 02 01 001 00 la cuarenta casas
+06 10 01 02 01 001 01 La Cuarenta Casas
+06 10 01 02 01 001 02 El Abanico
+06 10 01 02 01 001 03 Las 23 Casas
+06 10 01 02 01 002 00 La Piedra
+06 10 01 02 01 002 01 La Piedra
+06 10 01 02 01 003 00 la cien
+06 10 01 02 01 003 01 La Cien
+06 10 01 02 01 004 00 Palmarito
+06 10 01 02 01 004 01 Palmarito
+06 10 01 02 01 005 00 La Bomba
+06 10 01 02 01 005 01 La Bomba
+06 10 01 02 01 006 00 El Play
+06 10 01 02 01 006 01 El Play
+06 10 01 02 02 000 00 Mortero
+06 10 01 02 02 001 00 La Playa
+06 10 01 02 02 002 00 El Palmar
+06 10 01 02 02 003 00 Casimiro
+06 10 01 02 02 004 00 Monte de los Negros
+06 10 01 02 02 005 00 Las Lajitas
+06 10 01 02 02 006 00 El Otro Lado
+06 10 01 02 02 007 00 La Peronila
+06 10 01 02 02 008 00 La Guácima
+06 10 01 02 02 009 00 Los Limones
+06 10 01 02 02 010 00 Montero
+06 10 01 02 03 000 00 La Florida
+06 10 01 02 03 001 00 Los Pinos
+06 10 01 02 03 002 00 Cruce del Limón
+06 10 01 02 03 003 00 La Florida
+06 10 01 03 00 000 00 Boca de Cachón (DM)
+06 10 01 03 01 000 00 Boca de Cachón (Zona urbana)
+06 10 01 03 01 001 00 Boca de Cachón
+06 10 01 03 01 001 01 Boca de Cachón
+06 10 01 03 02 000 00 tierra Nueva
+06 10 01 03 02 001 00 Tierra Nueva
+06 10 01 03 02 002 00 Las Lajas
+06 10 01 03 02 003 00 Tierra Virgen
+06 10 01 03 02 004 00 Pedro Cuevas
+06 10 01 03 02 005 00 Martín Brunito
+06 10 01 03 02 006 00 José Joaquín Puello
+06 10 01 03 02 007 00 Boca de Cachón
+06 10 02 00 00 000 00 Duvergé
+06 10 02 01 00 000 00 Duvergé
+06 10 02 01 01 000 00 Duvergé (Zona urbana)
+06 10 02 01 01 001 00 San José
+06 10 02 01 01 001 01 San José
+06 10 02 01 01 001 02 Nuevo
+06 10 02 01 01 002 00 Placer Bonito
+06 10 02 01 01 002 01 Placer Bonito
+06 10 02 01 01 003 00 Las Mercedes
+06 10 02 01 01 003 01 Las Mercedes
+06 10 02 01 01 003 02 Los Carrizos
+06 10 02 01 01 004 00 camboya
+06 10 02 01 01 004 01 Camboya
+06 10 02 01 01 004 02 Los Guineos
+06 10 02 01 01 005 00 Nuevo Amanecer
+06 10 02 01 01 005 01 Nuevo Amanecer
+06 10 02 01 01 006 00 San isidro
+06 10 02 01 01 006 01 San Isidro
+06 10 02 01 01 006 02 Los Berros
+06 10 02 01 01 007 00 las Damas
+06 10 02 01 01 007 01 Las Damas
+06 10 02 01 01 008 00 Brisas del Río
+06 10 02 01 01 008 01 Brisas del Río
+06 10 02 01 01 009 00 Buenos Aires
+06 10 02 01 01 009 01 Buenos Aires
+06 10 02 01 02 000 00 Puerto Escondido
+06 10 02 01 02 001 00 Puerto Escondido
+06 10 02 01 02 002 00 Escondido
+06 10 02 01 02 003 00 Altamisar
+06 10 02 01 02 004 00 Palo de Leche
+06 10 02 01 02 005 00 El Aguacate
+06 10 02 02 00 000 00 Vengan a Ver (DM)
+06 10 02 02 01 000 00 Vengan a Ver (Zona urbana)
+06 10 02 02 01 001 00 Brisas del Lago
+06 10 02 02 01 001 01 Brisas del Lago
+06 10 02 02 01 002 00 los Yesos
+06 10 02 02 01 002 01 Los Yesos
+06 10 02 02 01 003 00 Las Piedras
+06 10 02 02 01 003 01 Las Piedras
+06 10 02 02 01 004 00 Centro del Pueblo
+06 10 02 02 01 004 01 Centro del Pueblo
+06 10 02 02 01 005 00 Duarte arriba o Duarte atrás
+06 10 02 02 01 005 01 Duarte Arriba o Duarte Atrás
+06 10 02 02 01 006 00 El Barrio
+06 10 02 02 01 006 01 El Barrio
+06 10 02 02 02 000 00 Las Baitoas
+06 10 02 02 02 001 00 Las Baitoas
+06 10 02 02 02 002 00 San José
+06 10 02 02 02 003 00 Vuelta Grande
+06 10 03 00 00 000 00 La Descubierta
+06 10 03 01 00 000 00 La Descubierta
+06 10 03 01 01 000 00 La Descubierta (Zona urbana)
+06 10 03 01 01 001 00 Centro del Pueblo
+06 10 03 01 01 001 01 Centro del Pueblo
+06 10 03 01 01 002 00 El Palmito
+06 10 03 01 01 002 01 El Palmito
+06 10 03 01 01 002 02 La 20
+06 10 03 01 01 003 00 El Ganadero
+06 10 03 01 01 003 01 El Ganadero
+06 10 03 01 01 003 02 Nuevo
+06 10 03 01 01 004 00 María Auxiliadora o La Meseta
+06 10 03 01 01 004 01 María Auxiliadora o La Meseta
+06 10 03 01 01 005 00 Rincón Collado
+06 10 03 01 01 005 01 Rincón Collado
+06 10 03 01 01 006 00 Los Limoncitos
+06 10 03 01 01 006 01 Los Limoncitos
+06 10 03 01 02 000 00 Ángel Félix
+06 10 03 01 02 001 00 ángel Félix
+06 10 03 01 02 002 00 Sabana Real
+06 10 03 01 02 003 00 Bonete
+06 10 03 01 03 000 00 Los Pinos
+06 10 03 01 03 001 00 Charco Largo
+06 10 03 01 03 002 00 Palo Alto
+06 10 03 01 03 003 00 Granada
+06 10 03 01 03 004 00 El Bejuco
+06 10 03 01 03 005 00 La Cañaíta
+06 10 03 01 03 006 00 Los Pinos del Edén
+06 10 03 01 03 007 00 Guasosa
+06 10 03 01 03 008 00 El Arroyo
+06 10 03 01 03 009 00 La Plena
+06 10 03 01 03 010 00 El Cao
+06 10 03 01 03 011 00 Acitrón
+06 10 03 01 03 012 00 El Cantón
+06 10 03 01 03 013 00 Cruce de Granada
+06 10 03 01 03 014 00 El Naranjo
+06 10 03 01 03 015 00 Los Borbollones
+06 10 03 01 03 016 00 Cerros los Trates
+06 10 03 01 04 000 00 Bartolomé
+06 10 03 01 04 001 00 Bartolomé
+06 10 03 01 04 002 00 Los Geños
+06 10 03 01 04 003 00 El Higüero 
+06 10 04 00 00 000 00 Postrer Río
+06 10 04 01 00 000 00 Postrer Río
+06 10 04 01 01 000 00 Postrer Río (Zona urbana)
+06 10 04 01 01 001 00 El Otro Lado del Río
+06 10 04 01 01 001 01 El Otro Lado del Río
+06 10 04 01 01 002 00 Caimaní
+06 10 04 01 01 002 01 Caimaní
+06 10 04 01 01 003 00 Mogote o El cerro
+06 10 04 01 01 003 01 Mogote o El Cerro
+06 10 04 01 01 004 00 Centro del Pueblo
+06 10 04 01 01 004 01 Centro del Pueblo
+06 10 04 01 01 005 00 Tierra Seca
+06 10 04 01 01 005 01 Tierra Seca
+06 10 04 01 01 005 02 Tierra Prieta
+06 10 04 01 01 006 00 Nuevo
+06 10 04 01 01 006 01 Nuevo
+06 10 04 01 02 000 00 Los Bolos
+06 10 04 01 02 001 00 Los Bolos
+06 10 04 01 02 002 00 El Cerro
+06 10 04 01 02 003 00 La Peña
+06 10 04 01 02 004 00 Los Ranchitos
+06 10 04 01 02 005 00 La Filipina
+06 10 04 01 02 006 00 Los Almendros
+06 10 04 01 02 007 00 La Finca
+06 10 04 01 02 008 00 La Caña
+06 10 04 01 02 009 00 Las Chicharras
+06 10 04 01 02 010 00 Las Auyamas
+06 10 04 01 02 011 00 Río Abajo
+06 10 04 01 02 012 00 El Otro Lado
+06 10 04 01 02 013 00 Los Limones
+06 10 04 02 00 000 00 Guayabal (DM)
+06 10 04 02 01 000 00 Guayabal (Zona urbana)
+06 10 04 02 01 001 00 Guayabal
+06 10 04 02 01 001 01 Guayabal
+06 10 04 02 02 000 00 Cabeza de Río
+06 10 04 02 02 001 00 Cabeza de Río
+06 10 04 02 02 002 00 Bayona
+06 10 04 02 02 003 00 Los Conuquitos
+06 10 04 02 02 004 00 Las Telas
+06 10 04 02 03 000 00 El Maniel
+06 10 04 02 03 001 00 El Maniel
+06 10 04 02 03 002 00 Paso de los Novillos
+06 10 04 02 03 003 00 Barreras
+06 10 04 02 03 004 00 Los Pinalitos
+06 10 04 02 03 005 00 Gajo del Rancho
+06 10 04 02 03 006 00 La Guamita
+06 10 04 02 03 007 00 Las Lechuzas o Los Morales
+06 10 04 02 03 008 00 Agüita Prieta
+06 10 04 02 03 009 00 Tasajera del Chivo
+06 10 04 02 04 000 00 Raíz Picada
+06 10 04 02 04 001 00 Raíz Picada
+06 10 04 02 04 002 00 Los Carraos
+06 10 04 02 04 003 00 Gregorio
+06 10 04 02 05 000 00 Guayabal
+06 10 04 02 05 001 00 Pie Cadencia
+06 10 05 00 00 000 00 Cristóbal
+06 10 05 01 00 000 00 Cristóbal
+06 10 05 01 01 000 00 Cristóbal (Zona urbana)
+06 10 05 01 01 001 00 Centro del Pueblo
+06 10 05 01 01 001 01 Centro del Pueblo
+06 10 05 01 01 002 00 Viejo
+06 10 05 01 01 002 01 Viejo
+06 10 05 01 01 003 00 El cedro o El centro
+06 10 05 01 01 003 01 El Cedro o El Centro
+06 10 05 01 01 004 00 Los Parceleros o Nuevo
+06 10 05 01 01 004 01 Los Parceleros o Nuevo
+06 10 05 01 01 005 00 Villa Progreso
+06 10 05 01 01 005 01 Villa Progreso
+06 10 05 02 00 000 00 Batey 8 (DM)
+06 10 05 02 01 000 00 Batey 8 (Zona urbana)
+06 10 05 02 01 001 00 Batey 8
+06 10 05 02 01 001 01 Batey 8
+06 10 05 02 01 001 02 El Plan
+06 10 05 02 01 001 03 Visión Mundial
+06 10 05 02 02 000 00 Batey 7
+06 10 05 02 02 001 00 Batey 7
+06 10 05 02 02 002 00 Bateicito
+06 10 05 02 02 003 0 Laguna Rincon 
+06 10 05 02 03 000 00 Batey 9
+06 10 05 02 03 001 00 Batey 9
+06 10 05 02 03 002 00 Batey 8 (Rural)
+06 10 05 02 04 000 00 Batey 10
+06 10 05 02 04 001 00 Batey 10
+06 10 06 00 00 000 00 Mella
+06 10 06 01 00 000 00 Mella
+06 10 06 01 01 000 00 Mella (Zona urbana)
+06 10 06 01 01 001 00 Pueblo Nuevo
+06 10 06 01 01 001 01 Pueblo Nuevo
+06 10 06 01 01 002 00 Sector Nuevo
+06 10 06 01 01 002 01 Sector Nuevo
+06 10 06 01 01 003 00 Q de arriba
+06 10 06 01 01 003 01 Q de Arriba
+06 10 06 01 01 004 00 Q de Abajo
+06 10 06 01 01 004 01 Q de Abajo
+06 10 06 01 02 000 00 angostura
+06 10 06 01 02 001 00 Berbesí
+06 10 06 01 02 002 00 Charabiscal
+06 10 06 01 02 003 00 Proyecto (Proyecto Agrario A-C 151)
+06 10 06 01 02 004 00 Charco Largo
+06 10 06 01 02 005 00 Cachón
+06 10 06 01 02 006 00 Los Pasos (Los Pasos de Mella)
+06 10 06 01 02 007 00 El Flaco
+06 10 06 01 02 008 00 Monte Palma
+06 10 06 01 02 009 00 Angostura
+06 10 06 02 00 000 00 La Colonia (DM)
+06 10 06 02 01 000 00 La Colonia (Zona urbana)
+06 10 06 02 01 001 00 Colonia Mixta
+06 10 06 02 01 001 01 Colonia Mixta
+06 10 06 02 01 002 00 Japón
+06 10 06 02 01 002 01 Japón
+06 10 06 02 02 000 00 Colonia Japón
+06 10 06 02 02 001 00 El Japón
+06 10 06 02 02 002 00 Palmar Dulce
+06 10 06 02 02 003 00 El Abanico
