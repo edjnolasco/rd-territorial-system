@@ -29,9 +29,8 @@ from rd_territorial_system.api.security import (
     is_public_path,
 )
 from rd_territorial_system.api.settings import get_settings
-from rd_territorial_system.metrics.metrics_collector import MetricsCollector
 from rd_territorial_system.metrics.metrics_schema import RequestMetrics
-from rd_territorial_system.metrics.metrics_store import MetricsStore
+from rd_territorial_system.metrics.runtime import metrics
 
 # ------------------------------------------------------------------------------
 # Settings
@@ -46,7 +45,6 @@ settings = get_settings()
 configure_logging(level=getattr(logging, settings.log_level.upper(), logging.INFO))
 logger = logging.getLogger("rd_territorial_system.api")
 
-metrics = MetricsCollector(MetricsStore())
 
 # ------------------------------------------------------------------------------
 # App
