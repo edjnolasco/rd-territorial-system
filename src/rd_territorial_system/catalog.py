@@ -33,9 +33,12 @@ SUPPORTED_LEVELS: tuple[str, ...] = (
     "toponym",
 )
 
-PACKAGE_ROOT = Path(__file__).resolve().parents[2]
-DATA_ROOT = PACKAGE_ROOT / "data"
-CATALOG_ROOT = DATA_ROOT / "catalog"
+from importlib.resources import files
+
+# 🔥 Ruta interna del paquete (funciona en wheel)
+PACKAGE_DATA_ROOT = files("rd_territorial_system") / "data"
+
+CATALOG_ROOT = Path(PACKAGE_DATA_ROOT / "catalog")
 REGISTRY_PATH = CATALOG_ROOT / "registry.json"
 
 CURRENT_CATALOG_DIRNAME = "current"

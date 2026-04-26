@@ -1,14 +1,16 @@
 from pathlib import Path
+from importlib.resources import files
 
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
-DATA_DIR = BASE_DIR / "data"
-RAW_DATA_DIR = DATA_DIR / "raw"
+# =========================
+# 🔥 DATA EMBEBIDA (RUNTIME)
+# =========================
+
+PACKAGE_DATA_ROOT = files("rd_territorial_system") / "data"
+
+DATA_DIR = Path(PACKAGE_DATA_ROOT)
+CATALOG_DIR = DATA_DIR / "catalog"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 RECONCILIATION_DIR = DATA_DIR / "reconciliation"
-
-ONE_RAW_DIR = RAW_DATA_DIR / "one"
-GADM_ADM1_ZIP = RAW_DATA_DIR / "gadm" / "gadm41_DOM_1.json.zip"
-GADM_ADM2_ZIP = RAW_DATA_DIR / "gadm" / "gadm41_DOM_2.json.zip"
 
 PROVINCES_OUTPUT = PROCESSED_DATA_DIR / "provinces.geojson"
 MUNICIPALITIES_OUTPUT = PROCESSED_DATA_DIR / "municipalities.geojson"
@@ -20,3 +22,17 @@ UNMATCHED_MUNICIPALITIES_OUTPUT = PROCESSED_DATA_DIR / "unmatched_municipalities
 LOW_CONFIDENCE_OUTPUT = PROCESSED_DATA_DIR / "low_confidence_matches.csv"
 
 MUNICIPALITY_OVERRIDES_CSV = RECONCILIATION_DIR / "municipality_overrides.csv"
+
+# =========================
+# ⚙️ DATA EXTERNA (PIPELINE)
+# =========================
+
+# Estas rutas SOLO se usan en scripts, no en runtime
+PROJECT_ROOT = Path.cwd()
+
+DATA_PIPELINE_DIR = PROJECT_ROOT / "data_pipeline"
+RAW_DATA_DIR = DATA_PIPELINE_DIR / "raw"
+
+ONE_RAW_DIR = RAW_DATA_DIR / "one"
+GADM_ADM1_ZIP = RAW_DATA_DIR / "gadm" / "gadm41_DOM_1.json.zip"
+GADM_ADM2_ZIP = RAW_DATA_DIR / "gadm" / "gadm41_DOM_2.json.zip"

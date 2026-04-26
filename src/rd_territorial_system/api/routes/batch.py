@@ -7,9 +7,9 @@ from rd_territorial_system.api.errors import raise_for_strict_result
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
 )
-from rd_territorial_system.api.routes.resolve import enrich_resolve_payload
 from rd_territorial_system.api.schemas import BatchResolveRequest, ResolveResponse
 from rd_territorial_system.catalog import resolve_name
+from rd_territorial_system.core.enrichment import enrich_resolve_payload
 
 router = APIRouter(tags=["batch"])
 
