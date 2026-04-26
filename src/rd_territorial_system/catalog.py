@@ -5,6 +5,7 @@ import json
 from collections import defaultdict
 from dataclasses import asdict, dataclass
 from functools import lru_cache
+from importlib.resources import files
 from pathlib import Path
 from typing import Any, Iterable, Literal
 
@@ -32,8 +33,6 @@ SUPPORTED_LEVELS: tuple[str, ...] = (
     "sub_barrio",
     "toponym",
 )
-
-from importlib.resources import files
 
 # 🔥 Ruta interna del paquete (funciona en wheel)
 PACKAGE_DATA_ROOT = files("rd_territorial_system") / "data"
