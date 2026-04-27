@@ -1,0 +1,378 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+04 15 00 00 00 000 00 Monte Cristi
+04 15 01 00 00 000 00 Monte cristi
+04 15 01 01 00 000 00 Monte Cristi
+04 15 01 01 01 000 00 San Fernando de Monte Cristi (Zona urbana)
+04 15 01 01 01 001 00 Mejoramiento Social
+04 15 01 01 01 001 01 Mejoramiento Social
+04 15 01 01 01 002 00 La Antena Militar
+04 15 01 01 01 002 01 La Antena Militar
+04 15 01 01 01 003 00 El Fogonazo
+04 15 01 01 01 003 01 El Fogonazo
+04 15 01 01 01 004 00 Salomón Jorge
+04 15 01 01 01 004 01 Salomón Jorge
+04 15 01 01 01 005 00 Cristo Rey
+04 15 01 01 01 005 01 Cristo Rey
+04 15 01 01 01 006 00 Centro del Pueblo
+04 15 01 01 01 006 01 Centro del Pueblo
+04 15 01 01 01 007 00 La Albina
+04 15 01 01 01 007 01 La Albina
+04 15 01 01 01 008 00 Las Flores
+04 15 01 01 01 008 01 Las Flores
+04 15 01 01 01 009 00 San Fernando
+04 15 01 01 01 009 01 San Fernando
+04 15 01 01 01 010 00 San Pedro
+04 15 01 01 01 010 01 San Pedro
+04 15 01 01 01 010 02 Los Multi de Savica
+04 15 01 01 01 011 00 Bella Vista
+04 15 01 01 01 011 01 Bella Vista
+04 15 01 01 01 012 00 Guatapanal
+04 15 01 01 01 012 01 Guatapanal
+04 15 01 01 01 013 00 Buenos Aires
+04 15 01 01 01 013 01 Buenos Aires
+04 15 01 01 01 014 00 Los Maestros
+04 15 01 01 01 014 01 Los Maestros
+04 15 01 01 01 015 00 Proyecto Javier
+04 15 01 01 01 015 01 Proyecto Javier
+04 15 01 01 02 000 00 El Rincón
+04 15 01 01 02 001 00 El Gómez
+04 15 01 01 02 002 00 Jaiqui
+04 15 01 01 02 003 00 El Rincón
+04 15 01 01 02 004 00 Laguna Verde
+04 15 01 01 02 005 00 Batey Bisonó
+04 15 01 01 02 006 00 Isabel de Torres
+04 15 01 01 02 007 00 Vereda de Sinencio
+04 15 01 01 03 000 00 Las Aguas
+04 15 01 01 03 001 00 Las Aguas
+04 15 01 01 03 002 00 El Molino
+04 15 01 01 03 003 00 Mangruno
+04 15 01 01 03 004 00 Batey Isabel
+04 15 01 01 03 005 00 La Cruz de Palo Verde
+04 15 01 01 03 006 00 La Judea
+04 15 01 01 03 007 00 Batey Madre
+04 15 01 01 03 008 00 Batey Walterío
+04 15 01 01 03 009 00 Batey Maguaca
+04 15 01 01 03 010 00 Batey Higüero
+04 15 01 01 04 000 00 Las Peñas
+04 15 01 01 04 001 00 Las Peñas
+04 15 01 01 04 002 00 La Sequía
+04 15 01 01 04 003 00 Jaramillo
+04 15 01 01 04 004 00 Batey Juliana
+04 15 01 01 04 005 00 Nueva Judea
+04 15 01 01 04 006 00 Los Conucos
+04 15 01 01 04 007 00 El Morro
+04 15 01 01 05 000 00 El Duro
+04 15 01 01 05 001 00 El Duro
+04 15 01 01 06 000 00 Baitoal
+04 15 01 01 06 001 00 Baitoal
+04 15 02 00 00 000 00 Castañuelas
+04 15 02 01 00 000 00 Castañuelas
+04 15 02 01 01 000 00 Castañuelas (Zona urbana)
+04 15 02 01 01 001 00 Castañuelas
+04 15 02 01 01 001 01 Bella Vista
+04 15 02 01 01 001 02 Centro del Pueblo
+04 15 02 01 01 001 03 El Palmar
+04 15 02 01 01 001 04 El Cambrón
+04 15 02 01 01 001 05 Santa Mónica
+04 15 02 01 01 001 06 San Martín de Porres o Rincón Caliente
+04 15 02 01 03 000 00 Loma de Castañuelas
+04 15 02 01 03 001 00 Loma de Castañuelas
+04 15 02 01 03 002 00 Jobo Corcovado
+04 15 02 01 04 000 00 Castañuelas (Lozano)
+04 15 02 01 04 001 00 La Capitalita
+04 15 02 01 04 002 00 Lozano
+04 15 02 01 04 003 00 Punta de Garza
+04 15 02 02 00 000 00 Palo Verde (DM)
+04 15 02 02 01 000 00 Palo Verde (Zona Urbana)
+04 15 02 02 01 001 00 Palo Verde
+04 15 02 02 01 001 01 Los Barrancones
+04 15 02 02 01 001 02 La Reforma
+04 15 02 02 01 001 03 Centro del Pueblo
+04 15 02 02 01 001 04 Los Solares
+04 15 02 02 02 000 00 El Vigiador
+04 15 02 02 02 001 00 El Vigiador
+04 15 02 02 02 002 00 Molino Sucio
+04 15 02 02 03 000 00 Magdalena
+04 15 02 02 03 001 00 La Magdalena
+04 15 02 02 03 002 00 El Yaguarizo
+04 15 02 02 03 003 00 Los Cajuiles
+04 15 02 02 04 000 00 Hato Viejo
+04 15 02 02 04 001 00 Hato Viejo
+04 15 02 02 05 000 00 El Ahogado
+04 15 02 02 05 001 00 El Ahogado
+04 15 02 02 05 002 00 Finca Maule
+04 15 02 02 05 003 00 Los Chichiguaos
+04 15 03 00 00 000 00 Guayubín
+04 15 03 01 00 000 00 Guayubín
+04 15 03 01 01 000 00 Guayubín (Zona urbana)
+04 15 03 01 01 001 00 Sal si Puedes
+04 15 03 01 01 001 01 Sal si Puedes
+04 15 03 01 01 002 00 Manzana de Oro
+04 15 03 01 01 002 01 Manzana de Oro
+04 15 03 01 01 003 00 Canela
+04 15 03 01 01 003 01 Canela
+04 15 03 01 01 004 00 Gazcue
+04 15 03 01 01 004 01 Gazcue
+04 15 03 01 01 005 00 Santa Teresita
+04 15 03 01 01 005 01 Santa Teresita
+04 15 03 01 01 006 00 Monte Carmelo
+04 15 03 01 01 006 01 Monte Carmelo
+04 15 03 01 01 007 00 Venecia
+04 15 03 01 01 007 01 Venecia
+04 15 03 01 02 000 00 Juan Gómez
+04 15 03 01 02 001 00 La Salada
+04 15 03 01 02 002 00 Juan Gómez
+04 15 03 01 02 003 00 Sabana
+04 15 03 01 02 004 00 Villa Sinda
+04 15 03 01 02 005 00 El Campamento
+04 15 03 01 03 000 00 Martín García
+04 15 03 01 03 001 00 La Gata
+04 15 03 01 03 002 00 Monte Abajo
+04 15 03 01 03 003 00 Martín García
+04 15 03 01 03 004 00 El Guanito
+04 15 03 01 03 005 00 Los Guamachos
+04 15 03 01 03 006 00 La Vuelta
+04 15 03 01 03 007 00 Machete
+04 15 03 01 03 008 00 Cabeza de Toro
+04 15 03 01 03 009 00 Vaca Vieja
+04 15 03 01 03 010 00 Guayubincito
+04 15 03 01 03 011 00 El Charcón
+04 15 03 01 03 012 00 El Mangal
+04 15 03 01 03 013 00 Cayucal Abajo
+04 15 03 01 03 014 00 Cayucal
+04 15 03 01 03 015 00 La Antona
+04 15 03 01 03 016 00 El Pocito
+04 15 03 01 03 017 00 Villa Nueva
+04 15 03 01 03 018 00 Bohío Viejo
+04 15 03 01 04 000 00 Sabana Cruz
+04 15 03 01 04 001 00 Puerto Rico
+04 15 03 01 04 002 00 Sabana Cruz
+04 15 03 01 04 003 00 El Cayal
+04 15 03 01 04 004 00 Haití
+04 15 03 02 00 000 00 Villa Elisa (DM)
+04 15 03 02 01 000 00 Villa Elisa (Zona urbana)
+04 15 03 02 01 001 00 Villa Elisa
+04 15 03 02 01 001 01 Villa Elisa
+04 15 03 02 01 001 02 Mamá Tingó
+04 15 03 02 02 000 00 El Copey
+04 15 03 02 02 001 00 El Copey
+04 15 03 02 02 002 00 El Guayo
+04 15 03 02 02 003 00 Los Limones
+04 15 03 02 03 000 00 La Guajaca
+04 15 03 02 03 001 00 La Guajaca
+04 15 03 02 03 002 00 La Breña
+04 15 03 02 03 003 00 Sabana Bonita
+04 15 03 02 04 000 00 Hato del Medio Arriba
+04 15 03 02 04 001 00 Hato del Medio Arriba
+04 15 03 02 04 002 00 Hato del Medio Adentro
+04 15 03 02 04 003 00 Hato del Medio Abajo
+04 15 03 02 04 004 00 Villa Lobos Afuera
+04 15 03 02 04 005 00 Villa Lobos Adentro
+04 15 03 02 04 006 00 Rodeo o Rodero
+04 15 03 02 04 007 00 Barranca Blanca
+04 15 03 02 05 000 00 El Papayo
+04 15 03 02 05 001 00 El Papayo
+04 15 03 02 05 002 00 Agua de Las Palmas
+04 15 03 02 05 003 00 Cuesta Corvada
+04 15 03 02 05 004 00 Estero Balsa
+04 15 03 02 05 005 00 Puerto Juanita
+04 15 03 03 00 000 00 Hatillo Palma (DM)
+04 15 03 03 01 000 00 Hatillo Palma (Zona urbana)
+04 15 03 03 01 001 00 Hatillo Palma
+04 15 03 03 01 001 01 Hatillo Palma
+04 15 03 03 01 002 00 Los Capellán
+04 15 03 03 01 002 01 Los Capellán
+04 15 03 03 01 003 00 El Cayito
+04 15 03 03 01 003 01 El Cayito
+04 15 03 03 01 003 02 Las Flores
+04 15 03 03 02 000 00 Hatillo Palma
+04 15 03 03 02 001 00 Arroyo Seco
+04 15 03 03 02 002 00 Hatillo Palma Adentro
+04 15 03 03 02 003 00 La Divisoria
+04 15 03 03 02 004 00 Los Gorilas
+04 15 03 03 02 005 00 El Camino la Jobera
+04 15 03 03 02 006 00 Cruce de Lora
+04 15 03 03 02 007 00 El Cayito
+04 15 03 03 03 000 00 Los Derramaderos
+04 15 03 03 03 001 00 Los Derramaderos
+04 15 03 03 03 002 00 Solimán
+04 15 03 03 03 003 00 Los Palmaritos
+04 15 03 03 03 004 00 Arroyo Caña
+04 15 03 03 03 005 00 Agua de Luis
+04 15 03 03 03 006 00 Zepitén
+04 15 03 03 03 007 00 Loma de Solimán
+04 15 03 03 03 008 00 Cerro Antón
+04 15 03 03 03 009 00 Loma La Paloma
+04 15 03 03 04 000 00 Doña Antonia
+04 15 03 03 04 001 00 Doña Antonia
+04 15 03 03 04 002 00 Sabana del Rancho
+04 15 03 03 04 003 00 La Bananera
+04 15 03 04 00 000 00 Cana Chapetón (DM)
+04 15 03 04 01 000 00 Cana Chapetón (Zona urbana)
+04 15 03 04 01 001 00 Cana Arriba
+04 15 03 04 01 001 01 Sábila o Las Mercedes
+04 15 03 04 01 001 02 Vanessa
+04 15 03 04 01 002 00 Cana al Medio
+04 15 03 04 01 002 01 Cana al Medio
+04 15 03 04 01 002 02 Las Flores
+04 15 03 04 01 003 00 Cana Abajo o San Pedro
+04 15 03 04 01 003 01 Cana Abajo o San Pedro
+04 15 03 04 02 000 00 Cana Chapetón
+04 15 03 04 02 001 00 Vanessa
+04 15 03 04 02 002 00 Sabanetica
+04 15 03 04 02 003 00 Buenos Aires
+04 15 03 04 02 004 00 Paso Real
+04 15 03 04 03 000 00 Cerro Gordo
+04 15 03 04 03 001 00 Cerro Gordo Abajo
+04 15 03 04 03 002 00 La Peña (La Peña Arriba) 
+04 15 03 04 03 003 00 Cerro Gordo Arriba
+04 15 03 04 03 004 00 La Reforma
+04 15 03 04 03 005 00 Río Viejo
+04 15 03 04 03 006 00 La Yagüita
+04 15 03 04 03 007 00 Laguna Colorada
+04 15 03 04 03 008 00 Peña de Ranchaderos
+04 15 03 04 03 009 00 Ranchaderos
+04 15 03 04 03 010 00 Fundo Viejo
+04 15 03 04 03 011 00 El Hospital
+04 15 03 04 03 012 00 Sabana de Yajarima
+04 15 03 04 04 000 00 Piloto
+04 15 03 04 04 001 00 Piloto
+04 15 03 04 04 002 00 Sabana Larga
+04 15 03 04 04 003 00 Los Cercadillos
+04 15 03 04 05 000 00 La Caída
+04 15 03 04 05 001 00 La Caída
+04 15 03 04 05 002 00 Barrio Nuevo
+04 15 03 04 05 003 00 Gurabo Adentro
+04 15 04 00 00 000 00 Las Matas de Santa Cruz
+04 15 04 01 00 000 00 Las Matas de Santa Cruz
+04 15 04 01 01 000 00 Las Matas de Santa Cruz (Zona urbana)
+04 15 04 01 01 001 00 El Llano
+04 15 04 01 01 001 01 El Llano
+04 15 04 01 01 002 00 Las Matas Abajo o Pedro Tomás
+04 15 04 01 01 002 01 Las Matas Abajo o Pedro Tomás
+04 15 04 01 01 003 00 El Cayuco
+04 15 04 01 01 003 01 El Cayuco
+04 15 04 01 01 004 00 Buen Pastor
+04 15 04 01 01 004 01 Buen Pastor
+04 15 04 01 01 005 00 El Bolsillo
+04 15 04 01 01 005 01 El Bolsillo
+04 15 04 01 01 006 00 La Mina
+04 15 04 01 01 006 01 La Mina
+04 15 04 01 01 007 00 Vivienda o Centro del Pueblo
+04 15 04 01 01 007 01 Vivienda o Centro del Pueblo
+04 15 04 01 01 008 00 El Campamento
+04 15 04 01 01 008 01 El Campamento
+04 15 04 01 01 009 00 Santa Lucía
+04 15 04 01 01 009 01 Santa Lucía
+04 15 04 01 01 009 02 Las Flores o El Pasar
+04 15 04 01 01 010 00 La Cana
+04 15 04 01 01 010 01 La Cana
+04 15 04 01 01 011 00 Lindo
+04 15 04 01 01 011 01 Lindo
+04 15 04 01 01 012 00 El Cacique (Yagurizo)
+04 15 04 01 01 012 01 El Cacique (Yagurizo)
+04 15 04 01 01 013 00 Manga Mocha o Yaguarizo
+04 15 04 01 01 013 01 Manga Mocha o Yaguarizo
+04 15 04 01 01 014 00 Los Reyes
+04 15 04 01 01 014 01 Los Reyes
+04 15 04 01 02 000 00 Los Amaceyes
+04 15 04 01 02 001 00 Los Amaceyes
+04 15 04 01 03 000 00 La Horca
+04 15 04 01 03 001 00 La Horca
+04 15 04 01 03 002 00 La Mayita
+04 15 04 01 04 000 00 Santa Cruz
+04 15 04 01 04 001 00 Santa Cruz
+04 15 04 01 04 002 00 Pueblo Nuevo
+04 15 05 00 00 000 00 Pepillo Salcedo
+04 15 05 01 00 000 00 Pepillo Salcedo o Manzanillo
+04 15 05 01 01 000 00 Pepillo Salcedo o Manzanillo (Zona urbana)
+04 15 05 01 01 001 00 Pepillo Salcedo
+04 15 05 01 01 001 01 Centro del Pueblo
+04 15 05 01 01 001 02 Pueblo Nuevo
+04 15 05 01 01 001 03 Los Japoneses
+04 15 05 01 01 001 04 Las Casitas
+04 15 05 01 01 001 05 Los Barrancones
+04 15 05 01 01 001 06 Villa Ray
+04 15 05 01 01 001 07 Villa Banack
+04 15 05 01 01 001 08 El Cerro
+04 15 05 01 01 001 09 Alto de La Paloma o Manhattan
+04 15 05 01 02 000 00 Carbonera
+04 15 05 01 02 001 00 Carbonera
+04 15 05 01 02 002 00 Las Fuentes de Guajabo
+04 15 05 01 03 000 00 Copey
+04 15 05 01 03 001 00 Masacre
+04 15 05 01 03 002 00 Laguna Saladillo
+04 15 05 01 03 003 00 Copey
+04 15 05 01 03 004 00 Manzanillo Rural
+04 15 05 02 00 000 00 Santa Maria (DM)
+04 15 05 02 01 000 00 Santa María (Zona Urbana)
+04 15 05 02 01 001 00 Santa María 
+04 15 05 02 01 001 01 Santa María 
+04 15 05 02 02 000 00 Gozuela
+04 15 05 02 02 001 00 Gozuela
+04 15 05 02 02 002 00 Guanito
+04 15 05 02 02 003 00 Palmarito
+04 15 05 02 03 000 00 Carnero
+04 15 05 02 03 001 00 Carnero
+04 15 05 02 04 000 00 Clavellina
+04 15 05 02 04 001 00 Clavellina
+04 15 05 02 04 002 00 Las Isletas
+04 15 05 02 04 003 00 Peladeros
+04 15 05 02 05 000 00 La Pinta
+04 15 05 02 05 001 00 La Pinta
+04 15 05 02 06 000 00 La Recta de Sanita
+04 15 05 02 06 001 00 La Recta de Sanita
+04 15 05 02 07 000 00 Santa María
+04 15 05 02 07 001 00 Baitoa
+04 15 05 02 07 002 00 La Cabuya
+04 15 05 02 07 003 00 Sanita
+04 15 05 02 07 004 00 Marmolejos
+04 15 06 00 00 000 00 Villa Vásquez
+04 15 06 01 00 000 00 Villa Vásquez
+04 15 06 01 01 000 00 Villa Vásquez (Zona urbana)
+04 15 06 01 01 001 00 El Arrozal
+04 15 06 01 01 001 01 El Arrozal
+04 15 06 01 01 002 00 Los Cambrones o San José
+04 15 06 01 01 002 01 Los Cambrones o San José
+04 15 06 01 01 003 00 Centro del Pueblo
+04 15 06 01 01 003 01 Centro del Pueblo
+04 15 06 01 01 003 02 Sur
+04 15 06 01 01 003 03 Brisas del Canal
+04 15 06 01 01 004 00 La Capilla
+04 15 06 01 01 004 01 La Capilla
+04 15 06 01 01 004 02 Nuevo
+04 15 06 01 01 005 00 Las Flores
+04 15 06 01 01 005 01 Las Flores
+04 15 06 01 01 006 00 La Gallera
+04 15 06 01 01 006 01 La Gallera
+04 15 06 01 01 007 00 La Colina
+04 15 06 01 01 007 01 La Colina
+04 15 06 01 01 008 00 La Colina Arriba
+04 15 06 01 01 008 01 La Colina Arriba
+04 15 06 01 01 008 02 Proyecto Nuevo
+04 15 06 01 02 000 00 Botoncillo
+04 15 06 01 02 001 00 Botoncillo
+04 15 06 01 02 002 00 La Trinchera
+04 15 06 01 02 003 00 La Baitoa
+04 15 06 01 02 004 00 Los Uveros
+04 15 06 01 02 005 00 Los Algodones
+04 15 06 01 03 000 00 Los Conucos
+04 15 06 01 03 001 00 Los Conucos
+04 15 06 01 03 002 00 Buen Hombre
+04 15 06 01 03 003 00 Las Cañas de Los Uveros
+04 15 06 01 03 004 00 La Brígida
+04 15 06 01 04 000 00 Villa García
+04 15 06 01 04 001 00 Loma Atravesada
+04 15 06 01 04 002 00 La Finca
+04 15 06 01 04 003 00 El Manantial
+04 15 06 01 04 004 00 El Charcazo
+04 15 06 01 04 005 00 La Agüitas
+04 15 06 01 04 006 00 Villa García
+04 15 06 01 04 007 00 Villa Copa
+04 15 06 01 04 008 00 Los Alpargatales
+04 15 06 01 04 009 00 La Vereda
+04 15 06 01 04 010 00 Sinencio
+04 15 06 01 04 011 00 La Represa
+04 15 06 01 04 012 00 Sabana Chiquita

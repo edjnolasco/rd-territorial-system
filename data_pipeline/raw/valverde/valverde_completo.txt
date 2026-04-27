@@ -1,0 +1,461 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+04 27 00 00 00 000 00 Valverde
+04 27 01 00 00 000 00 Mao
+04 27 01 01 00 000 00 Mao
+04 27 01 01 01 000 00 Mao (Zona urbana)
+04 27 01 01 01 001 00 Las Flores
+04 27 01 01 01 001 01 Las Flores
+04 27 01 01 01 001 02 Residencial Karina
+04 27 01 01 01 001 03 Residencial Amado
+04 27 01 01 01 002 00 Los Cajuiles
+04 27 01 01 01 002 01 Los Cajuiles
+04 27 01 01 01 002 02 Villa Bogaert
+04 27 01 01 01 003 00 los restauradores
+04 27 01 01 01 003 01 Los Restauradores
+04 27 01 01 01 004 00 San Antón
+04 27 01 01 01 004 01 San Antón
+04 27 01 01 01 005 00 De Pericle
+04 27 01 01 01 005 01 De Pericle
+04 27 01 01 01 005 02 La Mina
+04 27 01 01 01 006 00 Sibila
+04 27 01 01 01 006 01 Sibila
+04 27 01 01 01 007 00 Los Cayucos
+04 27 01 01 01 007 01 Los Cayucos
+04 27 01 01 01 007 02 Santo La Pangola
+04 27 01 01 01 008 00 cerro Marino
+04 27 01 01 01 008 01 Cerro Marino
+04 27 01 01 01 009 00 la Guardia o carlos Daniel
+04 27 01 01 01 009 01 La Guardia o Carlos Daniel
+04 27 01 01 01 009 02 Cerro Melón
+04 27 01 01 01 010 00 Los Oficiales
+04 27 01 01 01 010 01 Los Oficiales
+04 27 01 01 01 011 00 Las Cuarenta (Las 40)
+04 27 01 01 01 011 01 Las Cuarenta (Las 40)
+04 27 01 01 01 012 00 Las Trescientas (Las 300)
+04 27 01 01 01 012 01 Las Trescientas (Las 300)
+04 27 01 01 01 013 00 Centro del Pueblo
+04 27 01 01 01 013 01 Centro del Pueblo
+04 27 01 01 01 014 00 Buenos Aires
+04 27 01 01 01 014 01 Buenos Aires
+04 27 01 01 01 015 00 Residencial Carol Gissel
+04 27 01 01 01 015 01 Residencial Carol Gissel
+04 27 01 01 01 016 00 Militar
+04 27 01 01 01 016 01 Militar
+04 27 01 01 01 017 00 urbanización Sin Nombre
+04 27 01 01 01 017 01 Urbanización Sin Nombre
+04 27 01 01 01 018 00 Enriquillo
+04 27 01 01 01 018 01 Enriquillo
+04 27 01 01 01 019 00 María Auxiliadora
+04 27 01 01 01 019 01 María Auxiliadora I
+04 27 01 01 01 019 02 María Auxiliadora II
+04 27 01 01 01 020 00 El Rincón
+04 27 01 01 01 020 01 El Rincón
+04 27 01 01 01 020 02 Los Colonos
+04 27 01 01 01 021 00 Los Bonilla
+04 27 01 01 01 021 01 Los Bonilla
+04 27 01 01 01 022 00 Los Acostados
+04 27 01 01 01 022 01 Los Acostados
+04 27 01 01 01 023 00 Moto cross
+04 27 01 01 01 023 01 Moto Cross
+04 27 01 01 01 024 00 Hatico
+04 27 01 01 01 024 01 Hatico
+04 27 01 01 01 025 00 Pueblo de Dios
+04 27 01 01 01 025 01 Pueblo de Dios
+04 27 01 01 01 026 00 Los Médicos
+04 27 01 01 01 026 01 Los Médicos
+04 27 01 01 01 027 00 Desiderio arias
+04 27 01 01 01 027 01 Desiderio Arias
+04 27 01 01 01 028 00 urbanización Villa Carolina
+04 27 01 01 01 028 01 Urbanización Villa Carolina
+04 27 01 01 01 029 00 urbanización Bello Atardecer
+04 27 01 01 01 029 01 Urbanización Bello Atardecer
+04 27 01 01 01 030 00 Villa Olímpica
+04 27 01 01 01 030 01 Villa Olímpica
+04 27 01 01 01 030 02 Codal
+04 27 01 01 01 031 00 La Compuerta
+04 27 01 01 01 031 01 La Compuerta
+04 27 01 01 01 031 02 Marino Tió 
+04 27 01 01 01 032 00 Tierra Seca
+04 27 01 01 01 032 01 Tierra Seca
+04 27 01 01 01 033 00 urbanización Los Corobat
+04 27 01 01 01 033 01 Urbanización Los Corobat
+04 27 01 01 01 034 00 Villa Diego
+04 27 01 01 01 034 01 Villa Diego
+04 27 01 01 01 035 00 El Samán
+04 27 01 01 01 035 01 El Samán
+04 27 01 01 01 036 00 Don Bosco
+04 27 01 01 01 036 01 Don Bosco
+04 27 01 01 01 037 00 Cruce de Copellito
+04 27 01 01 01 037 01 Cruce de Copellito
+04 27 01 01 01 038 00 aserradero
+04 27 01 01 01 038 01 Aserradero
+04 27 01 01 01 039 00 urbanización Layden
+04 27 01 01 01 039 01 Urbanización Layden
+04 27 01 01 02 000 00 los Quemados
+04 27 01 01 02 001 00 Arroyo de Agua
+04 27 01 01 02 002 00 Los Quemados
+04 27 01 01 02 003 00 Gurabo Adentro
+04 27 01 01 02 004 00 Mao Adentro
+04 27 01 01 02 005 00 Laguna de La Ceiba
+04 27 01 01 02 006 00 Damajagua
+04 27 01 01 02 007 00 El Cercado
+04 27 01 01 02 008 00 Palo Amarillo
+04 27 01 01 02 009 00 Yerba de Guinea 
+04 27 01 02 00 000 00 Ámina (DM)
+04 27 01 02 01 000 00 Ámina (Zona urbana)
+04 27 01 02 01 001 00 Ámina
+04 27 01 02 01 001 01 Ámina
+04 27 01 02 01 001 02 Las Flores
+04 27 01 02 01 001 03 Ámina Abajo
+04 27 01 02 01 001 04 Ámina Centro
+04 27 01 02 01 001 05 Proyecto INVI o Nuevo
+04 27 01 02 02 000 00 Ámina
+04 27 01 02 02 001 00 Hato Nuevo
+04 27 01 02 02 002 00 Laguneta
+04 27 01 02 02 003 00 Batey Laguneta
+04 27 01 02 02 004 00 Batey ámina
+04 27 01 02 02 005 00 Los Chichiguaos
+04 27 01 02 02 006 00 Tierra Fría Afuera
+04 27 01 02 02 007 00 La Becerrera
+04 27 01 02 03 000 00 Entrada de Mao
+04 27 01 02 03 001 00 Tartabón
+04 27 01 02 03 002 00 Entrada de Mao
+04 27 01 02 03 003 00 Los Helechos
+04 27 01 02 03 004 00 Martínez
+04 27 01 02 03 005 00 Sabana Grande
+04 27 01 02 03 006 00 Jiménez
+04 27 01 02 03 007 00 Tartabón Adentro
+04 27 01 03 00 000 00 Jaibón o Pueblo Nuevo (DM)
+04 27 01 03 01 000 00 Jaibón o Pueblo Nuevo (Zona urbana)
+04 27 01 03 01 001 00 Pueblo Nuevo
+04 27 01 03 01 001 01 El Rodeo
+04 27 01 03 01 001 02 La Joya Arriba
+04 27 01 03 01 001 03 La Joya Abajo
+04 27 01 03 01 001 04 Centro del Pueblo
+04 27 01 03 01 001 05 La Piña
+04 27 01 03 01 001 06 Los Parceleros
+04 27 01 03 01 001 07 Domingo Jiménez
+04 27 01 03 02 000 00 Gurabo afuera
+04 27 01 03 02 001 00 Gurabo Afuera
+04 27 01 03 02 002 00 La Caída
+04 27 01 03 02 003 00 Piedra Blanca
+04 27 01 03 02 004 00 Las Raíces
+04 27 01 03 02 005 00 Gurabo Adentro
+04 27 01 03 03 000 00 Prestiles
+04 27 01 03 03 001 00 Prestiles
+04 27 01 03 03 002 00 La Yagua (La Jagua)
+04 27 01 03 04 000 00 Pueblo Nuevo
+04 27 01 03 04 001 00 Pueblo Nuevo
+04 27 01 03 04 002 00 Cartujo
+04 27 01 03 04 003 00 Cayito
+04 27 01 04 00 000 00 Guatapanal (DM)
+04 27 01 04 01 000 00 Guatapanal (Zona urbana)
+04 27 01 04 01 001 00 Guatapanal
+04 27 01 04 01 001 01 Guatapanal
+04 27 01 04 02 000 00 Boruco
+04 27 01 04 02 001 00 Boruco
+04 27 01 04 02 002 00 La Sabana
+04 27 01 04 02 003 00 La Caña
+04 27 01 04 02 004 00 Baguazuma
+04 27 01 04 03 000 00 Jinamagao
+04 27 01 04 03 001 00 Jinamagao Abajo
+04 27 01 04 03 002 00 Jinamagao Arriba
+04 27 01 04 03 003 00 El Remate
+04 27 01 04 03 004 00 Tierra Fría
+04 27 01 04 04 000 00 Potrero
+04 27 01 04 04 001 00 Potrero
+04 27 01 04 04 002 00 Hundidera
+04 27 01 04 04 003 00 Higüerito-Peñuela
+04 27 01 04 04 004 00 Guanal
+04 27 01 04 04 005 00 Guazábara
+04 27 01 04 04 006 00 Tabacal
+04 27 01 04 04 007 00 Guanajuma
+04 27 01 04 04 008 00 La Caoba
+04 27 01 04 04 009 00 Jaiqui Picao
+04 27 01 04 04 010 00 La Sabana
+04 27 02 00 00 000 00 Esperanza
+04 27 02 01 00 000 00 Esperanza
+04 27 02 01 01 000 00 Esperanza (Zona urbana)
+04 27 02 01 01 001 00 Sur
+04 27 02 01 01 001 01 Sur
+04 27 02 01 01 001 02 Las Flores
+04 27 02 01 01 002 00 centro de la ciudad
+04 27 02 01 01 002 01 Centro de la Ciudad
+04 27 02 01 01 003 00 Norte o Rincón
+04 27 02 01 01 003 01 Norte o Rincón
+04 27 02 01 01 004 00 Gregorio Luperón
+04 27 02 01 01 004 01 Gregorio Luperón
+04 27 02 01 01 005 00 Cristóbal Colón
+04 27 02 01 01 005 01 Cristóbal Colón
+04 27 02 01 01 005 02 Villa Muñoz
+04 27 02 01 01 006 00 Duarte
+04 27 02 01 01 006 01 Duarte
+04 27 02 01 01 007 00 Nuevo
+04 27 02 01 01 007 01 Nuevo
+04 27 02 01 01 008 00 la logia
+04 27 02 01 01 008 01 La Logia
+04 27 02 01 01 009 00 Enriquillo
+04 27 02 01 01 009 01 Enriquillo
+04 27 02 01 01 010 00 Vista Hermosa
+04 27 02 01 01 010 01 Vista Hermosa
+04 27 02 01 01 010 02 INVI - CEA
+04 27 02 01 01 011 00 Los Cayucos I
+04 27 02 01 01 011 01 Los Cayucos I
+04 27 02 01 01 012 00 tito cabrera
+04 27 02 01 01 012 01 Tito Cabrera
+04 27 02 01 01 012 02 Villa Verde
+04 27 02 01 01 013 00 La Fe
+04 27 02 01 01 013 01 La Fe
+04 27 02 01 01 014 00 Buenos Aires
+04 27 02 01 01 014 01 Buenos Aires
+04 27 02 01 01 015 00 Quisqueya
+04 27 02 01 01 015 01 Quisqueya
+04 27 02 01 01 016 00 Los Cayucos II
+04 27 02 01 01 016 01 Los Cayucos II
+04 27 02 01 01 017 00 Los Palitos o María Auxiliadora
+04 27 02 01 01 017 01 Los Palitos o María Auxiliadora
+04 27 02 01 01 018 00 Salomé Ureña
+04 27 02 01 01 018 01 Salomé Ureña
+04 27 02 01 01 018 02 San José
+04 27 02 01 01 019 00 La Altagracia
+04 27 02 01 01 019 01 La Altagracia
+04 27 02 01 01 019 02 Villa Central
+04 27 02 01 01 019 03 Nueva Esperanza
+04 27 02 01 01 020 00 El Paraíso
+04 27 02 01 01 020 01 Paraíso
+04 27 02 01 01 021 00 José Francisco Peña Gómez
+04 27 02 01 01 021 01 José Francisco Peña Gómez
+04 27 02 01 01 021 02 La Unión
+04 27 02 01 01 022 00 Buena Vista o El Bolsillo
+04 27 02 01 01 022 01 Buena Vista o El Bolsillo
+04 27 02 01 01 023 00 1 de Mayo (Los Girasoles)
+04 27 02 01 01 023 01 1 de Mayo (Los Girasoles)
+04 27 02 01 01 024 00 Villa Nueva
+04 27 02 01 01 024 01 Villa Nueva
+04 27 02 01 01 025 00 Bello Atardecer
+04 27 02 01 01 025 01 Bello Atardecer
+04 27 02 01 01 026 00 los Girasoles
+04 27 02 01 01 026 01 Los Girasoles
+04 27 02 01 01 027 00 El Progreso (El Edén)
+04 27 02 01 01 027 01 El Progreso (El Edén)
+04 27 02 01 01 028 00 María Auxiliadora I
+04 27 02 01 01 028 01 María Auxiliadora I
+04 27 02 01 01 029 00 María Auxiliadora II (Los Palitos)
+04 27 02 01 01 029 01 María Auxiliadora II (Los Palitos)
+04 27 02 01 02 000 00 Peñuela
+04 27 02 01 02 001 00 Peñuela Adentro
+04 27 02 01 02 002 00 Peñuela Abajo
+04 27 02 01 02 003 00 Guachupita - Los Callejones
+04 27 02 01 02 004 00 Kilómetro 7
+04 27 02 01 02 005 00 Cañeo
+04 27 02 01 02 006 00 Cruce de Esperanza
+04 27 02 01 02 007 00 Los Callejones de Peñuela
+04 27 02 01 02 008 00 Peñuela Afuera
+04 27 02 01 02 009 00 Cacheo
+04 27 02 01 03 000 00 Pontón (Villa Henequén)
+04 27 02 01 03 001 00 Bejucal
+04 27 02 01 03 002 00 Barrero
+04 27 02 01 03 003 00 Cruce de Barrero
+04 27 02 01 03 004 00 Villa Henequén (Pontón)
+04 27 02 01 03 005 00 Cruce Jicomé
+04 27 02 02 00 000 00 Maizal (DM)
+04 27 02 02 01 000 00 Maizal (Zona urbana)
+04 27 02 02 01 001 00 Maizal
+04 27 02 02 01 001 01 Maizal
+04 27 02 02 01 001 02 Las Flores
+04 27 02 02 01 001 03 Cabolana
+04 27 02 02 01 001 04 Lola
+04 27 02 02 02 000 00 Damajagua
+04 27 02 02 02 001 00 Damajagua
+04 27 02 02 02 002 00 Saltadero
+04 27 02 02 02 003 00 El Mango
+04 27 02 02 02 004 00 El Palo
+04 27 02 02 02 005 00 Ojos de Agua
+04 27 02 02 02 006 00 Batey Libertad
+04 27 02 02 03 000 00 Línea A
+04 27 02 02 03 001 00 Línea A
+04 27 02 02 03 002 00 Buen Hombre
+04 27 02 02 03 003 00 Domingo Cabrera (Antiguo Vietnam)
+04 27 02 02 04 000 00 Loma de Maimón
+04 27 02 02 04 001 00 Loma de Maimón o Pozo del Maíz
+04 27 02 02 04 002 00 Loma La Majagua
+04 27 02 02 04 003 00 Los Aguacaticos
+04 27 02 02 04 004 00 Los Arroyos
+04 27 02 02 04 005 00 El Alto
+04 27 02 02 04 006 00 La Cumbre
+04 27 02 02 04 007 00 Los Ozorio (Osorio)
+04 27 02 02 05 000 00 Loma de Palma Picada
+04 27 02 02 05 001 00 Loma de Palma Picada
+04 27 02 02 05 002 00 El Rayo
+04 27 02 02 05 003 00 El 31
+04 27 02 02 05 004 00 La Lomita
+04 27 02 02 05 005 00 Palma Picada
+04 27 02 02 05 006 00 Loma de Damajagua
+04 27 02 02 05 007 00 El Llano
+04 27 02 02 05 008 00 La Llanada
+04 27 02 02 06 000 00 Maimón
+04 27 02 02 06 001 00 Maimón
+04 27 02 02 06 002 00 La Cañita
+04 27 02 02 06 003 00 Los Guamachos
+04 27 02 02 06 004 00 Loma del Aguacate
+04 27 02 02 06 005 00 Bejucal
+04 27 02 03 00 000 00 Jicomé (DM)
+04 27 02 03 01 000 00 Jicomé (Zona urbana)
+04 27 02 03 01 001 00 Jicomé
+04 27 02 03 01 001 01 Los Polancos
+04 27 02 03 01 001 02 La Canoa
+04 27 02 03 01 001 03 Los Chachases
+04 27 02 03 01 001 04 Urbanización Gustavo Vargas
+04 27 02 03 02 000 00 Kilómetro 7
+04 27 02 03 02 001 00 Cruce de Jicomé-Kilómetro 7
+04 27 02 03 02 002 00 Kilómetro 10
+04 27 02 03 02 003 00 Cruce de Esperanza
+04 27 02 03 03 000 00 Jicomé
+04 27 02 03 03 001 00 Jicomé Arriba (Rural)
+04 27 02 03 03 002 00 Jicomé Abajo
+04 27 02 03 03 003 00 Bañadero Prieto
+04 27 02 03 03 004 00 La Guázara
+04 27 02 03 03 005 00 Los Ortegas
+04 27 02 03 03 006 00 El Jarqui
+04 27 02 03 03 007 00 El Pozo
+04 27 02 04 00 000 00 Boca de Mao (DM)
+04 27 02 04 01 000 00 Boca de Mao (Zona urbana)
+04 27 02 04 01 001 00 Boca de Mao
+04 27 02 04 01 001 01 Urbanización Los Prados
+04 27 02 04 01 001 02 Batey 3 o San José
+04 27 02 04 01 001 03 El Central
+04 27 02 04 01 001 04 San Francisco
+04 27 02 04 01 001 05 Los Parceleros (Los Paredones)
+04 27 02 04 01 001 06 Juan Pablo Duarte
+04 27 02 04 02 000 00 Boca de Mao
+04 27 02 04 02 001 00 La Huazumita (Guazumita)
+04 27 02 04 02 002 00 Batey 3
+04 27 02 04 02 003 00 El Puente de Laguna Salada
+04 27 02 04 02 004 00 Boca de Mao
+04 27 02 05 00 000 00 Paradero (DM)
+04 27 02 05 01 000 00 Paradero (Zona urbana)
+04 27 02 05 01 001 00 Paradero
+04 27 02 05 01 001 01 Paradero
+04 27 02 05 02 000 00 la cayota
+04 27 02 05 02 001 00 La Cayota
+04 27 02 05 03 000 00 Loma de Aguacate
+04 27 02 05 03 001 00 Loma de Aguacate
+04 27 02 05 03 002 00 El Chepe
+04 27 02 05 03 003 00 El Barrero
+04 27 02 05 03 004 00 La Cana
+04 27 02 05 03 005 00 El Aguacate Abajo
+04 27 02 05 03 006 00 Los Cocos
+04 27 02 05 04 000 00 la cabirma
+04 27 02 05 04 001 00 Las Cabirmas
+04 27 02 05 04 002 00 La Campana
+04 27 02 05 04 003 00 Los Higos o La Yagüita
+04 27 02 05 04 004 00 La Lomota
+04 27 02 05 04 005 00 El Murazo
+04 27 02 05 04 006 00 Arroyo Seco
+04 27 02 05 04 007 00 El Corte
+04 27 02 05 04 008 00 Loma de Jicomé
+04 27 02 05 04 009 00 Derrumbadero
+04 27 03 00 00 000 00 laguna Salada
+04 27 03 01 00 000 00 laguna Salada
+04 27 03 01 01 000 00 Laguna Salada (Zona urbana)
+04 27 03 01 01 001 00 Las Flores
+04 27 03 01 01 001 01 Las Flores
+04 27 03 01 01 001 02 Altos de la Hicotea
+04 27 03 01 01 001 03 El Millón
+04 27 03 01 01 002 00 Pueblo Nuevo
+04 27 03 01 01 002 01 Pueblo Nuevo
+04 27 03 01 01 002 02 El Control
+04 27 03 01 01 003 00 Enemencio Díaz
+04 27 03 01 01 003 01 Enemencio Díaz
+04 27 03 01 01 004 00 Residencial Tríniti
+04 27 03 01 01 004 01 Residencial Tríniti
+04 27 03 01 01 005 00 lindo
+04 27 03 01 01 005 01 Lindo
+04 27 03 01 01 006 00 Camilo Rodríguez
+04 27 03 01 01 006 01 Camilo Rodríguez
+04 27 03 01 01 007 00 Los Tejada
+04 27 03 01 01 007 01 Los Tejada
+04 27 03 01 01 008 00 Sito toro
+04 27 03 01 01 008 01 Sito Toro
+04 27 03 01 01 009 00 El Yaque
+04 27 03 01 01 009 01 El Yaque
+04 27 03 01 01 010 00 la Duarte
+04 27 03 01 01 010 01 La Duarte
+04 27 03 01 01 011 00 San antonio
+04 27 03 01 01 011 01 San Antonio
+04 27 03 01 01 012 00 Los Altos de Buenos Aires
+04 27 03 01 01 012 01 Los Altos de Buenos Aires
+04 27 03 01 01 013 00 Los Crespo
+04 27 03 01 01 013 01 Los Crespo
+04 27 03 01 01 014 00 Puerto Rico
+04 27 03 01 01 014 01 Puerto Rico
+04 27 03 01 01 015 00 Los Fermín
+04 27 03 01 01 015 01 Los Fermín
+04 27 03 01 01 016 00 la curva
+04 27 03 01 01 016 01 La Curva
+04 27 03 01 02 000 00 Ranchete
+04 27 03 01 02 001 00 Ranchete
+04 27 03 01 02 002 00 El Firme
+04 27 03 01 02 003 00 Cabirma
+04 27 03 01 02 004 00 Los Mangos
+04 27 03 01 02 005 00 El Naranjo
+04 27 03 01 02 006 00 Barrera o La Divisora
+04 27 03 01 02 007 00 El Carril Arriba
+04 27 03 01 02 008 00 El Carril Abajo
+04 27 03 01 02 009 00 Paso Largo
+04 27 03 02 00 000 00 Jaibón (DM)
+04 27 03 02 01 000 00 Jaibón (Zona urbana)
+04 27 03 02 01 001 00 Jaibón
+04 27 03 02 01 001 01 El Play
+04 27 03 02 01 001 02 La Policlínica
+04 27 03 02 01 001 03 Paraíso
+04 27 03 02 01 001 04 Los Padros
+04 27 03 02 01 001 05 Las Flores
+04 27 03 02 01 001 06 Los Pérez
+04 27 03 02 01 001 07 Entrada La Caya
+04 27 03 02 01 001 08 Jaibón Arriba o La Lomera
+04 27 03 02 02 000 00 Entrada de Pozo Prieto
+04 27 03 02 02 001 00 Entrada de Pozo Prieto
+04 27 03 02 02 002 00 El Cerro
+04 27 03 02 02 003 00 Jaibón
+04 27 03 02 02 004 00 Arroyo Seco
+04 27 03 02 03 000 00 San Roque
+04 27 03 02 03 001 00 San Roque
+04 27 03 02 03 002 00 La Sabana
+04 27 03 03 00 000 00 La Caya (DM)
+04 27 03 03 01 000 00 La Caya (Zona urbana)
+04 27 03 03 01 001 00 la caya
+04 27 03 03 01 001 01 La Caya
+04 27 03 03 02 000 00 Pozo Prieto
+04 27 03 03 02 001 00 Pozo Prieto
+04 27 03 03 02 002 00 Los Manantiales
+04 27 03 03 02 003 00 Loma de Pozo Prieto
+04 27 03 03 03 000 00 Palo Amarillo
+04 27 03 03 03 001 00 Palo Amarillo
+04 27 03 03 03 002 00 Los Toros
+04 27 03 03 03 003 00 La Caya
+04 27 03 03 03 004 00 Loma de La Caya
+04 27 03 03 03 005 00 Los Grayumbos
+04 27 03 04 00 000 00 Cruce de Guayacanes (DM)
+04 27 03 04 01 000 00 Cruce de Guayacanes (Zona urbana)
+04 27 03 04 01 001 00 Cruce de Guayacanes
+04 27 03 04 01 001 01 Cruce de Guayacanes
+04 27 03 04 01 001 02 La Auyama
+04 27 03 04 01 001 03 Aquino
+04 27 03 04 01 001 04 Ojo de Agua
+04 27 03 04 02 000 00 Ojo de Agua
+04 27 03 04 02 001 00 Ojo de Agua
+04 27 03 04 02 002 00 Las Cañitas
+04 27 03 04 02 003 00 Los Guamachos
+04 27 03 04 03 000 00 Loma de Guayacanes
+04 27 03 04 03 001 00 Loma de Guayacanes
+04 27 03 04 03 002 00 El Molino
+04 27 03 04 03 003 00 Los Pinos
+04 27 03 04 03 004 00 El Chorro
+04 27 03 04 04 000 00 Guayacanes Adentro
+04 27 03 04 04 001 00 Guayacanes Adentro
+04 27 03 04 04 002 00 La Barranquita
+04 27 03 04 04 003 00 El Barrio o Los Parceleros
+04 27 03 04 04 004 00 Puente San Rafael

@@ -1,0 +1,336 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+04 05 00 00 00 000 00 Dajabón
+04 05 01 00 00 000 00 Dajabón
+04 05 01 01 00 000 00 Dajabón
+04 05 01 01 01 000 00 Dajabón (Zona urbana)
+04 05 01 01 01 001 00 Benito Monción
+04 05 01 01 01 001 01 Benito Monción
+04 05 01 01 01 001 02 La Manicera
+04 05 01 01 01 001 03 Villa Codepo
+04 05 01 01 01 001 04 Sur
+04 05 01 01 01 002 00 Centro del Pueblo
+04 05 01 01 01 002 01 Centro del Pueblo
+04 05 01 01 01 002 02 La Sangre
+04 05 01 01 01 002 03 Brooklyn
+04 05 01 01 01 003 00 Norte
+04 05 01 01 01 003 01 Norte
+04 05 01 01 01 004 00 Abanico
+04 05 01 01 01 004 01 El Abanico
+04 05 01 01 01 004 02 La Palma
+04 05 01 01 01 004 03 Alto del Cristo
+04 05 01 01 01 004 04 Los Cartones o Barrio Nuevo
+04 05 01 01 01 005 00 Mejoramiento Social
+04 05 01 01 01 005 01 Mejoramiento Social
+04 05 01 01 01 006 00 Beller
+04 05 01 01 01 006 01 Beller
+04 05 01 01 01 006 02 Militar
+04 05 01 01 01 007 00 la curva
+04 05 01 01 01 007 01 La Curva
+04 05 01 01 01 007 02 Guayabal
+04 05 01 01 01 007 03 La Mina
+04 05 01 01 01 007 04 Residencial los Socías 
+04 05 01 01 01 008 00 Nuevo México
+04 05 01 01 01 008 01 Nuevo México
+04 05 01 01 01 009 00 Las Flores
+04 05 01 01 01 009 01 Las Flores
+04 05 01 01 01 010 00 la colonia libertador
+04 05 01 01 01 010 01 La Colonia Libertador
+04 05 01 01 01 011 00 La Fe
+04 05 01 01 01 011 01 La Fe
+04 05 01 01 01 012 00 La Esperanza
+04 05 01 01 01 012 01 La Esperanza
+04 05 01 01 01 013 00 La Paz
+04 05 01 01 01 013 01 La Paz
+04 05 01 01 01 014 00 La Bomba
+04 05 01 01 01 014 01 La Bomba
+04 05 01 01 02 000 00 cañongo
+04 05 01 01 02 001 00 Colonia de la Fe
+04 05 01 01 02 002 00 Colonia 30 de Mayo
+04 05 01 01 02 003 00 Corral Grande
+04 05 01 01 03 000 00 Cayuco
+04 05 01 01 03 001 00 Palo Blanco
+04 05 01 01 03 002 00 Cayuco
+04 05 01 01 03 003 00 La Cera
+04 05 01 01 03 004 00 Laja Arriba
+04 05 01 01 03 005 00 Los Arroyos
+04 05 01 01 03 006 00 Sabana Santiago
+04 05 01 01 04 000 00 Sabana larga
+04 05 01 01 04 001 00 La Cana
+04 05 01 01 04 002 00 Sabana Larga
+04 05 01 01 04 003 00 Los Cercadillos
+04 05 01 01 04 004 00 Los Ciruelos
+04 05 01 01 04 005 00 El Candelón
+04 05 01 01 04 006 00 Talanquera
+04 05 01 01 05 000 00 clavellina
+04 05 01 01 05 001 00 Clavellina
+04 05 01 01 05 002 00 Esperón
+04 05 01 01 05 003 00 Lajas
+04 05 01 01 05 004 00 La Piña
+04 05 01 01 05 005 00 La Ciénaga
+04 05 01 01 05 006 00 La Patilla
+04 05 01 01 05 007 00 Agua Santa
+04 05 01 01 05 008 00 Arroyo Prieto
+04 05 01 01 05 009 00 Los Jíbaros
+04 05 01 01 06 000 00 Chacuey
+04 05 01 01 06 001 00 Chacuey
+04 05 01 01 06 002 00 El Pabellón
+04 05 01 01 06 003 00 Paso Tapao
+04 05 01 02 00 000 00 Cañongo (DM)
+04 05 01 02 01 000 00 Cañongo (Zona urbana)
+04 05 01 02 01 001 00 cañongo
+04 05 01 02 01 001 01 Cañongo
+04 05 01 02 02 000 00 La Vigía
+04 05 01 02 02 001 00 La Colonia Japonesa
+04 05 01 02 02 002 00 Las Palomitas
+04 05 01 02 02 003 00 Sánchez
+04 05 01 02 02 004 00 Kilómetro 4 (El Kilometro Cuatro) 
+04 05 01 02 02 005 00 Kilómetro 5 (El Kilometro Cinco) 
+04 05 02 00 00 000 00 loma de cabrera
+04 05 02 01 00 000 00 loma de cabrera
+04 05 02 01 01 000 00 Loma de Cabrera (Zona urbana)
+04 05 02 01 01 001 00 Legión
+04 05 02 01 01 001 01 Legión
+04 05 02 01 01 002 00 Norte o Ensanche Quisqueya
+04 05 02 01 01 002 01 Norte o Ensanche Quisqueya
+04 05 02 01 01 003 00 Centro del Pueblo
+04 05 02 01 01 003 01 Centro del Pueblo
+04 05 02 01 01 004 00 Duarte
+04 05 02 01 01 004 01 Duarte
+04 05 02 01 01 005 00 Gregorio Luperón o La Gallera
+04 05 02 01 01 005 01 Gregorio Luperón o La Gallera
+04 05 02 01 01 006 00 García
+04 05 02 01 01 006 01 García
+04 05 02 01 01 006 02 Jagüita
+04 05 02 01 01 007 00 Sal si Puedes
+04 05 02 01 01 007 01 Sal si Puedes
+04 05 02 01 01 008 00 Gómez
+04 05 02 01 01 008 01 Gómez
+04 05 02 01 01 009 00 El Tanque
+04 05 02 01 01 009 01 El Tanque
+04 05 02 01 02 000 00 El Aguacate
+04 05 02 01 02 001 00 Arroyo la Puerta
+04 05 02 01 02 002 00 La Marihuana
+04 05 02 01 02 003 00 El Corozo
+04 05 02 01 02 004 00 Los Zumbadores
+04 05 02 01 02 005 00 El Aguacate
+04 05 02 01 02 006 00 Monte Higo
+04 05 02 01 02 007 00 Cerro Monte
+04 05 02 01 02 008 00 Monte la Jagua
+04 05 02 01 02 009 00 Los Candelones
+04 05 02 01 02 010 00 El Cadillar
+04 05 02 01 02 011 00 Los Maguaquitos
+04 05 02 01 02 012 00 Los Palmaritos
+04 05 02 01 02 013 00 Caramana
+04 05 02 01 02 014 00 La Peñita
+04 05 02 01 03 000 00 El Cajuil
+04 05 02 01 03 001 00 Masaquito (Masaquitos)
+04 05 02 01 03 002 00 Las Lagunas
+04 05 02 01 03 003 00 El Cajuil
+04 05 02 01 03 004 00 Arroyo Azul
+04 05 02 01 03 005 00 La Reforma
+04 05 02 01 03 006 00 Los Pomos
+04 05 02 01 03 007 00 Sabaneta
+04 05 02 01 03 008 00 Los Colorados
+04 05 02 01 03 009 00 El Rincón
+04 05 02 01 04 000 00 la ceiba
+04 05 02 01 04 001 00 La Ceiba
+04 05 02 01 04 002 00 Castellar
+04 05 02 01 04 003 00 Cerro de Dajao
+04 05 02 01 04 004 00 Carrizal
+04 05 02 01 05 000 00 Monte Grande
+04 05 02 01 05 001 00 El Corozo
+04 05 02 01 05 002 00 Monte Grande
+04 05 02 01 05 003 00 Paso de Jacinto
+04 05 02 01 05 004 00 Puerto Rico
+04 05 02 01 05 005 00 La Hoya
+04 05 02 01 05 006 00 Palo Colorado
+04 05 02 01 05 007 00 Mancorna
+04 05 02 01 05 008 00 Masacre
+04 05 02 01 05 009 00 Corozo Abajo
+04 05 02 02 00 000 00 Capotillo (DM)
+04 05 02 02 01 000 00 Capotillo (Zona urbana)
+04 05 02 02 01 001 00 Capotillo
+04 05 02 02 01 001 01 Capotillo
+04 05 02 02 02 000 00 Hipólito Billini
+04 05 02 02 02 001 00 Hipólito Billini
+04 05 02 02 02 002 00 Tres Palmas
+04 05 02 02 02 003 00 Fondo Grande
+04 05 02 02 02 004 00 Monte Adentro
+04 05 02 02 02 005 00 Villa Esperanza
+04 05 02 02 02 006 00 Chorro Bonito
+04 05 02 02 02 007 00 Villa Porvenir
+04 05 02 02 02 008 00 Bonito Valle
+04 05 02 02 03 000 00 La Peñita Abajo
+04 05 02 02 03 001 00 Don Miguel
+04 05 02 02 03 002 00 Tamarindo
+04 05 02 02 03 003 00 La Peñita Abajo
+04 05 02 02 03 004 00 Pueblo Nuevo
+04 05 02 02 03 005 00 El Corozo Abajo
+04 05 02 02 03 006 00 El Junco
+04 05 02 02 03 007 00 El Alto de Paloma
+04 05 02 03 00 000 00 Santiago de La Cruz (DM)
+04 05 02 03 01 000 00 Santiago de La Cruz (Zona urbana)
+04 05 02 03 01 001 00 Centro del Pueblo
+04 05 02 03 01 001 01 Centro del Pueblo
+04 05 02 03 01 001 02 El Plan
+04 05 02 03 01 001 03 El Hospital
+04 05 02 03 02 000 00 Pinar Claro
+04 05 02 03 02 001 00 Pinar Claro
+04 05 02 03 02 002 00 Piedra Blanca
+04 05 02 03 02 003 00 Campeche
+04 05 02 03 02 004 00 Lajas Campeche
+04 05 02 03 02 005 00 El Bambú
+04 05 02 03 02 006 00 El Yarey
+04 05 02 03 02 007 00 Yareycito
+04 05 02 03 03 000 00 El Plan
+04 05 02 03 03 001 00 El Plan
+04 05 02 03 03 002 00 Sector la Iglesia
+04 05 02 03 03 003 00 Los Tres Caños
+04 05 02 03 04 000 00 La Piña
+04 05 02 03 04 001 00 La Piña
+04 05 02 03 04 002 00 Los Socías
+04 05 02 03 04 003 00 Sandino Díaz
+04 05 03 00 00 000 00 Partido
+04 05 03 01 00 000 00 Partido
+04 05 03 01 01 000 00 Partido (Zona urbana)
+04 05 03 01 01 001 00 Partido o Centro del Pueblo
+04 05 03 01 01 001 01 Partido o Centro del Pueblo
+04 05 03 01 01 001 02 El Liceo
+04 05 03 01 01 001 03 Progreso
+04 05 03 01 02 000 00 Partido Arriba
+04 05 03 01 02 001 00 Los Indios
+04 05 03 01 02 002 00 La Piña
+04 05 03 01 02 003 00 Partido Arriba
+04 05 03 01 02 004 00 Sangre Linda
+04 05 03 01 02 005 00 Hatico Viejo
+04 05 03 01 03 000 00 Vaca Gorda
+04 05 03 01 03 001 00 Buen Gusto
+04 05 03 01 03 002 00 La Culata
+04 05 03 01 03 003 00 Vaca Gorda
+04 05 03 01 03 004 00 La Culata Arriba
+04 05 03 01 03 005 00 Higüero
+04 05 03 01 03 006 00 La Guásima
+04 05 03 01 03 007 00 Aminilla (Loma La Estancia)
+04 05 03 01 03 008 00 La Estancia
+04 05 03 01 04 000 00 la Gorra
+04 05 03 01 04 001 00 Aminilla
+04 05 03 01 04 002 00 La Gorra
+04 05 03 01 04 003 00 Barrera (La Barrera)
+04 05 03 01 04 004 00 Tawike (Tagüique)
+04 05 03 01 04 005 00 Los Cerros de Aminilla
+04 05 03 01 04 006 00 El Rodeo
+04 05 03 01 04 007 00 El Estrecho
+04 05 03 01 04 008 00 El Llano
+04 05 03 01 04 009 00 La Gallina
+04 05 03 01 04 010 00 Sabana del Medio
+04 05 04 00 00 000 00 Restauración
+04 05 04 01 00 000 00 Restauración
+04 05 04 01 01 000 00 Restauración (Zona urbana)
+04 05 04 01 01 001 00 Centro del Pueblo
+04 05 04 01 01 001 01 Sur
+04 05 04 01 01 001 02 El Cepillo
+04 05 04 01 02 000 00 cruz de cabrera
+04 05 04 01 02 001 00 Cruz de Cabrera Abajo
+04 05 04 01 02 002 00 Cruz de Cabrera Arriba
+04 05 04 01 02 003 00 La Siembra
+04 05 04 01 02 004 00 Rancho Pedro
+04 05 04 01 02 005 00 Palma de Los Santos
+04 05 04 01 02 006 00 Villa Anacaona
+04 05 04 01 03 000 00 El carrizal
+04 05 04 01 03 001 00 La Garrapata
+04 05 04 01 03 002 00 Jiménez (Jiménez Abajo)
+04 05 04 01 03 003 00 El Carrizal
+04 05 04 01 03 004 00 Mochito
+04 05 04 01 03 005 00 Los Hoyos de Jiménez
+04 05 04 01 03 006 00 Fondo Grande
+04 05 04 01 03 007 00 Tierra Sucia
+04 05 04 01 03 008 00 Vara de Vaca
+04 05 04 01 03 009 00 Mariano Cestero
+04 05 04 01 04 000 00 La Pocilga
+04 05 04 01 04 001 00 La Pocilga
+04 05 04 01 04 002 00 Agua Blanca
+04 05 04 01 04 003 00 Valle Nuevo
+04 05 04 01 04 004 00 Valle Simón
+04 05 04 01 04 005 00 Kilómetro 1
+04 05 04 01 04 006 00 Kilómetro 4
+04 05 04 01 04 007 00 Neita Abajo
+04 05 04 01 04 008 00 El Corozo
+04 05 04 01 05 000 00 los cerezos
+04 05 04 01 05 001 00 Neita
+04 05 04 01 05 002 00 Palo Quemado
+04 05 04 01 05 003 00 Baúl
+04 05 04 01 05 004 00 La Berenjena
+04 05 04 01 05 005 00 Los Cerezos
+04 05 04 01 05 006 00 Loma del Guano
+04 05 04 01 05 007 00 La Sabana
+04 05 04 01 05 008 00 El Hato
+04 05 04 01 05 009 00 Agua de Juan
+04 05 04 01 05 010 00 Mompoque
+04 05 04 01 05 011 00 Las Rosas
+04 05 04 01 05 012 00 La Jagua Abajo
+04 05 04 01 05 013 00 Loma de Caña
+04 05 04 01 05 014 00 Pelagio
+04 05 04 01 05 015 00 Loma de Sabana
+04 05 04 01 05 016 00 La Penda
+04 05 04 01 05 017 00 La Jagua Arriba
+04 05 04 01 05 018 00 El Maniel
+04 05 05 00 00 000 00 El Pino
+04 05 05 01 00 000 00 El Pino
+04 05 05 01 01 000 00 El Pino (Zona urbana)
+04 05 05 01 01 001 00 El Pino
+04 05 05 01 01 001 01 El Pino
+04 05 05 01 01 002 00 Sabana de Gurabo o carlos Gonzalez Nuñez
+04 05 05 01 01 002 01 Sabana de Gurabo o Carlos Gonzalez Nuñez
+04 05 05 01 01 003 00 Las Flores
+04 05 05 01 01 003 01 Las Flores
+04 05 05 01 01 004 00 Tropical
+04 05 05 01 01 004 01 Tropical
+04 05 05 01 02 000 00 Plan I
+04 05 05 01 02 001 00 Los Inagitos (Los Inajitos)
+04 05 05 01 02 002 00 El Capacito
+04 05 05 01 02 003 00 La Avanzada
+04 05 05 01 02 004 00 El Canal
+04 05 05 01 02 005 00 Inaje
+04 05 05 01 03 000 00 El rodeo
+04 05 05 01 03 001 00 El Marizán (Marizán)
+04 05 05 01 03 002 00 Los Compos
+04 05 05 01 03 003 00 La Ceniza
+04 05 05 01 03 004 00 El Rodeo
+04 05 05 01 03 005 00 Mata de Limón (La Mata de Limón)
+04 05 05 01 03 006 00 Las Carreras
+04 05 05 01 03 007 00 Los Pozos
+04 05 05 01 03 008 00 La Burra
+04 05 05 01 03 009 00 El Corozo
+04 05 05 01 03 010 00 Rodeo Adentro (El Rodeo Adentro)
+04 05 05 01 03 011 00 El Fango
+04 05 05 01 03 012 00 Sabana Gurabo
+04 05 05 01 03 013 00 El Pino
+04 05 05 02 00 000 00 Manuel Bueno (DM)
+04 05 05 02 01 000 00 Manuel Bueno (Zona urbana)
+04 05 05 02 01 001 00 Manuel Bueno
+04 05 05 02 01 001 01 Manuel Bueno
+04 05 05 02 02 000 00 Manuel Bueno
+04 05 05 02 02 001 00 Palo Blanco
+04 05 05 02 02 002 00 La Jagua Arriba
+04 05 05 02 02 003 00 Terraplén
+04 05 05 02 02 004 00 Los Jengibres 
+04 05 05 02 02 005 00 Higo Bonito
+04 05 05 02 02 006 00 La Chancleta
+04 05 05 02 02 007 00 Piedra de Bohío
+04 05 05 02 03 000 00 la luisa
+04 05 05 02 03 001 00 La Luisa
+04 05 05 02 03 002 00 Los Pozos
+04 05 05 02 03 003 00 La Gina (La Ginita)
+04 05 05 02 03 004 00 El Zumbador
+04 05 05 02 03 005 00 El Guayabal
+04 05 05 02 03 006 00 Las Auyamas
+04 05 05 02 04 000 00 La Jagua Abajo
+04 05 05 02 04 001 00 La Jagua Abajo
+04 05 05 02 04 002 00 El Manguito
+04 05 05 02 04 003 00 Los Cacaos
+04 05 05 02 04 004 00 Loma de Sabana
+04 05 05 02 04 005 00 Loma de los Jobos
+04 05 05 02 04 006 00 Arroyo de la Jagua Arriba
+04 05 05 02 04 007 00 La Jagua

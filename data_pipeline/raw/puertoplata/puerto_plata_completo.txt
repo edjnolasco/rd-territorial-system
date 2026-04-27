@@ -1,0 +1,1052 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia O Nombre
+01 18 00 00 00 000 00 Puerto Plata
+01 18 01 00 00 000 00 Puerto Plata
+01 18 01 01 00 000 00 Puerto Plata
+01 18 01 01 01 000 00 San Felipe de Puerto Plata (Zona urbana)
+01 18 01 01 01 001 00 Los Domínguez
+01 18 01 01 01 001 01 Los Domínguez
+01 18 01 01 01 001 02 Los Limones
+01 18 01 01 01 001 03 Urbanización Los Ginebra
+01 18 01 01 01 001 04 Urbanización Ortega
+01 18 01 01 01 001 05 Los Cartones
+01 18 01 01 01 001 06 Altos de Chavón
+01 18 01 01 01 001 07 Los Mameyes Abajo
+01 18 01 01 01 001 08 Urbanización Abelardo Gómez
+01 18 01 01 01 001 09 Los Ginebra Arceno
+01 18 01 01 01 001 10 Buenos Aires
+01 18 01 01 01 001 11 Los Camberos
+01 18 01 01 01 001 12 Los Mameyes
+01 18 01 01 01 001 13 Los Bordas
+01 18 01 01 01 001 14 Los Mameyes Arriba
+01 18 01 01 01 001 15 El Violón (Los Mameyes)
+01 18 01 01 01 001 16 Villa Belen
+01 18 01 01 01 002 00 Haití
+01 18 01 01 01 002 01 Haití
+01 18 01 01 01 003 00 Gregorio Luperón
+01 18 01 01 01 003 01 New York
+01 18 01 01 01 003 02 Conani
+01 18 01 01 01 003 03 Puerto Rico
+01 18 01 01 01 004 00 Los Coquitos
+01 18 01 01 01 004 01 Los Coquitos
+01 18 01 01 01 005 00 Playa Oeste
+01 18 01 01 01 005 01 Playa Oeste
+01 18 01 01 01 005 02 Aguas Negras
+01 18 01 01 01 006 00 INVI
+01 18 01 01 01 006 01 INVI
+01 18 01 01 01 007 00 Urbanización Cerro Verde
+01 18 01 01 01 007 01 Urbanización Cerro Verde
+01 18 01 01 01 008 00 La Viara
+01 18 01 01 01 008 01 La Viara
+01 18 01 01 01 009 00 Ensanche Dubeau
+01 18 01 01 01 009 01 Ensanche Dubeau
+01 18 01 01 01 009 02 Los Callejones
+01 18 01 01 01 010 00 Centro Histórico de Puerto Plata
+01 18 01 01 01 010 01 Centro Histórico de Puerto Plata
+01 18 01 01 01 010 02 El Aserradero
+01 18 01 01 01 010 03 Palma Sola de la Cañita
+01 18 01 01 01 011 00 Hotel y Casino Costa Dorada
+01 18 01 01 01 011 01 Hotel y Casino Costa Dorada
+01 18 01 01 01 011 02 Playa Dorada
+01 18 01 01 01 011 03 Los Manguitos
+01 18 01 01 01 012 00 La Regola o Ensanche Eduardo Brito
+01 18 01 01 01 012 01 La Regola o Ensanche Eduardo Brito
+01 18 01 01 01 013 00 Villa Progreso
+01 18 01 01 01 013 01 Villa Progreso
+01 18 01 01 01 013 02 Cañada Villa Progreso
+01 18 01 01 01 014 00 Padre Las Casas
+01 18 01 01 01 014 01 Padre Las Casas
+01 18 01 01 01 014 02 Extensión Padre Las Casas
+01 18 01 01 01 015 00 Colinas del Sur (El Avispero)
+01 18 01 01 01 015 01 Colinas del Sur (El Avispero)
+01 18 01 01 01 015 02 Los Sufridos
+01 18 01 01 01 015 03 Los Núñez
+01 18 01 01 01 015 04 Urbanización Oliva
+01 18 01 01 01 015 05 La Limonera
+01 18 01 01 01 016 00 Ciudad Parte Alta (Zona Escolar)
+01 18 01 01 01 016 01 Ciudad Parte Alta (Zona Escolar)
+01 18 01 01 01 016 02 Las Virginias o El Avispero
+01 18 01 01 01 017 00 Urbanización El Doral
+01 18 01 01 01 017 01 Urbanización El Doral
+01 18 01 01 01 018 00 Los Platanitos
+01 18 01 01 01 018 01 Los Platanitos
+01 18 01 01 01 019 00 Los Cocos o Ensanche Miramar
+01 18 01 01 01 019 01 Los Cocos o Ensanche Miramar
+01 18 01 01 01 019 02 La Zona
+01 18 01 01 01 019 03 Mejoramiento Social
+01 18 01 01 01 019 04 Los Guandules
+01 18 01 01 01 019 05 Cambelén
+01 18 01 01 01 019 06 El Arenoso
+01 18 01 01 01 019 07 Itabo o Urbanización Antera Mota
+01 18 01 01 01 019 08 Urbanización Peregrín
+01 18 01 01 01 019 09 Urbanización Luis Ginebra
+01 18 01 01 01 020 00 Ensanche Luperón
+01 18 01 01 01 020 01 Ensanche Luperón
+01 18 01 01 01 021 00 Mirador Sur
+01 18 01 01 01 021 01 Mirador Sur
+01 18 01 01 01 021 02 Montemar o Los Multi
+01 18 01 01 01 022 00 Cristo Rey
+01 18 01 01 01 022 01 Cristo Rey
+01 18 01 01 01 022 02 El Hoyito
+01 18 01 01 01 023 00 Los Reyes
+01 18 01 01 01 023 01 Los Reyes
+01 18 01 01 01 023 02 Los Reyes Nuevo
+01 18 01 01 01 023 03 Bella Vista
+01 18 01 01 01 023 04 Los Maestros
+01 18 01 01 01 024 00 Amanda I (Caminero)
+01 18 01 01 01 024 01 Amanda I (Caminero)
+01 18 01 01 01 025 00 Bayardo
+01 18 01 01 01 025 01 Bayardo
+01 18 01 01 01 025 02 Urbanización Reyes Caminero
+01 18 01 01 01 026 00 Urbanización Juan Brugal
+01 18 01 01 01 026 01 Urbanización Juan Brugal
+01 18 01 01 01 027 00 Inespre
+01 18 01 01 01 027 01 Inespre
+01 18 01 01 01 028 00 Horizonte del Atlántico (Villa Sánchez)
+01 18 01 01 01 028 01 Horizonte del Atlántico (Villa Sánchez)
+01 18 01 01 01 029 00 Padre Granero
+01 18 01 01 01 029 01 Padre Granero
+01 18 01 01 01 030 00 Urbanización Torre Alta
+01 18 01 01 01 030 01 Urbanización Torre Alta
+01 18 01 01 01 030 02 Urbanización Don Armando
+01 18 01 01 01 030 03 Urbanización Cerro Alto
+01 18 01 01 01 030 04 Urbanización Torre Alta II, III, IV y V
+01 18 01 01 01 030 05 Urbanización Cerromar
+01 18 01 01 01 030 06 Nueva Estancia (Las Caobas)
+01 18 01 01 01 030 07 Cerromar
+01 18 01 01 01 030 08 Urbanización La Marina
+01 18 01 01 01 031 00 Jardines del Atlántico (G)
+01 18 01 01 01 031 01 Jardines del Atlántico (G)
+01 18 01 01 01 031 02 La Vecindad
+01 18 01 01 01 032 00 Urbanización Atlántica
+01 18 01 01 01 032 01 Urbanización Atlántica
+01 18 01 01 01 033 00 Los Cueto o Las Caobas
+01 18 01 01 01 033 01 Los Cueto o Las Caobas
+01 18 01 01 01 033 02 Las Palmas
+01 18 01 01 01 034 00 Marapicá o Coca Cola
+01 18 01 01 01 034 01 Marapicá o Coca Cola
+01 18 01 01 01 034 02 Sabana Grande
+01 18 01 01 01 034 03 Urbanización La Estancia
+01 18 01 01 01 034 04 Urbanización Praderas de Marapicá
+01 18 01 01 01 034 05 Urbanización Cerros del Atlántico
+01 18 01 01 01 034 06 Urbanización Aros Carrau
+01 18 01 01 01 034 07 Urbanización Buenaventura
+01 18 01 01 01 035 00 Las Tres Palmas
+01 18 01 01 01 035 01 Las Tres Palmas
+01 18 01 01 01 035 02 Vicente Brugal
+01 18 01 01 01 035 03 Las Mercedes
+01 18 01 01 01 035 04 Urbanización Playa Oeste
+01 18 01 01 01 036 00 Codetel
+01 18 01 01 01 036 01 Codetel
+01 18 01 01 01 036 02 Bello Costero
+01 18 01 01 01 036 03 Urbanización Atlántica V
+01 18 01 01 01 037 00 Cafemba
+01 18 01 01 01 037 01 Cafemba
+01 18 01 01 01 037 02 Las Rocas
+01 18 01 01 01 038 00 El Jabillar
+01 18 01 01 01 038 01 El Jabillar
+01 18 01 01 01 038 02 Isla de Adon
+01 18 01 01 01 039 00 Costambar
+01 18 01 01 01 039 01 Costambar
+01 18 01 01 01 040 00 Cuesta Amarilla
+01 18 01 01 01 040 01 Cuesta Amarilla
+01 18 01 01 01 040 02 Urbanizacion Arcoiris 
+01 18 01 01 01 040 03 El Tablon
+01 18 01 01 01 040 04 Los Rieles 
+01 18 01 01 01 040 05 Km4
+01 18 01 01 01 041 00 Urbanización La Florida
+01 18 01 01 01 041 01 Urbanización La Florida
+01 18 01 01 01 041 02 La Florida
+01 18 01 01 01 042 00 Puertón Rojo
+01 18 01 01 01 042 01 Puertón Rojo
+01 18 01 01 01 043 00 Urbanización El Mar
+01 18 01 01 01 043 01 Urbanización El Mar
+01 18 01 01 01 044 00 Urbanización Lorena
+01 18 01 01 01 044 01 Urbanización Lorena
+01 18 01 01 01 045 00 San Marcos Arriba
+01 18 01 01 01 045 01 San Marcos Arriba
+01 18 01 01 01 045 02 La Loma
+01 18 01 01 01 045 03 Los Jincos
+01 18 01 01 01 046 00 San Marcos Abajo
+01 18 01 01 01 046 01 San Marcos Abajo
+01 18 01 01 01 046 02 Urbanización Cuesta Hermosa
+01 18 01 01 01 046 03 Cerro Isabel (Urbanizacion Villa Nueva)
+01 18 01 01 01 046 04 Los Molinos o Los Hilos
+01 18 01 01 01 046 05 Los Rieles 
+01 18 01 01 01 046 06 El Play
+01 18 01 01 01 046 07 Monte Verde
+01 18 01 01 01 046 08 Monterico
+01 18 01 01 01 046 09 San Antonio
+01 18 01 01 01 046 10 La Altagracia (Monte Verde)
+01 18 01 01 01 046 11 San Antonio Parte Alta
+01 18 01 01 01 046 12 El Kilombo
+01 18 01 01 01 046 13 Vista Bella
+01 18 01 01 01 047 00 Batey 3
+01 18 01 01 01 047 01 Batey 3
+01 18 01 01 01 047 02 Los Castillo
+01 18 01 01 01 048 00 Urbanización San Felipe
+01 18 01 01 01 048 01 Urbanización San Felipe
+01 18 01 01 01 049 00 Hotel Hacienda
+01 18 01 01 01 049 01 Hotel Hacienda
+01 18 01 01 02 000 00 El Cupey
+01 18 01 01 02 001 00 Piedra de Candela
+01 18 01 01 02 002 00 La Berenjena o Los Tabita
+01 18 01 01 02 003 00 Los Amaceyes
+01 18 01 01 02 004 00 El Calabacito
+01 18 01 01 02 005 00 Las Tres Canas
+01 18 01 01 02 006 00 El Gallo
+01 18 01 01 02 007 00 El Cupey
+01 18 01 01 02 008 00 Los Pomos
+01 18 01 01 02 009 00 El Naranjal
+01 18 01 01 02 010 00 Camú Arriba
+01 18 01 01 02 011 00 La Gotera
+01 18 01 01 02 012 00 Rancho Ambrosio
+01 18 01 01 02 013 00 Los Palmaritos
+01 18 01 01 02 014 00 El Manaclar
+01 18 01 01 02 015 00 El Vallecito
+01 18 01 01 02 016 00 La Caobana o La Caoba
+01 18 01 01 03 000 00 Los Mameyes
+01 18 01 01 03 001 00 Loma Isabel de Torres
+01 18 01 01 03 002 00 Los Mameyes
+01 18 01 01 04 000 00 Sabana Grande
+01 18 01 01 04 001 00 Muñoz
+01 18 01 01 04 002 00 Cantabria Abajo
+01 18 01 01 04 003 00 Cantabria Arriba
+01 18 01 01 04 004 00 La Tachuela
+01 18 01 01 04 005 00 Sabana Grande
+01 18 01 01 04 006 00 Marapicada
+01 18 01 01 05 000 00 Tubagua
+01 18 01 01 05 001 00 Los Algodones
+01 18 01 01 05 002 00 Sabana de la Vigía
+01 18 01 01 05 003 00 Sabana de los Muertos
+01 18 01 01 05 004 00 Camú
+01 18 01 01 05 005 00 Juan de Nina
+01 18 01 01 05 006 00 Naranjo Dulce
+01 18 01 01 05 007 00 Arroyo Ancho Abajo
+01 18 01 01 05 008 00 Palo Blanco
+01 18 01 01 05 009 00 Tubagua
+01 18 01 01 05 010 00 La China
+01 18 01 01 05 011 00 Los Jobos
+01 18 01 01 05 012 00 Los Coquitos
+01 18 01 01 05 013 00 Mata Redonda
+01 18 01 01 05 014 00 Los Cacaos
+01 18 01 01 05 015 00 El Cayo
+01 18 01 01 05 016 00 Arroyo Frío
+01 18 01 01 05 017 00 Arroyo Ancho Arriba
+01 18 01 01 05 018 00 La U
+01 18 01 01 06 000 00 Maggiolo
+01 18 01 01 06 001 00 Maggiolo Adentro
+01 18 01 01 06 002 00 Francés
+01 18 01 01 06 003 00 El Tejar
+01 18 01 01 06 004 00 Loma de las Bestias
+01 18 01 01 06 005 00 Cafemba
+01 18 01 01 06 006 00 El Corozo
+01 18 01 01 06 007 00 La Gata
+01 18 01 01 06 008 00 La Guaita (La Aguadita)
+01 18 01 02 00 000 00 Yásica Arriba (DM)
+01 18 01 02 01 000 00 Yásica Arriba (Zona urbana)
+01 18 01 02 01 001 00 Yásica Arriba
+01 18 01 02 01 001 01 Yásica Arriba
+01 18 01 02 01 001 02 La Chancleta
+01 18 01 02 01 001 03 La Marina
+01 18 01 02 01 001 04 Yasiquita
+01 18 01 02 02 000 00 Yásica Abajo
+01 18 01 02 02 001 00 La Pelota
+01 18 01 02 02 002 00 Mata Puerto (Mata Puerco)
+01 18 01 02 02 003 00 Los Martínez
+01 18 01 02 02 004 00 Arroyo Grande (La Paloma)
+01 18 01 02 02 005 00 La Piragua
+01 18 01 02 02 006 00 El Aguacate
+01 18 01 02 02 007 00 El Limón
+01 18 01 02 02 008 00 El Sanjón
+01 18 01 02 02 009 00 Los Jiménez
+01 18 01 02 02 010 00 El Mango
+01 18 01 02 02 011 00 Yásica Abajo
+01 18 01 02 02 012 00 Juan Pío
+01 18 01 02 02 013 00 Los Peralta
+01 18 01 02 02 014 00 La Garza
+01 18 01 02 02 015 00 Sonador
+01 18 01 02 02 016 00 La Cueva
+01 18 01 02 02 017 00 La Sabana
+01 18 01 02 02 018 00 La Batata
+01 18 01 02 02 019 00 La Piedra
+01 18 01 02 03 000 00 Gurabito de Yaroa
+01 18 01 02 03 001 00 Yaroa Abajo
+01 18 01 02 03 002 00 La Sierrita
+01 18 01 02 03 003 00 La Cabirma
+01 18 01 02 03 004 00 Lajas de Yaroa
+01 18 01 02 03 005 00 Sonador de Yaroa
+01 18 01 02 03 006 00 El Toro
+01 18 01 02 03 007 00 La Burra
+01 18 01 02 03 008 00 Gurabito de Yaroa
+01 18 01 02 04 000 00 Villa General Benito Martínez
+01 18 01 02 04 001 00 La Cumbre (Gurabito La Cumbre)
+01 18 01 02 04 002 00 Cañada Honda
+01 18 01 02 04 003 00 La Tinajita
+01 18 01 02 04 004 00 Los Pinos
+01 18 01 02 04 005 00 Arenoso
+01 18 01 02 04 006 00 Subida Grande
+01 18 01 02 05 000 00 Yásica Arriba
+01 18 01 02 05 001 00 El Capá
+01 18 01 02 05 002 00 Los Infantes
+01 18 01 02 05 003 00 El Samo
+01 18 01 02 05 004 00 Yasiquita
+01 18 01 02 05 005 00 La Hebra
+01 18 01 02 05 006 00 Los Pomos
+01 18 01 02 05 007 00 Los Taveras
+01 18 01 02 05 008 00 La Cruz (La Cruz de Yásica)
+01 18 01 02 05 009 00 Indio Viejo
+01 18 01 02 05 010 00 El Brisón
+01 18 01 02 05 011 00 La Barita
+01 18 01 02 05 012 00 Kilómetro 30
+01 18 01 02 05 013 00 El Puerto
+01 18 01 03 00 000 00 Maimón (DM)
+01 18 01 03 01 000 00 Maimón (Zona urbana)
+01 18 01 03 01 001 00 Maimón
+01 18 01 03 01 001 01 Maimón
+01 18 01 03 01 002 00 Don Gregorio
+01 18 01 03 01 002 01 Don Gregorio
+01 18 01 03 02 000 00 Maimón 
+01 18 01 03 02 001 00 Los Bonilla 
+01 18 01 03 03 000 00 San Cristóbal
+01 18 01 03 03 001 00 San Cristóbal
+01 18 01 03 03 002 00 Los Dajaos
+01 18 01 03 03 003 00 Los Caños
+01 18 01 03 04 000 00 Don Gregorio
+01 18 01 03 04 001 00 Las Cienes (Las Sienes)
+01 18 01 03 04 002 00 La Bahía de Maimón
+01 18 01 03 04 003 00 La Isla 
+01 18 01 03 04 004 00 Barba Rusia
+01 18 01 03 04 005 00 Playa de Maimón
+01 18 01 03 05 000 00 Los Tejada
+01 18 01 03 05 001 00 Los Tejada
+01 18 01 03 05 002 00 Los Boboses
+01 18 01 03 05 003 00 El Chavón
+01 18 01 03 06 000 00 Las Avispas
+01 18 01 03 06 001 00 Las Avispas
+01 18 01 03 06 002 00 Los Cacaos
+01 18 01 03 06 003 00 El Piragual
+01 18 01 03 06 004 00 El Rincón
+01 18 01 03 06 005 00 Guarda Raya
+01 18 01 03 06 006 00 La Seiba (La Ceiba)
+01 18 01 03 07 000 00 Guzmancito
+01 18 01 03 07 001 00 La Perrita
+01 18 01 03 07 002 00 El Toro
+01 18 01 03 07 003 00 Palo Indio
+01 18 01 03 07 004 00 El Burro
+01 18 01 03 07 005 00 Guzmancito
+01 18 01 03 07 006 00 Guzmán
+01 18 01 03 07 007 00 Bajo Hondo
+01 18 01 03 07 008 00 La Berenjena
+01 18 01 03 07 009 00 El Estero
+01 18 01 03 07 010 00 El Café
+01 18 01 03 07 011 00 Cruce de Guzmán
+01 18 01 03 07 012 00 Cabuya
+01 18 01 03 07 013 00 La Arena
+01 18 01 03 07 014 00 La Patilla
+01 18 01 03 07 015 00 Calabacitos
+01 18 01 03 08 000 00 Cambiaso
+01 18 01 03 08 001 00 Cambiaso
+01 18 01 03 08 002 00 La Guá ( La Aguada)
+01 18 01 03 08 003 00 Loran
+01 18 01 03 08 004 00 Arenoso
+01 18 01 03 08 005 00 La Playa
+01 18 01 03 08 006 00 La Roceta
+01 18 02 00 00 000 00 altamira
+01 18 02 01 00 000 00 Altamira
+01 18 02 01 01 000 00 Altamira (Zona urbana)
+01 18 02 01 01 001 00 La Piedra
+01 18 02 01 01 001 01 La Piedra
+01 18 02 01 01 001 02 La Yaguita
+01 18 02 01 01 001 03 El Guayabo
+01 18 02 01 01 002 00 Centro del Pueblo
+01 18 02 01 01 002 01 Centro del Pueblo
+01 18 02 01 01 003 00 El Jamo
+01 18 02 01 01 003 01 El Jamo
+01 18 02 01 01 003 02 El Pino O Colina Dorada
+01 18 02 01 01 004 00 Los Arroyos
+01 18 02 01 01 004 01 Los Arroyos
+01 18 02 01 01 004 02 Los Silverio
+01 18 02 01 01 005 00 El Play
+01 18 02 01 01 005 01 El Play
+01 18 02 01 01 005 02 El Coco
+01 18 02 01 02 000 00 El Mamey
+01 18 02 01 02 001 00 El Copey
+01 18 02 01 02 002 00 Rancho Nuevo
+01 18 02 01 02 003 00 La Catalina
+01 18 02 01 02 004 00 El Mamey
+01 18 02 01 02 005 00 La Cumbre
+01 18 02 01 03 000 00 Escalera
+01 18 02 01 03 001 00 La Cruz de Escalera Abajo
+01 18 02 01 03 002 00 Palo Blanco
+01 18 02 01 03 003 00 Huevito
+01 18 02 01 03 004 00 Cruz de Manaclas
+01 18 02 01 03 005 00 Cementerio
+01 18 02 01 03 006 00 Gajo de la Cruz
+01 18 02 01 03 007 00 Alto de los Limones
+01 18 02 01 03 008 00 Palma de los Hierros
+01 18 02 01 03 009 00 Cabeza de Río Grande
+01 18 02 01 03 010 00 El Macao
+01 18 02 01 03 011 00 La Manacla
+01 18 02 01 03 012 00 El Salto
+01 18 02 01 03 013 00 El Corozo
+01 18 02 01 03 014 00 Escalera Arriba
+01 18 02 01 03 015 00 Escalera Abajo
+01 18 02 01 04 000 00 Higüero
+01 18 02 01 04 001 00 La China
+01 18 02 01 04 002 00 Higüero
+01 18 02 01 04 003 00 Guaranal
+01 18 02 01 04 004 00 Quita Sueño
+01 18 02 01 04 005 00 Arroyo Blanco
+01 18 02 01 04 006 00 Los Cacaos
+01 18 02 01 05 000 00 Los Llanos
+01 18 02 01 05 001 00 Los Llanos
+01 18 02 01 05 002 00 Los Claveles
+01 18 02 01 05 003 00 La Lomota
+01 18 02 01 05 004 00 Palma Picada
+01 18 02 01 05 005 00 La Jagua
+01 18 02 01 05 006 00 El Guayabo
+01 18 02 01 05 007 00 La Piedra
+01 18 02 01 05 008 00 La Sierra
+01 18 02 01 06 000 00 Palmar Grande
+01 18 02 01 06 001 00 Boca de Río Grande
+01 18 02 01 06 002 00 Los Colinfre
+01 18 02 01 06 003 00 Hervidor
+01 18 02 01 06 004 00 Los Uveros
+01 18 02 01 06 005 00 Los Mieses
+01 18 02 01 06 006 00 Palmar Grande
+01 18 02 01 06 007 00 La Atravesada
+01 18 02 01 06 008 00 Las Aromas
+01 18 02 01 06 009 00 Los Bonilla
+01 18 02 01 06 010 00 Bellaco
+01 18 02 01 06 011 00 Pozo Prieto
+01 18 02 01 06 012 00 La Llanada
+01 18 02 01 06 013 00 Los Manantiales
+01 18 02 01 06 014 00 Las Manaclas
+01 18 02 01 06 015 00 Agua Larga
+01 18 02 01 07 000 00 Quebrada Honda
+01 18 02 01 07 001 00 Rincón de La Loma
+01 18 02 01 07 002 00 Rincón del Llano
+01 18 02 01 07 003 00 Cuesta del Mate
+01 18 02 01 07 004 00 Quebrada Honda
+01 18 02 01 07 005 00 Los Fefinos
+01 18 02 01 07 006 00 Las Lajas Arriba
+01 18 02 01 07 007 00 Las Lajas Abajo
+01 18 02 01 07 008 00 Los Arroyos
+01 18 02 01 07 009 00 La Damajagua
+01 18 02 01 07 010 00 Los Rincones
+01 18 02 01 07 011 00 Lajas
+01 18 02 02 00 000 00 Río Grande (DM)
+01 18 02 02 01 000 00 Río Grande (Zona urbana)
+01 18 02 02 01 001 00 Río Grande
+01 18 02 02 01 001 01 Río Grande
+01 18 02 02 01 002 00 La Solapa
+01 18 02 02 01 002 01 La Solapa
+01 18 02 02 01 003 00 El Ciruelo
+01 18 02 02 01 003 01 El Ciruelo
+01 18 02 02 02 000 00 Río Grande Abajo
+01 18 02 02 02 001 00 Los Altos
+01 18 02 02 02 002 00 Río Grande Abajo
+01 18 02 02 02 003 00 El Bambú
+01 18 02 02 02 004 00 El Cumbí
+01 18 02 02 02 005 00 El Fundo
+01 18 02 02 02 006 00 Pueblo Chico
+01 18 02 02 02 007 00 La Atravesada
+01 18 02 02 03 000 00 Río Grande Al Medio
+01 18 02 02 03 001 00 La Sabana
+01 18 02 02 03 002 00 Las Lomas Abreu
+01 18 02 02 03 003 00 Domingo Miguel
+01 18 02 02 03 004 00 Los Picos Abajo
+01 18 02 02 04 000 00 Río Grande Arriba
+01 18 02 02 04 001 00 Los Chijos
+01 18 02 02 04 002 00 La Guinea
+01 18 02 02 04 003 00 Las Aguas
+01 18 02 02 04 004 00 Los Mangos
+01 18 02 02 04 005 00 Los Picos Arriba
+01 18 02 02 04 006 00 Los Naranjos
+01 18 02 02 04 007 00 Río Grande Arriba
+01 18 02 02 04 008 00 Rancho Viejo
+01 18 02 02 05 000 00 Rancho Arriba
+01 18 02 02 05 001 00 El Almacén
+01 18 02 02 05 002 00 Arroyo El Clavo
+01 18 02 02 05 003 00 Pies Jagua
+01 18 02 02 05 004 00 La Sabaneta
+01 18 02 02 05 005 00 El Guayabo
+01 18 02 02 05 006 00 Los Pomos
+01 18 02 02 05 007 00 La Vereda
+01 18 02 02 05 008 00 Los Lirios
+01 18 02 02 05 009 00 Guazaral
+01 18 02 02 05 010 00 Alto de Bohío
+01 18 02 02 05 011 00 Alto de la Jagua
+01 18 02 02 05 012 00 El Río Abajo
+01 18 02 02 05 013 00 Palmarito
+01 18 02 02 05 014 00 Quinigua
+01 18 02 02 06 000 00 Pescado Bobo Arriba
+01 18 02 02 06 001 00 La Espensa
+01 18 02 02 06 002 00 El Manguito
+01 18 02 02 06 003 00 El Cruce
+01 18 02 02 06 004 00 Bajaboniquito o Bajabonoquito
+01 18 02 02 06 005 00 La Gotera
+01 18 02 02 06 006 00 La Descubierta
+01 18 02 02 06 007 00 Las Lagunitas
+01 18 02 02 06 008 00 Las Paredes
+01 18 02 02 06 009 00 Boca de Río Blanco
+01 18 02 02 06 010 00 Los Caraballo
+01 18 02 02 06 011 00 La Jagua
+01 18 02 02 06 012 00 Pescado Bobo Abajo
+01 18 02 02 06 013 00 Pescado Bobo Arriba
+01 18 02 02 06 014 00 El Río Arriba
+01 18 02 02 06 015 00 Los Millones
+01 18 03 00 00 000 00 Guananico
+01 18 03 01 00 000 00 Guananico
+01 18 03 01 01 000 00 Guananico (Zona urbana)
+01 18 03 01 01 001 00 La Altagracia
+01 18 03 01 01 001 01 La Altagracia
+01 18 03 01 01 002 00 Rincón Caliente
+01 18 03 01 01 002 01 Rincón Caliente
+01 18 03 01 01 002 02 Jalico
+01 18 03 01 01 002 03 La Lomita
+01 18 03 01 01 002 04 La Cuyaya
+01 18 03 01 01 003 00 El Laurel
+01 18 03 01 01 003 01 El Laurel
+01 18 03 01 01 003 02 Juan Pancho Hidalgo
+01 18 03 01 01 004 00 Nuevo
+01 18 03 01 01 004 01 Nuevo
+01 18 03 01 01 004 02 Los Trinos
+01 18 03 01 02 000 00 Fundación
+01 18 03 01 02 001 00 Fundación
+01 18 03 01 02 002 00 Gajo Alto
+01 18 03 01 02 003 00 Paso de los Burros
+01 18 03 01 02 004 00 Palma de los Hierros
+01 18 03 01 02 005 00 Cerro Gordo
+01 18 03 01 02 006 00 Paso Seco (Arroyo Seco)
+01 18 03 01 02 007 00 La Cuchareta
+01 18 03 01 03 000 00 La Altagracia
+01 18 03 01 03 001 00 La Piragua
+01 18 03 01 03 002 00 Monte Gordo
+01 18 03 01 03 003 00 Rincón Caliente Abajo
+01 18 03 01 03 004 00 Agua Larga
+01 18 03 01 03 005 00 La Mariposa
+01 18 03 01 03 006 00 Los Minaya
+01 18 03 01 03 007 00 Arroyo Viejito
+01 18 03 01 03 008 00 Sabana de Los Muertos
+01 18 03 01 04 000 00 La Cabirma
+01 18 03 01 04 001 00 La Cabirma
+01 18 03 01 04 002 00 El Talado
+01 18 03 01 04 003 00 Los Hoyos
+01 18 03 01 05 000 00 Hoya Grande
+01 18 03 01 05 001 00 Hoya Grande
+01 18 03 01 05 002 00 Rincón Caliente Arriba
+01 18 03 01 05 003 00 Vista Alegre
+01 18 03 01 05 004 00 Las Hoyas
+01 18 03 01 05 005 00 La Damajagua
+01 18 03 01 06 000 00 Paradero
+01 18 03 01 06 001 00 Paradero
+01 18 03 01 06 002 00 Paso de la Jagua
+01 18 03 01 06 003 00 La Campana
+01 18 03 01 06 004 00 Loma de Agripino
+01 18 03 01 06 005 00 Loma de Guananico
+01 18 03 01 07 000 00 Rancho Viejo
+01 18 03 01 07 001 00 Rancho Viejo
+01 18 03 01 07 002 00 Palo Amarillo
+01 18 03 01 07 003 00 Palo de Guerra
+01 18 03 01 07 004 00 Gurabo
+01 18 03 01 07 005 00 La Jicotea
+01 18 04 00 00 000 00 imbert
+01 18 04 01 00 000 00 Imbert
+01 18 04 01 01 000 00 Imbert (Zona urbana)
+01 18 04 01 01 001 00 Centro del Pueblo
+01 18 04 01 01 001 01 Centro del Pueblo
+01 18 04 01 01 001 02 La Yagüita
+01 18 04 01 01 001 03 Urbanización Brugal
+01 18 04 01 01 002 00 Juana Saltitopa
+01 18 04 01 01 002 01 Juana Saltitopa
+01 18 04 01 01 003 00 Proyecto
+01 18 04 01 01 003 01 Proyecto
+01 18 04 01 01 003 02 Doña Toña
+01 18 04 01 01 004 00 Pangola
+01 18 04 01 01 004 01 Pangola
+01 18 04 01 01 005 00 Salcedo
+01 18 04 01 01 005 01 Salcedo
+01 18 04 01 01 006 00 Club
+01 18 04 01 01 006 01 Club
+01 18 04 01 02 000 00 Cabia
+01 18 04 01 02 001 00 Cabia
+01 18 04 01 02 002 00 Los Cayucos
+01 18 04 01 02 003 00 Guanábanos
+01 18 04 01 02 004 00 Las Piraguas Abajo
+01 18 04 01 02 005 00 Las Piraguas al Medio
+01 18 04 01 02 006 00 Las Piraguas Arriba
+01 18 04 01 02 007 00 Los Llabones
+01 18 04 01 02 008 00 Pozo Prieto
+01 18 04 01 02 009 00 La Cabirma
+01 18 04 01 03 000 00 Caonao
+01 18 04 01 03 001 00 La Joya
+01 18 04 01 03 002 00 Ranchito de los Peralta
+01 18 04 01 03 003 00 El Alto
+01 18 04 01 03 004 00 El Cuadro
+01 18 04 01 03 005 00 Higüero
+01 18 04 01 03 006 00 Caonao
+01 18 04 01 03 007 00 Los Palmaritos
+01 18 04 01 03 008 00 La Frontera
+01 18 04 01 04 000 00 Las Canas
+01 18 04 01 04 001 00 Las Canas
+01 18 04 01 04 002 00 La Escalereta
+01 18 04 01 04 003 00 El Café
+01 18 04 01 04 004 00 La Jíbara
+01 18 04 01 04 005 00 Boca de Caonao
+01 18 04 01 04 006 00 Boca de Cabia
+01 18 04 01 04 007 00 La Angostura
+01 18 04 01 05 000 00 Pérez
+01 18 04 01 05 001 00 Barrero
+01 18 04 01 05 002 00 El Hoyo o Loma Blanca
+01 18 04 01 05 003 00 Los Llanos de Pérez
+01 18 04 01 05 004 00 Los Trejos
+01 18 04 01 05 005 00 Bajabonico Arriba
+01 18 04 01 05 006 00 Boca de Obispo
+01 18 04 01 05 007 00 Ingenio Amistad
+01 18 04 01 05 008 00 Naranjo Chino
+01 18 04 01 05 009 00 Barrabás
+01 18 04 01 05 010 00 La Agüita
+01 18 04 01 05 011 00 Hojas Anchas
+01 18 04 01 05 012 00 El Puerto
+01 18 04 01 05 013 00 El Rincón
+01 18 04 01 05 014 00 El Hoyo de Pérez
+01 18 04 01 06 000 00 Saballo
+01 18 04 01 06 001 00 Morillo
+01 18 04 01 06 002 00 Arroyo Seco
+01 18 04 01 06 003 00 La Potranca
+01 18 04 01 06 004 00 La Grúa
+01 18 04 01 06 005 00 Vuelta Larga
+01 18 04 01 06 006 00 Saballo
+01 18 04 01 06 007 00 La Colorada
+01 18 05 00 00 000 00 los Hidalgos
+01 18 05 01 00 000 00 Los Hidalgos
+01 18 05 01 01 000 00 Los Hidalgos (Zona urbana)
+01 18 05 01 01 001 00 El Mamey
+01 18 05 01 01 001 01 El Mamey
+01 18 05 01 01 001 02 Altos de Los Francisco
+01 18 05 01 01 002 00 Pueblo Nuevo
+01 18 05 01 01 002 01 Pueblo Nuevo
+01 18 05 01 01 003 00 Altos de Los Acosta
+01 18 05 01 01 003 01 Altos de Los Acosta
+01 18 05 01 02 000 00 El Mamey
+01 18 05 01 02 001 00 El Rejón
+01 18 05 01 02 002 00 Los Tres Pasos
+01 18 05 01 02 003 00 Las Maritas
+01 18 05 01 02 004 00 La Ceiba
+01 18 05 01 02 005 00 Loma de Piedra
+01 18 05 01 02 006 00 El Pinto
+01 18 05 01 02 007 00 Vuelta Larga
+01 18 05 01 02 008 00 Ranchete
+01 18 05 01 03 000 00 Marmolejos
+01 18 05 01 03 001 00 La Peña
+01 18 05 01 03 002 00 Los Tablones
+01 18 05 01 03 003 00 El Rejón
+01 18 05 01 03 004 00 Los Castillo
+01 18 05 01 03 005 00 Marmolejos Abajo
+01 18 05 01 03 006 00 Agua Hedionda
+01 18 05 01 03 007 00 Los Sabino
+01 18 05 01 03 008 00 Marmolejos
+01 18 05 01 03 009 00 Los Altos de Marmolejos
+01 18 05 01 03 010 00 Agua Clara
+01 18 05 01 04 000 00 Unijica
+01 18 05 01 04 001 00 Las Caobas
+01 18 05 01 04 002 00 Cañada Grande
+01 18 05 01 04 003 00 Las Piraguas
+01 18 05 01 04 004 00 El Talado
+01 18 05 01 04 005 00 La Boca de Unijica
+01 18 05 01 04 006 00 Agua Clara
+01 18 05 01 04 007 00 Unijica Abajo
+01 18 05 01 04 008 00 Romerico
+01 18 05 01 04 009 00 La Vereda
+01 18 05 01 04 010 00 La Luperona
+01 18 05 01 04 011 00 Charco del Caimán
+01 18 05 02 00 000 00 Navas (DM)
+01 18 05 02 01 000 00 Navas (Zona urbana)
+01 18 05 02 01 001 00 Navas
+01 18 05 02 01 001 01 Navas
+01 18 05 02 02 000 00 Vista Alegre
+01 18 05 02 02 001 00 Ruiseñor
+01 18 05 02 02 002 00 Verraco Blanco
+01 18 05 02 02 003 00 Vista Alegre
+01 18 05 02 02 004 00 Los Verracos
+01 18 05 02 02 005 00 Las Alforjas
+01 18 05 02 02 006 00 Los Pucheos
+01 18 05 02 02 007 00 Los Monos
+01 18 05 02 02 008 00 INVI
+01 18 05 02 02 009 00 La Sabana
+01 18 05 02 02 010 00 Buenos Aires
+01 18 05 02 02 011 00 La Libertad
+01 18 05 02 02 012 00 Proyecto Hacienda Rosa María
+01 18 05 02 02 013 00 Los Cerros de Navas
+01 18 05 02 02 014 00 La Peñita
+01 18 06 00 00 000 00 Luperón
+01 18 06 01 00 000 00 Luperón
+01 18 06 01 01 000 00 Luperón (Zona urbana)
+01 18 06 01 01 001 00 Luperón O Centro Del Pueblo
+01 18 06 01 01 001 01 Luperón O Centro Del Pueblo
+01 18 06 01 01 001 02 La Yola 
+01 18 06 01 01 002 00 19 De Junio 
+01 18 06 01 01 002 01 19 De Junio O Los Salados 
+01 18 06 01 01 002 02 19 De Junio O La Rusia
+01 18 06 01 01 002 03 Puerto Blanco Marina
+01 18 06 01 01 002 04 Urbanización Dovisa
+01 18 06 01 01 003 00 Las Flores
+01 18 06 01 01 003 01 Las Flores
+01 18 06 01 01 004 00 Los Multi O El Cementerio
+01 18 06 01 01 004 01 Los Multi O El Cementerio
+01 18 06 01 01 005 00 La Marina
+01 18 06 01 01 005 01 La Marina
+01 18 06 01 01 006 00 Los Maestros
+01 18 06 01 01 006 01 Los Maestros
+01 18 06 01 02 000 00 Barrancón
+01 18 06 01 02 001 00 Barrancón
+01 18 06 01 02 002 00 Los Cambrones
+01 18 06 01 02 003 00 Novillero
+01 18 06 01 02 004 00 Las Landras
+01 18 06 01 02 005 00 Los Carmoníes
+01 18 06 01 02 006 00 Loma de Novillero
+01 18 06 01 02 007 00 Puerto Caballo
+01 18 06 01 02 008 00 La Rusia
+01 18 06 01 03 000 00 Cambiaso
+01 18 06 01 03 001 00 Monte Aguilar
+01 18 06 01 03 002 00 Proyecto Agrario
+01 18 06 01 03 003 00 Soufflé Grande
+01 18 06 01 03 004 00 La Piña
+01 18 06 01 04 000 00 El Higo
+01 18 06 01 04 001 00 El Higo
+01 18 06 01 04 002 00 Quebrada Honda
+01 18 06 01 05 000 00 La Sabana
+01 18 06 01 05 001 00 El Guano
+01 18 06 01 05 002 00 Cabeza de Vaca
+01 18 06 01 05 003 00 Las Cruces
+01 18 06 01 05 004 00 La Pulga
+01 18 06 01 05 005 00 El Puerto
+01 18 06 01 05 006 00 Los Corozos
+01 18 06 01 05 007 00 La Sabana Abajo
+01 18 06 01 05 008 00 La Peña
+01 18 06 01 05 009 00 El Canal
+01 18 06 01 05 010 00 Escoboso
+01 18 06 01 05 011 00 La Sabana
+01 18 06 01 05 012 00 La Piña (El Canal)
+01 18 06 01 06 000 00 Ranchito de los Vargas
+01 18 06 01 06 001 00 Ranchito de los Vargas
+01 18 06 01 06 002 00 La Piedra
+01 18 06 01 06 003 00 Los Tavárez
+01 18 06 01 06 004 00 La Ceibita Arriba
+01 18 06 01 06 005 00 La Ceibita Abajo - Higo
+01 18 06 01 06 006 00 La Joya
+01 18 06 01 06 007 00 Ranchito Abajo
+01 18 06 02 00 000 00 La Isabela (DM)
+01 18 06 02 01 000 00 La Isabela (Zona urbana)
+01 18 06 02 01 001 00 La Isabela
+01 18 06 02 01 001 01 Proyecto o Centro del Pueblo
+01 18 06 02 01 001 02 El Castillo o El Campo
+01 18 06 02 01 001 03 El Río
+01 18 06 02 02 000 00 Candelón
+01 18 06 02 02 001 00 Candelón
+01 18 06 02 02 002 00 Las Maras
+01 18 06 02 02 003 00 La Culebra
+01 18 06 02 03 000 00 La Isabela
+01 18 06 02 03 001 00 Drimbol
+01 18 06 02 03 002 00 Las Paredes
+01 18 06 03 00 000 00 Belloso (DM)
+01 18 06 03 01 000 00 Belloso (Zona Urbana)
+01 18 06 03 01 001 00 Los Bellosos
+01 18 06 03 01 001 01 Los Bellosos
+01 18 06 03 02 000 00 Belloso
+01 18 06 03 02 001 00 Belloso
+01 18 06 03 02 002 00 Los Arquíes
+01 18 06 03 02 003 00 El Higo Claro
+01 18 06 03 02 004 00 Los Ramones
+01 18 06 03 02 005 00 El Palero Belloso
+01 18 06 03 02 006 00 El Bajonazo
+01 18 06 03 02 007 00 El Proyecto
+01 18 06 03 02 008 00 La Vereda
+01 18 06 03 03 000 00 Cerro de Navas
+01 18 06 03 03 001 00 Los Conucos
+01 18 06 03 03 002 00 Cerro de Navas
+01 18 06 04 00 000 00 El Estrecho de Luperón Omar Bross (DM)
+01 18 06 04 01 000 00 El Estrecho de Luperón Omar Bross (Zona urbana)
+01 18 06 04 01 001 00 El Estrecho de Luperón Omar Bross
+01 18 06 04 01 001 01 El Estrecho de Luperón Omar Bross
+01 18 06 04 01 001 02 Cayacoa
+01 18 06 04 01 001 03 Residencial Don Toribio
+01 18 06 04 01 001 04 Residencial Juana Esperanza
+01 18 06 04 02 000 00 El Estrecho Abajo
+01 18 06 04 02 001 00 El Estrecho Abajo
+01 18 06 04 02 002 00 La Subida de los Muertos
+01 18 06 04 02 003 00 Martín Alonzo Arriba
+01 18 06 04 03 000 00 Arroyo Amargo
+01 18 06 04 03 001 00 Arroyo Amargo
+01 18 06 04 03 002 00 El Fundo
+01 18 06 04 04 000 00 Martín Alonzo
+01 18 06 04 04 001 00 El Cruce de Martín Alonzo
+01 18 06 04 04 002 00 Tasajera
+01 18 06 04 04 003 00 El Jamo
+01 18 07 00 00 000 00 Sosúa
+01 18 07 01 00 000 00 Sosúa
+01 18 07 01 01 000 00 Sosúa (Zona urbana)
+01 18 07 01 01 001 00 Los Charamicos
+01 18 07 01 01 001 01 Los Charamicos
+01 18 07 01 01 001 02 Los Cerros
+01 18 07 01 01 001 03 La Gallera
+01 18 07 01 01 001 04 La Piedra
+01 18 07 01 01 002 00 El Batey
+01 18 07 01 01 002 01 El Batey
+01 18 07 01 01 002 02 Los Tavárez
+01 18 07 01 01 002 03 Condominio Trady
+01 18 07 01 01 002 04 Mulata I
+01 18 07 01 01 003 00 La Policlinica
+01 18 07 01 01 003 01 La Policlinica
+01 18 07 01 02 000 00 Madre Vieja
+01 18 07 01 02 001 00 La Monteada
+01 18 07 01 02 002 00 Lengua De Vaca
+01 18 07 01 02 003 00 El Guázaro
+01 18 07 01 02 004 00 Jagua Mocha o Las Espinas
+01 18 07 01 02 005 00 La Laguna
+01 18 07 01 02 006 00 Los Guaos
+01 18 07 01 02 007 00 Jozaderos (Hozaderos)
+01 18 07 01 02 008 00 La Pelota
+01 18 07 01 03 000 00 Sabaneta de Cangrejos
+01 18 07 01 03 001 00 La Munición
+01 18 07 01 03 002 00 Arroyo Seco
+01 18 07 01 03 003 00 La Mulata
+01 18 07 01 03 004 00 Higos Claros
+01 18 07 01 03 005 00 Mango Fresco
+01 18 07 01 03 006 00 Bella Vista
+01 18 07 01 03 007 00 El Higüero
+01 18 07 01 03 008 00 La Pared
+01 18 07 01 03 009 00 El Guano
+01 18 07 01 03 010 00 Sosúa Abajo
+01 18 07 01 03 011 00 El Valedor
+01 18 07 01 03 012 00 Loma Blanca
+01 18 07 01 03 013 00 Loma Bajita
+01 18 07 01 03 014 00 Alto de los Castillo
+01 18 07 01 03 015 00 La Unión
+01 18 07 01 03 016 00 Sabaneta de Cangrejos
+01 18 07 01 03 017 00 Maranatha
+01 18 07 02 00 000 00 Cabarete (DM)
+01 18 07 02 01 000 00 Cabarete (Zona urbana)
+01 18 07 02 01 001 00 Cabarete
+01 18 07 02 01 001 01 Cabarete
+01 18 07 02 01 001 02 Blanco
+01 18 07 02 01 001 03 El Play
+01 18 07 02 01 001 04 La Pista de Motocroos
+01 18 07 02 01 002 00 El Callejón de la Loma
+01 18 07 02 01 002 01 El Callejón de la Loma
+01 18 07 02 01 002 02 La Palmera
+01 18 07 02 02 000 00 La Catalina
+01 18 07 02 02 001 00 Los Cacaos
+01 18 07 02 02 002 00 El Choco
+01 18 07 02 02 003 00 Los Aserraderos del Choco (Parte)
+01 18 07 02 02 004 00 Mango Fresco (Parte)
+01 18 07 02 02 005 00 La Mulata (Parte)
+01 18 07 02 02 006 00 El Higüero (Parte)
+01 18 07 02 02 007 00 La Catalina
+01 18 07 02 03 000 00 La Goleta
+01 18 07 02 03 001 00 La Goleta 1
+01 18 07 02 03 002 00 La Goleta 2
+01 18 07 02 03 003 00 La Ciénaga
+01 18 07 02 03 004 00 Bombita
+01 18 07 02 03 005 00 La Atravesada
+01 18 07 02 03 006 00 Eslabón o Islabón
+01 18 07 03 00 000 00 Sabaneta de Yásica (DM)
+01 18 07 03 01 000 00 Sabaneta de Yásica (Zona urbana)
+01 18 07 03 01 001 00 Cruce de Sabaneta
+01 18 07 03 01 001 01 Cruce de Sabaneta (El Resbalón)
+01 18 07 03 01 001 02 El Framboyán
+01 18 07 03 01 001 03 Villa Elena (Ana María)
+01 18 07 03 01 002 00 Villa Islabón
+01 18 07 03 01 002 01 Villa Islabón
+01 18 07 03 01 002 02 Islabón
+01 18 07 03 01 003 00 Verdúm
+01 18 07 03 01 003 01 Verdúm
+01 18 07 03 01 004 00 Villa Sammy Thomás
+01 18 07 03 01 004 01 Villa Sammy Thomás
+01 18 07 03 01 004 02 El Cementerio
+01 18 07 03 02 000 00 Sabaneta de Yásica
+01 18 07 03 02 001 00 Sabaneta de Yásica
+01 18 07 03 02 002 00 Palo Amarillo
+01 18 07 03 02 003 00 El Aserradero del Choco (Parte)
+01 18 07 03 03 000 00 Los Cantabillos
+01 18 07 03 03 001 00 La Hicotea
+01 18 07 03 03 002 00 Cuesta Barrosa
+01 18 07 03 03 003 00 Laguna de Madre Vieja
+01 18 07 03 03 004 00 La Laguna
+01 18 08 00 00 000 00 Villa isabela
+01 18 08 01 00 000 00 Villa Isabela
+01 18 08 01 01 000 00 Villa Isabela (Zona urbana)
+01 18 08 01 01 001 00 Villa Isabela
+01 18 08 01 01 001 01 Villa Isabela
+01 18 08 01 01 001 02 Villa Isabela o Gualetico
+01 18 08 01 01 001 03 Detrás del Hospital
+01 18 08 01 01 001 04 La Loma
+01 18 08 01 01 001 05 La Yaguita
+01 18 08 01 01 001 06 El Cementerio
+01 18 08 01 01 001 07 La Rotonda
+01 18 08 01 01 001 08 Los Cadillos
+01 18 08 01 01 001 09 Ignacio Martinez O Los Chivos
+01 18 08 01 02 000 00 Laguna Grande
+01 18 08 01 02 001 00 Carreta Podrida
+01 18 08 01 02 002 00 Guaconejal
+01 18 08 01 02 003 00 El Carril
+01 18 08 01 02 004 00 Caño Miguel
+01 18 08 01 02 005 00 Dieguito
+01 18 08 01 02 006 00 Altos de los Peña
+01 18 08 01 02 007 00 La Llanada
+01 18 08 01 02 010 00 Gualetico
+01 18 08 01 02 011 00 Laguna Grande
+01 18 08 01 02 012 00 La Rotonda
+01 18 08 01 03 000 00 La Balsa
+01 18 08 01 03 001 00 Pozo Bonito
+01 18 08 01 03 002 00 La Balsa
+01 18 08 01 03 003 00 Las Eneas
+01 18 08 01 03 004 00 Sabana de los Mieses
+01 18 08 01 03 005 00 Los Altos
+01 18 08 02 00 000 00 Estero Hondo (DM)
+01 18 08 02 01 000 00 Estero Hondo (Zona urbana)
+01 18 08 02 01 001 00 Estero Hondo
+01 18 08 02 01 001 01 Estero Hondo
+01 18 08 02 01 001 02 Lucrecia Acosta
+01 18 08 02 01 001 03 Nuevo o Play Nuevo
+01 18 08 02 01 001 04 Los Callejones
+01 18 08 02 01 002 00 Las Cañitas
+01 18 08 02 01 002 01 Las Cañitas
+01 18 08 02 01 003 00 Nuevo
+01 18 08 02 01 003 01 Nuevo
+01 18 08 02 01 003 02 Torre Alta
+01 18 08 02 01 003 03 La Caobanita
+01 18 08 02 02 000 00 Los Pilones
+01 18 08 02 02 001 00 Los Pilones
+01 18 08 02 02 002 00 La Colonia
+01 18 08 02 02 003 00 Los Toros
+01 18 08 02 02 004 00 Los Pozos Amarillos
+01 18 08 02 02 005 00 La Caobanita
+01 18 08 02 02 006 00 La Ciénaga
+01 18 08 02 03 000 00 Rancho Manuel
+01 18 08 02 03 001 00 Rancho Manuel
+01 18 08 02 03 002 00 Tiburcio
+01 18 08 02 03 003 00 Gregorio
+01 18 08 02 03 004 00 Punta Rusia
+01 18 08 02 03 005 00 La Playa
+01 18 08 02 03 007 00 El Pato
+01 18 08 03 00 000 00 La Jaiba (DM)
+01 18 08 03 01 000 00 La Jaiba (Zona urbana)
+01 18 08 03 01 001 00 La Jaiba
+01 18 08 03 01 001 01 La Jaiba
+01 18 08 03 01 001 02 Cerro Hermoso
+01 18 08 03 01 002 00 La Joya
+01 18 08 03 01 002 01 La Joya
+01 18 08 03 01 002 02 Los Jardines
+01 18 08 03 01 002 03 La Joya del Mango
+01 18 08 03 01 003 00 Paso Seco
+01 18 08 03 01 003 01 Paso Seco
+01 18 08 03 01 003 02 Alto de Los Vásquez
+01 18 08 03 01 004 00 Alto de los Gómez
+01 18 08 03 01 004 01 Alto de los Gómez
+01 18 08 03 01 005 00 Pontezuelo o El Hormiguero
+01 18 08 03 01 005 01 Pontezuelo o El Hormiguero
+01 18 08 03 01 006 00 Alto de los Álvarez
+01 18 08 03 01 006 01 Alto de los Álvarez
+01 18 08 03 02 000 00 La Jaiba
+01 18 08 03 02 001 00 Los Anegadizos
+01 18 08 03 02 002 00 Solimán
+01 18 08 03 02 003 00 Loma de la Jaiba
+01 18 08 03 02 004 00 Betel (Gran Diablo)
+01 18 08 03 02 005 00 La Jaiba
+01 18 08 03 02 006 00 El Anisal
+01 18 08 03 02 007 00 La Cementera
+01 18 08 03 02 008 00 Palo de Leche
+01 18 08 03 02 009 00 La Higüera
+01 18 08 03 02 010 00 Boca Nueva
+01 18 08 03 02 011 00 Pedro Acosta
+01 18 08 03 02 012 00 Guanabanito
+01 18 08 03 02 013 00 Tamares
+01 18 08 03 02 014 00 Rancho Manuel (Parte)
+01 18 08 03 02 015 00 Tiburcio (Parte)
+01 18 08 03 02 016 00 Gregorio (Parte)
+01 18 08 04 00 000 00 Gualete (DM)
+01 18 08 04 01 000 00 Gualete (Zona urbana)
+01 18 08 04 01 001 00 Gualete
+01 18 08 04 01 001 01 Gualete
+01 18 08 04 01 001 02 Gualete al Medio
+01 18 08 04 01 001 03 Gurabo
+01 18 08 04 02 000 00 Gualete
+01 18 08 04 02 001 00 Dibuá
+01 18 08 04 02 002 00 Gualete al Medio
+01 18 08 04 02 003 00 Loma de los Gurabo
+01 18 08 04 02 004 00 Gualetico
+01 18 08 04 02 005 00 Paso del Jamo
+01 18 08 04 02 006 00 Loma de la Caya
+01 18 08 04 02 007 00 La Caobana
+01 18 08 04 02 008 00 Gran Diablo
+01 18 08 04 02 009 00 Gualete Arriba
+01 18 08 04 02 010 00 Comedero
+01 18 08 04 02 011 00 Gualete Abajo
+01 18 08 04 02 012 00 La Bajada
+01 18 08 04 02 013 00 Agua Hedionda
+01 18 08 04 02 014 00 Los Tinajones
+01 18 08 04 02 015 00 Gurabo
+01 18 08 04 02 016 00 La Ceibita
+01 18 08 04 02 017 00 Los Macos
+01 18 08 04 02 018 00 Loma de Caobazo
+01 18 09 00 00 000 00 Villa Montellano
+01 18 09 01 00 000 00 Villa Montellano
+01 18 09 01 01 000 00 Villa Montellano (Zona urbana)
+01 18 09 01 01 001 00 Centro del Pueblo (Ingenio Montellano)
+01 18 09 01 01 001 01 Centro del Pueblo (Ingenio Montellano)
+01 18 09 01 01 001 02 La Caballeriza
+01 18 09 01 01 001 03 Higüerito (Los Pérez)
+01 18 09 01 01 001 04 El Silencio
+01 18 09 01 01 001 05 INVI
+01 18 09 01 01 001 06 Tamarindo
+01 18 09 01 01 001 07 El Corral
+01 18 09 01 01 001 08 Palma Sola
+01 18 09 01 01 002 00 Juan Lockward o Nuevo Montellano
+01 18 09 01 01 002 01 Juan Lockward o Nuevo Montellano
+01 18 09 01 01 003 00 El Mango
+01 18 09 01 01 003 01 El Mango
+01 18 09 01 01 003 02 Las Flores o los Cartones
+01 18 09 01 01 003 03 Buen Pan
+01 18 09 01 01 003 04 El Samán (Fácil)
+01 18 09 01 01 004 00 Monte Bravo
+01 18 09 01 01 004 01 Monte Bravo
+01 18 09 01 02 000 00 Arroyo de Leche
+01 18 09 01 02 001 00 Arroyo de Leche Abajo
+01 18 09 01 02 002 00 Arroyo de Leche Arriba
+01 18 09 01 02 003 00 Bracitos
+01 18 09 01 02 004 00 Loma de Sarante
+01 18 09 01 02 005 00 Marticinio (Martinicinio)
+01 18 09 01 02 006 00 La Colonia
+01 18 09 01 02 007 00 Los Pajones
+01 18 09 01 03 000 00 Boca Nueva
+01 18 09 01 03 001 00 Boca Nueva
+01 18 09 01 03 002 00 Bergantín
+01 18 09 01 04 000 00 Cangrejo
+01 18 09 01 04 001 00 Cangrejo
+01 18 09 01 04 002 00 Boca o Playa de Cangrejo
+01 18 09 01 04 003 00 Los Cocos
+01 18 09 01 05 000 00 Caraballo
+01 18 09 01 05 001 00 Caraballo
+01 18 09 01 05 002 00 Sabana de los Muertos
+01 18 09 01 05 003 00 Negro Melo
+01 18 09 01 05 004 00 Pancho Mateo
+01 18 09 01 06 000 00 Los Ciruelos
+01 18 09 01 06 001 00 Atollador
+01 18 09 01 06 002 00 Alto de Ciriaco (Alto de Siriaco)
+01 18 09 01 06 003 00 La Gran Parada
+01 18 09 01 06 004 00 Km. 12
+01 18 09 01 06 005 00 Km. 13
+01 18 09 01 07 000 00 Mozaví
+01 18 09 01 07 001 00 Mozaví Arriba
+01 18 09 01 07 002 00 Mozaví Abajo
+01 18 09 01 07 003 00 La Cana
+01 18 09 01 07 004 00 La Búcara
+01 18 09 01 07 005 00 La Munición
+01 18 09 01 07 006 00 Severé
+01 18 09 01 07 007 00 La Piedra
+01 18 09 01 07 008 00 Arroyo Blanco
+01 18 09 01 07 009 00 Loma Blanca

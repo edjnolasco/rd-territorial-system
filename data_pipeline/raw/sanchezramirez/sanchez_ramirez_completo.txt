@@ -1,0 +1,619 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+02 24 00 00 00 000 00 Sanchez Ramírez
+02 24 01 00 00 000 00 Cotuí
+02 24 01 01 00 000 00 Cotuí
+02 24 01 01 01 000 00 Cotuí (Zona urbana)
+02 24 01 01 01 001 00 Rosario Dominicana (Los Mineros)
+02 24 01 01 01 001 01 Rosario Dominicana (Los Mineros)
+02 24 01 01 01 002 00 Los Cajuiles
+02 24 01 01 01 002 01 Los Cajuiles
+02 24 01 01 01 003 00 Pueblo Nuevo
+02 24 01 01 01 003 01 Pueblo Nuevo
+02 24 01 01 01 004 00 la Gallera
+02 24 01 01 01 004 01 La Gallera
+02 24 01 01 01 004 02 El Baüicho
+02 24 01 01 01 005 00 Los Tocones
+02 24 01 01 01 005 01 Los Tocones
+02 24 01 01 01 006 00 El tamarindo
+02 24 01 01 01 006 01 El Tamarindo
+02 24 01 01 01 007 00 El centro 
+02 24 01 01 01 007 01 El Centro 
+02 24 01 01 01 008 00 El Dorado
+02 24 01 01 01 008 01 El Dorado
+02 24 01 01 01 009 00 Los Cocos
+02 24 01 01 01 009 01 Los Cocos
+02 24 01 01 01 010 00 Los Españoles
+02 24 01 01 01 010 01 Los Españoles
+02 24 01 01 01 011 00 La Esperanza
+02 24 01 01 01 011 01 La Esperanza
+02 24 01 01 01 012 00 La Yuca
+02 24 01 01 01 012 01 La Yuca
+02 24 01 01 01 012 02 La Luz
+02 24 01 01 01 012 03 El Algodón
+02 24 01 01 01 013 00 La Fortaleza
+02 24 01 01 01 013 01 La Fortaleza
+02 24 01 01 01 014 00 El Hato
+02 24 01 01 01 014 01 El Hato
+02 24 01 01 01 015 00 libertad
+02 24 01 01 01 015 01 Libertad
+02 24 01 01 01 016 00 Santa rosa
+02 24 01 01 01 016 01 Santa Rosa
+02 24 01 01 01 017 00 las Yaguas
+02 24 01 01 01 017 01 Las Yaguas
+02 24 01 01 01 018 00 Santa Fe
+02 24 01 01 01 018 01 Santa Fe
+02 24 01 01 01 018 02 Santa Ana
+02 24 01 01 01 019 00 Olímpico
+02 24 01 01 01 019 01 Olímpico
+02 24 01 01 01 020 00 la cruz
+02 24 01 01 01 020 01 La Cruz
+02 24 01 01 01 021 00 las colinas
+02 24 01 01 01 021 01 Las Colinas
+02 24 01 01 01 021 02 Alto de Las Colinas
+02 24 01 01 01 022 00 urbanización Los Maestros
+02 24 01 01 01 022 01 Urbanización Los Maestros
+02 24 01 01 01 023 00 Sabana al Medio
+02 24 01 01 01 023 01 Sabana al Medio
+02 24 01 01 01 023 02 Villa progreso
+02 24 01 01 01 023 03 La Calcoma
+02 24 01 01 01 024 00 los Multi
+02 24 01 01 01 024 01 Los Multi
+02 24 01 01 01 025 00 Vista del Valle
+02 24 01 01 01 025 01 Vista del Valle
+02 24 01 01 01 025 02 El Bolsillo o La Sabana del Mando
+02 24 01 01 01 026 00 La Estancia
+02 24 01 01 01 026 01 La Estancia
+02 24 01 01 01 027 00 Los Pinos
+02 24 01 01 01 027 01 Los Pinos
+02 24 01 01 01 028 00 Las Flores
+02 24 01 01 01 028 01 Las Flores
+02 24 01 01 01 029 00 Hicaco o El Alto de la Batata
+02 24 01 01 01 029 01 Hicaco o El Alto de la Batata
+02 24 01 01 01 030 00 La Altagracia al Norte
+02 24 01 01 01 030 01 La Altagracia al Norte
+02 24 01 01 01 031 00 La Altagracia ll
+02 24 01 01 01 031 01 La Altagracia Il
+02 24 01 01 01 032 00 La Policia o urbanización Palma Real
+02 24 01 01 01 032 01 La Policia o Urbanización Palma Real
+02 24 01 01 01 033 00 El Paraíso
+02 24 01 01 01 033 01 El Paraíso
+02 24 01 01 01 034 00 El Tanque
+02 24 01 01 01 034 01 El Tanque
+02 24 01 01 01 035 00 Los Pomos
+02 24 01 01 01 035 01 Los Pomos
+02 24 01 01 01 036 00 Plan Piloto
+02 24 01 01 01 036 01 Plan Piloto
+02 24 01 01 01 037 00 la colonia o lindo
+02 24 01 01 01 037 01 La Colonia o Lindo
+02 24 01 01 01 037 02 Hoyo de Lola
+02 24 01 01 01 038 00 Juan Pablo Duarte
+02 24 01 01 01 038 01 Juan Pablo Duarte
+02 24 01 01 01 039 00 El Limpio
+02 24 01 01 01 039 01 El Limpio
+02 24 01 01 01 040 00 San Martín
+02 24 01 01 01 040 01 San Martín
+02 24 01 01 01 041 00 urbanización Elfa
+02 24 01 01 01 041 01 Urbanización Elfa
+02 24 01 01 01 042 00 Acapulco
+02 24 01 01 01 042 01 Acapulco
+02 24 01 01 01 043 00 Residencial Don Pedro
+02 24 01 01 01 043 01 Residencial Don Pedro
+02 24 01 01 01 044 00 Residencial Brisas del Coral
+02 24 01 01 01 044 01 Residencial Brisas del Coral
+02 24 01 01 01 045 00 Villa del Sol i
+02 24 01 01 01 045 01 Villa del Sol I
+02 24 01 01 03 000 00 Hatillo
+02 24 01 01 03 001 00 Hatillo
+02 24 01 01 03 002 00 Rancho Abajo
+02 24 01 01 03 003 00 Palo de Cuaba
+02 24 01 01 03 004 00 San Juan
+02 24 01 01 03 005 00 Los Cacaos
+02 24 01 01 03 006 00 Pueblo Viejo
+02 24 01 01 03 007 00 Monte Negro
+02 24 01 01 03 008 00 Colorado
+02 24 01 01 03 009 00 La Trinchera
+02 24 01 01 03 010 00 Los Ranchos
+02 24 01 01 03 011 00 Sabana Verde
+02 24 01 01 03 012 00 Zinc
+02 24 01 01 03 013 00 El Plátano
+02 24 01 01 03 014 00 El Coco
+02 24 01 01 05 000 00 los cerros
+02 24 01 01 05 001 00 Duey Grande
+02 24 01 01 05 002 00 La Llanada
+02 24 01 01 05 003 00 Duey Pequeño
+02 24 01 01 05 004 00 Sabana Verde
+02 24 01 01 05 005 00 Sabana de Duey
+02 24 01 01 05 006 00 Jobo Claro
+02 24 01 01 05 007 00 Los Callejones
+02 24 01 01 05 008 00 El Limón
+02 24 01 01 05 009 00 Cruce Maguaca
+02 24 01 01 05 010 00 Villa Raza
+02 24 01 01 05 011 00 La Yaya
+02 24 01 01 05 012 00 La Cabirma
+02 24 01 01 05 013 00 Jiminillo
+02 24 01 01 05 014 00 Los Capaces
+02 24 01 01 05 015 00 La Sabana
+02 24 01 01 05 016 00 Los Cerros de Duey
+02 24 01 01 06 000 00 Sabana Grande Abajo
+02 24 01 01 06 001 00 Sabana Grande de Saballo
+02 24 01 01 06 002 00 La Zumbadora
+02 24 01 01 06 003 00 Monte Claro
+02 24 01 01 06 004 00 La Tusa
+02 24 01 01 06 005 00 La Ceiba
+02 24 01 01 06 006 00 El Guanábano
+02 24 01 01 06 007 00 Valle Grande
+02 24 01 01 06 008 00 Rincón Hato
+02 24 01 01 06 009 00 La Palmita
+02 24 01 01 06 010 00 Las Palmillas
+02 24 01 01 06 011 00 El Hato
+02 24 01 01 06 012 00 Castillo
+02 24 01 01 06 013 00 La Bomba
+02 24 01 01 06 014 00 La Lechosa
+02 24 01 01 06 015 00 Sabana Grande Abajo
+02 24 01 01 06 016 00 Benito
+02 24 01 01 06 017 00 Caño Hondo
+02 24 01 01 06 018 00 La Marga
+02 24 01 01 06 019 00 La Rosa - La Colonia
+02 24 01 01 06 020 00 Jibe
+02 24 01 02 00 000 00 Quita Sueño (DM)
+02 24 01 02 01 000 00 Quita Sueño (Zona urbana)
+02 24 01 02 01 001 00 Las Cruces o La Cantera
+02 24 01 02 01 001 01 Las Cruces o La Cantera
+02 24 01 02 01 002 00 la isleta
+02 24 01 02 01 002 01 La Isleta
+02 24 01 02 01 003 00 La Escuela
+02 24 01 02 01 003 01 La Escuela
+02 24 01 02 01 004 00 El Tanque o Quijá Quieta
+02 24 01 02 01 004 01 El Tanque o Quijá Quieta
+02 24 01 02 01 005 00 El club
+02 24 01 02 01 005 01 El Club
+02 24 01 02 02 000 00 Las Cruces
+02 24 01 02 02 001 00 Las Cruces
+02 24 01 02 02 002 00 La Yabacoa
+02 24 01 02 02 003 00 El Broque
+02 24 01 02 03 000 00 La Estancia
+02 24 01 02 03 001 00 La Estancia
+02 24 01 02 03 002 00 Buenos Aires
+02 24 01 02 03 003 00 Capacho
+02 24 01 02 04 000 00 los transformadores
+02 24 01 02 04 001 00 La Bomba
+02 24 01 03 00 000 00 Caballero (DM)
+02 24 01 03 01 000 00 Caballero (Zona urbana)
+02 24 01 03 01 001 00 la Sabana
+02 24 01 03 01 001 01 La Sabana
+02 24 01 03 02 000 00 Sabana de caballero
+02 24 01 03 02 001 00 El Samo
+02 24 01 03 02 002 00 Los Jaguales
+02 24 01 03 02 003 00 La Búcara
+02 24 01 03 02 004 00 La Sabana
+02 24 01 03 02 005 00 Las Tres Ceibas
+02 24 01 03 02 006 00 El Yujo
+02 24 01 03 02 007 00 Arroyo Laja
+02 24 01 03 02 008 00 Yujo Abajo
+02 24 01 03 03 000 00 Los Palmaritos
+02 24 01 03 03 001 00 Pie de Loma
+02 24 01 03 03 002 00 Loma Arriba
+02 24 01 03 03 003 00 Los Leones
+02 24 01 03 03 004 00 Los Palmaritos
+02 24 01 03 03 005 00 El Rincón
+02 24 01 03 04 000 00 atalaya
+02 24 01 03 04 001 00 Atalaya Abajo
+02 24 01 03 04 002 00 Atalaya Arriba
+02 24 01 03 04 003 00 Loma del Gallo
+02 24 01 03 04 004 00 El Ocho (El 8)
+02 24 01 03 04 005 00 El Llano
+02 24 01 03 04 006 00 Los Guzmán
+02 24 01 04 00 000 00 Comedero Arriba (DM)
+02 24 01 04 01 000 00 La Sabana de Comedero (Zona urbana)
+02 24 01 04 01 001 00 comedero
+02 24 01 04 01 001 01 Comedero
+02 24 01 04 02 000 00 Los Barraquitos
+02 24 01 04 02 001 00 Barraquito
+02 24 01 04 02 002 00 Las Cidra
+02 24 01 04 02 003 00 Cascajal
+02 24 01 04 02 004 00 Higo Gordo
+02 24 01 04 02 005 00 Rodeo
+02 24 01 04 02 006 00 Reinoso
+02 24 01 04 02 007 00 El Guao
+02 24 01 04 03 000 00 Los Pinos
+02 24 01 04 03 001 00 Los Pinos
+02 24 01 04 03 002 00 Los Catuanes
+02 24 01 04 03 003 00 Sabana Postrera
+02 24 01 04 03 004 00 La Zarza
+02 24 01 04 03 005 00 Comedero Arriba 
+02 24 01 04 03 006 00 Los Cafés
+02 24 01 04 04 000 00 Los Caboríes
+02 24 01 04 04 001 00 Los Caboríes
+02 24 01 04 04 002 00 La Majagua
+02 24 01 04 04 003 00 La Loma de Comedero
+02 24 01 04 04 004 00 Alto del Samo
+02 24 01 04 04 005 00 El Rinconazo
+02 24 01 04 04 006 00 Haití La Cueva
+02 24 01 04 04 007 00 El Diviso
+02 24 01 05 00 000 00 Platanal  (DM)
+02 24 01 05 01 000 00 Platanal (Zona urbana)
+02 24 01 05 01 001 00 Platanal
+02 24 01 05 01 001 01 Platanal
+02 24 01 05 01 002 00 Guardarraya
+02 24 01 05 01 002 01 Guardarraya
+02 24 01 05 01 002 02 La Gallera
+02 24 01 05 02 000 00 Platanal
+02 24 01 05 02 001 00 Platanal
+02 24 01 05 02 002 00 Loma Colorada (El Polvaso)
+02 24 01 05 02 003 00 La Culebra
+02 24 01 05 02 004 00 Matías
+02 24 01 05 02 005 00 Barico
+02 24 01 05 02 006 00 El Aguacatico
+02 24 01 05 02 007 00 El Tope o Sabana Arriba
+02 24 01 05 03 000 00 alto de casiano
+02 24 01 05 03 001 00 Camino Real (Alto de Casiano)
+02 24 01 05 03 002 00 El Rancho
+02 24 01 05 03 003 00 Boca de Jibes
+02 24 01 05 03 004 00 La Vuelta
+02 24 01 05 04 000 00 Chacuey
+02 24 01 05 04 001 00 Chacuey
+02 24 01 05 04 002 00 El Puente
+02 24 01 05 04 003 00 Sabana Abajo
+02 24 01 05 04 004 00 Sabana Arriba
+02 24 01 05 04 005 00 El Aguacate
+02 24 01 05 05 000 00 Babarí
+02 24 01 05 05 001 00 Babarí
+02 24 01 05 05 002 00 Don Miguel
+02 24 01 06 00 000 00 Zambrana Abajo (DM)
+02 24 01 06 01 000 00 Zambrana Abajo (Zona urbana)
+02 24 01 06 01 001 00 Zambrana Abajo
+02 24 01 06 01 001 01 Zambrana Abajo
+02 24 01 06 02 000 00 El Limpio
+02 24 01 06 02 001 00 Mariscao
+02 24 01 06 02 002 00 La Atravesada
+02 24 01 06 02 003 00 Guardianón
+02 24 01 06 02 004 00 Sabana Rey
+02 24 01 06 02 005 00 San Isidro
+02 24 01 06 02 006 00 Jobo Claro
+02 24 01 06 02 007 00 Los Corocitos
+02 24 01 06 03 000 00 Zambrana Arriba
+02 24 01 06 03 001 00 Zambrana Arriba
+02 24 01 06 03 002 00 La Placeta
+02 24 01 06 03 003 00 Algarrobal
+02 24 01 06 03 004 00 Las Dos Palmas
+02 24 01 06 03 005 00 La Cueva
+02 24 01 06 03 006 00 La Jagua Mocha
+02 24 01 06 03 007 00 Las Lajas
+02 24 01 06 03 008 00 Las Tres Bocas
+02 24 01 06 03 009 00 Cumba
+02 24 01 06 03 010 00 Gurabo
+02 24 01 06 04 000 00 Sabana larga
+02 24 01 06 04 001 00 Sabana Larga Arriba
+02 24 01 06 04 002 00 Sabana Larga Abajo
+02 24 01 06 05 000 00 Chacuey Maldonado Arriba
+02 24 01 06 05 001 00 El Limón
+02 24 01 06 05 002 00 La Culata
+02 24 01 06 05 003 00 Los Pomos
+02 24 01 06 05 004 00 Los Tres Pasos de Chacuey
+02 24 01 06 05 005 00 Naranjos
+02 24 01 06 05 006 00 La Hondonada
+02 24 01 06 05 007 00 La Jabilla
+02 24 01 06 05 008 00 La Placeta
+02 24 01 06 05 009 00 Loma de la Gallina
+02 24 01 06 05 010 00 Los Yagrumos
+02 24 01 06 05 011 00 El Jamito   
+02 24 01 06 05 012 00 La Llanada
+02 24 01 06 05 013 00 Tojín
+02 24 01 06 05 014 00 Los Jobos
+02 24 01 06 05 015 00 La Caoba
+02 24 01 06 05 016 00 Arroyo Grande
+02 24 01 06 05 017 00 La Jagua
+02 24 01 06 05 018 00 La Atravesada
+02 24 01 06 05 019 00 Las Lajas
+02 24 01 06 05 020 00 El Corozo
+02 24 01 06 06 000 00 las lagunas
+02 24 01 06 06 001 00 Las Tres Bocas II
+02 24 01 06 06 002 00 El Higo
+02 24 01 06 06 003 00 El Rayo
+02 24 01 06 06 004 00 El Yagal
+02 24 01 06 06 005 00 Los Naranjos
+02 24 01 06 06 006 00 Las Lagunas
+02 24 01 06 06 007 00 Piedra Imán
+02 24 01 06 06 008 00 La Piñita
+02 24 01 06 06 009 00 Maguaca
+02 24 01 06 06 010 00 Fátima - La Bascua
+02 24 01 06 06 011 00 Arroyo Vuelta
+02 24 01 06 06 012 00 La Quebradita
+02 24 01 06 06 013 00 Pepe Pérez - Cuchilla
+02 24 01 06 07 000 00 Tocoa
+02 24 01 06 07 001 00 Tocoa
+02 24 02 00 00 000 00 Cevicos
+02 24 02 01 00 000 00 Cevicos
+02 24 02 01 01 000 00 Cevicos (Zona urbana)
+02 24 02 01 01 001 00 Zona Céntrica Cevicos
+02 24 02 01 01 001 01 Zona Céntrica Cevicos
+02 24 02 01 01 002 00 Las Palmas
+02 24 02 01 01 002 01 Las Palmas
+02 24 02 01 01 003 00 El Rincón
+02 24 02 01 01 003 01 El Rincón
+02 24 02 01 01 004 00 24 de abril
+02 24 02 01 01 004 01 24 de Abril
+02 24 02 01 01 005 00 El tamarindo
+02 24 02 01 01 005 01 El Tamarindo
+02 24 02 01 01 006 00 El Progreso (Los Cajuiles)
+02 24 02 01 01 006 01 El Progreso (Los Cajuiles)
+02 24 02 01 02 000 00 abadesa
+02 24 02 01 02 001 00 Los Manatíes
+02 24 02 01 02 002 00 Batey Piedra
+02 24 02 01 02 003 00 Valle Grande
+02 24 02 01 02 004 00 Caño El Naranjo
+02 24 02 01 02 005 00 El Cacao
+02 24 02 01 02 006 00 Castellar
+02 24 02 01 02 007 00 Abadesa
+02 24 02 01 02 008 00 Hoya Fresca
+02 24 02 01 02 009 00 Cruce de Jagua
+02 24 02 01 02 010 00 Los Cercadillos
+02 24 02 01 02 011 00 Cienagote
+02 24 02 01 02 012 00 Los Hoyos
+02 24 02 01 02 013 00 Piedra
+02 24 02 01 02 014 00 Paso Hondo
+02 24 02 01 02 015 00 Llanada
+02 24 02 01 02 016 00 Palmar
+02 24 02 01 02 017 00 Sonador
+02 24 02 01 02 018 00 Doña María
+02 24 02 01 02 019 00 Batey Las Arenas
+02 24 02 01 02 020 00 Batey Doña María
+02 24 02 01 02 021 00 Cooperativa
+02 24 02 01 02 022 00 Cevicos Arriba
+02 24 02 01 02 023 00 Cuesta Blanca
+02 24 02 01 02 024 00 Batey Jabonico
+02 24 02 01 02 025 00 Arenoso
+02 24 02 01 02 026 00 Los Mapolos
+02 24 02 01 02 027 00 Los Higos
+02 24 02 01 02 028 00 Sabana del Río
+02 24 02 01 03 000 00 Batero
+02 24 02 01 03 001 00 Las Guáyigas
+02 24 02 01 03 002 00 Consumidero
+02 24 02 01 03 003 00 Los Tamarindos
+02 24 02 01 03 004 00 La Loma
+02 24 02 01 03 005 00 Sabana del Mariscao
+02 24 02 01 03 006 00 Los Peralejos
+02 24 02 01 03 007 00 El Taranal - Caimito
+02 24 02 01 03 008 00 Laguna Grande
+02 24 02 01 03 009 00 Batero Arriba
+02 24 02 01 03 010 00 Batero
+02 24 02 01 03 011 00 Sabana Arriba
+02 24 02 01 03 012 00 Yunita
+02 24 02 01 03 013 00 El Ciguar - (Rañe)
+02 24 02 01 03 014 00 La Ceibita
+02 24 02 01 03 015 00 Primera Boca
+02 24 02 01 03 016 00 Sabana Abajo
+02 24 02 02 00 000 00 La Cueva (DM)
+02 24 02 02 01 000 00 La Cueva (Zona urbana)
+02 24 02 02 01 001 00 La Fe (Antiguo La Teta)
+02 24 02 02 01 001 01 La Fe (Antiguo La Teta)
+02 24 02 02 01 002 00 Centro del Pueblo
+02 24 02 02 01 002 01 Centro del Pueblo
+02 24 02 02 01 002 02 Nueva York
+02 24 02 02 01 003 00 Los Gracilianos
+02 24 02 02 01 003 01 Los Gracilianos
+02 24 02 02 01 004 00 San José
+02 24 02 02 01 004 01 San José
+02 24 02 02 01 005 00 la Mora
+02 24 02 02 01 005 01 La Mora
+02 24 02 02 01 005 02 El Caucho
+02 24 02 02 01 006 00 El Tanque
+02 24 02 02 01 006 01 El Tanque
+02 24 02 02 02 000 00 la cueva
+02 24 02 02 02 001 00 El Pozo de La Ceiba
+02 24 02 02 02 002 00 El Pozo de Coli
+02 24 02 02 02 003 00 La Ceiba Vieja
+02 24 02 02 02 004 00 La Guácara
+02 24 02 02 02 005 00 Los Mameyejos
+02 24 02 02 02 006 00 La Mora
+02 24 02 02 02 007 00 La Zumbadora (La Colecita)
+02 24 02 02 02 008 00 Hoyo de Luis
+02 24 02 02 03 000 00 Sabana Grande
+02 24 02 02 03 001 00 El Caño
+02 24 02 02 03 002 00 Sabana Grande
+02 24 02 02 03 003 00 Primera Boca
+02 24 02 02 03 004 00 Sabana Chiquita
+02 24 02 02 03 005 00 Sabaneta
+02 24 02 02 03 006 00 La Colecita Arriba
+02 24 02 02 03 007 00 Los Peralejos
+02 24 02 02 03 008 00 Los Haitises
+02 24 03 00 00 000 00 Fantino
+02 24 03 01 00 000 00 Fantino
+02 24 03 01 01 000 00 Fantino (Zona urbana)
+02 24 03 01 01 001 00 Juan Pablo Duarte
+02 24 03 01 01 001 01 Juan Pablo Duarte
+02 24 03 01 01 002 00 El Malecón
+02 24 03 01 01 002 01 El Malecón
+02 24 03 01 01 003 00 Las Flores
+02 24 03 01 01 003 01 Las Flores
+02 24 03 01 01 004 00 Capotillo
+02 24 03 01 01 004 01 Capotillo
+02 24 03 01 01 005 00 los Maestros
+02 24 03 01 01 005 01 Los Maestros
+02 24 03 01 01 006 00 los Multi
+02 24 03 01 01 006 01 Los Multi
+02 24 03 01 01 007 00 La Esperanza
+02 24 03 01 01 007 01 La Esperanza
+02 24 03 01 01 008 00 La Altagracia
+02 24 03 01 01 008 01 La Altagracia
+02 24 03 01 01 008 02 María Trinidad Sánchez
+02 24 03 01 01 009 00 Residencial Aurora
+02 24 03 01 01 009 01 Residencial Aurora
+02 24 03 01 01 010 00 libertad o Juan castaño
+02 24 03 01 01 010 01 Libertad o Juan Castaño
+02 24 03 01 01 011 00 El Puentecito o Cumajón
+02 24 03 01 01 011 01 El Puentecito o Cumajón
+02 24 03 01 01 012 00 urbanización Los Rosarios
+02 24 03 01 01 012 01 Urbanización Los Rosarios
+02 24 03 01 01 013 00 urbanización Eduvil
+02 24 03 01 01 013 01 Urbanización Eduvil
+02 24 03 01 01 013 02 Urbanización Villa Paz
+02 24 03 01 02 000 00 San Miguel
+02 24 03 01 02 001 00 San Miguel Abajo
+02 24 03 01 02 002 00 Patria Nueva
+02 24 03 01 02 003 00 San Miguel Arriba
+02 24 03 01 02 004 00 Bacumi
+02 24 03 01 02 005 00 Los Cayucos
+02 24 03 01 02 006 00 Hato Mayor o La Laja
+02 24 03 01 02 007 00 Alto del Pino
+02 24 03 01 02 008 00 La Piedra
+02 24 03 01 02 009 00 El Corozo
+02 24 03 01 02 010 00 Los Puentecitos
+02 24 03 01 02 011 00 Comedero Abajo
+02 24 03 01 02 012 00 Cojobal
+02 24 03 01 03 000 00 Sierra Prieta
+02 24 03 01 03 001 00 Camú - Proyecto Canaán
+02 24 03 01 03 002 00 Baton Caliente
+02 24 03 01 03 003 00 Los Corozos (Cara Sucia)
+02 24 03 01 03 004 00 Don Juan
+02 24 03 01 03 005 00 Sierra Prieta
+02 24 03 01 03 006 00 Piña Vieja
+02 24 03 01 03 007 00 La Reforma
+02 24 03 01 03 008 00 Piña al Medio
+02 24 03 01 03 009 00 La Ceniza
+02 24 03 01 03 010 00 El Can
+02 24 03 01 03 011 00 El Hoyo del Can
+02 24 03 01 03 012 00 La Sabana del Hato
+02 24 03 01 03 013 00 Los Capaces
+02 24 03 01 03 014 00 La Guácara
+02 24 03 01 03 015 00 Los Bejucos
+02 24 03 01 03 016 00 La Conce
+02 24 03 01 03 017 00 Blanco (El Pinito)
+02 24 04 00 00 000 00 Villa la Mata
+02 24 04 01 00 000 00 Villa la Mata
+02 24 04 01 01 000 00 Villa La Mata (Zona urbana)
+02 24 04 01 01 001 00 iNDrHi
+02 24 04 01 01 001 01 INDRHI
+02 24 04 01 01 002 00 El Cruce
+02 24 04 01 01 002 01 El Cruce
+02 24 04 01 01 002 02 Las Mercedes
+02 24 04 01 01 003 00 Inespre
+02 24 04 01 01 003 01 Inespre
+02 24 04 01 01 004 00 El Limpio o La Cigua
+02 24 04 01 01 004 01 El Limpio o La Cigua
+02 24 04 01 01 005 00 Paz y Amor
+02 24 04 01 01 005 01 Paz y Amor
+02 24 04 01 01 006 00 los Higüeros
+02 24 04 01 01 006 01 Los Higüeros
+02 24 04 01 01 007 00 Monte adentro
+02 24 04 01 01 007 01 Monte Adentro
+02 24 04 01 01 008 00 El Parque
+02 24 04 01 01 008 01 El Parque
+02 24 04 01 01 009 00 La Escuela
+02 24 04 01 01 009 01 La Escuela
+02 24 04 01 01 010 00 los Goyos
+02 24 04 01 01 010 01 Los Goyos
+02 24 04 01 01 011 00 La unión
+02 24 04 01 01 011 01 La Unión
+02 24 04 01 02 000 00 los corozos
+02 24 04 01 02 001 00 Vereda de Yuna
+02 24 04 01 02 002 00 Trifurcación
+02 24 04 01 02 003 00 El Pozo
+02 24 04 01 02 004 00 La Piñita
+02 24 04 01 02 005 00 Agua Sarca
+02 24 04 01 02 006 00 Monte Abajo
+02 24 04 01 02 007 00 Los Corozos
+02 24 04 01 02 008 00 La Recta
+02 24 04 01 02 009 00 La Laja
+02 24 04 01 02 010 00 Santa Pola
+02 24 04 02 00 000 00 La Bija (DM)
+02 24 04 02 01 000 00 La Bija (Zona urbana)
+02 24 04 02 01 001 00 La Chinola
+02 24 04 02 01 001 01 La Chinola
+02 24 04 02 01 002 00 Mata de Conuco
+02 24 04 02 01 002 01 Mata de Conuco
+02 24 04 02 01 003 00 Pueblo Nuevo
+02 24 04 02 01 003 01 Pueblo Nuevo
+02 24 04 02 01 003 02 Los Cocos
+02 24 04 02 01 004 00 La Bija
+02 24 04 02 01 004 01 La Bija
+02 24 04 02 01 005 00 cabeza de toro
+02 24 04 02 01 005 01 Cabeza de Toro
+02 24 04 02 02 000 00 la Soledad
+02 24 04 02 02 001 00 La Soledad
+02 24 04 02 02 002 00 Monte Río
+02 24 04 02 02 003 00 La Pangola
+02 24 04 02 02 004 00 Pueblo Nuevo
+02 24 04 02 02 005 00 El Charco
+02 24 04 02 02 006 00 La Cuba
+02 24 04 02 03 000 00 La Piedra
+02 24 04 02 03 001 00 Boca de Camú
+02 24 04 02 03 002 00 La Piedra
+02 24 04 02 03 003 00 Puente de Camú
+02 24 04 02 03 004 00 La Bija
+02 24 04 02 03 005 00 Higüerito - La Factoría
+02 24 04 02 03 006 00 Guire (Aguirre)
+02 24 04 02 04 000 00 El canal Mayor
+02 24 04 02 04 001 00 El Canal
+02 24 04 02 04 002 00 Mata de Conuco
+02 24 04 02 04 003 00 Malmelí (Maimely)
+02 24 04 02 04 004 00 Cabeza de Toro
+02 24 04 02 04 005 00 Hato Viejo
+02 24 04 03 00 000 00 Angelina (DM)
+02 24 04 03 01 000 00 Angelina (Zona urbana)
+02 24 04 03 01 001 00 la cruz de angelina
+02 24 04 03 01 001 01 La Cruz de Angelina
+02 24 04 03 01 001 02 Rincón Moreno
+02 24 04 03 01 001 03 Los Pérez
+02 24 04 03 01 001 04 Los Cocos o La Arbolera
+02 24 04 03 01 001 05 Hoyo de Oro
+02 24 04 03 01 002 00 Cruce de Angelina o Guachupita
+02 24 04 03 01 002 01 Cruce de Angelina o Guachupita
+02 24 04 03 01 002 02 La Guarida
+02 24 04 03 01 002 03 La Reforma
+02 24 04 03 02 000 00 Cruce de Angelina
+02 24 04 03 02 001 00 El Batey o La Paloma
+02 24 04 03 02 002 00 Guachupita
+02 24 04 03 02 003 00 El Cruce de Angelina
+02 24 04 03 03 000 00 Padre Fantino
+02 24 04 03 03 001 00 Pacho Pegao
+02 24 04 03 03 002 00 Sector IAD
+02 24 04 03 03 003 00 El Pescozón (Sector Padre Fantino)
+02 24 04 03 03 004 00 Puncha Maquito
+02 24 04 03 04 000 00 la cruz de angelina
+02 24 04 03 04 001 00 Rincón Moreno
+02 24 04 03 04 002 00 Los Castellanos
+02 24 04 03 04 003 00 Los Cafecitos
+02 24 04 03 04 004 00 Hoyo de Oro
+02 24 04 03 04 005 00 Los Cocos
+02 24 04 03 04 006 00 Río Viejo
+02 24 04 03 04 007 00 Hoyo Grande
+02 24 04 03 05 000 00 El Limoncito
+02 24 04 03 05 001 00 La Fortuna
+02 24 04 03 05 002 00 El Remolino
+02 24 04 03 05 003 00 Barrio Lindo
+02 24 04 03 05 004 00 El Tanque
+02 24 04 03 05 005 00 El Limoncito
+02 24 04 04 00 000 00 Hernando Alonzo (DM)
+02 24 04 04 01 000 00 Hernando Alonzo (Zona urbana)
+02 24 04 04 01 001 00 El Caserío o Hernando Alonzo
+02 24 04 04 01 001 01 El Caserío o Hernando Alonzo
+02 24 04 04 02 000 00 la Guamita
+02 24 04 04 02 001 00 Boma
+02 24 04 04 02 002 00 Rincón Grande
+02 24 04 04 02 003 00 Las Auyamas
+02 24 04 04 02 004 00 Loma del Burro
+02 24 04 04 02 005 00 Las Guamitas
+02 24 04 04 03 000 00 la cana
+02 24 04 04 03 001 00 Canas Arriba
+02 24 04 04 03 002 00 Canas al Medio
+02 24 04 04 03 003 00 Canas Abajo
+02 24 04 04 03 004 00 Monte Abajo
+02 24 04 04 04 000 00 Hernando alonzo
+02 24 04 04 04 001 00 Los Cerros
+02 24 04 04 04 002 00 El Hato
+02 24 04 04 04 003 00 El Caserío
+02 24 04 04 04 004 00 Rodeo o Hernando Alonzo Abajo
+02 24 04 04 04 005 00 Punta Larga
+02 24 04 04 04 006 00 El Aguacate
+02 24 04 04 04 007 00 El Hundidero
+02 24 04 04 04 008 00 Los Conucones
+02 24 04 04 04 009 00 Los Botados
+02 24 04 04 04 010 00 Los Brazos
+02 24 04 04 04 011 00 Quebrada Honda
+02 24 04 04 04 012 00 Pisaña
+02 24 04 04 04 013 00 Sabana de Meladito
+02 24 04 04 04 014 00 Loma El Peñón
+02 24 04 04 04 015 00 El Hoyo

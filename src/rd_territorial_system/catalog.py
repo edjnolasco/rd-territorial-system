@@ -5,6 +5,7 @@ import json
 from collections import defaultdict
 from dataclasses import asdict, dataclass
 from functools import lru_cache
+from importlib.resources import files
 from pathlib import Path
 from typing import Any, Iterable, Literal
 
@@ -33,9 +34,10 @@ SUPPORTED_LEVELS: tuple[str, ...] = (
     "toponym",
 )
 
-PACKAGE_ROOT = Path(__file__).resolve().parents[2]
-DATA_ROOT = PACKAGE_ROOT / "data"
-CATALOG_ROOT = DATA_ROOT / "catalog"
+# 🔥 Ruta interna del paquete (funciona en wheel)
+PACKAGE_DATA_ROOT = files("rd_territorial_system") / "data"
+
+CATALOG_ROOT = Path(PACKAGE_DATA_ROOT / "catalog")
 REGISTRY_PATH = CATALOG_ROOT / "registry.json"
 
 CURRENT_CATALOG_DIRNAME = "current"

@@ -1,0 +1,8 @@
+aliases:
+  # Zonas urbanas comunes
+  "zona urbana": "zona urbana"
+  "urbano": "zona urbana"
+
+  # Variantes típicas
+  "d m": "distrito municipal"
+  "dist municipal": "distrito municipal"

@@ -1,0 +1,372 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+05 31 00 00 00 000 00 San José de Ocoa
+05 31 01 00 00 000 00 San José de Ocoa
+05 31 01 01 00 000 00 San José de Ocoa
+05 31 01 01 01 000 00 San José de Ocoa (Zona urbana)
+05 31 01 01 01 001 00 Las Flores
+05 31 01 01 01 001 01 Las Flores
+05 31 01 01 01 001 02 Urbanización Las Flores
+05 31 01 01 01 002 00 avenida canadá
+05 31 01 01 01 002 01 Avenida Canadá
+05 31 01 01 01 003 00 cañada del Horno
+05 31 01 01 01 003 01 Cañada del Horno
+05 31 01 01 01 004 00 Centro del Pueblo
+05 31 01 01 01 004 01 Centro del Pueblo
+05 31 01 01 01 005 00 Pueblo Arriba
+05 31 01 01 01 005 01 Pueblo Arriba
+05 31 01 01 01 006 00 San rafael
+05 31 01 01 01 006 01 San Rafael
+05 31 01 01 01 007 00 Pueblo Nuevo
+05 31 01 01 01 007 01 Pueblo Nuevo
+05 31 01 01 01 008 00 Pueblo Abajo
+05 31 01 01 01 008 01 Pueblo Abajo
+05 31 01 01 01 009 00 San luis
+05 31 01 01 01 009 01 San Luis
+05 31 01 01 01 010 00 San Francisco
+05 31 01 01 01 010 01 San Francisco
+05 31 01 01 01 011 00 El rastrillo
+05 31 01 01 01 011 01 El Rastrillo
+05 31 01 01 01 012 00 Prolongación 30 de Abril
+05 31 01 01 01 012 01 Prolongación 30 de Abril
+05 31 01 01 01 013 00 Nuevo Esfuerzo (Nuestro Esfuerzo)
+05 31 01 01 01 013 01 Nuestro Esfuerzo
+05 31 01 01 01 014 00 Juan Pablo Duarte
+05 31 01 01 01 014 01 Juan Pablo Duarte
+05 31 01 01 01 015 00 las clavellinas
+05 31 01 01 01 015 01 Las Clavellinas
+05 31 01 01 01 016 00 La Vigía
+05 31 01 01 01 016 01 La Vigía
+05 31 01 01 01 017 00 urbanización Los Maestros
+05 31 01 01 01 017 01 Urbanización Los Maestros
+05 31 01 01 01 018 00 la colina
+05 31 01 01 01 018 01 La Colina
+05 31 01 01 01 018 02 El Cocal
+05 31 01 01 01 018 03 La Agüita
+05 31 01 01 01 018 04 San Antonio
+05 31 01 01 01 019 00 los invasores 
+05 31 01 01 01 019 01 Los Invasores
+05 31 01 01 01 020 00 Rancho de San Francisco (San Andrés)
+05 31 01 01 01 020 01 Rancho Francisco (San Andrés)
+05 31 01 01 01 021 00 urbanización Bella Vista
+05 31 01 01 01 021 01 Urbanización Bella Vista
+05 31 01 01 01 022 00 Las Mercedes
+05 31 01 01 01 022 01 Las Mercedes
+05 31 01 01 02 000 00 Los Ranchitos
+05 31 01 01 02 001 00 Los Ranchitos
+05 31 01 01 02 002 00 Arenoso
+05 31 01 01 02 003 00 Saviñón
+05 31 01 01 02 004 00 Las Caobas
+05 31 01 01 02 005 00 Méndez
+05 31 01 01 02 006 00 Los Martínez
+05 31 01 01 02 007 00 Hoyo Nuevo
+05 31 01 01 02 008 00 El Limón
+05 31 01 01 02 009 00 El Angelito
+05 31 01 01 02 010 00 Monte Higüero
+05 31 01 01 02 011 00 Jengibre
+05 31 01 01 02 012 00 La Laguneta
+05 31 01 01 02 013 00 Arroyo Palma
+05 31 01 01 02 014 00 Las Flores
+05 31 01 01 02 015 00 Bayona
+05 31 01 01 02 016 00 Vuelta de la Paloma
+05 31 01 02 00 000 00 La Ciénaga (DM)
+05 31 01 02 01 000 00 La Ciénaga (Zona urbana)
+05 31 01 02 01 001 00 Proyecto La Ciénaga
+05 31 01 02 01 001 01 Proyecto La Ciénaga
+05 31 01 02 01 001 02 El Rodadero
+05 31 01 02 01 001 03 Quisqueya Verde
+05 31 01 02 01 001 04 Ciénaga Abajo
+05 31 01 02 01 001 05 Tito
+05 31 01 02 01 001 06 Bilico
+05 31 01 02 02 000 00 los anones
+05 31 01 02 02 001 00 El Quemado
+05 31 01 02 02 002 00 El Toro
+05 31 01 02 02 003 00 Los Anones
+05 31 01 02 02 004 00 El Manaclar
+05 31 01 02 02 005 00 Monte Grande
+05 31 01 02 02 006 00 La Jina
+05 31 01 02 02 007 00 El Mogote
+05 31 01 02 02 008 00 Cañada Grande
+05 31 01 02 02 009 00 Jigüey
+05 31 01 02 02 010 00 El Mochito
+05 31 01 02 02 011 00 Domingo Frío
+05 31 01 02 02 012 00 Los Limones
+05 31 01 02 02 013 00 El Buey
+05 31 01 02 02 014 00 Juan Grande
+05 31 01 02 02 015 00 Las Peñas
+05 31 01 02 02 016 00 El Higüerote
+05 31 01 02 02 017 00 El Manielito
+05 31 01 02 02 018 00 El Desecho
+05 31 01 02 03 000 00 la ciénaga
+05 31 01 02 03 001 00 El Arenazo
+05 31 01 02 03 002 00 La Jaiba o La Jamba
+05 31 01 02 03 003 00 Los Palmaritos
+05 31 01 02 03 004 00 Tatón
+05 31 01 02 03 005 00 La Vereda o La Verea
+05 31 01 02 03 006 00 Monte Bonito
+05 31 01 02 03 007 00 Camarón
+05 31 01 02 03 008 00 El Rodadero 
+05 31 01 02 03 009 00 Cañada Honda
+05 31 01 02 03 010 00 El Rincón
+05 31 01 02 03 011 00 Río Abajo
+05 31 01 02 03 012 00 Boca de Cazuela
+05 31 01 02 03 013 00 La Ciénaga
+05 31 01 02 03 014 00 El Jobo
+05 31 01 02 04 000 00 El rosalito
+05 31 01 02 04 001 00 Los Capacitos
+05 31 01 02 04 002 00 Apolinar
+05 31 01 02 04 003 00 Arroyo de Pedro
+05 31 01 02 04 004 00 La Yautía
+05 31 01 02 04 005 00 El Rosalito
+05 31 01 02 04 006 00 Palo de la Higüera
+05 31 01 02 04 007 00 Las Barías
+05 31 01 02 04 008 00 El Mogote
+05 31 01 02 04 009 00 Boca de Mahoma
+05 31 01 02 04 010 00 La Travesía
+05 31 01 02 04 011 00 Palo de Caja
+05 31 01 02 04 012 00 Pío
+05 31 01 02 04 013 00 El Capá
+05 31 01 02 04 014 00 La Laguna
+05 31 01 02 04 015 00 Santana
+05 31 01 02 04 016 00 La Higuerita (La Higuereta)
+05 31 01 02 04 017 00 El Toro
+05 31 01 02 04 018 00 Loma del Mogote
+05 31 01 02 04 019 00 El Loasa
+05 31 01 02 04 020 00 El Firme
+05 31 01 02 04 021 00 Los Indios
+05 31 01 02 04 022 00 La Cabirma
+05 31 01 02 04 023 00 El Chifle
+05 31 01 02 04 024 00 Doña Ana
+05 31 01 03 00 000 00 Nizao - Las Auyamas (DM)
+05 31 01 03 01 000 00 Nizao (Zona urbana)
+05 31 01 03 01 001 00 EL callejón
+05 31 01 03 01 001 01 EL callejón
+05 31 01 03 01 001 02 La Viuda
+05 31 01 03 01 001 03 El Caliche o Las Flores
+05 31 01 03 01 002 00 El alto
+05 31 01 03 01 002 01 El Alto
+05 31 01 03 01 003 00 Los Macos
+05 31 01 03 01 003 01 Los Macos
+05 31 01 03 01 004 00 la Sabana
+05 31 01 03 01 004 01 La Sabana
+05 31 01 03 01 005 00 Arroyo Seco
+05 31 01 03 01 005 01 Arroyo Seco
+05 31 01 03 01 006 00 la cumbre 
+05 31 01 03 01 006 01 La Cumbre 
+05 31 01 03 02 000 00 las auyamas arriba
+05 31 01 03 02 001 00 Las Auyamas
+05 31 01 03 02 002 00 Los Cajones
+05 31 01 03 02 003 00 El Aguacate
+05 31 01 03 02 004 00 La Botella
+05 31 01 03 02 005 00 Cazuela
+05 31 01 03 02 006 00 Arroyo al Medio
+05 31 01 03 02 007 00 La Bija
+05 31 01 03 02 008 00 Cañada de Manacla
+05 31 01 03 02 009 00 Cañada Nueva
+05 31 01 03 02 010 00 Las Piedras
+05 31 01 03 02 011 00 La Marca
+05 31 01 03 02 012 00 La Vereda Nueva
+05 31 01 03 02 013 00 Los Almendros
+05 31 01 03 02 014 00 La Sabana
+05 31 01 03 02 015 00 La Nuez
+05 31 01 03 02 016 00 La Majagua
+05 31 01 03 02 017 00 Cazuelita
+05 31 01 03 02 018 00 La Matica
+05 31 01 03 02 019 00 Los Palmaritos
+05 31 01 03 02 020 00 Cañada Mala
+05 31 01 03 03 000 00 las cumbres
+05 31 01 03 03 001 00 La Cumbre
+05 31 01 03 03 002 00 El Pomo
+05 31 01 03 03 003 00 El Botado
+05 31 01 03 03 004 00 Los Brazos
+05 31 01 03 03 005 00 Monte Prieto
+05 31 01 03 03 006 00 El Callejón
+05 31 01 03 03 007 00 Los Guázaros
+05 31 01 03 03 008 00 Arroyo Seco
+05 31 01 03 03 009 00 Laguna Seca
+05 31 01 03 03 010 00 El Mulo
+05 31 01 03 03 011 00 El Pie de la Loma
+05 31 01 03 03 012 00 Pino Mocho (Pino Moncho)
+05 31 01 03 04 000 00 El Higuito
+05 31 01 03 04 001 00 Yerba Buena
+05 31 01 03 04 002 00 Los Palos Grandes
+05 31 01 03 04 003 00 Arroyo Arriba
+05 31 01 03 04 004 00 Las Avispas
+05 31 01 03 04 005 00 La Higuera
+05 31 01 03 04 006 00 El Higuito
+05 31 01 03 04 007 00 El Carrao
+05 31 01 03 04 008 00 Monte Bonito
+05 31 01 03 04 009 00 Los Guineos
+05 31 01 04 00 000 00 El Pinar (DM)
+05 31 01 04 01 000 00 El Pinar (Zona urbana)
+05 31 01 04 01 001 00 El Pinar
+05 31 01 04 01 001 01 El Pinar Arriba 
+05 31 01 04 01 001 02 El Pinar Abajo
+05 31 01 04 01 001 03 El Cajuilito
+05 31 01 04 02 000 00 los corozos
+05 31 01 04 02 001 00 La Agüita
+05 31 01 04 02 002 00 La Toronja
+05 31 01 04 02 003 00 La Cuchilla
+05 31 01 04 02 004 00 El Perico
+05 31 01 04 02 005 00 El Ojo de Agua
+05 31 01 04 02 006 00 Rancho Francisco
+05 31 01 04 02 007 00 El Corbanal
+05 31 01 04 02 008 00 La Isleta
+05 31 01 04 02 009 00 Los Canes
+05 31 01 04 02 010 00 La Damajuana o La Damajagua
+05 31 01 04 02 011 00 Los Corozos
+05 31 01 04 02 012 00 La Cruz
+05 31 01 04 02 013 00 Los Palmaritos
+05 31 01 04 02 014 00 El Montazo
+05 31 01 04 02 015 00 Los Pocheses
+05 31 01 04 02 016 00 El Caimital
+05 31 01 04 02 017 00 El Bejucal
+05 31 01 04 03 000 00 Los Tramojos
+05 31 01 04 03 001 00 La Ciénaga
+05 31 01 04 03 002 00 La Tachuela
+05 31 01 04 03 003 00 Los Limones
+05 31 01 04 03 004 00 Los Tramojos
+05 31 01 04 03 005 00 Los Negros
+05 31 01 04 04 000 00 El Cercado
+05 31 01 04 04 001 00 El Cercado
+05 31 01 04 04 002 00 Mancebo
+05 31 01 04 04 003 00 Mesa de Domingo o Neón de Domingo
+05 31 01 04 04 004 00 Palo de Sabina
+05 31 01 04 04 005 00 Sabana Abajo
+05 31 01 05 00 000 00 El Naranjal (DM)
+05 31 01 05 01 000 00 El Naranjal (Zona urbana)
+05 31 01 05 01 001 00 Naranjal Arriba
+05 31 01 05 01 001 01 Naranjal Arriba
+05 31 01 05 01 001 02 Cañada Abajo
+05 31 01 05 02 000 00 El Naranjal
+05 31 01 05 02 001 00 El Ojo de Agua
+05 31 01 05 02 002 00 Arroyo Hondo
+05 31 01 05 02 003 00 Cazuela
+05 31 01 05 02 004 00 Derrumbado
+05 31 01 05 02 005 00 Los Limoncillos
+05 31 01 05 02 006 00 Vengan a Ver
+05 31 01 05 02 007 00 Parra
+05 31 01 05 02 008 00 Tumbaca
+05 31 01 05 02 009 00 La Fortuna
+05 31 02 00 00 000 00 Sabana larga
+05 31 02 01 00 000 00 Sabana larga
+05 31 02 01 01 000 00 Sabana Larga (Zona urbana)
+05 31 02 01 01 001 00 El limonal
+05 31 02 01 01 001 01 El Limonal
+05 31 02 01 01 001 02 Los Guandules
+05 31 02 01 01 001 03 San Geraldo
+05 31 02 01 01 002 00 Centro del Pueblo
+05 31 02 01 01 002 01 Centro del Pueblo
+05 31 02 01 01 002 02 Los Pujols
+05 31 02 01 01 002 03 Villa Progreso
+05 31 02 01 01 002 04 Los Ñocos
+05 31 02 01 01 002 05 El Jabillón
+05 31 02 01 01 002 06 La Cañita
+05 31 02 01 01 003 00 Sabana Larga Abajo o Los Come Dulce
+05 31 02 01 01 003 01 Sabana Larga Abajo o Los Come Dulce
+05 31 02 01 01 003 02 San Vicente
+05 31 02 01 01 004 00 El Cruce de La Esperanza
+05 31 02 01 01 004 01 El Cruce de La Esperanza
+05 31 02 01 01 005 00 El Rincón
+05 31 02 01 01 005 01 El Rincón
+05 31 02 01 02 000 00 la Horma
+05 31 02 01 02 001 00 El Cajón
+05 31 02 01 02 002 00 Arroyo Bonito
+05 31 02 01 02 003 00 Carmona
+05 31 02 01 02 004 00 Arabia
+05 31 02 01 02 005 00 Los Limoncillos
+05 31 02 01 02 006 00 La Nuez
+05 31 02 01 02 007 00 Las Nueces
+05 31 02 01 02 008 00 Las Espinas
+05 31 02 01 02 009 00 La Ciénaga al Medio
+05 31 02 01 02 010 00 El Rifle
+05 31 02 01 02 011 00 La Horma
+05 31 02 01 02 012 00 Los Almendros
+05 31 02 01 02 013 00 Los Arroyos
+05 31 02 01 02 014 00 Los Manaclares
+05 31 02 01 02 015 00 La Palma
+05 31 02 01 02 016 00 Las Cayas
+05 31 02 01 02 017 00 Manuel Lorenzo
+05 31 02 01 02 018 00 El Canal
+05 31 02 01 02 019 00 Rincón del Pino
+05 31 02 01 02 020 00 La Barra
+05 31 02 01 02 021 00 Los Pocitos
+05 31 02 01 02 022 00 La Ciénaga de los Pocitos
+05 31 02 01 02 023 00 Derrico Blanco
+05 31 02 01 03 000 00 Sabana larga
+05 31 02 01 03 001 00 Los Guayabos
+05 31 02 01 03 002 00 El Guayabo
+05 31 02 01 03 003 00 La Esperanza
+05 31 02 01 03 004 00 La Angostura
+05 31 02 01 03 005 00 La Malagueta
+05 31 02 01 03 006 00 Loma Comején (El Comején)
+05 31 02 01 03 007 00 Los Martínez
+05 31 02 01 03 008 00 Sabana Larga
+05 31 03 00 00 000 00 Rancho Arriba
+05 31 03 01 00 000 00 Rancho Arriba
+05 31 03 01 01 000 00 Villa de Rancho Arriba (Zona urbana)
+05 31 03 01 01 001 00 Rancho Arriba
+05 31 03 01 01 001 01 Banilejo
+05 31 03 01 01 001 02 Los Quemados
+05 31 03 01 01 001 03 Proyecto La Cienaguita
+05 31 03 01 01 001 04 La Sabana
+05 31 03 01 02 000 00 arroyo caña
+05 31 03 01 02 001 00 Arroyo Blanco
+05 31 03 01 02 002 00 Arroyo Caña
+05 31 03 01 02 003 00 Juan Luis
+05 31 03 01 02 004 00 La Vigía
+05 31 03 01 02 005 00 Los Morones
+05 31 03 01 02 006 00 El Comedero
+05 31 03 01 02 007 00 Los Quemado
+05 31 03 01 02 008 00 Banilejo
+05 31 03 01 03 000 00 Mahoma
+05 31 03 01 03 001 00 Las Avispas
+05 31 03 01 03 002 00 Arroyo Prieto
+05 31 03 01 03 003 00 Florencio
+05 31 03 01 03 004 00 La Marca
+05 31 03 01 03 005 00 Los Gatos
+05 31 03 01 03 006 00 Arroyo del Café
+05 31 03 01 03 007 00 Mata de Café
+05 31 03 01 03 008 00 La Yuca
+05 31 03 01 03 009 00 Las Yayas
+05 31 03 01 03 010 00 Arroyo del Medio
+05 31 03 01 03 011 00 Mahoma
+05 31 03 01 03 012 00 La Nuez
+05 31 03 01 03 013 00 La Peñita
+05 31 03 01 03 014 00 Suardí
+05 31 03 01 03 015 00 La Colonia
+05 31 03 01 03 016 00 Palo de la Cruz
+05 31 03 01 03 017 00 El Catey
+05 31 03 01 03 018 00 Derrumbado
+05 31 03 01 03 019 00 La Trocha (La Tocha)
+05 31 03 01 03 020 00 Derrumbadero de Mahoma
+05 31 03 01 03 021 00 Los Fogoncitos
+05 31 03 01 03 022 00 Los Grillos
+05 31 03 01 03 023 00 La Bocaína
+05 31 03 01 03 024 00 La Cabirma
+05 31 03 01 03 025 00 Arroyo Manteca
+05 31 03 01 03 026 00 Arroyo Chiquito
+05 31 03 01 03 027 00 El Toro
+05 31 03 01 03 028 00 El Barranquito
+05 31 03 01 04 000 00 Quita Sueño
+05 31 03 01 04 001 00 Quita Pena (Quita Peña)
+05 31 03 01 04 002 00 Los Arroyitos
+05 31 03 01 04 003 00 Los Naranjos
+05 31 03 01 04 004 00 La Monteadita
+05 31 03 01 04 005 00 Hato Viejo
+05 31 03 01 04 006 00 Las Yayas
+05 31 03 01 04 007 00 La Estrechura
+05 31 03 01 04 008 00 Quita Sueño
+05 31 03 01 04 009 00 La Cienaguita
+05 31 03 01 04 010 00 Monte Negro
+05 31 03 01 04 011 00 La Travesía
+05 31 03 01 04 012 00 La Sabana
+05 31 03 01 04 013 00 El Mogote
+05 31 03 01 04 014 00 Yerba Buena
+05 31 03 01 04 015 00 Loma del Cajón
+05 31 03 01 04 016 00 Montía del Coco
+05 31 03 01 04 017 00 Junumucú
+05 31 03 01 04 018 00 Desecho Largo
+05 31 03 01 04 019 00 Arroyo Hondo
+05 31 03 01 04 020 00 Firme de Monroe

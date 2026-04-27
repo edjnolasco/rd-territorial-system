@@ -1,0 +1,325 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+08 12 00 00 00 000 00 La Romana
+08 12 01 00 00 000 00 La Romana
+08 12 01 01 00 000 00 La Romana
+08 12 01 01 01 000 00 La Romana (Zona urbana)
+08 12 01 01 01 001 00 Ensanche Quisqueya
+08 12 01 01 01 001 01 Ensanche Quisqueya Nueva
+08 12 01 01 01 001 02 Ensanche Quisqueya Vieja
+08 12 01 01 01 002 00 Los Camioneros
+08 12 01 01 01 002 01 Los Camioneros
+08 12 01 01 01 003 00 Paseo de Los Caciques I
+08 12 01 01 01 003 01 Paseo de Los Caciques I
+08 12 01 01 01 004 00 Paseo de Los Caciques II
+08 12 01 01 01 004 01 Paseo de Los Caciques II
+08 12 01 01 01 005 00 Villa Verde
+08 12 01 01 01 005 01 Villa Verde
+08 12 01 01 01 005 02 Ensanche Almeida
+08 12 01 01 01 005 03 El Buen Samaritano
+08 12 01 01 01 005 04 Los Profesores o Los Maestros
+08 12 01 01 01 006 00 Ensanche La Hoz
+08 12 01 01 01 006 01 Ensanche La Hoz
+08 12 01 01 01 007 00 INVI
+08 12 01 01 01 007 01 INVI
+08 12 01 01 01 007 02 Blanco
+08 12 01 01 01 008 00 Chicago
+08 12 01 01 01 008 01 Chicago
+08 12 01 01 01 008 02 Condominio Central Romana
+08 12 01 01 01 009 00 Don Juan I
+08 12 01 01 01 009 01 Don Juan I
+08 12 01 01 01 010 00 Ensanche Pereira
+08 12 01 01 01 010 01 Ensanche Pereira
+08 12 01 01 01 011 00 Orquídea Primera Etapa
+08 12 01 01 01 011 01 Orquídea Primera Etapa
+08 12 01 01 01 012 00 La Aviación
+08 12 01 01 01 012 01 La Aviación
+08 12 01 01 01 013 00 San Carlos
+08 12 01 01 01 013 01 San Carlos
+08 12 01 01 01 014 00 Los Colonos
+08 12 01 01 01 014 01 Los Colonos
+08 12 01 01 01 015 00 Santa Fe
+08 12 01 01 01 015 01 El Hoyo
+08 12 01 01 01 015 02 Santa Fe
+08 12 01 01 01 016 00 Central Romana
+08 12 01 01 01 016 01 Central Romana
+08 12 01 01 01 016 02 La Costa
+08 12 01 01 01 017 00 Centro de la Ciudad
+08 12 01 01 01 017 01 Centro de la Ciudad
+08 12 01 01 01 017 02 Río Salado
+08 12 01 01 01 018 00 Don Juan V
+08 12 01 01 01 018 01 Don Juan V
+08 12 01 01 01 019 00 Katanga
+08 12 01 01 01 019 01 Katanga
+08 12 01 01 01 020 00 Urbanización María Rubio
+08 12 01 01 01 020 01 Urbanización María Rubio
+08 12 01 01 01 021 00 Urbanización Las Piedras
+08 12 01 01 01 021 01 Urbanización Las Piedras
+08 12 01 01 01 022 00 Papagayo
+08 12 01 01 01 022 01 Papagayo
+08 12 01 01 01 023 00 Urbanización Buena Vista Norte
+08 12 01 01 01 023 01 Urbanización Buena Vista Norte
+08 12 01 01 01 024 00 Alto de Río Dulce
+08 12 01 01 01 024 01 Alto de Río Dulce
+08 12 01 01 01 025 00 Savica
+08 12 01 01 01 025 01 Savica
+08 12 01 01 01 025 02 Miramar
+08 12 01 01 01 025 03 Santa Fe Oeste
+08 12 01 01 01 026 00 Villa Alacrán
+08 12 01 01 01 026 01 Villa Alacrán
+08 12 01 01 01 027 00 Don Juan II
+08 12 01 01 01 027 01 Don Juan II
+08 12 01 01 01 028 00 Obrero
+08 12 01 01 01 028 01 Obrero
+08 12 01 01 01 029 00 Caletón o Urbanización Buena Vista Sur
+08 12 01 01 01 029 01 Caletón o Urbanización Buena Vista Sur
+08 12 01 01 01 030 00 Residencial Las Palmas
+08 12 01 01 01 030 01 Residencial Las Palmas
+08 12 01 01 01 031 00 Preconca
+08 12 01 01 01 031 01 Preconca
+08 12 01 01 01 032 00 Bancola
+08 12 01 01 01 032 01 Bancola
+08 12 01 01 01 033 00 Villa Nazareth
+08 12 01 01 01 033 01 Villa Nazareth
+08 12 01 01 01 034 00 Los Multi
+08 12 01 01 01 034 01 Los Multi
+08 12 01 01 01 035 00 Ensanche La Paz
+08 12 01 01 01 035 01 Ensanche La Paz
+08 12 01 01 01 036 00 Residencial Romana del Oeste
+08 12 01 01 01 036 01 Residencial Romana del Oeste
+08 12 01 01 01 037 00 Residencial Orquídea II Etapa
+08 12 01 01 01 037 01 Residencial Orquídea II Etapa
+08 12 01 01 01 037 02 Las Orquídeas 
+08 12 01 01 01 038 00 Villa San Carlos
+08 12 01 01 01 038 01 Villa San Carlos
+08 12 01 01 01 039 00 George
+08 12 01 01 01 039 01 George
+08 12 01 01 01 040 00 Villa España
+08 12 01 01 01 040 01 Villa España
+08 12 01 01 01 041 00 Mina Central Romana
+08 12 01 01 01 041 01 Mina Central Romana
+08 12 01 01 02 000 00 Aletón
+08 12 01 01 02 001 00 Mirapato
+08 12 01 01 02 002 00 Batey Corcica
+08 12 01 01 02 003 00 Batey Santoni
+08 12 01 01 02 004 00 Batey 205
+08 12 01 01 02 005 00 Batey Mucarabón
+08 12 01 01 02 006 00 La Cachaza
+08 12 01 01 02 007 00 Batey Cacata
+08 12 01 01 02 008 00 Batey Lithgow
+08 12 01 01 02 009 00 Batey Gran Calle
+08 12 01 01 02 010 00 Rancho Viejo
+08 12 01 01 02 011 00 María Bonita
+08 12 01 01 02 012 00 Batey 203
+08 12 01 01 02 013 00 Batey Esperanza
+08 12 01 01 02 014 00 La Luisa
+08 12 01 01 02 015 00 Altos de Chavón
+08 12 01 01 02 016 00 Batey Anón
+08 12 01 01 02 017 00 Batey Culebra
+08 12 01 01 02 018 00 Batey Mosquito 204
+08 12 01 01 02 019 00 Caletón
+08 12 01 01 02 020 00 Los Cajuiles
+08 12 01 01 02 021 00 Isla Catalina
+08 12 01 01 03 000 00 Isla Saona
+08 12 01 01 03 001 00 Mano Juan - Adamanay
+08 12 01 01 03 002 00 Catuano
+08 12 01 02 00 000 00 Caleta (DM)
+08 12 01 02 01 000 00 Caleta (Zona urbana)
+08 12 01 02 01 001 00 Caleta (Villa Caleta)
+08 12 01 02 01 001 01 Caleta (Villa Caleta)
+08 12 01 02 01 001 02 Residencial Costa del Mar
+08 12 01 02 01 001 03 Residencial Palmares
+08 12 01 02 01 001 04 Residencial Palmares Las Casitas
+08 12 01 02 01 001 05 Residencial Rosa Inés
+08 12 01 02 01 001 06 Residencial S/N (En Contrucción)
+08 12 01 02 01 001 07 Residencial Palmar de la Caleta I
+08 12 01 02 01 001 08 Residencial Palmar de la Caleta II
+08 12 01 02 01 002 00 Residencial Romana
+08 12 01 02 01 002 01 Residencial Romana
+08 12 01 02 01 002 02 Residencial Estrella Marina
+08 12 01 02 01 002 03 Catalina Bay
+08 12 01 02 01 003 00 Residencial Vista Catalina
+08 12 01 02 01 003 01 Residencial Vista Catalina
+08 12 01 02 01 003 02 Residencial Palma de la Costa
+08 12 01 02 01 003 03 Residencial Benjamín
+08 12 01 02 01 003 04 Residencial Melissa
+08 12 01 02 01 003 05 Residencial Luz del Mar III
+08 12 01 02 01 003 06 Residencial Mar IV
+08 12 01 02 01 003 07 Residencial Catalina
+08 12 01 02 01 003 08 Residencial Catalina Village
+08 12 01 02 01 003 09 Residencial Papatón
+08 12 01 02 01 003 10 Proyecto en construcción S/N
+08 12 02 00 00 000 00 Guaymate
+08 12 02 01 00 000 00 Guaymate
+08 12 02 01 01 000 00 Guaymate (Zona urbana)
+08 12 02 01 01 001 00 Centro del Pueblo
+08 12 02 01 01 001 01 Centro del Pueblo
+08 12 02 01 01 002 00 La Palma
+08 12 02 01 01 002 01 La Palma
+08 12 02 01 01 003 00 Hoyo de Higüero
+08 12 02 01 01 003 01 Hoyo de Higüero
+08 12 02 01 01 004 00 Los Cocos
+08 12 02 01 01 004 01 Los Cocos
+08 12 02 01 01 005 00 El Tanque
+08 12 02 01 01 005 01 El Tanque
+08 12 02 01 01 006 00 Pueblo Nuevo
+08 12 02 01 01 006 01 Pueblo Nuevo
+08 12 02 01 01 007 00 La Construcción
+08 12 02 01 01 007 01 La Construcción
+08 12 02 01 01 008 00 El 17
+08 12 02 01 01 008 01 EL 17
+08 12 02 01 02 000 00 Higüeral
+08 12 02 01 02 001 00 La Noria
+08 12 02 01 02 002 00 Placer Bonito
+08 12 02 01 02 003 00 Mata Hombre
+08 12 02 01 02 004 00 Punto Fijo
+08 12 02 01 02 005 00 Batey Campiña
+08 12 02 01 02 006 00 Batey Renguelito
+08 12 02 01 02 007 00 Batey Las Flores
+08 12 02 01 02 008 00 Batey El 20
+08 12 02 01 02 009 00 Batey Higüeral
+08 12 02 01 02 010 00 Batey Almeyda
+08 12 02 01 02 011 00 Batey Escuadra
+08 12 02 01 02 012 00 Batey El Quemado
+08 12 02 01 02 013 00 Batey El 5
+08 12 02 01 02 014 00 Batey El 40
+08 12 02 01 02 015 00 Batey El 4
+08 12 02 01 02 016 00 Batey 62
+08 12 02 01 02 017 00 Batey Espinillo
+08 12 02 01 02 018 00 Batey Cruce de Guerrero
+08 12 02 01 02 019 00 Batey Caimoní
+08 12 02 01 02 020 00 Batey 82
+08 12 02 01 02 021 00 Batey Palo Blanco
+08 12 02 01 02 022 00 Batey El 17
+08 12 02 01 02 023 00 Batey El 18
+08 12 02 01 02 024 00 Batey El 15
+08 12 02 01 02 025 00 Batey Guerrero
+08 12 02 01 02 026 00 Batey El 22
+08 12 02 01 02 027 00 Batey Peligro
+08 12 02 01 02 028 00 Batey El 16
+08 12 02 01 02 029 00 Chucho de Chichi
+08 12 02 01 03 000 00 Sabana
+08 12 02 01 03 001 00 Mirapato
+08 12 02 01 03 002 00 Chavón Abajo
+08 12 02 01 03 003 00 Buenos Aires
+08 12 02 01 03 004 00 Batey Bobito
+08 12 02 01 03 005 00 Batey San Isidro
+08 12 02 01 03 006 00 Batey La Altagracia
+08 12 02 01 03 007 00 Batey Higo Claro
+08 12 02 01 03 008 00 Batey América - El Quemado
+08 12 02 01 03 009 00 Batey Las Parcelas
+08 12 02 01 03 010 00 Batey La Milagrosa
+08 12 02 01 03 011 00 Los Berroa
+08 12 02 01 03 012 00 Chavón Arriba
+08 12 02 01 03 013 00 Batey Pulguero
+08 12 02 01 03 014 00 Batey Nigua
+08 12 02 01 03 015 00 Batey Las Mercedes
+08 12 02 01 03 016 00 Batey Como Quiera
+08 12 02 01 03 017 00 Batey Santa Rosa
+08 12 02 01 03 018 00 La Cuchilla
+08 12 02 01 03 019 00 Batey El 80
+08 12 02 01 03 020 00 Batey El 24
+08 12 02 01 03 021 00 La Habana
+08 12 02 01 03 022 00 Batey Sabana de Chavón
+08 12 02 01 03 023 00 Batey Lechería
+08 12 02 01 03 024 00 Cerros de Chavón
+08 12 02 01 03 025 00 Batey Hoyo de Puerco
+08 12 02 01 03 026 00 El Arca
+08 12 02 01 03 027 00 Batey Colón o Peligro
+08 12 02 01 03 028 00 Aletón
+08 12 02 01 03 029 00 Batey 205
+08 12 02 01 03 030 00 La Regola
+08 12 02 01 03 031 00 La Culebra
+08 12 02 01 03 032 00 Batey Nuevo
+08 12 02 01 03 033 00 Batey El 81
+08 12 03 00 00 000 00 Villa Hermosa
+08 12 03 01 00 000 00 Villa Hermosa
+08 12 03 01 01 000 00 Villa Hermosa (Zona urbana)
+08 12 03 01 01 001 00 Reparto Torres
+08 12 03 01 01 001 01 Reparto Torres
+08 12 03 01 01 002 00 El Picapiedra
+08 12 03 01 01 002 01 El Picapiedra
+08 12 03 01 01 003 00 Cumajón
+08 12 03 01 01 003 01 Cumajón
+08 12 03 01 01 004 00 Piedra Linda
+08 12 03 01 01 004 01 Piedra Linda
+08 12 03 01 01 005 00 Villa Zorrilla
+08 12 03 01 01 005 01 Villa Zorrilla
+08 12 03 01 01 006 00 La Sabanita
+08 12 03 01 01 006 01 La Sabanita
+08 12 03 01 01 007 00 Villa Progreso
+08 12 03 01 01 007 01 Villa Progreso
+08 12 03 01 01 007 02 Cristo Rey
+08 12 03 01 01 007 03 Canta la Rana
+08 12 03 01 01 007 04 San Andrés
+08 12 03 01 01 007 05 El Tamarindo
+08 12 03 01 01 007 06 Villa Esperanza
+08 12 03 01 01 008 00 La Lechosa
+08 12 03 01 01 008 01 La Lechosa
+08 12 03 01 01 008 02 Los Valdez
+08 12 03 01 01 008 03 Villa Tabacalera o Urbanización García
+08 12 03 01 01 009 00 La Caoba
+08 12 03 01 01 009 01 La Caoba
+08 12 03 01 01 009 02 Villa Deportiva
+08 12 03 01 01 010 00 Villa Caoba (Los Mulos)
+08 12 03 01 01 010 01 Villa Caoba
+08 12 03 01 01 011 00 Los Coquitos
+08 12 03 01 01 011 01 Los Coquitos
+08 12 03 01 01 012 00 Residencial Don Juan
+08 12 03 01 01 012 01 Residencial Don Juan
+08 12 03 01 01 013 00 Juan Pablo Duarte o Kilómetro 6
+08 12 03 01 01 013 01 Juan Pablo Duarte o Kilómetro 6
+08 12 03 01 01 013 02 Urbanización Doña Olga I
+08 12 03 01 01 014 00 La Paz
+08 12 03 01 01 014 01 La Paz
+08 12 03 01 01 015 00 Sinaí
+08 12 03 01 01 015 01 Sinaí
+08 12 03 01 01 016 00 El Parquecito
+08 12 03 01 01 016 01 El Parquecito
+08 12 03 01 01 017 00 El Jobo o Villa Paraíso
+08 12 03 01 01 017 01 El Jobo o Villa Paraíso
+08 12 03 01 01 018 00 Villa Hermosa
+08 12 03 01 01 018 01 Villa Hermosa
+08 12 03 01 01 019 00 Los Maestros
+08 12 03 01 01 019 01 Los Maestros
+08 12 03 01 01 020 00 Los Mulos
+08 12 03 01 01 020 01 Los Mulos
+08 12 03 02 00 000 00 Cumayasa (DM)
+08 12 03 02 01 000 00 Cumayasa (Zona urbana)
+08 12 03 02 01 001 00 Kilómetro 10 de Cumayasa
+08 12 03 02 01 001 01 Kilómetro 10 de Cumayasa
+08 12 03 02 01 002 00 Villa Real
+08 12 03 02 01 002 01 Villa Real
+08 12 03 02 01 002 02 Residencial Brisas de Cumayasa
+08 12 03 02 01 002 03 Residencial Riveras de Cumayasa
+08 12 03 02 01 002 04 Residencial Barbaur y Homburg
+08 12 03 02 01 003 00 Cucama
+08 12 03 02 01 003 01 Cucama
+08 12 03 02 01 003 02 Residencial Prados de Cumayasa
+08 12 03 02 01 003 03 Residencial Victoria
+08 12 03 02 01 003 04 Residencial Brisas del Mar
+08 12 03 02 01 003 05 María Trinidad Sánchez
+08 12 03 02 01 003 06 Residencial Los Wilamo
+08 12 03 02 01 003 07 Urbanización Brisas del Mar II
+08 12 03 02 01 004 00 Juan Pablo Duarte o Kilómetro Seis
+08 12 03 02 01 004 01 Juan Pablo Duarte o Kilómetro Seis
+08 12 03 02 01 004 02 Residencial Doña Olga I
+08 12 03 02 01 004 03 Residencial Doña Olga II
+08 12 03 02 01 005 00 Residencial Doña Olga III
+08 12 03 02 01 005 01 Residencial Doña Olga III
+08 12 03 02 02 000 00 Cumayasa
+08 12 03 02 02 001 00 Batey El Gato
+08 12 03 02 02 002 00 Batey Las Tumbas
+08 12 03 02 02 003 00 El 14
+08 12 03 02 02 004 00 El Papayo
+08 12 03 02 02 005 00 El 10
+08 12 03 02 02 006 00 Las Uvitas
+08 12 03 02 02 007 00 Cucama
+08 12 03 02 02 008 00 Campo Alegre
+08 12 03 02 02 009 00 El Batey
+08 12 03 02 02 010 00 El Gato
+08 12 03 02 02 011 00 El Peñón
+08 12 03 02 02 012 00 El Manguito
+08 12 03 02 02 013 00 América
+08 12 03 02 02 014 00 Espinilla

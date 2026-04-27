@@ -1,0 +1,918 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+09 29 00 00 00 000 00 Monte Plata
+09 29 01 00 00 000 00 Monte Plata
+09 29 01 01 00 000 00 Monte Plata
+09 29 01 01 01 000 00 Monte Plata (Zona urbana)
+09 29 01 01 01 001 00 Vietnam
+09 29 01 01 01 001 01 Vietnam
+09 29 01 01 01 002 00 La Ceja
+09 29 01 01 01 002 01 La Ceja
+09 29 01 01 01 002 02 La Esperanza
+09 29 01 01 01 002 03 Los Choferes
+09 29 01 01 01 003 00 la Gallera o Entre reyes
+09 29 01 01 01 003 01 La Gallera o Entre Reyes
+09 29 01 01 01 004 00 30 de Mayo
+09 29 01 01 01 004 01 30 de Mayo
+09 29 01 01 01 005 00 Centro del Pueblo
+09 29 01 01 01 005 01 Centro del Pueblo
+09 29 01 01 01 006 00 la Unidad
+09 29 01 01 01 006 01 La Unidad
+09 29 01 01 01 007 00 Bella Vista
+09 29 01 01 01 007 01 Bella Vista
+09 29 01 01 01 008 00 lindo
+09 29 01 01 01 008 01 Lindo
+09 29 01 01 01 009 00 iNVi ii
+09 29 01 01 01 009 01 INVI II
+09 29 01 01 01 010 00 Proyecto Doña Nelly
+09 29 01 01 01 010 01 Proyecto Doña Nelly
+09 29 01 01 01 011 00 los Maestros
+09 29 01 01 01 011 01 Los Maestros
+09 29 01 01 01 012 00 Guillo
+09 29 01 01 01 012 01 Guillo
+09 29 01 01 01 013 00 Suizo (Brisas del Este)
+09 29 01 01 01 013 01 Suizo (Brisas del Este)
+09 29 01 01 01 014 00 la angustura
+09 29 01 01 01 014 01 La Angustura
+09 29 01 01 01 015 00 los Multi
+09 29 01 01 01 015 01 Los Multi
+09 29 01 01 01 016 00 Ciudad del Conocimiento
+09 29 01 01 01 016 01 Ciudad del Conocimiento
+09 29 01 01 02 000 00 El Dián
+09 29 01 01 02 001 00 El Caliche
+09 29 01 01 02 002 00 El Cerro
+09 29 01 01 02 003 00 La Savita o Cruce de Melo
+09 29 01 01 02 004 00 Manganagua
+09 29 01 01 02 005 00 El Cruce del Pajón
+09 29 01 01 02 006 00 El Dián
+09 29 01 01 02 007 00 El Proyecto o Hato Arriba
+09 29 01 01 02 008 00 Loma Vieja
+09 29 01 01 02 009 00 Cruce de Velázquez o La Mina
+09 29 01 01 02 010 00 La Pelúa
+09 29 01 01 02 011 00 El 9
+09 29 01 01 03 000 00 Hato arriba
+09 29 01 01 03 001 00 Jolupo
+09 29 01 01 03 002 00 Los Coquitos
+09 29 01 01 03 003 00 La Estrella Vieja
+09 29 01 01 03 004 00 Rincón Hondo
+09 29 01 01 03 005 00 El Hatillo
+09 29 01 01 03 006 00 La Candelaria
+09 29 01 01 03 007 00 Rincón Cajuil
+09 29 01 01 03 008 00 La Malena
+09 29 01 01 03 009 00 Rincón Largo
+09 29 01 01 03 010 00 El Cercadillo
+09 29 01 01 03 011 00 El Aguacate
+09 29 01 01 03 012 00 Los Coquitos Arriba
+09 29 01 01 03 013 00 El Prado
+09 29 01 01 03 014 00 La Palma
+09 29 01 01 03 015 00 El Portillo
+09 29 01 01 03 016 00 Batey Velásquez o San Rafael
+09 29 01 01 04 000 00 la luisa
+09 29 01 01 04 001 00 La Carabela
+09 29 01 01 04 002 00 Los Guayuyos
+09 29 01 01 04 003 00 El Pomo
+09 29 01 01 04 004 00 La Guía
+09 29 01 01 04 005 00 El Doce (12)
+09 29 01 01 04 006 00 Mataguayabo
+09 29 01 01 04 007 00 Los Frailes
+09 29 01 01 04 008 00 El Laurel
+09 29 01 01 04 009 00 La Luisa Prieta
+09 29 01 01 04 010 00 La Luisa Blanca
+09 29 01 01 05 000 00 Río Boyá
+09 29 01 01 05 001 00 Barranca
+09 29 01 01 05 002 00 Los Arroyos
+09 29 01 01 05 003 00 La Jina o Jana
+09 29 01 01 05 004 00 Bermejo
+09 29 01 01 05 005 00 La Reforma
+09 29 01 01 05 006 00 Socoa
+09 29 01 01 05 007 00 Santana
+09 29 01 01 05 008 00 Agua Viva
+09 29 01 01 05 009 00 Hatillo
+09 29 01 01 05 010 00 Don Fernando
+09 29 01 01 05 011 00 La Poza
+09 29 01 01 05 012 00 San Mateo
+09 29 01 01 05 013 00 Los Yagrumos
+09 29 01 01 05 014 00 San Diego
+09 29 01 01 05 015 00 La Leña
+09 29 01 01 05 016 00 Plaza Cacique
+09 29 01 01 05 017 00 Badillo
+09 29 01 01 05 018 00 Elvira
+09 29 01 01 05 019 00 Sabana Larga
+09 29 01 01 05 020 00 Toro Prieto
+09 29 01 01 05 021 00 Río Boyá
+09 29 01 01 05 022 00 Kilómetro 5
+09 29 01 02 00 000 00 Don Juan (DM)
+09 29 01 02 01 000 00 Don Juan (Zona urbana)
+09 29 01 02 01 001 00 Don Juan o Centro del Pueblo
+09 29 01 02 01 001 01 Don Juan o Centro del Pueblo
+09 29 01 02 01 002 00 Galindo
+09 29 01 02 01 002 01 Galindo
+09 29 01 02 01 002 02 El Brisal o El Play
+09 29 01 02 01 002 03 Los Salados
+09 29 01 02 01 003 00 Pueblo Nuevo
+09 29 01 02 01 003 01 Pueblo Nuevo
+09 29 01 02 01 004 00 El Parquesito o El Parque
+09 29 01 02 01 004 01 El Parquesito o El Parque
+09 29 01 02 01 005 00 iNVi
+09 29 01 02 01 005 01 INVI
+09 29 01 02 01 006 00 Buenos Aires
+09 29 01 02 01 006 01 Buenos Aires
+09 29 01 02 01 007 00 El cementerio
+09 29 01 02 01 007 01 El Cementerio
+09 29 01 02 01 008 00 Proyecto INVI
+09 29 01 02 01 008 01 Proyecto Invi
+09 29 01 02 01 009 00 Sabana del Río
+09 29 01 02 01 009 01 Sabana del Río
+09 29 01 02 01 010 00 los cerros
+09 29 01 02 01 010 01 Los Cerros
+09 29 01 02 02 000 00 Frías
+09 29 01 02 02 001 00 Frías
+09 29 01 02 02 002 00 Los Galanos
+09 29 01 02 02 003 00 Los Cerros
+09 29 01 02 02 004 00 Los Capaces
+09 29 01 02 02 005 00 Sabana del Río
+09 29 01 02 02 006 00 Las Mellizas
+09 29 01 02 02 007 00 Batey Bermejo
+09 29 01 02 02 008 00 Manga
+09 29 01 02 03 000 00 Sabana de Payabo
+09 29 01 02 03 001 00 Batey Payabo
+09 29 01 02 03 002 00 Batey Hoyo de Pum
+09 29 01 02 03 003 00 Batey Frías
+09 29 01 02 03 004 00 Cruce de La Elmursht (De Payabo)
+09 29 01 02 03 005 00 Batey Triple San Pedro
+09 29 01 02 03 006 00 Batey Los Llanos
+09 29 01 02 03 007 00 Sabana de Payabo
+09 29 01 02 04 000 00 El Bosque
+09 29 01 02 04 001 00 El Bosque Arriba
+09 29 01 02 04 002 00 Capotillo
+09 29 01 02 04 003 00 Los Granadillos
+09 29 01 02 04 004 00 Mijo Abajo
+09 29 01 02 04 005 00 La Cerca
+09 29 01 02 04 006 00 Los Cumani
+09 29 01 02 05 000 00 la Jagua
+09 29 01 02 05 001 00 Batey La Jagua
+09 29 01 02 05 002 00 Cruce de la Jagua
+09 29 01 02 05 003 00 Las Cinco Casas
+09 29 01 02 05 004 00 La Jagua Abajo
+09 29 01 02 05 005 00 Batey Triple Ozama
+09 29 01 03 00 000 00 Chirino (DM)
+09 29 01 03 01 000 00 Chirino (Zona urbana)
+09 29 01 03 01 001 00 Chirino
+09 29 01 03 01 001 01 Chirino
+09 29 01 03 01 001 02 María Colorada
+09 29 01 03 01 001 03 La Hormiga
+09 29 01 03 01 002 00 Yaita
+09 29 01 03 01 002 01 Yaita
+09 29 01 03 01 002 02 Las Caobas
+09 29 01 03 01 003 00 Las Flores
+09 29 01 03 01 003 01 Las Flores
+09 29 01 03 02 000 00 San Francisco
+09 29 01 03 02 001 00 San Francisco
+09 29 01 03 02 002 00 Hicacal
+09 29 01 03 02 003 00 El Coste
+09 29 01 03 02 004 00 El Coco
+09 29 01 03 02 005 00 Primer Alto
+09 29 01 03 02 006 00 Cucaracha
+09 29 01 03 02 007 00 San Francisco Adentro
+09 29 01 03 02 008 00 La Mariquita
+09 29 01 03 02 009 00 Villa Juana
+09 29 01 03 02 010 00 Sabana de San Francisco
+09 29 01 03 02 011 00 Sabana de Corral Falso
+09 29 01 03 02 012 00 Sabana de Ahoga Vaca
+09 29 01 03 03 000 00 San Juan de Buena Vista
+09 29 01 03 03 001 00 Batey San José
+09 29 01 03 03 002 00 Los Mameyes
+09 29 01 03 03 003 00 El Guano
+09 29 01 03 03 004 00 La Berenjena
+09 29 01 03 03 005 00 Cazueza
+09 29 01 03 03 006 00 Boca Yaita
+09 29 01 03 03 007 00 La Caguaza
+09 29 01 03 03 008 00 Batey Chirino
+09 29 01 03 03 009 00 Jobo Dulce
+09 29 01 03 03 010 00 El Hatillo (San Juan de Buena Vista)
+09 29 01 03 04 000 00 Yabacao
+09 29 01 03 04 001 00 Sabana de Yabacao (Pueblo Nuevo)
+09 29 01 03 04 002 00 Batey Yabacao
+09 29 01 03 04 003 00 Sabana Barranca
+09 29 01 03 04 004 00 El Talado
+09 29 01 03 04 005 00 Mata Los Indios
+09 29 01 03 04 006 00 Rincón Cana
+09 29 01 03 04 007 00 La Altagracia
+09 29 01 03 04 008 00 Jobo Grande
+09 29 01 03 04 009 00 Chucho Salas
+09 29 01 03 04 010 00 Laguna Clara
+09 29 01 03 04 011 00 Cruz Verde
+09 29 01 04 00 000 00 Boyá (DM)
+09 29 01 04 01 000 00 Boyá (Zona urbana)
+09 29 01 04 01 001 00 Boyá
+09 29 01 04 01 001 01 Boyá
+09 29 01 04 01 001 02 Lindo
+09 29 01 04 01 001 03 Martín Santana (Fidel María Zambrano)
+09 29 01 04 01 002 00 agua Santa
+09 29 01 04 01 002 01 Agua Santa
+09 29 01 04 02 000 00 El Mamey
+09 29 01 04 02 001 00 Batista
+09 29 01 04 02 002 00 El Cajuilito
+09 29 01 04 02 003 00 El Mamey
+09 29 01 04 02 004 00 Mirador
+09 29 01 04 02 005 00 Los Reyes
+09 29 01 04 02 006 00 Los Pilones
+09 29 01 04 02 007 00 Cilindrón
+09 29 01 04 03 000 00 El Cacique
+09 29 01 04 03 001 00 El Cogote
+09 29 01 04 03 002 00 El Naranjo
+09 29 01 04 03 003 00 El Cacique
+09 29 01 04 03 004 00 Los Ranchos
+09 29 01 04 03 005 00 Otaña
+09 29 01 04 03 006 00 Vicente
+09 29 01 04 03 007 00 Las Auyamas
+09 29 01 04 04 000 00 cruz Morillo
+09 29 01 04 04 001 00 Gavilán Abajo
+09 29 01 04 04 002 00 Cara Linda
+09 29 01 04 04 003 00 Gavilán
+09 29 01 04 04 004 00 Los Hojanchos
+09 29 01 04 04 005 00 Los Guayos
+09 29 01 04 04 006 00 Ana Santana
+09 29 01 04 04 007 00 La Angostura
+09 29 01 04 04 008 00 Genaro
+09 29 01 04 04 009 00 Los Jurungos
+09 29 01 04 04 010 00 Cruce de Toñe
+09 29 01 04 04 011 00 Maná La Vieja
+09 29 01 04 04 012 00 Cruz de Morillo
+09 29 01 04 04 013 00 La Vigía
+09 29 01 04 04 014 00 El Capaz
+09 29 01 04 04 015 00 El Rodeo
+09 29 01 04 04 016 00 Ana Ruiz
+09 29 01 04 04 017 00 Ceiba Seca
+09 29 01 04 04 018 00 El Horno
+09 29 02 00 00 000 00 Bayaguana
+09 29 02 01 00 000 00 Bayaguana
+09 29 02 01 01 000 00 Bayaguana (Zona urbana)
+09 29 02 01 01 001 00 El Hospital
+09 29 02 01 01 001 01 El Hospital
+09 29 02 01 01 001 02 Comatillo
+09 29 02 01 01 001 03 La Palma
+09 29 02 01 01 001 04 La Palmilla o Villa Balaguer
+09 29 02 01 01 002 00 San Juan o San José
+09 29 02 01 01 002 01 San Juan o San José
+09 29 02 01 01 003 00 Centro del Pueblo
+09 29 02 01 01 003 01 Centro del Pueblo
+09 29 02 01 01 004 00 los Mañese 
+09 29 02 01 01 004 01 Los Mañese 
+09 29 02 01 01 004 02 Mono Mojao
+09 29 02 01 01 005 00 Santo cristo
+09 29 02 01 01 005 01 Santo Cristo
+09 29 02 01 01 006 00 Los Cocos
+09 29 02 01 01 006 01 Los Cocos
+09 29 02 01 01 007 00 Pueblo Nuevo
+09 29 02 01 01 007 01 Pueblo Nuevo
+09 29 02 01 01 008 00 la Madama
+09 29 02 01 01 008 01 La Madama
+09 29 02 01 01 009 00 algarrobo
+09 29 02 01 01 009 01 Algarrobo
+09 29 02 01 01 010 00 laurel
+09 29 02 01 01 010 01 Laurel
+09 29 02 01 01 011 00 la cañita
+09 29 02 01 01 011 01 La Cañita
+09 29 02 01 01 012 00 cristo rey
+09 29 02 01 01 012 01 Cristo Rey
+09 29 02 01 01 013 00 Las Flores
+09 29 02 01 01 013 01 Las Flores
+09 29 02 01 01 014 00 iNVi
+09 29 02 01 01 014 01 INVI
+09 29 02 01 01 015 00 Pilanconcito
+09 29 02 01 01 015 01 Pilanconcito
+09 29 02 01 01 016 00 Residencial Los Agrónomos
+09 29 02 01 01 016 01 Residencial Los Agrónomos
+09 29 02 01 01 017 00 El Suizo
+09 29 02 01 01 017 01 El Suizo
+09 29 02 01 01 018 00 La Esperanza
+09 29 02 01 01 018 01 La Esperanza
+09 29 02 01 01 019 00 la tormenta
+09 29 02 01 01 019 01 La Tormenta
+09 29 02 01 01 020 00 Villa Bayaguana (Proyecto INVI)
+09 29 02 01 01 020 01 Villa Bayaguana (Proyecto INVI)
+09 29 02 01 02 000 00 Antón Sánchez
+09 29 02 01 02 001 00 Juana Alejo
+09 29 02 01 02 002 00 La Ceja
+09 29 02 01 02 003 00 Los Córbanos
+09 29 02 01 02 004 00 Dajao
+09 29 02 01 02 005 00 Los Cagüeyes
+09 29 02 01 02 006 00 Los Anones (Las Cruces)
+09 29 02 01 02 007 00 Los Malangos
+09 29 02 01 02 008 00 Mogea
+09 29 02 01 02 009 00 Sabana Larga
+09 29 02 01 02 010 00 Confitero
+09 29 02 01 02 011 00 El Platanal
+09 29 02 01 02 012 00 Antón Sánchez
+09 29 02 01 02 013 00 Cercadillo
+09 29 02 01 02 014 00 Los Cerros
+09 29 02 01 02 015 00 El Chivo
+09 29 02 01 02 016 00 Sabana del Estado
+09 29 02 01 02 017 00 La Cabeza
+09 29 02 01 02 018 00 Ojo de Agua
+09 29 02 01 02 019 00 Manaclar
+09 29 02 01 02 020 00 Los Nonas
+09 29 02 01 02 021 00 Campiña
+09 29 02 01 02 022 00 La Manigua
+09 29 02 01 02 023 00 La Manigüita
+09 29 02 01 02 024 00 Ceiba de la Pocilga
+09 29 02 01 03 000 00 Cojobal
+09 29 02 01 03 001 00 Agua Prieta
+09 29 02 01 03 002 00 Cachimán
+09 29 02 01 03 003 00 El Placer
+09 29 02 01 03 004 00 Agua Buena
+09 29 02 01 03 005 00 Malta Morena
+09 29 02 01 03 006 00 La Soledad
+09 29 02 01 03 007 00 El Bombón
+09 29 02 01 03 008 00 La Ceja (Mata Santiago de Mena)
+09 29 02 01 03 009 00 Yerba Larga
+09 29 02 01 03 010 00 Carabela Arriba
+09 29 02 01 03 011 00 Buena Vista
+09 29 02 01 03 012 00 Palmilla
+09 29 02 01 03 013 00 Washington
+09 29 02 01 03 014 00 Gallabón
+09 29 02 01 03 015 00 Ladino
+09 29 02 01 03 016 00 Juana Lorenza
+09 29 02 01 03 017 00 Babieca
+09 29 02 01 03 018 00 El Cuervo
+09 29 02 01 03 019 00 Cañuelo (Las Aceitunas)
+09 29 02 01 03 020 00 Cojobal
+09 29 02 01 03 021 00 El Pomito
+09 29 02 01 04 000 00 comatillo
+09 29 02 01 04 001 00 Comatillo
+09 29 02 01 04 002 00 Santa Cruz
+09 29 02 01 04 003 00 Tentación
+09 29 02 01 04 004 00 Cabuya
+09 29 02 01 04 005 00 Managua
+09 29 02 01 04 006 00 La Altagracia
+09 29 02 01 04 007 00 La Gironda
+09 29 02 01 04 008 00 Las Lometas
+09 29 02 01 04 009 00 Elegido
+09 29 02 01 04 010 00 Mata Santiago
+09 29 02 01 04 011 00 Las Lajas (Managua)
+09 29 02 01 04 012 00 Los Sosa
+09 29 02 01 04 013 00 La Lamedera
+09 29 02 01 04 014 00 El Cercado
+09 29 02 01 04 015 00 Salto Grande
+09 29 02 01 04 016 00 Sierra de Agua
+09 29 02 01 04 017 00 Los Berros
+09 29 02 01 04 018 00 Los Cerritos
+09 29 02 01 04 019 00 Los Aquino
+09 29 02 01 04 020 00 Polonia
+09 29 02 01 04 021 00 Rincón Naranjo
+09 29 02 01 04 022 00 Valle Grande
+09 29 02 01 04 023 00 El Guazaral
+09 29 02 01 04 024 00 Sabaneta
+09 29 02 01 04 025 00 Piedra Chiquita
+09 29 02 01 04 026 00 La Deseada
+09 29 02 01 04 027 00 Laguna Colorada
+09 29 02 01 04 028 00 Coca Barrera
+09 29 02 01 05 000 00 Hidalgo
+09 29 02 01 05 001 00 Los Peguero
+09 29 02 01 05 002 00 La Loma
+09 29 02 01 05 003 00 Camarón
+09 29 02 01 05 004 00 Sabana del Medio
+09 29 02 01 05 005 00 Sabana de los Javier
+09 29 02 01 05 006 00 Pilancón
+09 29 02 01 05 007 00 La Jabilla
+09 29 02 01 05 008 00 Cañada Arriba
+09 29 02 01 05 009 00 Carrizal
+09 29 02 01 05 010 00 Los Caracoles
+09 29 02 01 05 011 00 Los Guineos
+09 29 02 01 05 012 00 La Lechuza
+09 29 02 01 05 013 00 La Bolita
+09 29 02 01 05 014 00 Los Manantiales
+09 29 02 01 05 015 00 Siricu
+09 29 02 01 05 016 00 La Hacienda María
+09 29 02 01 06 000 00 trinidad
+09 29 02 01 06 001 00 Trinidad
+09 29 02 01 06 002 00 El Tablón
+09 29 02 01 06 003 00 Los Anegadizos
+09 29 02 01 06 004 00 Guazaral Adentro
+09 29 02 01 06 005 00 Yuvinita
+09 29 02 01 06 006 00 La Lomita
+09 29 02 01 06 007 00 Higüerito
+09 29 02 01 06 008 00 Tuningo
+09 29 02 01 06 009 00 Los Valles
+09 29 02 01 06 010 00 La Cueva
+09 29 02 01 06 011 00 El Prieto
+09 29 02 01 06 012 00 Casui
+09 29 02 01 06 013 00 Castellanos
+09 29 02 01 06 014 00 El Guanito (El Centro)
+09 29 02 01 06 015 00 Palma Lisa
+09 29 02 01 06 016 00 Sigar
+09 29 02 01 07 000 00 Yuvina
+09 29 02 01 07 001 00 Media Cara
+09 29 02 01 07 002 00 Batey Laura
+09 29 02 01 07 003 00 Los Arroyos
+09 29 02 01 07 004 00 Batey Cocinero
+09 29 02 01 07 005 00 El Valle
+09 29 02 01 07 006 00 Tolentino
+09 29 02 01 07 007 00 Ladino
+09 29 02 01 07 008 00 Los Vidal
+09 29 02 01 07 009 00 María Vidal
+09 29 02 01 07 010 00 La Cuarenta
+09 29 02 01 07 011 00 Mata Verde (Mata Gorda)
+09 29 02 01 07 012 00 Los Germanes
+09 29 02 01 07 013 00 Las Manuelas
+09 29 02 01 07 014 00 Las Matas de Guabatico
+09 29 02 01 07 015 00 Guaymorote
+09 29 02 01 07 016 00 Los Reyes o Mata de Los Reyes
+09 29 02 01 07 017 00 Corea
+09 29 02 01 07 018 00 Mata de Felipito
+09 29 02 01 07 019 00 El Jobo
+09 29 02 01 07 020 00 Cueva de Valerio
+09 29 02 01 07 021 00 Arroyo Arriba
+09 29 02 01 07 022 00 Media Cara Arriba
+09 29 02 01 07 023 00 Las Piñas
+09 29 02 01 07 024 00 Doña Isabel
+09 29 02 01 07 025 00 Pueblo Nuevo
+09 29 02 01 07 026 00 El Copey
+09 29 02 01 07 027 00 El Rincón
+09 29 02 01 07 028 00 Los Mameyes
+09 29 02 01 07 029 00 Los Arroyos Arriba
+09 29 02 01 07 030 00 Corozal
+09 29 02 01 07 031 00 Pulgarín
+09 29 02 01 07 032 00 Juan Tomás
+09 29 02 01 07 033 00 Yuvina
+09 29 02 01 07 034 00 Jina Copiosa
+09 29 02 01 07 035 00 Marisol
+09 29 02 01 07 036 00 El Higüero
+09 29 02 01 07 037 00 Yabacao
+09 29 02 01 07 038 00 La Gina
+09 29 02 01 07 039 00 El Bebedero
+09 29 02 01 07 040 00 Hato Viejo
+09 29 02 01 07 041 00 Cocinero
+09 29 02 01 07 042 00 Guaricano
+09 29 03 00 00 000 00 Sabana Grande de Boyá
+09 29 03 01 00 000 00 Sabana Grande de Boyá
+09 29 03 01 01 000 00 Sabana Grande de Boyá (Zona urbana)
+09 29 03 01 01 001 00 El cementerio o la Milagrosa
+09 29 03 01 01 001 01 El Cementerio o La Milagrosa
+09 29 03 01 01 002 00 La Chamuscada
+09 29 03 01 01 002 01 La Chamuscada
+09 29 03 01 01 003 00 Centro del Pueblo
+09 29 03 01 01 003 01 Centro del Pueblo
+09 29 03 01 01 004 00 Pueblo Nuevo
+09 29 03 01 01 004 01 Pueblo Nuevo
+09 29 03 01 01 004 02 Residencial Viano Azcona
+09 29 03 01 01 005 00 El Deportivo
+09 29 03 01 01 005 01 El Deportivo
+09 29 03 01 01 006 00 las cañitas
+09 29 03 01 01 006 01 Las Cañitas
+09 29 03 01 01 007 00 El Quilombo
+09 29 03 01 01 007 01 El Quilombo
+09 29 03 01 01 008 00 La Escuela o Ensanche Escolar
+09 29 03 01 01 008 01 La Escuela o Ensanche Escolar
+09 29 03 01 01 008 02 INVI - CEA
+09 29 03 01 01 008 03 CEAGANA
+09 29 03 01 01 009 00 El 15
+09 29 03 01 01 009 01 El 15
+09 29 03 01 01 010 00 El Anillo o El Brisal
+09 29 03 01 01 010 01 El Anillo o El Brisal
+09 29 03 01 01 011 00 Brisas del Este
+09 29 03 01 01 011 01 Brisas del Este
+09 29 03 01 01 012 00 Las Mercedes
+09 29 03 01 01 012 01 Las Mercedes
+09 29 03 01 01 013 00 Las Flores
+09 29 03 01 01 013 01 Las Flores
+09 29 03 01 01 014 00 El Matadero
+09 29 03 01 01 014 01 El Matadero
+09 29 03 01 01 015 00 la Emisora
+09 29 03 01 01 015 01 La Emisora
+09 29 03 01 01 016 00 la Gallera
+09 29 03 01 01 016 01 La Gallera
+09 29 03 01 01 017 00 Play Viejo o Tercera Base
+09 29 03 01 01 017 01 Play Viejo o Tercera Base
+09 29 03 01 01 018 00 los Guandules
+09 29 03 01 01 018 01 Los Guandules
+09 29 03 01 01 019 00 Residencial Arcoiris
+09 29 03 01 01 019 01 Residencial Arcoiris
+09 29 03 01 02 000 00 cabeza de toro
+09 29 03 01 02 001 00 Sabana Larga de Cojobal
+09 29 03 01 02 002 00 Los Hoyos del Hara
+09 29 03 01 02 003 00 Batey Sabana Larga
+09 29 03 01 02 004 00 El Puente
+09 29 03 01 02 005 00 Batey Galeno o Galiano
+09 29 03 01 02 006 00 Cabeza de Toro
+09 29 03 01 02 007 00 El Plan
+09 29 03 01 02 008 00 El Cercado
+09 29 03 01 02 009 00 El Lial
+09 29 03 01 02 010 00 La Nuez
+09 29 03 01 02 011 00 Lovatón
+09 29 03 01 02 012 00 Los Aguacates
+09 29 03 01 02 013 00 Los Pomos
+09 29 03 01 02 014 00 Maluco
+09 29 03 01 02 015 00 Amaceyes
+09 29 03 01 02 016 00 La Vigía
+09 29 03 01 02 017 00 Cilindrón
+09 29 03 01 02 018 00 Mataseco
+09 29 03 01 03 000 00 Juan Sánchez
+09 29 03 01 03 001 00 Batey Altagracia
+09 29 03 01 03 002 00 Batey Zapote
+09 29 03 01 03 003 00 Batey Piraco
+09 29 03 01 03 004 00 Batey Juan Sánchez
+09 29 03 01 03 005 00 Batey Ara
+09 29 03 01 03 006 00 Batey Las Charcas
+09 29 03 01 03 007 00 Batey Aserradero
+09 29 03 01 03 008 00 Batey Enriquillo
+09 29 03 01 03 009 00 Batey Cojobal
+09 29 03 01 03 010 00 La Savita
+09 29 03 01 03 011 00 Batey El Triple
+09 29 03 01 03 012 00 Los Corrales del CEA
+09 29 03 01 04 000 00 Payabo
+09 29 03 01 04 001 00 Hato San Pedro
+09 29 03 01 04 002 00 Palmar Viejo
+09 29 03 01 04 003 00 Buena Vista
+09 29 03 01 04 004 00 San Antonio
+09 29 03 01 04 005 00 La Chamuscada
+09 29 03 01 04 006 00 Batey Luna
+09 29 03 01 04 007 00 Esperanza
+09 29 03 01 04 008 00 Los Guineos
+09 29 03 01 04 009 00 Rincón Claro
+09 29 03 01 04 010 00 Santa Rosa
+09 29 03 01 04 011 00 Comadreja
+09 29 03 01 04 012 00 Nuevo Ambiente
+09 29 03 02 00 000 00 Gonzalo (DM)
+09 29 03 02 01 000 00 Gonzalo (Zona urbana)
+09 29 03 02 01 001 00 Centro del Pueblo
+09 29 03 02 01 001 01 Centro del Pueblo
+09 29 03 02 01 002 00 Los Cachimbos
+09 29 03 02 01 002 01 Los Cachimbos
+09 29 03 02 01 003 00 El Play
+09 29 03 02 01 003 01 El Play
+09 29 03 02 01 004 00 Ramón Rosa
+09 29 03 02 01 004 01 Ramón Rosa
+09 29 03 02 01 004 02 El INVI
+09 29 03 02 01 005 00 Verde
+09 29 03 02 01 005 01 Verde
+09 29 03 02 01 005 02 El Nuevo Play
+09 29 03 02 02 000 00 los limones
+09 29 03 02 02 001 00 Los Limones
+09 29 03 02 02 002 00 Las Cabirmas
+09 29 03 02 02 003 00 Palo de Coa
+09 29 03 02 02 004 00 Los Balataces
+09 29 03 02 02 005 00 Lambedera
+09 29 03 02 02 006 00 Los Haitises
+09 29 03 02 02 007 00 La Cueva
+09 29 03 02 02 008 00 Yayal
+09 29 03 02 02 009 00 La Entrada de Las Cabirmas
+09 29 03 02 02 010 00 El Congo
+09 29 03 02 02 011 00 Los Arroyitos
+09 29 03 02 02 012 00 Las Cacatas
+09 29 03 02 02 013 00 Mata de Limón (Vamos Entrando)
+09 29 03 02 02 014 00 La Sierra (Alto de Las Flores)
+09 29 03 02 03 000 00 Batey La Tarana
+09 29 03 02 03 001 00 Batey La Tarana
+09 29 03 02 03 002 00 La Tala de Sánchez
+09 29 03 02 03 003 00 Monte Claro
+09 29 03 02 03 004 00 Batey Los Arroyos
+09 29 03 02 03 005 00 Gonzalo
+09 29 03 02 04 000 00 Batey Sabana Larga
+09 29 03 02 04 001 00 Batey Sabana Larga de Gonzalo
+09 29 03 02 04 002 00 La Ozúa
+09 29 03 02 04 003 00 Ceiba de la Pocilga
+09 29 03 02 04 004 00 Batey Vara de Capá
+09 29 03 02 04 005 00 Laguna Colorada
+09 29 03 02 04 006 00 La Manigüita
+09 29 03 02 04 007 00 Los Naranjos
+09 29 03 02 04 008 00 Batey Nuevo
+09 29 03 02 04 009 00 Batey Carmona
+09 29 03 02 04 010 00 Batey Mejía
+09 29 03 02 04 011 00 La Construcción
+09 29 03 02 04 012 00 Sabana Grande de Boyá (Hoyo de Puta)
+09 29 03 03 00 000 00 Majagual (DM)
+09 29 03 03 01 000 00 Majagual (Zona urbana)
+09 29 03 03 01 001 00 Centro del Pueblo
+09 29 03 03 01 001 01 Centro del Pueblo
+09 29 03 03 01 002 00 Rincón Solo
+09 29 03 03 01 002 01 Rincón Solo
+09 29 03 03 01 003 00 la Gallera
+09 29 03 03 01 003 01 La Gallera
+09 29 03 03 01 004 00 San José
+09 29 03 03 01 004 01 San José
+09 29 03 03 01 005 00 Balsa Mala
+09 29 03 03 01 005 01 Balsa Mala
+09 29 03 03 01 006 00 El Play
+09 29 03 03 01 006 01 El Play
+09 29 03 03 01 007 00 la laguna
+09 29 03 03 01 007 01 La Laguna
+09 29 03 03 01 008 00 Mono Mojao
+09 29 03 03 01 008 01 Mono Mojao
+09 29 03 03 02 000 00 Francisquito
+09 29 03 03 02 001 00 Francisquito Abajo
+09 29 03 03 02 002 00 Francisquito Arriba
+09 29 03 03 02 003 00 Piedra del Grillo o Grillo
+09 29 03 03 02 004 00 Palacio
+09 29 03 03 03 000 00 La China
+09 29 03 03 03 001 00 La China
+09 29 03 03 03 002 00 Higüerito
+09 29 03 03 03 003 00 El Manguito
+09 29 03 03 03 004 00 Bañadero
+09 29 03 03 03 005 00 La Selva
+09 29 03 03 03 006 00 El Cedro
+09 29 03 03 03 007 00 Vietnam
+09 29 03 03 03 008 00 El Barrio
+09 29 03 03 03 009 00 Batey Nuevo
+09 29 03 03 04 000 00 Los Mapolos
+09 29 03 03 04 001 00 Mapolo Arriba
+09 29 03 03 04 002 00 Mapolo Abajo
+09 29 03 03 04 003 00 El Cedrito
+09 29 03 03 04 004 00 Ojo de Agua
+09 29 03 03 04 005 00 La Resbalosa
+09 29 03 03 04 006 00 Arroyito
+09 29 03 03 04 007 00 La Cerca
+09 29 03 03 04 008 00 Los Cuacos
+09 29 03 03 04 009 00 Tala de Sánchez
+09 29 03 03 04 010 00 Manaclar
+09 29 03 03 04 011 00 Los Malangos
+09 29 03 03 04 012 00 El 42 de Los Mapolos 
+09 29 04 00 00 000 00 Yamasá
+09 29 04 01 00 000 00 Yamasá
+09 29 04 01 01 000 00 Yamasá (Zona urbana)
+09 29 04 01 01 001 00 Juan Pablo Duarte
+09 29 04 01 01 001 01 Juan Pablo Duarte
+09 29 04 01 01 002 00 Las Flores
+09 29 04 01 01 002 01 Las Flores
+09 29 04 01 01 003 00 los almendros
+09 29 04 01 01 003 01 Los Almendros
+09 29 04 01 01 004 00 cigüelillo
+09 29 04 01 01 004 01 Cigüelillo
+09 29 04 01 01 005 00 El Mulo
+09 29 04 01 01 005 01 El Mulo
+09 29 04 01 01 005 02 Las Acacias
+09 29 04 01 01 005 03 Los Coquitos
+09 29 04 01 01 006 00 El Nuevo camino o los come Solos
+09 29 04 01 01 006 01 El Nuevo Camino o Los Come Solos
+09 29 04 01 01 006 02 Residencial Las Colinas
+09 29 04 01 01 007 00 Rincón
+09 29 04 01 01 007 01 Rincón
+09 29 04 01 01 008 00 la colorada
+09 29 04 01 01 008 01 La Colorada
+09 29 04 01 01 009 00 Canta Maco
+09 29 04 01 01 009 01 Canta Maco
+09 29 04 01 01 010 00 El iNVi
+09 29 04 01 01 010 01 El INVI
+09 29 04 01 01 011 00 La Planta
+09 29 04 01 01 011 01 La Planta
+09 29 04 01 01 012 00 la Gallera
+09 29 04 01 01 012 01 La Gallera
+09 29 04 01 01 013 00 Nuevos Horizontes
+09 29 04 01 01 013 01 Nuevos Horizontes
+09 29 04 01 01 014 00 Cercadillo
+09 29 04 01 01 014 01 Cercadillo
+09 29 04 01 01 014 02 Las Flores
+09 29 04 01 01 014 03 Urbanización Eufememia Carela
+09 29 04 01 02 000 00 la Jina
+09 29 04 01 02 001 00 La Jabilla
+09 29 04 01 02 002 00 La Gina
+09 29 04 01 02 003 00 Los Guineos
+09 29 04 01 02 004 00 Piedra Azul
+09 29 04 01 02 005 00 La Cuchilla
+09 29 04 01 02 006 00 Pepe Pérez
+09 29 04 01 02 007 00 Arroyo Majagua
+09 29 04 01 02 008 00 El Llano
+09 29 04 01 02 009 00 Camarón de Los Guineos
+09 29 04 01 02 010 00 Piedroso (Pedroso)
+09 29 04 01 02 011 00 Piedrosito (Pedrosito)
+09 29 04 01 02 012 00 Ozama Arriba
+09 29 04 01 02 013 00 Arroyo Rancho
+09 29 04 01 02 014 00 El Siete
+09 29 04 01 02 015 00 El Cinco
+09 29 04 01 02 016 00 Cuance
+09 29 04 01 02 017 00 Palo Bonito
+09 29 04 01 02 018 00 Cruce de Río Verde
+09 29 04 01 02 019 00 Cansa Mancebo
+09 29 04 01 02 020 00 El Veinte
+09 29 04 01 02 021 00 El Avión
+09 29 04 01 04 000 00 los Jobillos
+09 29 04 01 04 001 00 Batey Guazumita
+09 29 04 01 04 002 00 Batey Nuevo
+09 29 04 01 04 003 00 Batey El Caño
+09 29 04 01 04 004 00 Batey Antonci
+09 29 04 01 04 005 00 La Mina
+09 29 04 01 04 006 00 Junquito
+09 29 04 01 04 007 00 La Ceja (Batey La Maya)
+09 29 04 01 04 008 00 La Pared
+09 29 04 01 04 009 00 La Vigía (Cajareque)
+09 29 04 01 04 010 00 Los Jobillos
+09 29 04 01 04 011 00 Batey Los Jobillos
+09 29 04 01 04 012 00 La Felícita
+09 29 04 01 04 013 00 Cuesta del Jobo
+09 29 04 01 05 000 00 Pantoa
+09 29 04 01 05 001 00 Dajao
+09 29 04 01 05 002 00 La Blanca
+09 29 04 01 05 003 00 Los Almendros
+09 29 04 01 05 004 00 La Patilla
+09 29 04 01 05 005 00 El Lobo
+09 29 04 01 05 006 00 El Mogote
+09 29 04 01 05 007 00 La Gorreta
+09 29 04 01 05 008 00 El Caimito
+09 29 04 01 06 000 00 San antonio
+09 29 04 01 06 001 00 San Antonio
+09 29 04 01 06 002 00 La Lambedera
+09 29 04 01 06 003 00 Los Algarrobos
+09 29 04 01 06 004 00 La Joya
+09 29 04 01 06 005 00 Los Bañaderos
+09 29 04 01 06 006 00 La Parcela
+09 29 04 01 06 007 00 Loma de Marcelo
+09 29 04 01 06 008 00 Los Mosquitos
+09 29 04 01 06 009 00 Pantoita
+09 29 04 01 06 010 00 Mayiga Arriba
+09 29 04 01 06 011 00 Zayas (El Veinte)
+09 29 04 01 06 012 00 Morey
+09 29 04 01 06 013 00 Jagua Abajo
+09 29 04 01 06 014 00 La Cuaba
+09 29 04 02 00 000 00 Los Botados (DM)
+09 29 04 02 01 000 00 Los Botados (Zona urbana)
+09 29 04 02 01 001 00 Los Botados
+09 29 04 02 01 001 01 Los Botados
+09 29 04 02 01 001 02 El Cruce de Los Botados
+09 29 04 02 01 001 03 Los Mangos
+09 29 04 02 01 001 04 Los Alvinos (Albinos)
+09 29 04 02 01 002 00 la Jabilla
+09 29 04 02 01 002 01 La Jabilla
+09 29 04 02 01 003 00 los Solares o la caña
+09 29 04 02 01 003 01 Los Solares o La Caña
+09 29 04 02 01 004 00 Pueblo Nuevo
+09 29 04 02 01 004 01 Pueblo Nuevo
+09 29 04 02 01 005 00 La Palmita Arriba
+09 29 04 02 01 005 01 La Palmita Arriba
+09 29 04 02 01 006 00 La Palmita Abajo
+09 29 04 02 01 006 01 La Palmita Abajo
+09 29 04 02 02 000 00 Los Botados
+09 29 04 02 02 001 00 Resolí
+09 29 04 02 03 000 00 Camarón
+09 29 04 02 03 001 00 Camarón
+09 29 04 02 03 002 00 El Palmarito
+09 29 04 02 03 003 00 La Sabana
+09 29 04 02 03 004 00 Los Arroyos
+09 29 04 02 03 005 00 Loma al Medio
+09 29 04 02 03 006 00 Los Asientos
+09 29 04 02 04 000 00 la cola
+09 29 04 02 04 001 00 El Tablón
+09 29 04 02 04 002 00 La Cola
+09 29 04 02 04 003 00 La Salsa o La Zarza
+09 29 04 02 04 004 00 La Manacla
+09 29 04 02 04 005 00 El Jengibre
+09 29 04 02 04 006 00 El Cercado
+09 29 04 02 05 000 00 la Maya
+09 29 04 02 05 001 00 La Maya
+09 29 04 02 05 002 00 La Piña
+09 29 04 02 05 003 00 Batey Las Mayitas
+09 29 04 02 05 004 00 Batey Yagua
+09 29 04 02 05 005 00 Los Callejones
+09 29 04 02 06 000 00 Reparadero
+09 29 04 02 06 001 00 Los Caños
+09 29 04 02 06 002 00 Hormiguero
+09 29 04 02 06 003 00 Reparadero
+09 29 04 02 06 004 00 Batey Seco
+09 29 04 02 06 005 00 El 35
+09 29 04 02 06 006 00 La Lomita o Meléndez
+09 29 04 02 06 007 00 Hoja Ancha
+09 29 04 02 06 008 00 Palo Seco
+09 29 04 02 07 000 00 La Yautía
+09 29 04 02 07 001 00 La Yautía
+09 29 04 02 07 002 00 La Loma
+09 29 04 03 00 000 00 Mamá Tingó (DM)
+09 29 04 03 01 000 00 Sabana Grande (Zona urbana)
+09 29 04 03 01 001 00 Valle Encantado
+09 29 04 03 01 001 01 Valle Encantado
+09 29 04 03 01 001 02 San Carlos
+09 29 04 03 01 002 00 El Proyecto
+09 29 04 03 01 002 01 El Proyecto
+09 29 04 03 01 003 00 Mamá tingo
+09 29 04 03 01 003 01 Mamá Tingo
+09 29 04 03 01 004 00 Gualey
+09 29 04 03 01 004 01 Gualey
+09 29 04 03 01 004 02 Vive Bien
+09 29 04 03 01 004 03 El Abanico
+09 29 04 03 02 000 00 El Ranchito
+09 29 04 03 02 001 00 El Ranchito
+09 29 04 03 02 002 00 Sabana Novillo
+09 29 04 03 02 003 00 Sabana Potrero
+09 29 04 03 02 004 00 Boca de Máyiga
+09 29 04 03 02 005 00 Loma Regina
+09 29 04 03 02 006 00 Sabana Piedra
+09 29 04 03 03 000 00 consuelo
+09 29 04 03 03 001 00 Consuelo
+09 29 04 03 03 002 00 La Cuchilla
+09 29 04 03 03 003 00 La Jagüita
+09 29 04 03 03 004 00 Piedra Grande
+09 29 04 03 03 005 00 El Placer
+09 29 04 03 03 006 00 El Zapote
+09 29 04 03 03 007 00 Jagua Mocha
+09 29 04 03 03 008 00 Maimón
+09 29 04 03 03 009 00 El Naranjo
+09 29 04 03 04 000 00 Río Arriba
+09 29 04 03 04 001 00 El Chácaro
+09 29 04 03 04 002 00 Río Arriba
+09 29 04 03 04 003 00 El Capá
+09 29 04 03 04 004 00 Arroyo Indio
+09 29 04 03 04 005 00 Guanumita
+09 29 04 03 04 006 00 Colorado
+09 29 04 03 04 007 00 La Cuneta
+09 29 04 03 05 000 00 Sabana Grande
+09 29 04 03 05 001 00 Monte Recio
+09 29 04 03 05 002 00 La Mata Cimarrona
+09 29 04 03 05 003 00 Sabanita al Medio
+09 29 04 03 05 004 00 La Penca
+09 29 04 03 05 005 00 Sabana Grande
+09 29 04 03 06 000 00 La Estancia
+09 29 04 03 06 001 00 La Estancia
+09 29 04 03 06 002 00 Los Lanos
+09 29 04 03 06 003 00 Ledesma
+09 29 04 03 06 004 00 Loma Cambelén
+09 29 04 03 06 005 00 Mirador
+09 29 04 03 06 006 00 Los Angelitos
+09 29 04 03 06 007 00 La Majagua
+09 29 04 03 06 008 00 Los Núñez
+09 29 04 03 07 000 00 Hato Viejo
+09 29 04 03 07 001 00 Palo Prieto
+09 29 05 00 00 000 00 Peralvillo
+09 29 05 01 00 000 00 Peralvillo
+09 29 05 01 01 000 00 Peralvillo (Zona urbana)
+09 29 05 01 01 001 00 La Placeta
+09 29 05 01 01 001 01 La Placeta
+09 29 05 01 01 001 02 El Pueblecito
+09 29 05 01 01 001 03 Las Flores
+09 29 05 01 01 002 00 La Peguero
+09 29 05 01 01 002 01 La Peguero
+09 29 05 01 01 003 00 Dionicio
+09 29 05 01 01 003 01 El Despegao
+09 29 05 01 01 003 02 Dionicio Abajo
+09 29 05 01 01 003 03 Dionicio Arriba
+09 29 05 01 01 004 00 El Caserío
+09 29 05 01 01 004 01 El Caserío
+09 29 05 01 01 004 02 El Caserío Abajo o Los Vargas
+09 29 05 01 01 004 03 La Paz o La Garata
+09 29 05 01 01 005 00 La Majagua
+09 29 05 01 01 005 01 El Millón
+09 29 05 01 01 005 02 La Majagua Arriba
+09 29 05 01 01 005 03 La Majagua Abajo
+09 29 05 01 01 005 04 Urbanización Engracia Manzueta
+09 29 05 01 01 006 00 El Manguito
+09 29 05 01 01 006 01 El Manguito
+09 29 05 01 02 000 00 Guázuma  
+09 29 05 01 02 001 00 La Guázuma
+09 29 05 01 02 002 00 Mateo Pico
+09 29 05 01 02 003 00 El Carmen
+09 29 05 01 02 004 00 La Guardia Abajo
+09 29 05 01 02 005 00 La Laguna
+09 29 05 01 02 006 00 Batey La Guázuma
+09 29 05 01 02 007 00 Manao Pilón
+09 29 05 01 02 008 00 Hoya Fresca
+09 29 05 01 02 009 00 Pekín
+09 29 05 01 02 010 00 El Higo
+09 29 05 01 02 011 00 Jiminillo
+09 29 05 01 02 012 00 Los Coquitos
+09 29 05 01 02 013 00 Cerro Largo
+09 29 05 01 02 014 00 La Guardia Arriba
+09 29 05 01 02 015 00 Corozo Arriba
+09 29 05 01 02 016 00 Corozo Abajo
+09 29 05 01 03 000 00 cuaba
+09 29 05 01 03 001 00 Cuarce (Cuance)
+09 29 05 01 03 002 00 Lambedera
+09 29 05 01 03 003 00 Los Hojanchos
+09 29 05 01 03 004 00 Barrio La 42
+09 29 05 01 03 005 00 Cuancita
+09 29 05 01 03 006 00 Serrallés
+09 29 05 01 03 007 00 Mata de Plátano
+09 29 05 01 03 008 00 El Pico
+09 29 05 01 03 009 00 La Horqueta
+09 29 05 01 03 010 00 La Cuaba Arriba
+09 29 05 01 03 011 00 La Recta
+09 29 05 01 03 012 00 La Ensenada
+09 29 05 01 03 013 00 La Travesía
+09 29 05 01 03 014 00 La Cuaba Abajo
+09 29 05 01 03 015 00 El Callejón
+09 29 05 01 03 016 00 El Play
+09 29 05 01 03 017 00 Serrallés Adentro
+09 29 05 01 03 018 00 Los Guayabos
+09 29 05 01 03 019 00 Santa Lucía
+09 29 05 01 04 000 00 Centro Penzo
+09 29 05 01 04 001 00 Jorungo
+09 29 05 01 04 002 00 Bernardino
+09 29 05 01 04 003 00 Los Morones
+09 29 05 01 04 004 00 Macumas
+09 29 05 01 04 005 00 La Jagüita
+09 29 05 01 04 006 00 Arroyo Grande
+09 29 05 01 04 007 00 Bejuco Colorado
+09 29 05 01 04 008 00 El Mate
+09 29 05 01 04 009 00 El Memiso
+09 29 05 01 04 010 00 Centro Penzo
+09 29 05 01 04 011 00 El Calvario
+09 29 05 01 04 012 00 La Bruja
+09 29 05 01 05 000 00 La Placeta
+09 29 05 01 05 001 00 El Cantón
+09 29 05 01 05 002 00 Los Arroyos
+09 29 05 01 05 003 00 El Café
+09 29 05 01 05 004 00 Juana Cotes
+09 29 05 01 05 005 00 El Capá
+09 29 05 01 05 006 00 La Peguera
+09 29 05 01 05 007 00 Camarón
+09 29 05 01 05 008 00 Tierra Mala
+09 29 05 01 05 009 00 El Manguito
+09 29 05 01 05 010 00 El Naranjo

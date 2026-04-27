@@ -1,0 +1,374 @@
+Región Provincia Municipio Distrito 
+municipal Sección Barrio/
+paraje Sub-barrio Toponimia o nombre
+03 19 00 00 00 000 00 Hermanas Mirabal
+03 19 01 00 00 000 00 Salcedo
+03 19 01 01 00 000 00 Salcedo
+03 19 01 01 01 000 00 Salcedo (Zona urbana)
+03 19 01 01 01 001 00 Los Maestros
+03 19 01 01 01 001 01 Los Maestros
+03 19 01 01 01 002 00 Los Almendros
+03 19 01 01 01 002 01 Los Almendros
+03 19 01 01 01 003 00 La Escuela
+03 19 01 01 01 003 01 La Escuela
+03 19 01 01 01 004 00 Urbanización Samaná
+03 19 01 01 01 004 01 Urbanización Samaná
+03 19 01 01 01 005 00 El Cementerio
+03 19 01 01 01 005 01 El Cementerio
+03 19 01 01 01 006 00 San Antonio
+03 19 01 01 01 006 01 San Antonio
+03 19 01 01 01 007 00 Matadero
+03 19 01 01 01 007 01 Matadero
+03 19 01 01 01 008 00 Los Mangos
+03 19 01 01 01 008 01 Los Mangos
+03 19 01 01 01 009 00 Centro del Pueblo
+03 19 01 01 01 009 01 Centro del Pueblo
+03 19 01 01 01 010 00 El Tanque
+03 19 01 01 01 010 01 El Tanque
+03 19 01 01 01 011 00 Nuevo Cementerio
+03 19 01 01 01 011 01 Nuevo Cementerio
+03 19 01 01 01 011 02 Vietnam
+03 19 01 01 01 012 00 El Chucho
+03 19 01 01 01 012 01 El Chucho
+03 19 01 01 01 012 02 Urbanizacion Elaine
+03 19 01 01 01 013 00 La Amargura
+03 19 01 01 01 013 01 La Amargura
+03 19 01 01 01 014 00 El Hospital
+03 19 01 01 01 014 01 El Hospital
+03 19 01 01 01 015 00 INVI
+03 19 01 01 01 015 01 INVI
+03 19 01 01 01 016 00 Cholongo o Los Cocos
+03 19 01 01 01 016 01 Cholongo o Los Cocos
+03 19 01 01 01 016 02 Los Cocos
+03 19 01 01 01 017 00 La Gallera
+03 19 01 01 01 017 01 La Gallera
+03 19 01 01 01 018 00 La Gobernación 
+03 19 01 01 01 018 01 La Gobernación 
+03 19 01 01 01 018 02 Las Flores
+03 19 01 01 01 019 00 El Hoyo
+03 19 01 01 01 019 01 El Hoyo
+03 19 01 01 01 020 00 Rabo Duro
+03 19 01 01 01 020 01 Rabo Duro
+03 19 01 01 01 021 00 Clavijo
+03 19 01 01 01 021 01 Clavijo
+03 19 01 01 01 022 00 Hugamba
+03 19 01 01 01 022 01 Hugamba
+03 19 01 01 01 023 00 San Lorenzo
+03 19 01 01 01 023 01 San Lorenzo
+03 19 01 01 01 024 00 San Miguel 
+03 19 01 01 01 024 01 San Miguel
+03 19 01 01 01 024 02 Clavijo Abajo
+03 19 01 01 01 025 00 La Fortaleza
+03 19 01 01 01 025 01 La Fortaleza
+03 19 01 01 01 025 02 Villa Mirabal
+03 19 01 01 01 026 00 El Play
+03 19 01 01 01 026 01 El Play
+03 19 01 01 01 027 00 Las Caobas
+03 19 01 01 01 027 01 Las Caobas
+03 19 01 01 01 028 00 Altos de los Rojas
+03 19 01 01 01 028 01 Altos de los Rojas
+03 19 01 01 01 029 00 Altos de Piedra
+03 19 01 01 01 029 01 Altos de Piedra
+03 19 01 01 01 030 00 Urbanización Hermanas Mirabal
+03 19 01 01 01 030 01 Urbanización Hermanas Mirabal
+03 19 01 01 01 030 02 Ubanización Los Buenos
+03 19 01 01 01 031 00 Urbanización San Lorenzo o Nuevo San Lorenzo
+03 19 01 01 01 031 01 Urbanización San Lorenzo o Nuevo San Lorenzo
+03 19 01 01 01 031 02 Clavijo II
+03 19 01 01 02 000 00 Jayabo Afuera
+03 19 01 01 02 001 00 La Cueva
+03 19 01 01 02 002 00 San José
+03 19 01 01 02 003 00 Conuco
+03 19 01 01 02 004 00 Agua Fría
+03 19 01 01 02 005 00 El Gorro
+03 19 01 01 02 006 00 Villa Báez
+03 19 01 01 02 007 00 Los Palmares
+03 19 01 01 02 008 00 Jayabo al Medio
+03 19 01 01 02 009 00 La Luisa
+03 19 01 01 02 010 00 La Caoba
+03 19 01 01 02 011 00 La Violeta
+03 19 01 01 02 012 00 Jayabo Afuera
+03 19 01 01 02 013 00 Los Tocones
+03 19 01 01 02 014 00 El Caimito
+03 19 01 01 02 015 00 La Majagua
+03 19 01 01 02 016 00 Los Robles de Ojo de Agua
+03 19 01 01 02 017 00 El Jobo
+03 19 01 01 02 018 00 Sal Si Puedes
+03 19 01 01 02 019 00 Jayabito
+03 19 01 01 02 020 00 La Pailita
+03 19 01 01 02 021 00 El Pico del Ají
+03 19 01 01 02 022 00 El Pistolar
+03 19 01 01 02 023 00 Jayabo Adentro
+03 19 01 01 02 024 00 La Lila (Las Lilas)
+03 19 01 01 02 025 00 Loma del Corral
+03 19 01 01 02 026 00 Monte Adentro
+03 19 01 01 02 027 00 La Cariñosa o La Carretera
+03 19 01 01 02 028 00 Los Robles de Jayabo (La Cariñosa)
+03 19 01 01 02 029 00 La Bellaca
+03 19 01 01 03 000 00 Los Cacaos
+03 19 01 01 03 001 00 Los Cacaos
+03 19 01 01 03 002 00 La Joya-La Jagua
+03 19 01 01 03 003 00 Los Lanos
+03 19 01 01 04 000 00 Palmarito
+03 19 01 01 04 001 00 Palmar Abajo
+03 19 01 01 04 002 00 La Calle
+03 19 01 01 04 003 00 Palmarito
+03 19 01 01 04 004 00 Palmarito Abajo
+03 19 01 01 04 005 00 Palmar Arriba
+03 19 01 01 04 006 00 Rancho al Medio
+03 19 01 01 04 007 00 Alto de Piedra
+03 19 01 01 04 008 00 La Jabilla
+03 19 01 01 04 009 00 El Zanjón
+03 19 01 01 04 010 00 La Solao (La Sola)
+03 19 01 01 04 011 00 Rancho Abajo
+03 19 01 01 04 012 00 Rancho Arriba
+03 19 01 01 04 013 00 Palmar
+03 19 01 02 00 000 00 Jamao Afuera (DM)
+03 19 01 02 01 000 00 Jamao Afuera (Zona urbana)
+03 19 01 02 01 001 00 Montellano
+03 19 01 02 01 001 01 Montellano
+03 19 01 02 02 000 00 Montellano
+03 19 01 02 02 001 00 Boca de Partido
+03 19 01 02 02 002 00 Piedra Pegada
+03 19 01 02 02 003 00 Los Pocitos
+03 19 01 02 02 004 00 La Lagunita
+03 19 01 02 02 005 00 El Samán
+03 19 01 02 02 006 00 Los Arroyos
+03 19 01 02 02 007 00 El Atravesado
+03 19 01 02 02 008 00 El Placer
+03 19 01 02 02 009 00 La Culata
+03 19 01 02 02 010 00 El Almendro
+03 19 01 02 02 011 00 Jamao Afuera o El Puente
+03 19 01 02 02 012 00 Cañada Clara
+03 19 01 02 02 013 00 Las Tres Cruces
+03 19 01 02 02 014 00 Los Cateyes
+03 19 01 02 02 015 00 Los Caños
+03 19 01 02 02 016 00 Paso Colorado
+03 19 01 02 02 017 00 El Catey
+03 19 01 02 02 018 00 Arroyo Grande
+03 19 01 02 02 019 00 La Finca
+03 19 01 02 02 020 00 Los Monte
+03 19 01 02 02 021 00 Los Tabucos
+03 19 01 02 02 022 00 La Cumbre
+03 19 01 02 02 023 00 Los Lirios
+03 19 01 02 02 024 00 La Culebra
+03 19 01 02 02 025 00 El Podrido
+03 19 01 02 02 026 00 Los Aracena
+03 19 01 02 02 027 00 Los Caños Adentro
+03 19 01 02 02 028 00 El Muerto
+03 19 01 02 02 029 00 Los Azules
+03 19 01 02 02 030 00 Los Guayuyos
+03 19 01 02 02 031 00 Jamao Adentro
+03 19 01 02 02 032 00 Mango Fresco
+03 19 01 02 02 033 00 Arroyo Bonito
+03 19 01 02 02 034 00 El Mamey
+03 19 01 02 02 035 00 La Caya
+03 19 01 02 02 036 00 Cañada Clara (El Puente)
+03 19 01 02 03 000 00 Jamao Adentro
+03 19 01 02 03 001 00 La Canela
+03 19 01 02 03 002 00 El Abanico
+03 19 01 02 03 003 00 Porta Moneda
+03 19 01 02 03 004 00 El Peñón
+03 19 01 02 03 005 00 Los Montes
+03 19 01 02 03 006 00 Palma Sola
+03 19 02 00 00 000 00 tenares
+03 19 02 01 00 000 00 Tenares
+03 19 02 01 01 000 00 Tenares (Zona urbana)
+03 19 02 01 01 001 00 La Gramita
+03 19 02 01 01 001 01 La Gramita
+03 19 02 01 01 002 00 Tumba Burros
+03 19 02 01 01 002 01 Tumba Burros
+03 19 02 01 01 003 00 El Jon o Cumajón
+03 19 02 01 01 003 01 El Jon o Cumajón
+03 19 02 01 01 004 00 Centro del Pueblo
+03 19 02 01 01 004 01 Centro del Pueblo
+03 19 02 01 01 005 00 La Chicharra
+03 19 02 01 01 005 01 La Chicharra
+03 19 02 01 01 006 00 Hermanas Mirabal
+03 19 02 01 01 006 01 Hermanas Mirabal
+03 19 02 01 01 007 00 Los Tocones
+03 19 02 01 01 007 01 Los Tocones
+03 19 02 01 01 008 00 La Gran Parada
+03 19 02 01 01 008 01 La Gran Parada
+03 19 02 01 01 009 00 El Abanico
+03 19 02 01 01 009 01 El Abanico
+03 19 02 01 01 009 02 Los Cocos
+03 19 02 01 01 010 00 Urbanización Santana
+03 19 02 01 01 010 01 Urbanización Santana I
+03 19 02 01 01 010 02 Urbanización Santana II
+03 19 02 01 01 010 03 El Silencio
+03 19 02 01 01 010 04 Inmaculada
+03 19 02 01 01 011 00 Urbanización Rosado
+03 19 02 01 01 011 01 Urbanización Rosado
+03 19 02 01 01 012 00 Urbanización Dinero I
+03 19 02 01 01 012 01 Urbanización Dinero I
+03 19 02 01 01 012 02 Urbanización Arlette
+03 19 02 01 01 012 03 Paraiso
+03 19 02 01 01 012 04 Urbanización Los Diaz
+03 19 02 01 01 013 00 Urbanización Dinero II
+03 19 02 01 01 013 01 Urbanización Dinero II
+03 19 02 01 01 013 02 Arroyo Seco
+03 19 02 01 01 014 00 Villa Campo
+03 19 02 01 01 014 01 Villa Campo
+03 19 02 01 01 015 00 Urbanización Martínez
+03 19 02 01 01 015 01 Urbanización Martínez
+03 19 02 01 01 016 00 Cristo Rey
+03 19 02 01 01 016 01 Cristo Rey
+03 19 02 01 01 016 02 Reparto Juan Tejada
+03 19 02 01 01 017 00 La Cáceres
+03 19 02 01 01 017 01 La Cáceres
+03 19 02 01 01 018 00 Las Mercedes
+03 19 02 01 01 018 01 Las Mercedes
+03 19 02 01 01 019 00 El Cayo
+03 19 02 01 01 019 01 El Cayo
+03 19 02 01 01 020 00 El Corozal
+03 19 02 01 01 020 01 El Corozal
+03 19 02 01 01 021 00 Urbanización Taveras
+03 19 02 01 01 021 01 Urbanización Taveras
+03 19 02 01 01 022 00 La Esperanza o Los Hoyos
+03 19 02 01 01 022 01 La Esperanza o El Hoyos
+03 19 02 01 02 000 00 Boba Arriba
+03 19 02 01 02 001 00 Cigua
+03 19 02 01 02 002 00 Blanquito
+03 19 02 01 02 003 00 Los Guayos
+03 19 02 01 02 004 00 El Gajo del Amacey
+03 19 02 01 02 005 00 Alto Grande
+03 19 02 01 02 006 00 El Bambú
+03 19 02 01 02 007 00 El Cafetal (Palma Sola)
+03 19 02 01 02 008 00 El Maco
+03 19 02 01 02 009 00 Boba Arriba
+03 19 02 01 02 010 00 La Bajada del Blanco
+03 19 02 01 02 011 00 Mundo Nuevo
+03 19 02 01 02 012 00 Canta Rana
+03 19 02 01 02 013 00 Arroyito
+03 19 02 01 03 000 00 Canete
+03 19 02 01 03 001 00 Los Guázaros
+03 19 02 01 03 002 00 Los Verracos
+03 19 02 01 03 003 00 La Catalina
+03 19 02 01 03 004 00 Colorado
+03 19 02 01 03 005 00 Canete Arriba
+03 19 02 01 03 006 00 Verraco Abajo
+03 19 02 01 03 007 00 Boba
+03 19 02 01 03 008 00 La Mata de Plátano
+03 19 02 01 03 009 00 Loma Azul
+03 19 02 01 03 010 00 Bombillo
+03 19 02 01 03 011 00 Canete
+03 19 02 01 03 012 00 El Firme 
+03 19 02 01 04 000 00 Gran Parada
+03 19 02 01 04 001 00 Los Palmaritos
+03 19 02 01 04 002 00 Gran Parada Arriba
+03 19 02 01 04 003 00 Gran Parada Afuera
+03 19 02 01 04 004 00 El Cercado
+03 19 02 01 04 005 00 Arroyo Seco
+03 19 02 01 04 006 00 Gran Parada
+03 19 02 01 04 007 00 Gran Parada Abajo
+03 19 02 01 05 000 00 Paso Hondo
+03 19 02 01 05 001 00 Paso Hondo
+03 19 02 01 05 002 00 Los Pomos
+03 19 02 01 05 003 00 El Corozal
+03 19 02 01 05 004 00 El Corozal Abajo (El Gajo)
+03 19 02 01 06 000 00 El Placer
+03 19 02 01 06 001 00 La Jagüita
+03 19 02 01 06 002 00 El Placer
+03 19 02 01 06 003 00 Los Hoyos (El Placer Abajo)
+03 19 02 01 06 004 00 El Bochinche
+03 19 02 01 06 005 00 El Cayo
+03 19 02 01 06 006 00 Los Anones (La Joya)
+03 19 02 01 06 007 00 Loma Azul
+03 19 02 01 06 008 00 La Amapola
+03 19 02 01 06 009 00 Los Jobos
+03 19 02 02 00 000 00 Blanco (DM)
+03 19 02 02 01 000 00 Blanco (Zona urbana)
+03 19 02 02 01 001 00 Blanco Arriba
+03 19 02 02 01 001 01 Blanco Arriba
+03 19 02 02 02 000 00 Blanco Arriba
+03 19 02 02 02 001 00 Las Flores
+03 19 02 02 02 002 00 Las Lagunitas
+03 19 02 02 02 003 00 Venus
+03 19 02 02 02 004 00 La Peñita
+03 19 02 02 02 005 00 La Sabana
+03 19 02 02 02 006 00 Palo de la Jaiba
+03 19 02 02 02 007 00 Blanco Abajo
+03 19 02 02 02 008 00 La Penda
+03 19 02 02 02 009 00 Blanco al Medio
+03 19 02 02 02 010 00 La Vereda
+03 19 02 02 02 011 00 El Mamón
+03 19 02 02 02 012 00 Las Caobas
+03 19 02 02 02 013 00 La Guama
+03 19 02 02 02 014 00 Jagua Macho
+03 19 02 02 02 015 00 Mundo Nuevo
+03 19 02 02 02 016 00 La Jíbara
+03 19 02 02 02 017 00 La Sabina
+03 19 02 02 02 018 00 Angillita
+03 19 02 02 02 019 00 Los Ebaritos
+03 19 02 02 02 020 00 Los Negritos
+03 19 02 02 02 021 00 El Guaranal
+03 19 02 02 02 022 00 Arenoso
+03 19 02 02 02 023 00 Sonador
+03 19 02 02 02 024 00 Firme de los Chivos
+03 19 02 02 02 025 00 El Bolsillo
+03 19 02 02 02 026 00 El Cafetal
+03 19 02 02 02 027 00 Río Arriba
+03 19 02 02 02 028 00 Blanco Arriba
+03 19 03 00 00 000 00 Villa Tapia
+03 19 03 01 00 000 00 Villa Tapia
+03 19 03 01 01 000 00 Villa Tapia (Zona urbana)
+03 19 03 01 01 001 00 Galindo
+03 19 03 01 01 001 01 Galindo
+03 19 03 01 01 002 00 Centro del Pueblo
+03 19 03 01 01 002 01 Centro del Pueblo
+03 19 03 01 01 002 02 El Millón
+03 19 03 01 01 002 03 Urbanización Esperanza
+03 19 03 01 01 002 04 Ciudad Modelo
+03 19 03 01 01 002 05 Línea Abajo
+03 19 03 01 01 003 00 Los Innovadores
+03 19 03 01 01 003 01 Los Innovadores
+03 19 03 01 01 003 02 Urbanización Los Quezada I
+03 19 03 01 01 003 03 Urbanización Los Quezada II
+03 19 03 01 01 004 00 Ranchito
+03 19 03 01 01 004 01 Ranchito
+03 19 03 01 02 000 00 La Ceiba
+03 19 03 01 02 001 00 Las Aromas
+03 19 03 01 02 002 00 El Hato
+03 19 03 01 02 003 00 La Ceiba
+03 19 03 01 02 004 00 Los Coquitos
+03 19 03 01 02 005 00 El Caimito
+03 19 03 01 02 006 00 El Hospital
+03 19 03 01 02 007 00 Villa Zango
+03 19 03 01 02 008 00 La Ceiba Adentro
+03 19 03 01 03 000 00 Los Limones
+03 19 03 01 03 001 00 La Guázuma
+03 19 03 01 03 002 00 Hoyo Libre
+03 19 03 01 03 003 00 Los Limones Arriba o Los Limones II
+03 19 03 01 03 004 00 Los Limones o Las Amapolas
+03 19 03 01 03 005 00 Los Limones al Medio
+03 19 03 01 03 006 00 Los Limones Afuera
+03 19 03 01 04 000 00 San José
+03 19 03 01 04 001 00 Corea
+03 19 03 01 04 002 00 San José de Conuco
+03 19 03 01 04 003 00 El Limón
+03 19 03 01 04 004 00 El Ranchito
+03 19 03 01 04 005 00 Conuco
+03 19 03 01 04 006 00 El Níspero (Conuco Abajo)
+03 19 03 01 04 007 00 La Calle
+03 19 03 01 04 008 00 Las Aromas
+03 19 03 01 04 009 00 El Coco 1
+03 19 03 01 04 010 00 El Barrero
+03 19 03 01 04 011 00 El Coco 2
+03 19 03 01 04 012 00 La Gina
+03 19 03 01 04 013 00 Sabana Angosta
+03 19 03 01 04 014 00 Alto Alegre
+03 19 03 01 04 015 00 Polanco
+03 19 03 01 05 000 00 Santa Ana
+03 19 03 01 05 001 00 Santa Ana Madrid
+03 19 03 01 05 002 00 Arenoso
+03 19 03 01 05 003 00 Rancho Viejo
+03 19 03 01 05 004 00 Las Guázumas
+03 19 03 01 05 005 00 El Manantial
+03 19 03 01 05 006 00 Madrid
+03 19 03 01 05 007 00 San José de Cenoví
+03 19 03 01 05 008 00 La Cuarenta (La 40)
+03 19 03 01 05 009 00 El Tablón Adentro
+03 19 03 01 05 010 00 El Tablón Afuera
+03 19 03 01 05 011 00 La Gina
+03 19 03 01 05 012 00 La Ermita de Santa Ana

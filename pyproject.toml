@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rd-territorial-system"
-version = "2.0.0"
-description = "Sistema territorial y geoespacial reutilizable para República Dominicana"
+version = "3.0.0"
+description = "Deterministic territorial resolution engine for the Dominican Republic"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
@@ -14,7 +14,8 @@ authors = [
 license = { text = "MIT" }
 keywords = [
   "dominican republic",
-  "territorial system",
+  "territorial resolution",
+  "address normalization",
   "geospatial",
   "geojson",
   "gis",
@@ -54,12 +55,16 @@ api = [
   "uvicorn>=0.29",
   "httpx>=0.27"
 ]
-core = []
-data = ["pandas", "pyarrow"]
 dev = [
+  "build>=1.2",
+  "twine>=5.0",
+  "ruff>=0.6",
   "pytest>=8.0",
   "pytest-cov>=5.0"
 ]
+
+[project.scripts]
+rd-territorial-build = "scripts.build_master_catalog:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
@@ -67,6 +72,16 @@ include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-data]
+rd_territorial_system = [
+  "rules/*.yml",
+  "rules/*.json",
+  "data/catalog/**/*.csv",
+  "data/catalog/**/*.json",
+  "data/catalog/**/*.yml",
+  "data/catalog/**/*.md"
+]
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
@@ -77,7 +92,7 @@ line-length = 100
 target-version = "py312"
 
 [tool.ruff.lint]
-select = ["E", "F", "I"]  # errores, fallos, imports
+select = ["E", "F", "I"]
 ignore = ["E501"]
 
 [tool.ruff.format]

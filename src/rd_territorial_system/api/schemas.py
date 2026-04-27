@@ -93,6 +93,9 @@ class ResolveResponse(BaseModel):
     trace: list[str] = []
     rules_version: str = "v1"
 
+    # 👇 NUEVO CAMPO (CLAVE)
+    catalog_version: str | None = None
+
 
 class EntityLookupResponse(BaseModel):
     matched: bool

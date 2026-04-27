@@ -1,4 +1,7 @@
-# 🔥 Nuevo motor (catalog-based)
+# 🔥 API pública (nivel librería)
+from rd_territorial_system.core.resolver import batch_resolve, resolve
+
+# 🔥 Motor interno (nivel avanzado)
 from .catalog import (
     Catalog,
     ResolveResult,
@@ -9,6 +12,8 @@ from .catalog import (
     resolve_name,
     search_entities,
 )
+
+# 🔧 Servicios (geo / reporting / utilidades)
 from .services import (
     find_municipality_by_name,
     find_province_by_name,
@@ -27,7 +32,25 @@ from .services import (
 __version__ = "3.0.0"
 
 __all__ = [
-    # 🔹 API existente (compatibilidad)
+    # =========================
+    # 🔥 API PRINCIPAL (RECOMENDADA)
+    # =========================
+    "resolve",
+    "batch_resolve",
+    # =========================
+    # 🔥 MOTOR (USO AVANZADO)
+    # =========================
+    "get_catalog",
+    "get_default_catalog",
+    "resolve_name",
+    "resolve_code",
+    "search_entities",
+    "Catalog",
+    "TerritorialEntity",
+    "ResolveResult",
+    # =========================
+    # 🔧 UTILIDADES / SERVICIOS
+    # =========================
     "load_provinces",
     "load_municipalities",
     "load_match_report",
@@ -40,14 +63,8 @@ __all__ = [
     "find_province_by_name",
     "find_municipality_by_name",
     "locate_point",
-    # 🔥 Nueva API (motor real)
-    "get_catalog",
-    "get_default_catalog",
-    "resolve_name",
-    "resolve_code",
-    "search_entities",
-    "Catalog",
-    "TerritorialEntity",
-    "ResolveResult",
+    # =========================
+    # META
+    # =========================
     "__version__",
 ]

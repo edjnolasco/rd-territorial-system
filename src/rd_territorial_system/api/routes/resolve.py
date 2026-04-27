@@ -1,56 +1,22 @@
 from __future__ import annotations
 
-from typing import Any
-
 from fastapi import APIRouter, Request
 
+from rd_territorial_system.api.catalog_metadata import inject_catalog_version
 from rd_territorial_system.api.errors import raise_for_strict_result
 from rd_territorial_system.api.openapi_responses import (
     STRICT_RESOLVE_ERROR_RESPONSES,
 )
-from rd_territorial_system.api.schemas import (
-    ResolveRequest,
-    ResolveResponse,
-    TerritorialEntity,
-)
+from rd_territorial_system.api.schemas import ResolveRequest, ResolveResponse
 from rd_territorial_system.catalog import resolve_name
+from rd_territorial_system.core.enrichment import enrich_resolve_payload
 from rd_territorial_system.metrics.metrics_schema import RequestMetrics
 from rd_territorial_system.metrics.runtime import metrics
 
 router = APIRouter(tags=["resolve"])
 
 
-def map_entity(entity_dict: dict[str, Any] | None) -> TerritorialEntity | None:
-    if entity_dict is None:
-        return None
-    return TerritorialEntity(**entity_dict)
-
-
-def enrich_resolve_payload(
-    payload: dict[str, Any],
-    rules_version: str = "v1",
-) -> dict[str, Any]:
-    entity = payload.get("entity")
-
-    payload["canonical_name"] = entity.get("name") if entity else None
-    payload["entity_id"] = entity.get("composite_code") if entity else None
-    payload["entity_type"] = entity.get("level") if entity else None
-    payload["rules_version"] = rules_version
-
-    payload["entity"] = map_entity(payload.get("entity"))
-    payload["candidates"] = [
-        candidate
-        for candidate in (
-            map_entity(item) for item in payload.get("candidates", [])
-        )
-        if candidate is not None
-    ]
-
-    return payload
-
-
-# 🔥 NUEVO: inferir tipo de resultado
-def infer_result_type(payload: dict[str, Any]) -> str:
+def infer_result_type(payload: dict) -> str:
     entity = payload.get("entity")
     candidates = payload.get("candidates", [])
 
@@ -85,7 +51,6 @@ def resolve(payload: ResolveRequest, request: Request) -> ResolveResponse:
 
     result = enrich_resolve_payload(result, payload.rules_version)
 
-    # 🔥 MÉTRICAS NIVEL 2
     try:
         result_type = infer_result_type(result)
 
@@ -95,7 +60,7 @@ def resolve(payload: ResolveRequest, request: Request) -> ResolveResponse:
                 client_id=getattr(request.state, "client_id", "unknown"),
                 endpoint="/api/v1/resolve",
                 status_code=200,
-                latency_ms=0.0,  # ya medido en middleware
+                latency_ms=0.0,
                 query=payload.text,
                 level_requested=payload.level,
                 level_resolved=result.get("entity_type"),
@@ -104,10 +69,9 @@ def resolve(payload: ResolveRequest, request: Request) -> ResolveResponse:
             )
         )
     except Exception:
-        # 🔒 nunca romper endpoint por métricas
         pass
 
     if payload.strict:
         raise_for_strict_result(result)
 
-    return result
+    return inject_catalog_version(result)

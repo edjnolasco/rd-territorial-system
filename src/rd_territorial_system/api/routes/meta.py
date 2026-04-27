@@ -1,9 +1,6 @@
 from fastapi import APIRouter, HTTPException
 
-from rd_territorial_system.api.catalog_metadata import (
-    CatalogMetadataError,
-    load_catalog_metadata,
-)
+from rd_territorial_system.api.catalog_metadata import load_catalog_metadata
 from rd_territorial_system.api.openapi_responses import INTERNAL_ERROR_RESPONSE
 
 router = APIRouter(tags=["meta"])
@@ -28,13 +25,13 @@ def health() -> dict[str, str]:
     ),
     response_description="Catalog metadata and statistics",
     responses={
-    500: INTERNAL_ERROR_RESPONSE,
+        500: INTERNAL_ERROR_RESPONSE,
     },
 )
 def catalog_stats() -> dict[str, object]:
     try:
         metadata = load_catalog_metadata()
-    except CatalogMetadataError as e:
+    except (FileNotFoundError, ValueError) as e:
         raise HTTPException(
             status_code=500,
             detail={
@@ -44,10 +41,10 @@ def catalog_stats() -> dict[str, object]:
         ) from e
 
     return {
-        "catalog_version": metadata["catalog_version"],
-        "generated_at": metadata["generated_at"],
-        "entity_count": metadata["entity_count"],
-        "province_count": metadata["province_count"],
-        "source_of_truth": metadata["source_of_truth"],
+        "catalog_version": metadata["catalog_version"],  # 👈 fuente única
+        "generated_at": metadata.get("generated_at"),
+        "entity_count": metadata.get("entity_count"),
+        "province_count": metadata.get("province_count"),
+        "source_of_truth": metadata.get("source_of_truth"),
         "notes": metadata.get("notes"),
     }

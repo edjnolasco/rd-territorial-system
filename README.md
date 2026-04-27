@@ -1,51 +1,217 @@
-# RD Territorial System
+# 🇩🇴 rd-territorial-system
 
-Sistema territorial y geoespacial reutilizable para la República Dominicana, diseñado para integrarse en proyectos que requieran jerarquía territorial, capas geoespaciales y resolución espacial de eventos.
+> Deterministic territorial resolution engine for the Dominican Republic  
+> **Powered by Nancy**
 
-## v2.0: datos reales
+Motor determinístico de resolución territorial para República Dominicana.
 
-La v2.0 cambia el foco desde la madurez técnica del pipeline hacia la operación con fuentes reales.
+Permite transformar texto no estructurado en entidades territoriales normalizadas (provincias, municipios, distritos municipales, secciones, barrios y sub-barrios) con alta precisión y rendimiento en memoria.
 
-### Objetivos de esta versión
+---
 
-- ingerir una fuente real de la ONE en CSV o XLSX;
-- construir salidas geoespaciales a partir de la combinación ONE + GADM;
-- registrar cobertura real y no-coincidencias;
-- permitir reconciliación manual controlada;
-- reinyectar esas reconciliaciones al pipeline;
-- producir artefactos listos para iterar hasta cobertura nacional usable.
+## 🎯 ¿Qué es esto?
 
-## Flujo recomendado
+`rd-territorial-system` es:
+
+> Una capa de infraestructura para normalizar ubicaciones territoriales en sistemas reales.
+
+No es un script. No es un dataset.
+
+Es un **motor reusable** diseñado para:
+
+- Fintech (validación de direcciones)
+- Logística (normalización de ubicaciones)
+- DSS (riesgo, accidentes, crimen)
+- BI / Analytics (limpieza de datos)
+
+---
+
+## 🚀 Uso como librería (RECOMENDADO)
+
+Instalación:
 
 ```bash
-python scripts/fetch_gadm.py
-python scripts/profile_one_source.py
-python scripts/build_v2_0.py
+pip install rd-territorial-system
+```
+---
+
+Resolución simple
+```bash
+from rd_territorial_system import resolve
+
+result = resolve("SDE")
+
+print(result)
+```
+---
+
+Ejemplo de salida:
+
+```python
+{
+  "status": "matched",
+  "canonical_name": "Santo Domingo Este",
+  "entity_type": "district_municipal",
+  "confidence": 0.852,
+  "catalog_version": "v1.0.0"
+}
+```
+---
+
+Resolución en lote
+```python
+from rd_territorial_system import batch_resolve
+
+results = batch_resolve(["SDN", "Villa Mella"])
+```
+---
+
+🧠 Características del motor
+Resolución determinística (no ML)
+Índices en memoria
+Matching jerárquico
+Manejo de ambigüedad
+Normalización robusta
+Catálogo versionado (~20k entidades)
+
+---
+
+📦 Uso avanzado (motor)
+```python
+from rd_territorial_system import resolve_name
+
+resolve_name("Azua", level="province")
+```
+---
+
+🌐 Uso como API
+
+Ejecutar local
+```bash
+uvicorn app.main:app --reload
 ```
 
-Si aparecen no-coincidencias o matches débiles, completa:
+Docs:
+
+http://localhost:8000/docs
+
+---
+
+Ejemplo request
+```bash
+curl -X POST http://localhost:8000/api/v1/resolve \
+  -H "Content-Type: application/json" \
+  -d '{"text": "Azua", "level": "province"}'
+```
+---  
+
+🔒 Seguridad
+API Keys
+Scopes por endpoint
+Identificación de cliente
+Rate limiting por cliente
+
+---  
+
+⚙️ Rate Limiting
+Memory (dev)
+Redis (producción)
+HTTP 429 automático
+
+--- 
+
+📊 Observabilidad
+
+Cada request incluye:
+
+request_id
+client_id
+api_key_hash
+
+--- 
+
+📦 Catálogo
+32 provincias
+~20,000 entidades
+jerarquía completa
+versionado (catalog_version)
+
+--- 
+
+🧪 Testing
 
 ```bash
-data/reconciliation/municipality_overrides.csv
+python -m pytest
+
 ```
+---
 
-y vuelve a ejecutar:
+🧱 Arquitectura
 
-```bash
-python scripts/build_v2_0.py
-```
+Cliente (DSS / App / API)
+        │
+        ▼
+Core Library (resolve / batch_resolve)
+        │
+        ▼
+FastAPI Layer (opcional)
+        │
+        ▼
+Catálogo territorial (in-memory)
 
-## Salidas principales
+---
 
-- `data/processed/provinces.geojson`
-- `data/processed/municipalities.geojson`
-- `data/processed/territorial_master.csv`
-- `data/processed/match_report.csv`
-- `data/processed/coverage_report.csv`
-- `data/processed/ingestion_report.json`
-- `data/processed/unmatched_municipalities.csv`
-- `data/processed/low_confidence_matches.csv`
+⚙️ Tecnología
 
-## Autor
+Este sistema está construido sobre Nancy, un motor de resolución y procesamiento de datos diseñado para:
+
+sistemas DSS
+procesamiento geoespacial
+pipelines determinísticos
+motores de decisión
+
+Nancy actúa como núcleo de ejecución para múltiples soluciones reutilizables.
+
+---
+
+📁 Estructura
+
+src/rd_territorial_system/
+  core/
+  api/
+  catalog.py
+  rules/
+  parsers/
+
+data/
+  catalog/
+  processed/
+
+data_pipeline/
+  raw/
+
+examples/
+
+---
+
+🔭 Casos de uso
+Normalización de direcciones
+Sistemas DSS territoriales
+Limpieza de datos geográficos
+Integración con APIs externas
+Validación en formularios
+
+---
+
+📌 Diseño
+Sin dependencias externas para resolver
+Latencia mínima (in-memory)
+Reproducible (determinístico)
+Portable (pip install)
+
+---
+
+👤 Autor
 
 Edwin José Nolasco
+PhD (c) Artificial Intelligence & Machine Learning
